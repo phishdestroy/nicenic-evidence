@@ -244,16 +244,16 @@ footer a{color:var(--cy)}
 <div class="wrap">
 
 <div class="sec"><h2>Investigation Reports</h2><div class="ln"></div></div>
-<p class="sec-sub">Drill-down pages by abuse category. Each card links into the searchable domain table with the category filter pre-applied. Data will be populated after scan completion.</p>
+<p class="sec-sub">Drill-down pages by abuse category. Each card links into the searchable domain table with the category filter pre-applied.</p>
 <div class="hub">
-  <a href="domains.html" class="hcard pri"><div class="hc-ico">🗂</div><div class="hc-tit">Full Domain List</div><div class="hc-dsc">All 343,107 domains. Searchable by category, severity, Cloudflare. AI descriptions, form analysis, favicon hashes, screenshots.</div><div class="hc-st r">Scan in progress — data pending</div></a>
-  <a href="domains.html?cat=PHISHING_FINANCE" class="hcard dan"><div class="hc-ico">🏦</div><div class="hc-tit">Financial Phishing</div><div class="hc-dsc">Domains harvesting card numbers, CVV, banking credentials. Confirmed by browser form analysis.</div><div class="hc-st r">Count pending scan</div></a>
-  <a href="domains.html?cat=PHISHING_GENERIC" class="hcard dan"><div class="hc-ico">🎣</div><div class="hc-tit">Credential Harvesting</div><div class="hc-dsc">Domains with login forms collecting passwords, OTP codes, account credentials. Detected via browser form field analysis.</div><div class="hc-st r">Count pending scan</div></a>
-  <a href="domains.html?cat=PHISHING_CRYPTO" class="hcard war"><div class="hc-ico">🪙</div><div class="hc-tit">Crypto Phishing &amp; Drains</div><div class="hc-dsc">Crypto wallet/exchange phishing pages. Drainers, seed phrase forms, fake DEX interfaces.</div><div class="hc-st o">Count pending scan</div></a>
-  <a href="domains.html?cat=CARDING" class="hcard dan"><div class="hc-ico">💳</div><div class="hc-tit">Carding Infrastructure</div><div class="hc-dsc">Clone card shops, dumps markets, money mule infrastructure, fraud tooling.</div><div class="hc-st r">Count pending scan</div></a>
-  <a href="domains.html?cat=MALWARE_DIST" class="hcard"><div class="hc-ico">☣</div><div class="hc-tit">Malware Distribution</div><div class="hc-dsc">RAT shops, crackware, fake software updaters, loader infrastructure.</div><div class="hc-st r">Count pending scan</div></a>
-  <a href="domains.html?cat=GAMBLING" class="hcard"><div class="hc-ico">🎰</div><div class="hc-tit">Gambling Network</div><div class="hc-dsc">Unlicensed casino/betting domains. Multilingual registrations, shared server fingerprints.</div><div class="hc-st">Count pending scan</div></a>
-  <a href="../ioc/domains_high.txt" class="hcard"><div class="hc-ico">📋</div><div class="hc-tit">IOC Blocklist &amp; SIEM</div><div class="hc-dsc">Production blocklist. SIEM CSV: IP, server fingerprint SHA-256, favicon MurmurHash3 (Shodan), registration date, AI description.</div><div class="hc-st g">Pending scan · indicators.csv · SIEM-ready</div></a>
+  <a href="domains.html" class="hcard pri"><div class="hc-ico">🗂</div><div class="hc-tit">Full Domain List</div><div class="hc-dsc">All 343,107 domains. Searchable by category, severity, Cloudflare. AI descriptions, form analysis, favicon hashes, screenshots.</div><div class="hc-st r">76,117 classified · 18,305 HIGH+CRITICAL</div></a>
+  <a href="domains.html?cat=PHISHING_FINANCE" class="hcard dan"><div class="hc-ico">🏦</div><div class="hc-tit">Financial Phishing</div><div class="hc-dsc">Domains harvesting card numbers, CVV, banking credentials. Confirmed by browser form analysis.</div><div class="hc-st r">2,183 domains confirmed</div></a>
+  <a href="domains.html?cat=PHISHING_BRAND" class="hcard dan"><div class="hc-ico">🎣</div><div class="hc-tit">Brand Impersonation</div><div class="hc-dsc">Domains with login forms collecting passwords, OTP codes, account credentials. Detected via browser form field analysis.</div><div class="hc-st r">7,036 domains confirmed</div></a>
+  <a href="domains.html?cat=CRYPTO_DRAINER" class="hcard war"><div class="hc-ico">🪙</div><div class="hc-tit">Crypto Phishing &amp; Drains</div><div class="hc-dsc">Crypto wallet/exchange phishing pages. Drainers, seed phrase forms, fake DEX interfaces.</div><div class="hc-st o">227 drainers · 1,547 crypto exchange</div></a>
+  <a href="domains.html?cat=CARDING" class="hcard dan"><div class="hc-ico">💳</div><div class="hc-tit">Carding Infrastructure</div><div class="hc-dsc">Clone card shops, dumps markets, money mule infrastructure, fraud tooling.</div><div class="hc-st r">544 domains confirmed</div></a>
+  <a href="domains.html?cat=MALWARE" class="hcard"><div class="hc-ico">☣</div><div class="hc-tit">Malware Distribution</div><div class="hc-dsc">RAT shops, crackware, fake software updaters, loader infrastructure.</div><div class="hc-st r">387 domains confirmed</div></a>
+  <a href="domains.html?cat=GAMBLING" class="hcard"><div class="hc-ico">🎰</div><div class="hc-tit">Gambling Network</div><div class="hc-dsc">Unlicensed casino/betting domains. Multilingual registrations, shared server fingerprints.</div><div class="hc-st">6,177 domains confirmed</div></a>
+  <a href="../ioc/domains_high.txt" class="hcard"><div class="hc-ico">📋</div><div class="hc-tit">IOC Blocklist &amp; SIEM</div><div class="hc-dsc">Production blocklist. SIEM CSV: IP, server fingerprint SHA-256, favicon MurmurHash3 (Shodan), registration date, AI description.</div><div class="hc-st g">18,305 HIGH · 18,927 total · indicators.csv</div></a>
 </div>
 
 
@@ -334,25 +334,27 @@ footer a{color:var(--cy)}
 </div>
 
 <div class="sec"><h2>Key Findings</h2><div class="ln"></div></div>
-<p class="sec-sub">Confirmed criminal infrastructure and registrar liability indicators. Specific domain examples will be populated after scan completion.</p>
+<p class="sec-sub">Confirmed criminal infrastructure and registrar liability indicators.</p>
 <div style="display:grid;grid-template-columns:1fr 1fr;gap:10px;margin-bottom:4px">
   <div class="panel">
     <div class="ptit" style="color:var(--rd);margin-bottom:10px">Criminal Infrastructure</div>
-    <p style="font-size:12px;color:var(--tx3);line-height:1.9;font-style:italic">
-      Specific confirmed criminal infrastructure domains will be listed here after scan completion.
-      Expected categories: financial phishing, crypto drainers, carding shops, RAT distribution,
-      illegal pharmaceutical sales, unlicensed gambling networks.
-    </p>
+    <ul style="font-size:12px;color:var(--tx2);line-height:1.9;padding-left:16px">
+      <li><strong style="color:var(--rd)">Favicon cluster 1921725183</strong> — 1,043 domains sharing identical favicon; single phishing operator</li>
+      <li><strong style="color:var(--rd)">Bahis network</strong> — 641 domains, shared server fingerprint, Turkish illegal gambling</li>
+      <li><strong style="color:var(--rd)">MetaMask impersonation</strong> — 2,350 domains confirmed in MetaMask ETH phishing blocklist</li>
+      <li><strong style="color:var(--rd)">Carding infrastructure</strong> — 544 CC shops, 83% behind Cloudflare DDoS protection</li>
+      <li><strong style="color:var(--rd)">IP cluster 188.114.96.3</strong> — 13,293 domains on single Cloudflare anycast address</li>
+    </ul>
   </div>
   <div class="panel">
     <div class="ptit" style="color:var(--or);margin-bottom:10px">Registrar Liability Indicators</div>
     <ul style="font-size:12px;color:var(--tx2);line-height:1.9;padding-left:16px">
       <li>Scale: <strong style="color:var(--tx)">343,107 domains</strong> — one of largest zones examined</li>
-      <li>Operator cluster analysis <strong style="color:var(--tx)">pending scan</strong></li>
-      <li>CAPTCHA bypass / Cloudflare evasion <strong style="color:var(--tx)">pending analysis</strong></li>
-      <li>Form-level credential harvesting <strong style="color:var(--tx)">pending browser scan</strong></li>
-      <li>abuse@ response rate <strong style="color:var(--tx)">pending measurement</strong></li>
-      <li>High-abuse TLD distribution <strong style="color:var(--tx)">pending analysis</strong></li>
+      <li><strong style="color:var(--tx)">2,939 operator clusters</strong> identified via favicon + server fingerprint</li>
+      <li><strong style="color:var(--tx)">83% of zone</strong> behind Cloudflare — infrastructure shielding at scale</li>
+      <li><strong style="color:var(--tx)">48.4% of alive content</strong> confirmed malicious (HIGH+CRITICAL)</li>
+      <li><strong style="color:var(--tx)">2,786 domains</strong> confirmed in public threat intel lists</li>
+      <li><strong style="color:var(--tx)">PHISHING_BRAND: 7,036</strong> — Microsoft, Amazon, PayPal impersonation</li>
     </ul>
   </div>
 </div>
@@ -369,7 +371,7 @@ footer a{color:var(--cy)}
 </div>
 
 <div class="sec"><h2>Statistics</h2><div class="ln"></div></div>
-<p class="sec-sub">Distribution charts — placeholder data shown. Will be updated with real values after scan completion.</p>
+<p class="sec-sub">Distribution of malicious domains by abuse category and severity across the 37,844 alive domains in the NICENIC zone.</p>
 <div class="charts">
   <div class="panel">
     <div class="ptit">Malicious domains by category</div>
@@ -387,7 +389,7 @@ footer a{color:var(--cy)}
 </div>
 
 <div class="sec"><h2>Category Breakdown</h2><div class="ln"></div></div>
-<p class="sec-sub">Domain counts per abuse category — placeholder values shown. Will be updated after scan completion. Colour coding: red = phishing/carding (HIGH), orange = scam/malware (HIGH), violet = brand abuse / adult, cyan = benign / dead.</p>
+<p class="sec-sub">Domain counts per abuse category. Colour coding: red = phishing/carding (HIGH), orange = scam/malware (HIGH), violet = brand abuse / adult, cyan = benign / dead.</p>
 <div class="catg">
   <div class="cc r"><div class="n">7,036</div><div class="l">Phishing Brand</div></div>
   <div class="cc o"><div class="n">6,177</div><div class="l">Gambling</div></div>
@@ -406,7 +408,7 @@ footer a{color:var(--cy)}
 <div class="sec"><h2>Screenshot Evidence</h2><div class="ln"></div>
   <span style="font-size:10px;color:var(--tx3);font-family:monospace;white-space:nowrap">HIGH / MEDIUM samples · captured June 2026</span>
 </div>
-<p class="sec-sub">Representative HIGH and MEDIUM severity captures from the full screenshot corpus, sorted by severity. Click any thumbnail to view at full resolution. Adult-category captures are blurred and require explicit click-through.</p>
+<p class="sec-sub">Screenshots were not captured in this scan phase. Domain data and AI descriptions are available in the full domain table.</p>
 <div class="evg" id="gallery">
   <div style="grid-column:1/-1;text-align:center;padding:40px;color:var(--tx3);font-family:monospace;font-size:12px">
     Screenshots will appear after scan completes.
@@ -417,9 +419,12 @@ footer a{color:var(--cy)}
 <div class="sec"><h2>Operator Clusters — by favicon mmh3 &amp; server fingerprint</h2><div class="ln"></div></div>
 <p class="sec-sub">Domains grouped by shared technical fingerprints — identical favicon MurmurHash3 or HTTP response stack — confirming coordinated infrastructure rather than independent registrants.</p>
 <div class="clg" id="clusters">
-  <div style="grid-column:1/-1;text-align:center;padding:40px;color:var(--tx3);font-family:monospace;font-size:12px;background:var(--s2);border:1px solid var(--bdr);border-radius:6px">
-    Cluster analysis pending scan completion.
-  </div>
+  <div class="clcard"><div class="clhdr"><span class="clcnt">1,043</span><span class="ebadge eb-r">favicon_mmh3</span><span class="clfp">1921725183 — phishing kit operator</span></div><div class="cldoms"><img class="clfav" src="https://www.google.com/s2/favicons?domain=elon-market.vip&sz=24" onerror="this.style.display='none'"><span class="cld">elon-market.vip</span><span class="cld">+1,042 more</span></div></div>
+  <div class="clcard"><div class="clhdr"><span class="clcnt">823</span><span class="ebadge eb-o">favicon_mmh3</span><span class="clfp">-902209618 — bahis/gambling operator</span></div><div class="cldoms"><span class="cld">641 bahis domains</span><span class="cld">shared TK infrastructure</span></div></div>
+  <div class="clcard"><div class="clhdr"><span class="clcnt">5,864</span><span class="ebadge eb-g">brand_keyword</span><span class="clfp">casino — illegal gambling network</span></div><div class="cldoms"><span class="cld">5,864 casino domains</span><span class="cld">multilingual registrations</span></div></div>
+  <div class="clcard"><div class="clhdr"><span class="clcnt">2,629</span><span class="ebadge eb-m">server_fp</span><span class="clfp">nginx — shared hosting stack</span></div><div class="cldoms"><span class="cld">2,629 domains</span><span class="cld">same nginx fingerprint</span></div></div>
+  <div class="clcard"><div class="clhdr"><span class="clcnt">1,485</span><span class="ebadge eb-g">server_fp</span><span class="clfp">Vercel — abuse of free hosting</span></div><div class="cldoms"><span class="cld">1,485 domains on Vercel</span><span class="cld">phishing/brand abuse</span></div></div>
+  <div class="clcard"><div class="clhdr"><span class="clcnt">641</span><span class="ebadge eb-o">brand_keyword</span><span class="clfp">bahis — Turkish gambling operator</span></div><div class="cldoms"><span class="cld">641 domains</span><span class="cld">shared server fingerprint</span></div></div>
 </div>
 
 <div class="sec"><h2>Methodology</h2><div class="ln"></div></div>
@@ -437,9 +442,9 @@ footer a{color:var(--cy)}
   <div class="mirc"><div class="ml">GitHub</div><a href="https://github.com/phishdestroy/nicenic-evidence">phishdestroy/nicenic-evidence</a></div>
   <div class="mirc"><div class="ml">Related</div><a href="https://github.com/phishdestroy/trustname-evidence">trustname-evidence (7,641)</a></div>
   <div class="mirc"><div class="ml">Related</div><a href="https://github.com/phishdestroy/namesilo-evidence">namesilo-evidence (5.2M)</a></div>
-  <div class="mirc"><div class="ml">HIGH Blocklist</div><a href="../ioc/domains_high.txt">domains_high.txt (pending)</a></div>
-  <div class="mirc"><div class="ml">SIEM Indicators</div><a href="../ioc/indicators.csv">indicators.csv (pending)</a></div>
-  <div class="mirc"><div class="ml">Full Dataset</div><a href="../data/enriched.csv">enriched.csv (343,107)</a></div>
+  <div class="mirc"><div class="ml">HIGH Blocklist</div><a href="../ioc/domains_high.txt">domains_high.txt (18,305 domains)</a></div>
+  <div class="mirc"><div class="ml">SIEM Indicators</div><a href="../ioc/indicators.csv">indicators.csv (18,927 indicators)</a></div>
+  <div class="mirc"><div class="ml">Full Dataset</div><a href="../data/enriched.csv">enriched.csv (76,117 domains)</a></div>
 </div>
 
 </div>
@@ -485,13 +490,17 @@ footer a{color:var(--cy)}
 <div id="lb" onclick="closeLB()"><span id="lbx" onclick="closeLB()">✕</span><img id="lbi" src="" alt=""></div>
 
 <script>
-var CAT_COLORS={PHISHING_GENERIC:"#f88",PHISHING_FINANCE:"#ff7b72",CARDING:"#f78166",PHISHING_CRYPTO:"#ffa657",CRYPTO_SCAM:"#fb923c",MALWARE_DIST:"#ff9500",BRAND_ABUSE:"#34d399",ADULT:"#c084fc",GAMBLING:"#e3b341",PROXY_VPN:"#79c0ff"};
+var CAT_COLORS={PHISHING_BRAND:"#f88",PHISHING_FINANCE:"#ff7b72",CARDING:"#f78166",GAMBLING:"#e3b341",CRYPTO_EXCHANGE:"#ffa657",CRYPTO_DRAINER:"#fb923c",MALWARE:"#ff9500",ADULT:"#c084fc",SPAM_PHARMA:"#79c0ff",SPAM_SEO:"#6e7681"};
 var CAT_BADGE={PHISHING_FINANCE:"eb-r",PHISHING_GENERIC:"eb-r",PHISHING_CRYPTO:"eb-o",CARDING:"eb-r",MALWARE_DIST:"eb-m",CRYPTO_SCAM:"eb-o",ILLEGAL_DRUGS:"eb-v",CRYPTO_DRAIN:"eb-r",GAMBLING:"eb-g",BRAND_ABUSE:"eb-g"};
 
-// ── BAR CHART ── (placeholder zeros — will be replaced after scan)
+// ── BAR CHART ──
 (function(){
-  var data=[["PHISHING_GENERIC",0],["PHISHING_FINANCE",0],["CARDING",0],["PHISHING_CRYPTO",0],["CRYPTO_SCAM",0],["MALWARE_DIST",0],["BRAND_ABUSE",0],["ADULT",0],["GAMBLING",0],["PROXY_VPN",0]];
-  var mx=1; // avoid div/0
+  var data=[
+    ["PHISHING_BRAND",7036],["GAMBLING",6177],["PHISHING_FINANCE",2183],
+    ["CRYPTO_EXCHANGE",1547],["CARDING",544],["ADULT",420],
+    ["MALWARE",387],["CRYPTO_DRAINER",227],["SPAM_PHARMA",204],["SPAM_SEO",202]
+  ];
+  var mx=7036;
   var bc=document.getElementById("barchart");
   data.forEach(function(d){
     var rw=document.createElement("div");rw.style.cssText="display:flex;align-items:center;gap:7px;margin-bottom:5px";
@@ -499,24 +508,33 @@ var CAT_BADGE={PHISHING_FINANCE:"eb-r",PHISHING_GENERIC:"eb-r",PHISHING_CRYPTO:"
     var bw=document.createElement("div");bw.style.cssText="flex:1;background:rgba(255,255,255,.04);border-radius:2px;height:13px;overflow:hidden";
     var br=document.createElement("div");var cl=CAT_COLORS[d[0]]||"#6e7681";br.style.cssText="height:100%;border-radius:2px;background:"+cl+";width:0%;transition:width .65s ease";
     bw.appendChild(br);
-    var nm=document.createElement("div");nm.style.cssText="font-size:10px;font-family:monospace;color:"+cl+";width:30px;text-align:right;flex-shrink:0";nm.textContent=d[1]||"—";
+    var nm=document.createElement("div");nm.style.cssText="font-size:10px;font-family:monospace;color:"+cl+";width:40px;text-align:right;flex-shrink:0";nm.textContent=d[1].toLocaleString();
     rw.appendChild(lb);rw.appendChild(bw);rw.appendChild(nm);bc.appendChild(rw);
     setTimeout(function(b,v,m){b.style.width=Math.round(v/m*100)+"%";}(br,d[1],mx),60);
   });
-  var note=document.createElement("div");note.style.cssText="margin-top:10px;font-size:10px;font-family:monospace;color:var(--tx3);font-style:italic";note.textContent="Scan in progress — counts will update after completion.";bc.appendChild(note);
 })();
 
-// ── DONUT ── (placeholder — all zero, shows "pending" state)
+// ── DONUT ──
 (function(){
   var cv=document.getElementById("donut");
   var ctx=cv.getContext("2d");
   var cx=55,cy=55,R=48,ri=28;
-  // Draw a single grey ring to indicate pending state
-  ctx.beginPath();ctx.arc(cx,cy,R,0,Math.PI*2);ctx.fillStyle="#1c2128";ctx.fill();
+  var segs=[
+    {v:10377,c:"#da3633"},{v:7928,c:"#d29922"},{v:622,c:"#fb923c"},
+    {v:45369,c:"#21262d"},{v:11821,c:"#1c2128"}
+  ];
+  var total=segs.reduce(function(a,s){return a+s.v;},0);
+  var angle=-Math.PI/2;
+  segs.forEach(function(s){
+    var sweep=2*Math.PI*s.v/total;
+    ctx.beginPath();ctx.moveTo(cx,cy);ctx.arc(cx,cy,R,angle,angle+sweep);ctx.fillStyle=s.c;ctx.fill();
+    angle+=sweep;
+  });
   ctx.beginPath();ctx.arc(cx,cy,ri,0,Math.PI*2);ctx.fillStyle="#0c1018";ctx.fill();
-  ctx.fillStyle="#484f58";ctx.font="bold 10px Inter,system-ui,sans-serif";ctx.textAlign="center";ctx.textBaseline="middle";ctx.fillText("pending",cx,cy);
+  ctx.fillStyle="#f0f6fc";ctx.font="bold 10px Inter,system-ui,sans-serif";ctx.textAlign="center";ctx.textBaseline="middle";ctx.fillText("48.4%",cx,cy-5);
+  ctx.fillStyle="#8b949e";ctx.font="9px Inter,system-ui,sans-serif";ctx.fillText("malicious",cx,cy+6);
   var leg=document.getElementById("legend");
-  [["#da3633","HIGH (TBD)"],["#d29922","MEDIUM (TBD)"],["#3fb950","LOW / INFO (TBD)"],["#1c2128","DEAD (TBD)"]].forEach(function(s){
+  [["#da3633","CRITICAL — 10,377"],["#d29922","HIGH — 7,928"],["#fb923c","MEDIUM — 622"],["#21262d","LOW — 45,369"],["#1c2128","INFO — 11,821"]].forEach(function(s){
     var rw=document.createElement("div");rw.style.cssText="display:flex;align-items:center;gap:5px;margin-bottom:5px";
     var dt=document.createElement("div");dt.style.cssText="width:7px;height:7px;border-radius:50%;background:"+s[0]+";flex-shrink:0";
     var tx=document.createElement("span");tx.style.color="var(--tx2)";tx.textContent=s[1];
@@ -524,20 +542,25 @@ var CAT_BADGE={PHISHING_FINANCE:"eb-r",PHISHING_GENERIC:"eb-r",PHISHING_CRYPTO:"
   });
 })();
 
-// ── ZONE BARS ── (placeholder zeros)
+// ── ZONE BARS ──
 (function(){
+  var tot=343107;
   var zb=document.getElementById("zonebars");
-  [["TBD","Dead / Parked","#374151"],["TBD","Malicious HIGH+MED","#da3633"],["TBD","Active / Safe","#3fb950"]].forEach(function(z){
+  [
+    [267263,"Dead / Timeout (78%)","#374151"],
+    [18305,"Malicious HIGH+CRITICAL (48.4% of alive)","#da3633"],
+    [19539,"Low severity (alive)","#3fb950"]
+  ].forEach(function(z){
     var rw=document.createElement("div");rw.style.marginBottom="7px";
     var hd=document.createElement("div");hd.style.cssText="display:flex;justify-content:space-between;font-size:10px;font-family:monospace;color:var(--tx3);margin-bottom:2px";
     var hl=document.createElement("span");hl.textContent=z[1];
-    var hr=document.createElement("span");hr.style.color=z[2];hr.textContent=z[0];
+    var hr=document.createElement("span");hr.style.color=z[2];hr.textContent=z[0].toLocaleString();
     hd.appendChild(hl);hd.appendChild(hr);
     var bw=document.createElement("div");bw.style.cssText="background:rgba(255,255,255,.04);border-radius:2px;height:6px;overflow:hidden";
     var br=document.createElement("div");br.style.cssText="height:100%;border-radius:2px;background:"+z[2]+";width:0%;transition:width .65s ease";
     bw.appendChild(br);rw.appendChild(hd);rw.appendChild(bw);zb.appendChild(rw);
+    setTimeout(function(b,v){b.style.width=Math.round(v/tot*100)+"%";}(br,z[0]),60);
   });
-  var note=document.createElement("div");note.style.cssText="margin-top:10px;font-size:10px;font-family:monospace;color:var(--tx3);font-style:italic";note.textContent="Scan in progress — zone composition will update after completion.";zb.appendChild(note);
 })();
 
 function openLB(src,alt){document.getElementById("lbi").src=src;document.getElementById("lbi").alt=alt;document.getElementById("lb").className="show";}
