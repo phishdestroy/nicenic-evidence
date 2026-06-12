@@ -4,12 +4,12 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width,initial-scale=1">
 <title>Domain IOC List — NICENIC INTERNATIONAL GROUP CO., LIMITED | PhishDestroy</title>
-<meta name="description" content="Searchable list of all 343,107 domains registered under NICENIC INTERNATIONAL GROUP CO., LIMITED (IANA #3765, China). Filter by category, Cloudflare, form analysis, screenshots.">
+<meta name="description" content="Searchable list of all 343,107 domains registered under NICENIC INTERNATIONAL GROUP CO., LIMITED (IANA #3765, China). Filter by category, Cloudflare, CAPTCHA, form analysis, threat intel.">
 <meta name="keywords" content="nicenic domains, nicenic international, IOC list, malicious domains, blocklist, IANA 3765">
 <meta name="robots" content="index,follow">
 <meta property="og:type" content="website">
 <meta property="og:title" content="All 343,107 Domains — NICENIC INTERNATIONAL GROUP CO., LIMITED">
-<meta property="og:description" content="Searchable evidence table. HIGH and MEDIUM severity. Categorised, screenshots, AI descriptions, threat intel cross-reference.">
+<meta property="og:description" content="Searchable evidence table. 64,296 domains. Category, severity, favicon hash, server fingerprint, threat intel, registration dates.">
 <meta property="og:image" content="https://phishdestroy.github.io/nicenic-evidence/assets/og-card.jpg">
 <meta property="og:image:width" content="1280">
 <meta property="og:image:height" content="720">
@@ -98,10 +98,6 @@ td{padding:7px 14px;vertical-align:top}
 .title-t{font-size:11px;color:var(--tx2);max-width:220px}
 .desc-t{font-size:10px;color:var(--tx3);margin-top:2px;font-style:italic;line-height:1.4;max-width:220px}
 
-.ss-th{width:110px}
-.ss-wrap img{width:100px;height:63px;object-fit:cover;border-radius:4px;border:1px solid var(--bdr);display:block;cursor:zoom-in;transition:.15s}
-.ss-wrap img:hover{border-color:rgba(110,168,215,.4);transform:scale(1.05)}
-.no-ss{width:100px;height:63px;background:var(--s2);border:1px solid var(--bdr);border-radius:4px;display:flex;align-items:center;justify-content:center;color:var(--tx3);font-size:10px}
 .dom-flag{display:inline-block;width:22px;height:14px;object-fit:cover;border-radius:2px;flex-shrink:0;margin-right:6px;vertical-align:middle;box-shadow:0 0 0 1px rgba(255,255,255,.08)}
 .dom-fav{width:18px;height:18px;display:inline-block;vertical-align:middle;border-radius:3px;background:var(--s3);flex-shrink:0;margin-right:6px;padding:1px}
 .dom-a{display:inline-flex;align-items:center;gap:0;line-height:1.3;font-size:12px}
@@ -111,10 +107,6 @@ td{padding:7px 14px;vertical-align:top}
 .scan-pending{text-align:center;padding:80px 40px;color:var(--tx3);font-family:"JetBrains Mono",monospace;font-size:13px;line-height:2}
 .scan-pending strong{color:var(--cy);display:block;font-size:16px;margin-bottom:10px}
 
-#lb{display:none;position:fixed;inset:0;background:rgba(0,0,0,.92);z-index:9999;align-items:center;justify-content:center;backdrop-filter:blur(4px)}
-#lb.show{display:flex}
-#lb-img{max-width:88vw;max-height:88vh;border-radius:6px;border:1px solid var(--bdr2)}
-#lb-x{position:fixed;top:14px;right:18px;font-size:22px;color:var(--tx2);cursor:pointer;background:var(--s2);border:1px solid var(--bdr);border-radius:50%;width:32px;height:32px;display:flex;align-items:center;justify-content:center}
 
 .disclaimer{background:rgba(218,54,51,.08);border-bottom:1px solid rgba(218,54,51,.2);padding:8px 22px;font-size:11px;color:var(--tx2);font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif;line-height:1.55;display:flex;align-items:center;gap:10px;flex-wrap:wrap}
 .disclaimer .ico{font-size:13px;flex-shrink:0;color:var(--rd)}
@@ -201,7 +193,7 @@ function renderCatBtns(){
 <body>
 <div class="disclaimer" id="disclaimer">
   <span class="ico">⚠</span>
-  <span class="tx"><b>Raw scan data — not moderated.</b> This page renders the unedited output of a complete-zone scan. Page titles, descriptions, screenshots may contain NSFW imagery, profanity, scam content, and brand-impersonation material. Adult-category captures are blurred by default. Inclusion is forensic, not endorsement.</span>
+  <span class="tx"><b>Raw scan data — not moderated.</b> This page renders the unedited output of a complete-zone scan. Page titles, descriptions and AI summaries may reference NSFW content, fraud material, and brand-impersonation. Inclusion is forensic, not endorsement.</span>
   <button class="x" onclick="document.getElementById('disclaimer').style.display='none'" title="Dismiss">✕</button>
 </div>
 <div class="top-bar">
@@ -221,7 +213,6 @@ function renderCatBtns(){
   <button class="tog" id="t-cf"  onclick="tog('cf')">☁ CF</button>
   <button class="tog" id="t-cap" onclick="tog('cap')">⚠ CAPTCHA</button>
   <button class="tog" id="t-fm"  onclick="tog('fm')">⌨ Forms</button>
-  <button class="tog" id="t-ss"  onclick="tog('ss')">📷 Screenshot</button>
   <a href="../ioc/domains_high.txt" style="font-size:11px;color:var(--cy);font-family:'JetBrains Mono',monospace;white-space:nowrap">⬇ blocklist.txt</a>
 </div>
 
@@ -233,7 +224,6 @@ function renderCatBtns(){
   <table>
     <thead>
       <tr>
-        <th class="ss-th">Screenshot</th>
         <th onclick="sort('domain')">Domain ↕</th>
         <th onclick="sort('severity')">Sev ↕</th>
         <th onclick="sort('category')">Category ↕</th>
@@ -255,22 +245,21 @@ function renderCatBtns(){
   </div>
 </div>
 
-<div id="lb" onclick="closeLB()"><span id="lb-x" onclick="closeLB()">✕</span><img id="lb-img" src="" alt=""></div>
 
 <script>
 var DATA=[], FILT=[], sCol='severity', sDir=-1;
 var PER_PAGE=50, page=0;
 
-var fCat='ALL', fCF=false, fCap=false, fFm=false, fSS=false;
+var fCat='ALL', fCF=false, fCap=false, fFm=false;
 var SEV={HIGH:3,MEDIUM:2,LOW:1,INFO:0};
-var CATCLS={PHISHING_FINANCE:'pf',PHISHING_CRYPTO:'pc',PHISHING_GENERIC:'pf',CRYPTO_DRAIN:'dr',CARDING:'ca',MALWARE_DIST:'ml',GAMBLING:'gb',PROXY_VPN:'pv',SCAM_MISC:'pv',BRAND_ABUSE:'ba',ADULT:'pv',ILLEGAL_DRUGS:'id',CRYPTO_SCAM:'cs',CRYPTO_MIXER:'pc',ACCOUNT_SHOP:'pv',SPAM_INFRA:'pv'};
-var CATSEV={PHISHING_FINANCE:3,PHISHING_CRYPTO:3,CRYPTO_DRAIN:3,CARDING:3,MALWARE_DIST:3,PHISHING_GENERIC:3,CRYPTO_SCAM:3,ILLEGAL_DRUGS:3,BRAND_ABUSE:2,SCAM_MISC:2,GAMBLING:2,PROXY_VPN:2,CRYPTO_MIXER:2,ACCOUNT_SHOP:2,SPAM_INFRA:2,ADULT:2,ACTIVE:1,REDIRECT:1,PARKING:0,DEAD:0,ERROR:0};
-var CAT_EM={PHISHING_FINANCE:'🏦',PHISHING_CRYPTO:'🪙',PHISHING_GENERIC:'🎣',CRYPTO_DRAIN:'🚰',CARDING:'💳',MALWARE_DIST:'☣',GAMBLING:'🎰',PROXY_VPN:'🔀',BRAND_ABUSE:'™',ILLEGAL_DRUGS:'💊',CRYPTO_SCAM:'🎭',CRYPTO_MIXER:'🔄',SCAM_MISC:'⚠',ADULT:'🔞',ACCOUNT_SHOP:'📧',SPAM_INFRA:'📨',ACTIVE:'🟢',PARKING:'🅿',DEAD:'💀',ERROR:'❌'};
+var CATCLS={PHISHING_FINANCE:'pf',PHISHING_BRAND:'pf',CARDING:'ca',CRYPTO_DRAINER:'dr',CRYPTO_EXCHANGE:'cs',MALWARE:'ml',GAMBLING:'gb',ADULT:'id',SPAM_PHARMA:'pc',SPAM_SEO:'pv',UNKNOWN:'df',DEAD:'df',LEGITIMATE:'ba',PARKING:'df'};
+var CATSEV={PHISHING_FINANCE:3,PHISHING_BRAND:3,CARDING:3,CRYPTO_DRAINER:3,MALWARE:3,CRYPTO_EXCHANGE:2,GAMBLING:2,SPAM_PHARMA:2,ADULT:2,SPAM_SEO:1,UNKNOWN:1,DEAD:0,LEGITIMATE:0,PARKING:0};
+var CAT_EM={PHISHING_FINANCE:'🏦',PHISHING_BRAND:'🎣',CARDING:'💳',CRYPTO_DRAINER:'🚰',CRYPTO_EXCHANGE:'🪙',MALWARE:'☣',GAMBLING:'🎰',ADULT:'🔞',SPAM_PHARMA:'💊',SPAM_SEO:'🔗',UNKNOWN:'❓',DEAD:'💀',LEGITIMATE:'🟢',PARKING:'🅿'};
 
 // handle ?cat= URL param
 var urlCat=(new URLSearchParams(window.location.search)).get('cat')||'ALL';
 function setCat(btn){document.querySelectorAll('.cb').forEach(function(b){b.classList.remove('on');});btn.classList.add('on');fCat=btn.dataset.cat||'ALL';go();}
-function tog(k){if(k==='cf'){fCF=!fCF;document.getElementById('t-cf').classList.toggle('on',fCF);}else if(k==='cap'){fCap=!fCap;document.getElementById('t-cap').classList.toggle('on',fCap);}else if(k==='fm'){fFm=!fFm;document.getElementById('t-fm').classList.toggle('on',fFm);}else{fSS=!fSS;document.getElementById('t-ss').classList.toggle('on',fSS);}go();}
+function tog(k){if(k==='cf'){fCF=!fCF;document.getElementById('t-cf').classList.toggle('on',fCF);}else if(k==='cap'){fCap=!fCap;document.getElementById('t-cap').classList.toggle('on',fCap);}else if(k==='fm'){fFm=!fFm;document.getElementById('t-fm').classList.toggle('on',fFm);}go();}
 function go(){
   page=0;
   var q=document.getElementById('q').value.toLowerCase().trim();
@@ -279,7 +268,6 @@ function go(){
     if(fCF&&!r.is_cloudflare)return false;
     if(fCap&&!r.captcha)return false;
     if(fFm&&!r.form_labels)return false;
-    if(fSS&&!r.screenshot_url)return false;
     if(q){var h=[r.domain,r.title,r.groq_desc,r.brand,r.ip,r.form_labels,r.category,r.ip_country].join(' ').toLowerCase();if(h.indexOf(q)<0)return false;}
     return true;
   });
@@ -311,14 +299,16 @@ function render(){
   var frag=document.createDocumentFragment();
   FILT.slice(page*PER_PAGE,(page+1)*PER_PAGE).forEach(function(r){
     var tr=document.createElement('tr');tr.className='trow';
-    // screenshot
-    var tss=document.createElement('td');
-    if(r.screenshot_url){var w=document.createElement('div');w.className='ss-wrap';var img=document.createElement('img');img.src=r.screenshot_url;img.alt=r.domain;img.loading='lazy';img.onclick=function(){openLB(r.screenshot_url,r.domain);};img.onerror=function(){var nd=document.createElement('div');nd.className='no-ss';nd.textContent='—';this.parentNode.replaceChild(nd,this);};w.appendChild(img);tss.appendChild(w);}else{var nd=document.createElement('div');nd.className='no-ss';nd.textContent='—';tss.appendChild(nd);}
-    tr.appendChild(tss);
     // domain
     var tdn=document.createElement('td');
     var da=document.createElement('a');da.href=r.final_url||'https://'+r.domain;da.target='_blank';da.rel='noopener noreferrer nofollow';da.className='dom-a';
-    var fav=document.createElement('img');fav.className='dom-fav';fav.src='https://www.google.com/s2/favicons?domain='+r.domain+'&sz=32';fav.alt='';fav.onerror=function(){this.style.display='none';};da.appendChild(fav);
+    // favicon: Google S2 with letter fallback
+    var favBox=document.createElement('span');favBox.className='dom-fav';favBox.style.cssText='display:inline-flex;align-items:center;justify-content:center;font-size:9px;font-weight:700;color:#fff;background:'+(CATCLS[r.category]==='pf'?'#6b1d1d':CATCLS[r.category]==='ca'?'#5a2d00':CATCLS[r.category]==='gb'?'#3a3000':'#1c2a3a')+';';
+    favBox.textContent=(r.domain||'?')[0].toUpperCase();
+    var fav=document.createElement('img');fav.style.cssText='width:18px;height:18px;border-radius:3px;display:none';fav.src='https://www.google.com/s2/favicons?domain='+r.domain+'&sz=32';fav.alt='';
+    fav.onload=function(){this.style.display='block';favBox.style.display='none';};
+    fav.onerror=function(){};
+    da.appendChild(favBox);da.appendChild(fav);
     var dt=document.createElement('span');dt.textContent=r.domain;da.appendChild(dt);
     tdn.appendChild(da);
     var tags=document.createElement('div');tags.className='dom-tags';
@@ -397,9 +387,7 @@ function buildPager(){
   info.textContent='Page '+(page+1)+'/'+total+' · '+(page*PER_PAGE+1)+'–'+Math.min((page+1)*PER_PAGE,FILT.length)+' of '+FILT.length;
   pg.appendChild(info);
 }
-function openLB(src,alt){document.getElementById('lb-img').src=src;document.getElementById('lb-img').alt=alt;document.getElementById('lb').className='show';}
-function closeLB(){document.getElementById('lb').className='';}
-document.addEventListener('keydown',function(e){if(e.key==='Escape')closeLB();});
+
 </script>
 </body>
 </html>
