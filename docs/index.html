@@ -207,7 +207,7 @@ footer a{color:var(--cy)}
 <body>
 <div class="disclaimer" id="disclaimer">
   <span class="ico">⚠</span>
-  <span class="tx"><b>Raw scan data — not moderated.</b> This page renders the unedited output of a complete-zone scan. Page titles, descriptions, screenshots may contain NSFW imagery, profanity, scam content, and brand-impersonation material. Adult-category captures are blurred by default. Inclusion is forensic, not endorsement.</span>
+  <span class="tx"><b>Raw scan data — not moderated.</b> This page renders the unedited output of a complete-zone scan. Page titles, descriptions and AI summaries may contain references to NSFW content, profanity, scam material, and brand-impersonation. Inclusion is forensic, not endorsement.</span>
   <button class="x" onclick="document.getElementById('disclaimer').style.display='none'" title="Dismiss">✕</button>
 </div>
 <nav class="nav">
@@ -246,7 +246,7 @@ footer a{color:var(--cy)}
 <div class="sec"><h2>Investigation Reports</h2><div class="ln"></div></div>
 <p class="sec-sub">Drill-down pages by abuse category. Each card links into the searchable domain table with the category filter pre-applied.</p>
 <div class="hub">
-  <a href="domains.html" class="hcard pri"><div class="hc-ico">🗂</div><div class="hc-tit">Full Domain List</div><div class="hc-dsc">All 343,107 domains. Searchable by category, severity, Cloudflare. AI descriptions, form analysis, favicon hashes, screenshots.</div><div class="hc-st r">76,117 classified · 18,305 HIGH+CRITICAL</div></a>
+  <a href="domains.html" class="hcard pri"><div class="hc-ico">🗂</div><div class="hc-tit">Full Domain List</div><div class="hc-dsc">All 343,107 domains. Searchable by category, severity, Cloudflare. AI descriptions, form analysis, favicon hashes, server fingerprints.</div><div class="hc-st r">76,117 classified · 18,305 HIGH+CRITICAL</div></a>
   <a href="domains.html?cat=PHISHING_FINANCE" class="hcard dan"><div class="hc-ico">🏦</div><div class="hc-tit">Financial Phishing</div><div class="hc-dsc">Domains harvesting card numbers, CVV, banking credentials. Confirmed by browser form analysis.</div><div class="hc-st r">2,183 domains confirmed</div></a>
   <a href="domains.html?cat=PHISHING_BRAND" class="hcard dan"><div class="hc-ico">🎣</div><div class="hc-tit">Brand Impersonation</div><div class="hc-dsc">Domains with login forms collecting passwords, OTP codes, account credentials. Detected via browser form field analysis.</div><div class="hc-st r">7,036 domains confirmed</div></a>
   <a href="domains.html?cat=CRYPTO_DRAINER" class="hcard war"><div class="hc-ico">🪙</div><div class="hc-tit">Crypto Phishing &amp; Drains</div><div class="hc-dsc">Crypto wallet/exchange phishing pages. Drainers, seed phrase forms, fake DEX interfaces.</div><div class="hc-st o">227 drainers · 1,547 crypto exchange</div></a>
@@ -273,8 +273,7 @@ footer a{color:var(--cy)}
     carding infrastructure, malware distribution, illegal drug markets, and unlicensed gambling</strong>.
     Full classification results, severity breakdown, and operator cluster analysis will appear here after scan completion.
     <strong style="color:var(--tx)">This report is structured as a complete evidence package for law enforcement and financial
-    intelligence units</strong> — SHA-256-hashed screenshots, enriched IOC CSV, AI-classified domain
-    descriptions suitable for warrant applications and regulatory referrals.
+    intelligence units</strong> — enriched IOC CSV, AI-classified domain descriptions suitable for warrant applications and regulatory referrals.
   </p>
 </div>
 
@@ -328,8 +327,7 @@ footer a{color:var(--cy)}
     ICANN accreditation is a technical credential, not a shield.
     <strong style="color:var(--tx)">Criminal liability does not require ICANN to act first.</strong>
     This report is structured as a complete evidence package for law enforcement and financial
-    intelligence units — SHA-256-hashed screenshots, enriched IOC CSV, AI-classified domain
-    descriptions suitable for warrant applications and regulatory referrals.
+    intelligence units — enriched IOC CSV, AI-classified domain descriptions suitable for warrant applications and regulatory referrals.
   </p>
 </div>
 
@@ -365,7 +363,7 @@ footer a{color:var(--cy)}
     against NICENIC INTERNATIONAL GROUP CO., LIMITED under §3.18 (Abuse Prevention) and §3.7.7 (Accuracy of WHOIS).
     All findings are TLP:CLEAR and may be shared with ICANN, national cybercrime units (Europol EC3,
     FBI IC3, Interpol IGCI), and threat intelligence platforms.
-    SHA-256 hashes of all screenshots will be recorded in <code style="font-size:10px">evidence/HASHES.txt</code>.
+    SHA-256 hashes of all published files are in <code style="font-size:10px">SHA256SUMS.txt</code>.
     Raw scan data will be available in <code style="font-size:10px">data/enriched.csv</code>.
   </p>
 </div>
@@ -405,16 +403,9 @@ footer a{color:var(--cy)}
   <div class="cc c"><div class="n">2,939</div><div class="l">Operator Clusters</div></div>
 </div>
 
-<div class="sec"><h2>Screenshot Evidence</h2><div class="ln"></div>
-  <span style="font-size:10px;color:var(--tx3);font-family:monospace;white-space:nowrap">HIGH / MEDIUM samples · captured June 2026</span>
-</div>
-<p class="sec-sub">Screenshots were not captured in this scan phase. Domain data and AI descriptions are available in the full domain table.</p>
-<div class="evg" id="gallery">
-  <div style="grid-column:1/-1;text-align:center;padding:40px;color:var(--tx3);font-family:monospace;font-size:12px">
-    Screenshots will appear after scan completes.
-  </div>
-</div>
-<div style="text-align:center;margin:18px 0 4px"><a href="domains.html" style="display:inline-flex;align-items:center;gap:7px;padding:10px 22px;border-radius:6px;font-size:13px;font-weight:700;background:var(--rd);border:1px solid var(--rd);color:#fff;text-decoration:none">📷 View all screenshots in the full domain table →</a></div>
+<div class="sec"><h2>Domain Evidence Table</h2><div class="ln"></div></div>
+<p class="sec-sub">64,296 classified domains with HTTP fingerprints, favicon MurmurHash3, server fingerprints, threat intel tags, registration dates, AI descriptions. Searchable and filterable.</p>
+<div style="text-align:center;margin:18px 0 16px"><a href="domains.html" style="display:inline-flex;align-items:center;gap:7px;padding:12px 28px;border-radius:6px;font-size:14px;font-weight:700;background:var(--rd);border:1px solid var(--rd);color:#fff;text-decoration:none">🗂 Open Domain Table (64,296 domains) →</a></div>
 
 <div class="sec"><h2>Operator Clusters — by favicon mmh3 &amp; server fingerprint</h2><div class="ln"></div></div>
 <p class="sec-sub">Domains grouped by shared technical fingerprints — identical favicon MurmurHash3 or HTTP response stack — confirming coordinated infrastructure rather than independent registrants.</p>
@@ -432,7 +423,7 @@ footer a{color:var(--cy)}
 <div class="panel"><div class="meth">
   <div class="mc"><div class="mt">Phase 1 — HTTP Fingerprint</div><strong>AWS Lambda</strong> · aiohttp · 80 req/invocation · parallel executions · Googlebot UA.<br><br>Fingerprints: <strong>MurmurHash3</strong> on favicon bytes (Shodan-compatible), SHA-256 server stack, SimHash body.</div>
   <div class="mc"><div class="mt">Phase 2 — Browser Scan</div><strong>Playwright + stealth v2</strong> · headless Chromium · isolated context per domain · alive domains.<br><br>Form analysis: <strong>seed_phrase, card_number, CVV, IBAN, password, OTP/2FA, SSN, wallet_addr</strong>.</div>
-  <div class="mc"><div class="mt">Phase 3 — Protected Deep Scan</div>Blocked / challenged domains re-scanned. SOCKS5 proxies · playwright-stealth · <strong>2captcha</strong> CAPTCHA solving (hCaptcha / reCAPTCHA / Turnstile). Full screenshot corpus.</div>
+  <div class="mc"><div class="mt">Phase 3 — Browser Render</div>Alive domains re-scanned with <strong>Playwright + stealth v2</strong> · headless Chromium · isolated context per domain · SOCKS5 proxy pool · 2captcha for CF bypass. Form field extraction, CAPTCHA detection.</div>
   <div class="mc"><div class="mt">Phase 4 — AI Classification</div><strong>Llama 3.1 (Groq)</strong> · natural language descriptions per domain.<br><br>Threat Intel: <strong>Spamhaus DBL · SURBL · URLhaus · ThreatFox</strong> (all 343,107 domains cross-referenced).</div>
 </div></div>
 
@@ -486,8 +477,6 @@ footer a{color:var(--cy)}
   <a href="https://github.com/phishdestroy/trustname-evidence">Trustname Investigation (7,641)</a> ·
   <a href="https://github.com/phishdestroy/namesilo-evidence">NameSilo Investigation (5.2M)</a>
 </footer>
-
-<div id="lb" onclick="closeLB()"><span id="lbx" onclick="closeLB()">✕</span><img id="lbi" src="" alt=""></div>
 
 <script>
 var CAT_COLORS={PHISHING_BRAND:"#f88",PHISHING_FINANCE:"#ff7b72",CARDING:"#f78166",GAMBLING:"#e3b341",CRYPTO_EXCHANGE:"#ffa657",CRYPTO_DRAINER:"#fb923c",MALWARE:"#ff9500",ADULT:"#c084fc",SPAM_PHARMA:"#79c0ff",SPAM_SEO:"#6e7681"};
@@ -563,8 +552,6 @@ var CAT_BADGE={PHISHING_FINANCE:"eb-r",PHISHING_GENERIC:"eb-r",PHISHING_CRYPTO:"
   });
 })();
 
-function openLB(src,alt){document.getElementById("lbi").src=src;document.getElementById("lbi").alt=alt;document.getElementById("lb").className="show";}
-function closeLB(){document.getElementById("lb").className="";}
 document.addEventListener("keydown",function(e){if(e.key==="Escape")closeLB();});
 </script>
 </body>
