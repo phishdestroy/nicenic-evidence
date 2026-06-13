@@ -72,7 +72,7 @@ def classify_rule(row: dict) -> tuple[str, int]:
 def main():
     enriched = Path("data/enriched.csv")
     master   = Path("data/scan_master.jsonl")
-    zone_csv = Path("E:/3765_full.csv")
+    zone_csv = Path("3765_full.csv")
 
     # load already classified
     classified = {}

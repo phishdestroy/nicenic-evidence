@@ -5,8 +5,8 @@ Run locally; Lambda does the actual HTTP work.
 Usage:
     pip install boto3
     aws configure  (or set AWS_* env vars)
-    python scan/invoke_all.py --function nicenic-http-scan --input E:/3765_full.csv
-    python scan/invoke_all.py --function nicenic-http-scan --input E:/3765_full.csv --resume --out data/lambda_results.jsonl
+    python scan/invoke_all.py --function nicenic-http-scan --input 3765_full.csv
+    python scan/invoke_all.py --function nicenic-http-scan --input 3765_full.csv --resume --out data/lambda_results.jsonl
 """
 
 import argparse
@@ -71,7 +71,7 @@ def invoke_batch(client, function_name: str, batch: list[str], batch_id: int) ->
 def main():
     ap = argparse.ArgumentParser()
     ap.add_argument("--function", required=True, help="Lambda function name")
-    ap.add_argument("--input",    default="E:/3765_full.csv")
+    ap.add_argument("--input",    default="3765_full.csv")
     ap.add_argument("--out",      default="data/lambda_results.jsonl")
     ap.add_argument("--resume",   action="store_true")
     ap.add_argument("--region",   default="us-east-1")

@@ -4,7 +4,7 @@ Run BEFORE committing to git.
 
 Patterns redacted:
   - Scan-server IP (set via --scan-ip)
-  -  or  filesystem paths
+  - Windows (E:/) and Linux filesystem paths
   - Groq API keys (gsk_...)
   - 2captcha keys (40-char hex)
   - ipinfo.io tokens (15-char hex)
@@ -35,8 +35,8 @@ def build_patterns(scan_ip: str) -> list[tuple[re.Pattern, str]]:
         (re.compile(r"xai-[A-Za-z0-9]{40,}"),    "[REDACTED-XAI-KEY]"),
         (re.compile(r"[0-9a-f]{32}(?=[,\s\"']|$)"), "[REDACTED-2CAPTCHA]"),
         (re.compile(r"[0-9a-f]{15}(?=[,\s\"']|$)"), "[REDACTED-IPINFO-TOKEN]"),
-        (re.compile(r""',]+"),          ""),
-        (re.compile(r""',]+"),          ""),
+        (re.compile(r"E:/[^\s\"',]+"),    "[REDACTED-PATH]"),
+        (re.compile(r"[0-9a-f]{8}-[0-9a-f]{4}-[0-9a-f]{4}-[0-9a-f]{4}-[0-9a-f]{12}"), "[REDACTED-PROXY-TOKEN]"),
     ]
     if scan_ip:
         pats.insert(0, (re.compile(re.escape(scan_ip)), "[REDACTED-SCAN-IP]"))

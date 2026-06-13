@@ -112,7 +112,7 @@ This investigation covers the **complete zone** of all domains registered under 
 <details>
 <summary><strong>Phase 1 — HTTP Fingerprinting</strong></summary>
 
-- **Tool:** Python 3.11 + `aiohttp`, 600 concurrent connections
+- **Tool:** Python 3.14 + `aiohttp`, 600 concurrent connections
 - **User-Agent:** Googlebot 2.1 (bypass naive bot-blocks)
 - **Timeout:** 5s connect, 8s read
 - **Extracted:** HTTP status, final URL, server headers, title, H1, meta description, form fields, body snippet (first 64 KB)
@@ -159,43 +159,53 @@ This investigation covers the **complete zone** of all domains registered under 
 
 ## Headline Findings
 
-> *Statistics will be updated after scan completion.*
-
 | Metric | Value |
 |---|---|
 | Total domains in zone | 343,107 |
-| Alive (HTTP 200/3xx) | TBD |
-| Dead / Parked / Error | TBD |
-| HIGH severity | TBD |
-| MEDIUM severity | TBD |
-| Malicious (HIGH+MEDIUM) | TBD |
-| Behind Cloudflare | TBD |
-| Screenshots captured | TBD |
-| Operator clusters identified | TBD |
+| Alive (HTTP 200/3xx) | **37,844** (11%) |
+| Dead / Parked / Error | 305,263 (89%) |
+| CRITICAL severity | 10,377 |
+| HIGH severity | 7,928 |
+| MEDIUM severity | 622 |
+| Malicious (CRITICAL+HIGH+MEDIUM) | **18,927** (50.0% of alive) |
+| Behind Cloudflare | 63,190 (83% of alive) |
+| Screenshots captured | 37,844 alive domains — not published in repo (size) |
+| Operator clusters identified | **2,939** |
 
 ---
 
 ## Operator Clusters
 
-> *Cluster analysis will be populated after scan completion.*
+**2,939 operator clusters** identified via favicon MurmurHash3 + server fingerprint combination. Clusters of 3+ domains sharing identical infrastructure are surfaced as likely operator groups.
 
-Clusters are identified by shared server fingerprint (`Server` + `X-Powered-By` + `X-Generator` header combination) and shared favicon MurmurHash3 (Shodan-compatible). Clusters of 3+ domains sharing identical infrastructure are surfaced as likely operator groups.
+Notable clusters:
+
+| Cluster | Domains | Description |
+|---|---|---|
+| Favicon `1921725183` | 1,043 | Single phishing operator — uniform credential-harvesting kit |
+| IP `188.114.96.3` | 13,293 | Cloudflare anycast — bulk domain parking on shared exit |
+| Carding infra | 544 CC shops | 83% behind Cloudflare DDoS protection |
+
+Full cluster data: [`data/clusters.json`](data/clusters.json) — includes favicon hash, server fingerprint, domain list, and category distribution per cluster.
 
 ---
 
 ## Evidence Archive
 
-| File | Description |
-|---|---|
-| `data/enriched.csv` | Full enriched dataset — all domains with category, severity, IPs, country, AI descriptions |
-| `data/high_severity.csv` | HIGH-only filtered subset |
-| `ioc/domains_high.txt` | Production blocklist — HIGH severity domains |
-| `ioc/domains_all_malicious.txt` | Production blocklist — HIGH + MEDIUM |
-| `ioc/indicators.csv` | SIEM-ready: domain, ip, server_fp, favicon_mmh3, category, severity |
-| `evidence/HASHES.txt` | SHA-256 manifest of all screenshots |
-| `docs/data.json` | Slim per-domain dataset for the live report |
-| `pkg/raw_data/lambda_results.jsonl.gz` | Phase 1 raw HTTP fingerprint output |
-| `pkg/raw_data/enriched.csv.gz` | Compressed enriched dataset |
+| File | Rows | Description |
+|---|---|---|
+| `data/enriched.csv` | 86,114 | Full enriched dataset — all classified domains with category, severity, IPs, country, AI descriptions |
+| `data/high_severity.csv` | 20,480 | CRITICAL+HIGH filtered subset |
+| `data/dead_domains.csv` | — | Dead / parked / error domain enumeration |
+| `data/clusters.json` | 2,939 | Operator cluster map — favicon hash + server fingerprint groupings |
+| `ioc/domains_high.txt` | 18,305 | Production blocklist — CRITICAL+HIGH domains |
+| `ioc/domains_all_malicious.txt` | 18,927 | Production blocklist — CRITICAL+HIGH+MEDIUM |
+| `ioc/indicators.csv` | 18,927 | SIEM-ready: domain, ip, server_fp, favicon_mmh3, category, severity |
+| `docs/data.json` | — | Slim per-domain dataset for the live report |
+| `pkg/raw_data/lambda_results.jsonl.gz` | — | Phase 1 raw HTTP fingerprint output (compressed) |
+| `pkg/raw_data/enriched.csv.gz` | — | Compressed enriched dataset |
+| `pkg/raw_data/high_severity.csv.gz` | — | Compressed CRITICAL+HIGH subset |
+| `SHA256SUMS.txt` | — | SHA-256 checksums of all published data files |
 
 ---
 
@@ -241,30 +251,36 @@ nicenic-evidence/
 │   ├── phase1_http.py          # aiohttp mass scanner
 │   ├── phase2_screenshots.py   # Playwright browser scan
 │   ├── classify.py             # Groq AI classification
+│   ├── fast_classify.py        # Rule-based pre-filter pass
 │   ├── geoip_enrich.py         # ipinfo.io enrichment
+│   ├── build_clusters.py       # Favicon+fingerprint cluster analysis
+│   ├── build_ioc.py            # IOC feed generation
+│   ├── build_domains_html.py   # Regenerate domains.html
+│   ├── threat_intel.py         # TI cross-reference
+│   ├── redact_creds.py         # PII/credential redaction
+│   ├── finalize.py             # Final pipeline step
 │   ├── compress_screenshots.py # PNG→JPEG compression
 │   ├── merge_zone.py           # Zone data merge
 │   ├── lambda_handler.py       # AWS Lambda variant
 │   └── invoke_all.py           # Lambda orchestrator
 ├── docs/
 │   ├── index.html              # Investigation landing page (GitHub Pages)
-│   ├── domains.html            # Searchable domain table
+│   ├── domains.html            # Searchable domain table (76,117 domains)
 │   ├── data.json               # Slim per-domain dataset
-│   ├── screenshots/            # Forensic screenshots (JPEG)
 │   ├── build_datajson.py       # Regenerate data.json from enriched.csv
 │   └── assets/                 # Hero image, OG card, favicons
 ├── data/
-│   ├── enriched.csv            # Canonical enriched dataset
-│   ├── high_severity.csv       # HIGH-only subset
-│   └── dead_domains.csv        # Dead / parked enumeration
+│   ├── enriched.csv            # Canonical enriched dataset (86,114 rows)
+│   ├── high_severity.csv       # CRITICAL+HIGH subset (20,480 rows)
+│   ├── dead_domains.csv        # Dead / parked enumeration
+│   └── clusters.json           # Operator cluster map (2,939 clusters)
 ├── ioc/
-│   ├── domains_high.txt        # HIGH blocklist
-│   ├── domains_all_malicious.txt # HIGH+MEDIUM blocklist
-│   └── indicators.csv          # SIEM-ready IOC feed
-├── evidence/
-│   └── HASHES.txt              # SHA-256 screenshot manifest
+│   ├── domains_high.txt        # CRITICAL+HIGH blocklist (18,305 domains)
+│   ├── domains_all_malicious.txt # CRITICAL+HIGH+MEDIUM (18,927 domains)
+│   └── indicators.csv          # SIEM-ready IOC feed (18,927 indicators)
 ├── pkg/
-│   └── raw_data/               # Compressed raw scan output
+│   └── raw_data/               # Compressed raw scan output (.gz)
+├── SHA256SUMS.txt              # Checksums of all published data files
 ├── PROVENANCE.md               # Chain-of-custody documentation
 └── README.md                   # This file
 ```
@@ -276,7 +292,7 @@ nicenic-evidence/
 | Investigation | Registrar | Zone Size | Report |
 |---|---|---|---|
 | **Trustname / Fewmoretaps OÜ** | IANA #4318 | 7,641 domains | [phishdestroy.github.io/trustname-evidence](https://phishdestroy.github.io/trustname-evidence/) |
-| **NameSilo** | IANA #1479 | 5.2M domains | phishdestroy.github.io/namesilo-evidence (forthcoming) |
+| **NameSilo** | IANA #1479 | 5.2M domains | *(in preparation)* |
 
 ---
 
