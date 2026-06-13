@@ -174,7 +174,7 @@ def main():
     ap = argparse.ArgumentParser()
     ap.add_argument("--groq-key", required=True)
     ap.add_argument("--scan",     default="data/lambda_results.jsonl")
-    ap.add_argument("--zone",     default="E:/3765_full.csv")
+    ap.add_argument("--zone",     default="3765_full.csv")
     ap.add_argument("--out",      default="data/enriched.csv")
     ap.add_argument("--resume",   action="store_true")
     ap.add_argument("--skip-dead",action="store_true", help="Skip DEAD/TIMEOUT/ERROR")

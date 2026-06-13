@@ -105,12 +105,15 @@ Complete origin, transformation, and verification record for all artefacts in th
 # Regenerate data.json from canonical source
 python docs/build_datajson.py
 
-# Verify all screenshots
-cd docs/screenshots
-sha256sum -c ../../evidence/HASHES.txt
+# Screenshots not published in repo (size constraints)
 
-# Repository manifest
+# Verify SHA-256 manifest
 sha256sum -c SHA256SUMS.txt
+
+# Verify SSH signature on SHA256SUMS.txt
+ssh-keygen -Y verify -f allowed_signers -I phishdestroy@phishdestroy.io \
+    -n evidence -s SHA256SUMS.txt.sig < SHA256SUMS.txt
+# Expected: Good "evidence" signature for phishdestroy@phishdestroy.io with ED25519 key SHA256:...
 ```
 
 ---

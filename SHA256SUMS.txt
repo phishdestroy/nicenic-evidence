@@ -1,0 +1,20 @@
+# SHA-256 checksums — NICENIC Zone Scan evidence package
+# Registrar: NICENIC INTERNATIONAL GROUP CO., LIMITED (IANA #3765)
+# Generated: June 2026 · PhishDestroy Research
+# Verify: sha256sum --check SHA256SUMS.txt
+#
+
+774947f3b43761daf31939a826231d0471b3e3ab6fe4c1c37865c26519afb496  data/enriched.csv
+2cf54e15368bafd1756b15ba3e481bb98734cc0c3071b7229a591d56caa2dd7d  data/high_severity.csv
+d4c9935f81b568f1245f3784600a321bc7391b60d0d1a221784f204679fb1d44  data/dead_domains.csv
+8ea3edae06dacbb6a0f48d7f79759f49ed664c404d13e48f98f6957506984992  data/clusters.json
+ef7f3a8dd61bdabc46f341d5acfc075d728a87d1f33c8e51e505a7c86c284c1b  ioc/domains_high.txt
+39a5ccd34249e89a80c8dc8b815c4a45002ec5c2f251d1d9099dde38f16d1c9c  ioc/domains_all_malicious.txt
+85acbbeff13e3c23b1f94119ab62882addf70e2369778803695a9ddc3e294908  ioc/indicators.csv
+19301f99bbaf4e318d58500854c993007dadb09de97768ec0444facae1ef0fa0  pkg/raw_data/lambda_results.jsonl.gz
+91d07a3be21fc78a96d03dfd208220623846b7d056ffe3ff578112301b097255  pkg/raw_data/enriched.csv.gz
+717afa3232dc307ce588da121802c3522267da767b67df43547a6796bf6593cd  pkg/raw_data/high_severity.csv.gz
+fc207fb0b06c394a45b65ce1baecc0cd65edb20252529a9920aa6130564e3504  docs/data.json
+adc25fee9019b0b06183e800b9b34f8283b17e2b260e07dcc78302e16e4968da  PROVENANCE.md
+d9b56102af942226019a034df8cad6bab075f3ff97e472241d27880e35266c88  README.md
+fffd28bb46600e83fa152960fedeb3a21c721fc869c89fadde0e66b4e5f0d7de  allowed_signers

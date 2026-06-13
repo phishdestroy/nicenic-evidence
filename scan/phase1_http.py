@@ -2,8 +2,8 @@
 Phase 1 — Mass HTTP fingerprinting for NICENIC zone (343K domains).
 
 Usage:
-    python scan/phase1_http.py --input E:/3765_full.csv --out data/lambda_results.jsonl
-    python scan/phase1_http.py --input E:/3765_full.csv --out data/lambda_results.jsonl --proxy socks5://user:pass@host:port
+    python scan/phase1_http.py --input 3765_full.csv --out data/lambda_results.jsonl
+    python scan/phase1_http.py --input 3765_full.csv --out data/lambda_results.jsonl --proxy socks5://user:pass@host:port
     python scan/phase1_http.py --resume  (skip already-done domains)
 
 Output: JSONL, one JSON object per domain, append-safe (resume-friendly).
@@ -255,7 +255,7 @@ def load_resume(jsonl_path: Path) -> set[str]:
 def main():
     global CONCURRENCY
     ap = argparse.ArgumentParser()
-    ap.add_argument("--input",  default="E:/3765_full.csv")
+    ap.add_argument("--input",  default="3765_full.csv")
     ap.add_argument("--out",    default="data/lambda_results.jsonl")
     ap.add_argument("--proxy",  default="", help="socks5://user:pass@host:port")
     ap.add_argument("--resume", action="store_true", help="Skip already-done domains")

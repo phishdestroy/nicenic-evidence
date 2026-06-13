@@ -9,7 +9,7 @@ Usage:
 import csv
 from pathlib import Path
 
-ZONE_CSV     = Path("E:/3765_full.csv")
+ZONE_CSV     = Path("3765_full.csv")
 ENRICHED_CSV = Path("data/enriched.csv")
 OUT_CSV      = Path("data/enriched.csv")
 

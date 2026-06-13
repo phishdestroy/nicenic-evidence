@@ -46,7 +46,7 @@ def main():
             PY, "scan/classify.py",
             "--groq-key", args.groq_key,
             "--scan",     "data/lambda_results.jsonl",
-            "--zone",     "E:/3765_full.csv",
+            "--zone",     "3765_full.csv",
             "--out",      "data/enriched.csv",
             "--resume",
         ], "Step 1 — Groq AI classification")

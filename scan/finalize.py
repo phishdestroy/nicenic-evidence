@@ -56,7 +56,7 @@ def load_jsonl(path: Path, label="") -> dict[str, dict]:
 def main():
     ap = argparse.ArgumentParser()
     ap.add_argument("--groq-key", default="")
-    ap.add_argument("--zone",     default="E:/3765_full.csv")
+    ap.add_argument("--zone",     default="3765_full.csv")
     ap.add_argument("--resume",   action="store_true")
     args = ap.parse_args()
 

@@ -13,10 +13,10 @@
 <meta property="og:site_name" content="PhishDestroy">
 <meta property="og:title" content="NICENIC INTERNATIONAL GROUP CO., LIMITED — Registrar Zone Evidence">
 <meta property="og:description" content="Complete zone scan: 343,107 domains under IANA registrar #3765. Phishing, crypto drains, carding, RAT shops, illegal drugs.">
-<meta property="og:image" content="https://phishdestroy.github.io/nicenic-evidence/assets/og-card.jpg">
-<meta property="og:image:width" content="1280">
-<meta property="og:image:height" content="720">
-<meta name="twitter:image" content="https://phishdestroy.github.io/nicenic-evidence/assets/og-card.jpg">
+<meta property="og:image" content="https://phishdestroy.github.io/nicenic-evidence/assets/og-social.jpg">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="630">
+<meta name="twitter:image" content="https://phishdestroy.github.io/nicenic-evidence/assets/og-social.jpg">
 <meta property="og:url" content="https://phishdestroy.github.io/nicenic-evidence/">
 
 <meta name="twitter:card" content="summary_large_image">
@@ -205,17 +205,12 @@ footer a{color:var(--cy)}
 </script>
 </head>
 <body>
-<div class="disclaimer" id="disclaimer">
-  <span class="ico">⚠</span>
-  <span class="tx"><b>Raw scan data — not moderated.</b> This page renders the unedited output of a complete-zone scan. Page titles, descriptions and AI summaries may contain references to NSFW content, profanity, scam material, and brand-impersonation. Inclusion is forensic, not endorsement.</span>
-  <button class="x" onclick="document.getElementById('disclaimer').style.display='none'" title="Dismiss">✕</button>
-</div>
 <nav class="nav">
   <span class="nav-brand">PhishDestroy <em>/</em> NICENIC</span>
   <a href="domains.html" class="btn red">🗂 All 343,107 Domains →</a>
   <a href="domains.html?cat=PHISHING_FINANCE" class="btn ghost">🏦 Phishing</a>
   <a href="domains.html?cat=CARDING" class="btn ghost">💳 Carding</a>
-  <a href="domains.html?cat=MALWARE_DIST" class="btn ghost">☣ Malware</a>
+  <a href="domains.html?cat=MALWARE" class="btn ghost">☣ Malware</a>
   <a href="../ioc/domains_high.txt" class="btn grn">⬇ IOC</a>
 </nav>
 
@@ -271,7 +266,6 @@ footer a{color:var(--cy)}
     the scale of potential abuse infrastructure is correspondingly significant.
     Preliminary analysis identifies patterns consistent with <strong style="color:var(--rd)">financial phishing, crypto drains,
     carding infrastructure, malware distribution, illegal drug markets, and unlicensed gambling</strong>.
-    Full classification results, severity breakdown, and operator cluster analysis will appear here after scan completion.
     <strong style="color:var(--tx)">This report is structured as a complete evidence package for law enforcement and financial
     intelligence units</strong> — enriched IOC CSV, AI-classified domain descriptions suitable for warrant applications and regulatory referrals.
   </p>
@@ -363,8 +357,8 @@ footer a{color:var(--cy)}
     against NICENIC INTERNATIONAL GROUP CO., LIMITED under §3.18 (Abuse Prevention) and §3.7.7 (Accuracy of WHOIS).
     All findings are TLP:CLEAR and may be shared with ICANN, national cybercrime units (Europol EC3,
     FBI IC3, Interpol IGCI), and threat intelligence platforms.
-    SHA-256 hashes of all published files are in <code style="font-size:10px">SHA256SUMS.txt</code>.
-    Raw scan data will be available in <code style="font-size:10px">data/enriched.csv</code>.
+    SHA-256 checksums of all published data files are in <code style="font-size:10px">SHA256SUMS.txt</code>.
+    Raw scan data: <code style="font-size:10px">data/enriched.csv</code> (86,114 rows) · <code style="font-size:10px">pkg/raw_data/</code> (compressed originals).
   </p>
 </div>
 
@@ -410,7 +404,7 @@ footer a{color:var(--cy)}
 <div class="sec"><h2>Operator Clusters — by favicon mmh3 &amp; server fingerprint</h2><div class="ln"></div></div>
 <p class="sec-sub">Domains grouped by shared technical fingerprints — identical favicon MurmurHash3 or HTTP response stack — confirming coordinated infrastructure rather than independent registrants.</p>
 <div class="clg" id="clusters">
-  <div class="clcard"><div class="clhdr"><span class="clcnt">1,043</span><span class="ebadge eb-r">favicon_mmh3</span><span class="clfp">1921725183 — phishing kit operator</span></div><div class="cldoms"><img class="clfav" src="https://www.google.com/s2/favicons?domain=elon-market.vip&sz=24" onerror="this.style.display='none'"><span class="cld">elon-market.vip</span><span class="cld">+1,042 more</span></div></div>
+  <div class="clcard"><div class="clhdr"><span class="clcnt">1,043</span><span class="ebadge eb-r">favicon_mmh3</span><span class="clfp">1921725183 — phishing kit operator</span></div><div class="cldoms"><span style="display:inline-flex;align-items:center;justify-content:center;width:24px;height:24px;border-radius:3px;background:rgba(218,54,51,.2);color:#f88;font-size:10px;font-weight:700;font-family:monospace;border:1px solid rgba(218,54,51,.3)">E</span><span class="cld">elon-market.vip</span><span class="cld">+1,042 more</span></div></div>
   <div class="clcard"><div class="clhdr"><span class="clcnt">823</span><span class="ebadge eb-o">favicon_mmh3</span><span class="clfp">-902209618 — bahis/gambling operator</span></div><div class="cldoms"><span class="cld">641 bahis domains</span><span class="cld">shared TK infrastructure</span></div></div>
   <div class="clcard"><div class="clhdr"><span class="clcnt">5,864</span><span class="ebadge eb-g">brand_keyword</span><span class="clfp">casino — illegal gambling network</span></div><div class="cldoms"><span class="cld">5,864 casino domains</span><span class="cld">multilingual registrations</span></div></div>
   <div class="clcard"><div class="clhdr"><span class="clcnt">2,629</span><span class="ebadge eb-m">server_fp</span><span class="clfp">nginx — shared hosting stack</span></div><div class="cldoms"><span class="cld">2,629 domains</span><span class="cld">same nginx fingerprint</span></div></div>
@@ -480,7 +474,7 @@ footer a{color:var(--cy)}
 
 <script>
 var CAT_COLORS={PHISHING_BRAND:"#f88",PHISHING_FINANCE:"#ff7b72",CARDING:"#f78166",GAMBLING:"#e3b341",CRYPTO_EXCHANGE:"#ffa657",CRYPTO_DRAINER:"#fb923c",MALWARE:"#ff9500",ADULT:"#c084fc",SPAM_PHARMA:"#79c0ff",SPAM_SEO:"#6e7681"};
-var CAT_BADGE={PHISHING_FINANCE:"eb-r",PHISHING_GENERIC:"eb-r",PHISHING_CRYPTO:"eb-o",CARDING:"eb-r",MALWARE_DIST:"eb-m",CRYPTO_SCAM:"eb-o",ILLEGAL_DRUGS:"eb-v",CRYPTO_DRAIN:"eb-r",GAMBLING:"eb-g",BRAND_ABUSE:"eb-g"};
+var CAT_BADGE={PHISHING_FINANCE:"eb-r",PHISHING_BRAND:"eb-r",CARDING:"eb-r",CRYPTO_DRAINER:"eb-r",MALWARE:"eb-m",GAMBLING:"eb-o",CRYPTO_EXCHANGE:"eb-o",ADULT:"eb-v",SPAM_PHARMA:"eb-g"};
 
 // ── BAR CHART ──
 (function(){
@@ -499,7 +493,7 @@ var CAT_BADGE={PHISHING_FINANCE:"eb-r",PHISHING_GENERIC:"eb-r",PHISHING_CRYPTO:"
     bw.appendChild(br);
     var nm=document.createElement("div");nm.style.cssText="font-size:10px;font-family:monospace;color:"+cl+";width:40px;text-align:right;flex-shrink:0";nm.textContent=d[1].toLocaleString();
     rw.appendChild(lb);rw.appendChild(bw);rw.appendChild(nm);bc.appendChild(rw);
-    setTimeout(function(b,v,m){b.style.width=Math.round(v/m*100)+"%";}(br,d[1],mx),60);
+    br.style.width=Math.round(d[1]/mx*100)+"%";
   });
 })();
 
@@ -548,11 +542,10 @@ var CAT_BADGE={PHISHING_FINANCE:"eb-r",PHISHING_GENERIC:"eb-r",PHISHING_CRYPTO:"
     var bw=document.createElement("div");bw.style.cssText="background:rgba(255,255,255,.04);border-radius:2px;height:6px;overflow:hidden";
     var br=document.createElement("div");br.style.cssText="height:100%;border-radius:2px;background:"+z[2]+";width:0%;transition:width .65s ease";
     bw.appendChild(br);rw.appendChild(hd);rw.appendChild(bw);zb.appendChild(rw);
-    setTimeout(function(b,v){b.style.width=Math.round(v/tot*100)+"%";}(br,z[0]),60);
+    br.style.width=Math.round(z[0]/tot*100)+"%";
   });
 })();
 
-document.addEventListener("keydown",function(e){if(e.key==="Escape")closeLB();});
 </script>
 </body>
 </html>
