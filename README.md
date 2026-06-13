@@ -291,10 +291,11 @@ nicenic-evidence/
 
 ## Related Investigations
 
-| Investigation | Registrar | Zone Size | Report |
-|---|---|---|---|
-| **Trustname / Fewmoretaps OÜ** | IANA #4318 | 7,641 domains | [phishdestroy.github.io/trustname-evidence](https://phishdestroy.github.io/trustname-evidence/) |
-| **NameSilo** | IANA #1479 | 5.2M domains | *(in preparation)* |
+| Investigation | Registrar | Zone Size | Alive | Malicious | Report |
+|---|---|---|---|---|---|
+| **Trustname / Fewmoretaps OÜ** | IANA #4318 | 7,641 | — | 1,114 HIGH | [phishdestroy.github.io/trustname-evidence](https://phishdestroy.github.io/trustname-evidence/) |
+| **NameSilo** | IANA #1479 | 5,269,357 | 658,733 (12.7%) | 183,419 | [phishdestroy.github.io/namesilo-evidence](https://phishdestroy.github.io/namesilo-evidence/) |
+| **NICENIC INTERNATIONAL GROUP** *(this repo)* | IANA #3765 | 343,107 | 37,844 (11%) | **18,927** (50% of alive) | [phishdestroy.github.io/nicenic-evidence](https://phishdestroy.github.io/nicenic-evidence/) |
 
 ---
 
