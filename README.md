@@ -1,12 +1,14 @@
 <div align="center">
 
-<img src="docs/assets/hero.jpg" alt="NICENIC Zone Scan — PhishDestroy Investigation" width="100%">
+<img src="docs/assets/banner.svg" alt="NICENIC Zone Scan — PhishDestroy Investigation" width="100%">
 
 <br>
 
 [![Domains](https://img.shields.io/badge/Domains_Scanned-343%2C107-red?style=for-the-badge&logo=databricks&logoColor=white)](https://phishdestroy.github.io/nicenic-evidence/)
+[![Malicious](https://img.shields.io/badge/Malicious-18%2C927_(50%25_of_alive)-critical?style=for-the-badge&logo=virustotal&logoColor=white)](https://phishdestroy.github.io/nicenic-evidence/)
 [![Registrar](https://img.shields.io/badge/IANA_%233765-NICENIC-orange?style=for-the-badge&logo=icann&logoColor=white)](https://www.iana.org/assignments/registrar-ids/registrar-ids.xhtml)
 [![TLP](https://img.shields.io/badge/TLP-CLEAR-brightgreen?style=for-the-badge)](https://www.cisa.gov/tlp)
+[![Signed](https://img.shields.io/badge/ED25519-Signed-blue?style=for-the-badge&logo=gnuprivacyguard&logoColor=white)](SHA256SUMS.txt.sig)
 [![License](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge)](LICENSE)
 [![Pages](https://img.shields.io/badge/Live_Report-GitHub_Pages-purple?style=for-the-badge&logo=github)](https://phishdestroy.github.io/nicenic-evidence/)
 

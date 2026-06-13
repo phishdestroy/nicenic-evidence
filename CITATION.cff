@@ -1,0 +1,42 @@
+cff-version: 1.2.0
+message: "If you use this dataset or findings in research or reporting, please cite as:"
+type: dataset
+title: "NICENIC INTERNATIONAL GROUP CO., LIMITED — Complete Registrar Zone Investigation"
+abstract: >
+  Complete zone scan of all 343,107 domains registered under NICENIC INTERNATIONAL
+  GROUP CO., LIMITED (IANA registrar #3765, China). 37,844 live domains classified
+  using automated HTTP fingerprinting, headless browser analysis, and AI-assisted
+  categorisation. 18,927 domains confirmed malicious (CRITICAL/HIGH/MEDIUM severity):
+  phishing, carding shops, crypto drainers, malware distribution, illegal drugs,
+  and unlicensed gambling. 2,939 operator clusters identified by favicon hash and
+  server fingerprint. Evidence package prepared for ICANN RAA complaint and law
+  enforcement referral.
+authors:
+  - name: "PhishDestroy Research"
+    website: "https://phishdestroy.io"
+repository-code: "https://github.com/phishdestroy/nicenic-evidence"
+url: "https://phishdestroy.github.io/nicenic-evidence/"
+license: MIT
+date-released: "2026-06-12"
+version: "1.0.0"
+keywords:
+  - phishing
+  - domain abuse
+  - registrar abuse
+  - threat intelligence
+  - ICANN
+  - NICENIC
+  - carding
+  - crypto drainer
+  - IOC
+  - cybercrime
+identifiers:
+  - type: url
+    value: "https://phishdestroy.github.io/nicenic-evidence/"
+    description: "Live investigation report"
+references:
+  - type: dataset
+    title: "Trustname / Fewmoretaps OÜ — Registrar Zone Investigation"
+    url: "https://github.com/phishdestroy/trustname-evidence"
+    authors:
+      - name: "PhishDestroy Research"
