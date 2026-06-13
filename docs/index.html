@@ -30,6 +30,8 @@
 <link rel="manifest" href="site.webmanifest">
 <link rel="canonical" href="https://phishdestroy.github.io/nicenic-evidence/">
 <link rel="sitemap" type="application/xml" href="sitemap.xml">
+<link rel="preload" href="data.json" as="fetch" crossorigin>
+<meta name="theme-color" content="#030810">
 <style>
 :root{--bg:#000;--s1:#070b12;--s2:#0c1018;--s3:#111720;--bdr:rgba(255,255,255,.08);--bdr2:rgba(255,255,255,.12);--tx:#f0f6fc;--tx2:#8b949e;--tx3:#484f58;--cy:#6ea8d7;--rd:#da3633;--gn:#3fb950;--or:#c0a060;--vi:#8b5cf6}
 *{box-sizing:border-box;margin:0;padding:0}html{font-size:14px;scroll-behavior:smooth}
@@ -169,7 +171,7 @@ footer a{color:var(--cy)}
   "headline": "NICENIC INTERNATIONAL GROUP CO., LIMITED — Registrar Zone Evidence",
   "alternativeHeadline": "Complete Zone Scan of IANA Registrar #3765 — NICENIC INTERNATIONAL GROUP CO., LIMITED (China)",
   "datePublished": "2026-06-11",
-  "dateModified": "2026-06-11",
+  "dateModified": "2026-06-12",
   "inLanguage": "en",
   "isAccessibleForFree": true,
   "isPartOf": {
@@ -546,6 +548,72 @@ var CAT_BADGE={PHISHING_FINANCE:"eb-r",PHISHING_BRAND:"eb-r",CARDING:"eb-r",CRYP
   });
 })();
 
+// ── Scroll-reveal ──────────────────────────────────────────────
+(function(){
+  var css=document.createElement('style');
+  css.textContent='.reveal{opacity:0;transform:translateY(18px);transition:opacity .55s ease,transform .55s ease}.reveal.in{opacity:1;transform:none}';
+  document.head.appendChild(css);
+  var io=new IntersectionObserver(function(entries){
+    entries.forEach(function(e){if(e.isIntersecting){e.target.classList.add('in');io.unobserve(e.target);}});
+  },{threshold:.12});
+  document.querySelectorAll('.panel,.hcard,.cc,.b,.mc,.mirc').forEach(function(el){
+    el.classList.add('reveal');io.observe(el);
+  });
+})();
+
+// ── Counter animation for stat numbers ─────────────────────────
+(function(){
+  function animateEl(el){
+    var raw=el.textContent.trim();
+    var num=parseFloat(raw.replace(/[^0-9.]/g,''));
+    if(isNaN(num)||num<200)return;
+    var isK=raw.indexOf(',')>-1;
+    var isPct=raw.indexOf('%')>-1;
+    var dur=1400,start=null;
+    function step(ts){
+      if(!start)start=ts;
+      var p=Math.min((ts-start)/dur,1);
+      var ease=1-Math.pow(1-p,3);
+      var cur=num*ease;
+      if(isPct)el.textContent=(cur).toFixed(1)+'%';
+      else if(isK)el.textContent=Math.round(cur).toLocaleString();
+      else el.textContent=Math.round(cur);
+      if(p<1)requestAnimationFrame(step);
+      else el.textContent=raw;
+    }
+    requestAnimationFrame(step);
+  }
+  var io2=new IntersectionObserver(function(entries){
+    entries.forEach(function(e){if(e.isIntersecting){animateEl(e.target);io2.unobserve(e.target);}});
+  },{threshold:.6});
+  document.querySelectorAll('.n,.b .n,.cc .n').forEach(function(el){io2.observe(el);});
+})();
+
+</script>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Dataset",
+  "name": "NICENIC Zone Scan — IOC and Domain Classification Dataset",
+  "description": "Complete classification of 343,107 domains registered under NICENIC INTERNATIONAL GROUP CO., LIMITED (IANA #3765). 18,927 confirmed malicious domains across phishing, carding, crypto drains, malware, and gambling categories.",
+  "url": "https://github.com/phishdestroy/nicenic-evidence",
+  "license": "https://opensource.org/licenses/MIT",
+  "creator": {"@type":"Organization","name":"PhishDestroy Research","url":"https://phishdestroy.io/"},
+  "datePublished": "2026-06-12",
+  "dateModified": "2026-06-12",
+  "keywords": ["phishing","carding","malware","IOC","domain abuse","registrar","NICENIC","IANA 3765","threat intelligence","blocklist"],
+  "distribution": [
+    {"@type":"DataDownload","encodingFormat":"text/csv","contentUrl":"https://raw.githubusercontent.com/phishdestroy/nicenic-evidence/main/data/enriched.csv","name":"enriched.csv — full classified dataset (86,114 rows)"},
+    {"@type":"DataDownload","encodingFormat":"text/plain","contentUrl":"https://raw.githubusercontent.com/phishdestroy/nicenic-evidence/main/ioc/domains_high.txt","name":"domains_high.txt — CRITICAL+HIGH blocklist (18,305 domains)"},
+    {"@type":"DataDownload","encodingFormat":"text/csv","contentUrl":"https://raw.githubusercontent.com/phishdestroy/nicenic-evidence/main/ioc/indicators.csv","name":"indicators.csv — SIEM IOC feed (18,927 indicators)"}
+  ],
+  "measurementTechnique": "Automated HTTP fingerprinting, headless browser render, AI classification (Groq Llama 3.1), GeoIP enrichment, favicon MurmurHash3 clustering",
+  "variableMeasured": [
+    {"@type":"PropertyValue","name":"category","description":"Abuse category: PHISHING_FINANCE, PHISHING_BRAND, CARDING, CRYPTO_DRAINER, GAMBLING, MALWARE, ADULT, etc."},
+    {"@type":"PropertyValue","name":"severity","description":"Severity level: CRITICAL, HIGH, MEDIUM, LOW, INFO"},
+    {"@type":"PropertyValue","name":"favicon_mmh3","description":"Shodan-compatible favicon MurmurHash3 for cluster correlation"}
+  ]
+}
 </script>
 </body>
 </html>
