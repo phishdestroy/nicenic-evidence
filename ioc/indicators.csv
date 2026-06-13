@@ -1,4 +1,4 @@
-﻿domain,ip,ip_country,server,server_fp,favicon_mmh3,category,severity,severity_label,brand,threat_sources,registered_at,expiring_at
+domain,ip,ip_country,server,server_fp,favicon_mmh3,category,severity,severity_label,brand,threat_sources,registered_at,expiring_at
 letsexchange.app,,,cloudflare,PHP/8.0.30|cloudflare,1212827582,PHISHING_BRAND,4,CRITICAL,,"uribl,spamhaus_zrd",2025-02-20,2027-02-20
 robnhood.app,188.114.96.3,,cloudflare,cloudflare,,PHISHING_BRAND,4,CRITICAL,,"uribl,spamhaus_zrd",2025-07-19,2026-07-19
 business-reset.app,188.114.96.3,,cloudflare,cloudflare,,PHISHING_BRAND,4,CRITICAL,,"uribl,spamhaus_zrd",2025-07-30,2026-07-30
