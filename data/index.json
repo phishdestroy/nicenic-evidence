@@ -2,855 +2,855 @@
   "days": [
     {
       "date": "2026-01-01",
-      "count": 477,
-      "path": "data/domains_2026-01-01.txt"
+      "count": 355,
+      "path": "data/new/2026/01/2026-01-01.txt"
     },
     {
       "date": "2026-01-02",
-      "count": 488,
-      "path": "data/domains_2026-01-02.txt"
+      "count": 362,
+      "path": "data/new/2026/01/2026-01-02.txt"
     },
     {
       "date": "2026-01-03",
-      "count": 586,
-      "path": "data/domains_2026-01-03.txt"
+      "count": 442,
+      "path": "data/new/2026/01/2026-01-03.txt"
     },
     {
       "date": "2026-01-04",
-      "count": 562,
-      "path": "data/domains_2026-01-04.txt"
+      "count": 418,
+      "path": "data/new/2026/01/2026-01-04.txt"
     },
     {
       "date": "2026-01-05",
-      "count": 750,
-      "path": "data/domains_2026-01-05.txt"
+      "count": 577,
+      "path": "data/new/2026/01/2026-01-05.txt"
     },
     {
       "date": "2026-01-06",
-      "count": 823,
-      "path": "data/domains_2026-01-06.txt"
+      "count": 597,
+      "path": "data/new/2026/01/2026-01-06.txt"
     },
     {
       "date": "2026-01-07",
-      "count": 775,
-      "path": "data/domains_2026-01-07.txt"
+      "count": 573,
+      "path": "data/new/2026/01/2026-01-07.txt"
     },
     {
       "date": "2026-01-08",
-      "count": 889,
-      "path": "data/domains_2026-01-08.txt"
+      "count": 654,
+      "path": "data/new/2026/01/2026-01-08.txt"
     },
     {
       "date": "2026-01-09",
-      "count": 822,
-      "path": "data/domains_2026-01-09.txt"
+      "count": 619,
+      "path": "data/new/2026/01/2026-01-09.txt"
     },
     {
       "date": "2026-01-10",
-      "count": 736,
-      "path": "data/domains_2026-01-10.txt"
+      "count": 548,
+      "path": "data/new/2026/01/2026-01-10.txt"
     },
     {
       "date": "2026-01-11",
-      "count": 595,
-      "path": "data/domains_2026-01-11.txt"
+      "count": 438,
+      "path": "data/new/2026/01/2026-01-11.txt"
     },
     {
       "date": "2026-01-12",
-      "count": 1042,
-      "path": "data/domains_2026-01-12.txt"
+      "count": 795,
+      "path": "data/new/2026/01/2026-01-12.txt"
     },
     {
       "date": "2026-01-13",
-      "count": 796,
-      "path": "data/domains_2026-01-13.txt"
+      "count": 605,
+      "path": "data/new/2026/01/2026-01-13.txt"
     },
     {
       "date": "2026-01-14",
-      "count": 967,
-      "path": "data/domains_2026-01-14.txt"
+      "count": 702,
+      "path": "data/new/2026/01/2026-01-14.txt"
     },
     {
       "date": "2026-01-15",
-      "count": 1052,
-      "path": "data/domains_2026-01-15.txt"
+      "count": 812,
+      "path": "data/new/2026/01/2026-01-15.txt"
     },
     {
       "date": "2026-01-16",
-      "count": 846,
-      "path": "data/domains_2026-01-16.txt"
+      "count": 646,
+      "path": "data/new/2026/01/2026-01-16.txt"
     },
     {
       "date": "2026-01-17",
-      "count": 801,
-      "path": "data/domains_2026-01-17.txt"
+      "count": 569,
+      "path": "data/new/2026/01/2026-01-17.txt"
     },
     {
       "date": "2026-01-18",
-      "count": 900,
-      "path": "data/domains_2026-01-18.txt"
+      "count": 633,
+      "path": "data/new/2026/01/2026-01-18.txt"
     },
     {
       "date": "2026-01-19",
-      "count": 951,
-      "path": "data/domains_2026-01-19.txt"
+      "count": 699,
+      "path": "data/new/2026/01/2026-01-19.txt"
     },
     {
       "date": "2026-01-20",
-      "count": 940,
-      "path": "data/domains_2026-01-20.txt"
+      "count": 691,
+      "path": "data/new/2026/01/2026-01-20.txt"
     },
     {
       "date": "2026-01-21",
-      "count": 904,
-      "path": "data/domains_2026-01-21.txt"
+      "count": 667,
+      "path": "data/new/2026/01/2026-01-21.txt"
     },
     {
       "date": "2026-01-22",
-      "count": 1007,
-      "path": "data/domains_2026-01-22.txt"
+      "count": 762,
+      "path": "data/new/2026/01/2026-01-22.txt"
     },
     {
       "date": "2026-01-23",
-      "count": 826,
-      "path": "data/domains_2026-01-23.txt"
+      "count": 605,
+      "path": "data/new/2026/01/2026-01-23.txt"
     },
     {
       "date": "2026-01-24",
-      "count": 760,
-      "path": "data/domains_2026-01-24.txt"
+      "count": 582,
+      "path": "data/new/2026/01/2026-01-24.txt"
     },
     {
       "date": "2026-01-25",
-      "count": 634,
-      "path": "data/domains_2026-01-25.txt"
+      "count": 478,
+      "path": "data/new/2026/01/2026-01-25.txt"
     },
     {
       "date": "2026-01-26",
-      "count": 997,
-      "path": "data/domains_2026-01-26.txt"
+      "count": 725,
+      "path": "data/new/2026/01/2026-01-26.txt"
     },
     {
       "date": "2026-01-27",
-      "count": 862,
-      "path": "data/domains_2026-01-27.txt"
+      "count": 661,
+      "path": "data/new/2026/01/2026-01-27.txt"
     },
     {
       "date": "2026-01-28",
-      "count": 939,
-      "path": "data/domains_2026-01-28.txt"
+      "count": 702,
+      "path": "data/new/2026/01/2026-01-28.txt"
     },
     {
       "date": "2026-01-29",
-      "count": 795,
-      "path": "data/domains_2026-01-29.txt"
+      "count": 594,
+      "path": "data/new/2026/01/2026-01-29.txt"
     },
     {
       "date": "2026-01-30",
-      "count": 745,
-      "path": "data/domains_2026-01-30.txt"
+      "count": 560,
+      "path": "data/new/2026/01/2026-01-30.txt"
     },
     {
       "date": "2026-01-31",
-      "count": 735,
-      "path": "data/domains_2026-01-31.txt"
+      "count": 562,
+      "path": "data/new/2026/01/2026-01-31.txt"
     },
     {
       "date": "2026-02-01",
-      "count": 664,
-      "path": "data/domains_2026-02-01.txt"
+      "count": 516,
+      "path": "data/new/2026/02/2026-02-01.txt"
     },
     {
       "date": "2026-02-02",
-      "count": 890,
-      "path": "data/domains_2026-02-02.txt"
+      "count": 673,
+      "path": "data/new/2026/02/2026-02-02.txt"
     },
     {
       "date": "2026-02-03",
-      "count": 924,
-      "path": "data/domains_2026-02-03.txt"
+      "count": 693,
+      "path": "data/new/2026/02/2026-02-03.txt"
     },
     {
       "date": "2026-02-04",
-      "count": 939,
-      "path": "data/domains_2026-02-04.txt"
+      "count": 715,
+      "path": "data/new/2026/02/2026-02-04.txt"
     },
     {
       "date": "2026-02-05",
-      "count": 1001,
-      "path": "data/domains_2026-02-05.txt"
+      "count": 750,
+      "path": "data/new/2026/02/2026-02-05.txt"
     },
     {
       "date": "2026-02-06",
-      "count": 888,
-      "path": "data/domains_2026-02-06.txt"
+      "count": 693,
+      "path": "data/new/2026/02/2026-02-06.txt"
     },
     {
       "date": "2026-02-07",
-      "count": 694,
-      "path": "data/domains_2026-02-07.txt"
+      "count": 525,
+      "path": "data/new/2026/02/2026-02-07.txt"
     },
     {
       "date": "2026-02-08",
-      "count": 823,
-      "path": "data/domains_2026-02-08.txt"
+      "count": 609,
+      "path": "data/new/2026/02/2026-02-08.txt"
     },
     {
       "date": "2026-02-09",
-      "count": 868,
-      "path": "data/domains_2026-02-09.txt"
+      "count": 646,
+      "path": "data/new/2026/02/2026-02-09.txt"
     },
     {
       "date": "2026-02-10",
-      "count": 1080,
-      "path": "data/domains_2026-02-10.txt"
+      "count": 807,
+      "path": "data/new/2026/02/2026-02-10.txt"
     },
     {
       "date": "2026-02-11",
-      "count": 846,
-      "path": "data/domains_2026-02-11.txt"
+      "count": 619,
+      "path": "data/new/2026/02/2026-02-11.txt"
     },
     {
       "date": "2026-02-12",
-      "count": 1052,
-      "path": "data/domains_2026-02-12.txt"
+      "count": 779,
+      "path": "data/new/2026/02/2026-02-12.txt"
     },
     {
       "date": "2026-02-13",
-      "count": 835,
-      "path": "data/domains_2026-02-13.txt"
+      "count": 642,
+      "path": "data/new/2026/02/2026-02-13.txt"
     },
     {
       "date": "2026-02-14",
-      "count": 563,
-      "path": "data/domains_2026-02-14.txt"
+      "count": 417,
+      "path": "data/new/2026/02/2026-02-14.txt"
     },
     {
       "date": "2026-02-15",
-      "count": 721,
-      "path": "data/domains_2026-02-15.txt"
+      "count": 538,
+      "path": "data/new/2026/02/2026-02-15.txt"
     },
     {
       "date": "2026-02-16",
-      "count": 1050,
-      "path": "data/domains_2026-02-16.txt"
+      "count": 747,
+      "path": "data/new/2026/02/2026-02-16.txt"
     },
     {
       "date": "2026-02-17",
-      "count": 946,
-      "path": "data/domains_2026-02-17.txt"
+      "count": 710,
+      "path": "data/new/2026/02/2026-02-17.txt"
     },
     {
       "date": "2026-02-18",
-      "count": 1058,
-      "path": "data/domains_2026-02-18.txt"
+      "count": 766,
+      "path": "data/new/2026/02/2026-02-18.txt"
     },
     {
       "date": "2026-02-19",
-      "count": 1057,
-      "path": "data/domains_2026-02-19.txt"
+      "count": 761,
+      "path": "data/new/2026/02/2026-02-19.txt"
     },
     {
       "date": "2026-02-20",
-      "count": 885,
-      "path": "data/domains_2026-02-20.txt"
+      "count": 660,
+      "path": "data/new/2026/02/2026-02-20.txt"
     },
     {
       "date": "2026-02-21",
-      "count": 790,
-      "path": "data/domains_2026-02-21.txt"
+      "count": 616,
+      "path": "data/new/2026/02/2026-02-21.txt"
     },
     {
       "date": "2026-02-22",
-      "count": 792,
-      "path": "data/domains_2026-02-22.txt"
+      "count": 589,
+      "path": "data/new/2026/02/2026-02-22.txt"
     },
     {
       "date": "2026-02-23",
-      "count": 982,
-      "path": "data/domains_2026-02-23.txt"
+      "count": 731,
+      "path": "data/new/2026/02/2026-02-23.txt"
     },
     {
       "date": "2026-02-24",
-      "count": 991,
-      "path": "data/domains_2026-02-24.txt"
+      "count": 766,
+      "path": "data/new/2026/02/2026-02-24.txt"
     },
     {
       "date": "2026-02-25",
-      "count": 889,
-      "path": "data/domains_2026-02-25.txt"
+      "count": 675,
+      "path": "data/new/2026/02/2026-02-25.txt"
     },
     {
       "date": "2026-02-26",
-      "count": 1076,
-      "path": "data/domains_2026-02-26.txt"
+      "count": 827,
+      "path": "data/new/2026/02/2026-02-26.txt"
     },
     {
       "date": "2026-02-27",
-      "count": 868,
-      "path": "data/domains_2026-02-27.txt"
+      "count": 663,
+      "path": "data/new/2026/02/2026-02-27.txt"
     },
     {
       "date": "2026-02-28",
-      "count": 688,
-      "path": "data/domains_2026-02-28.txt"
+      "count": 526,
+      "path": "data/new/2026/02/2026-02-28.txt"
     },
     {
       "date": "2026-03-01",
-      "count": 838,
-      "path": "data/domains_2026-03-01.txt"
+      "count": 660,
+      "path": "data/new/2026/03/2026-03-01.txt"
     },
     {
       "date": "2026-03-02",
-      "count": 1185,
-      "path": "data/domains_2026-03-02.txt"
+      "count": 897,
+      "path": "data/new/2026/03/2026-03-02.txt"
     },
     {
       "date": "2026-03-03",
-      "count": 1026,
-      "path": "data/domains_2026-03-03.txt"
+      "count": 792,
+      "path": "data/new/2026/03/2026-03-03.txt"
     },
     {
       "date": "2026-03-04",
-      "count": 1174,
-      "path": "data/domains_2026-03-04.txt"
+      "count": 892,
+      "path": "data/new/2026/03/2026-03-04.txt"
     },
     {
       "date": "2026-03-05",
-      "count": 1207,
-      "path": "data/domains_2026-03-05.txt"
+      "count": 932,
+      "path": "data/new/2026/03/2026-03-05.txt"
     },
     {
       "date": "2026-03-06",
-      "count": 1243,
-      "path": "data/domains_2026-03-06.txt"
+      "count": 936,
+      "path": "data/new/2026/03/2026-03-06.txt"
     },
     {
       "date": "2026-03-07",
-      "count": 820,
-      "path": "data/domains_2026-03-07.txt"
+      "count": 618,
+      "path": "data/new/2026/03/2026-03-07.txt"
     },
     {
       "date": "2026-03-08",
-      "count": 851,
-      "path": "data/domains_2026-03-08.txt"
+      "count": 657,
+      "path": "data/new/2026/03/2026-03-08.txt"
     },
     {
       "date": "2026-03-09",
-      "count": 1177,
-      "path": "data/domains_2026-03-09.txt"
+      "count": 899,
+      "path": "data/new/2026/03/2026-03-09.txt"
     },
     {
       "date": "2026-03-10",
-      "count": 1100,
-      "path": "data/domains_2026-03-10.txt"
+      "count": 825,
+      "path": "data/new/2026/03/2026-03-10.txt"
     },
     {
       "date": "2026-03-11",
-      "count": 1156,
-      "path": "data/domains_2026-03-11.txt"
+      "count": 870,
+      "path": "data/new/2026/03/2026-03-11.txt"
     },
     {
       "date": "2026-03-12",
-      "count": 1009,
-      "path": "data/domains_2026-03-12.txt"
+      "count": 774,
+      "path": "data/new/2026/03/2026-03-12.txt"
     },
     {
       "date": "2026-03-13",
-      "count": 939,
-      "path": "data/domains_2026-03-13.txt"
+      "count": 715,
+      "path": "data/new/2026/03/2026-03-13.txt"
     },
     {
       "date": "2026-03-14",
-      "count": 389,
-      "path": "data/domains_2026-03-14.txt"
+      "count": 303,
+      "path": "data/new/2026/03/2026-03-14.txt"
     },
     {
       "date": "2026-03-15",
-      "count": 804,
-      "path": "data/domains_2026-03-15.txt"
+      "count": 617,
+      "path": "data/new/2026/03/2026-03-15.txt"
     },
     {
       "date": "2026-03-16",
-      "count": 1142,
-      "path": "data/domains_2026-03-16.txt"
+      "count": 881,
+      "path": "data/new/2026/03/2026-03-16.txt"
     },
     {
       "date": "2026-03-17",
-      "count": 1085,
-      "path": "data/domains_2026-03-17.txt"
+      "count": 832,
+      "path": "data/new/2026/03/2026-03-17.txt"
     },
     {
       "date": "2026-03-18",
-      "count": 1108,
-      "path": "data/domains_2026-03-18.txt"
+      "count": 855,
+      "path": "data/new/2026/03/2026-03-18.txt"
     },
     {
       "date": "2026-03-19",
-      "count": 952,
-      "path": "data/domains_2026-03-19.txt"
+      "count": 737,
+      "path": "data/new/2026/03/2026-03-19.txt"
     },
     {
       "date": "2026-03-20",
-      "count": 898,
-      "path": "data/domains_2026-03-20.txt"
+      "count": 675,
+      "path": "data/new/2026/03/2026-03-20.txt"
     },
     {
       "date": "2026-03-21",
-      "count": 734,
-      "path": "data/domains_2026-03-21.txt"
+      "count": 583,
+      "path": "data/new/2026/03/2026-03-21.txt"
     },
     {
       "date": "2026-03-22",
-      "count": 877,
-      "path": "data/domains_2026-03-22.txt"
+      "count": 699,
+      "path": "data/new/2026/03/2026-03-22.txt"
     },
     {
       "date": "2026-03-23",
-      "count": 1091,
-      "path": "data/domains_2026-03-23.txt"
+      "count": 817,
+      "path": "data/new/2026/03/2026-03-23.txt"
     },
     {
       "date": "2026-03-24",
-      "count": 1146,
-      "path": "data/domains_2026-03-24.txt"
+      "count": 850,
+      "path": "data/new/2026/03/2026-03-24.txt"
     },
     {
       "date": "2026-03-25",
-      "count": 1104,
-      "path": "data/domains_2026-03-25.txt"
+      "count": 840,
+      "path": "data/new/2026/03/2026-03-25.txt"
     },
     {
       "date": "2026-03-26",
-      "count": 965,
-      "path": "data/domains_2026-03-26.txt"
+      "count": 726,
+      "path": "data/new/2026/03/2026-03-26.txt"
     },
     {
       "date": "2026-03-27",
-      "count": 904,
-      "path": "data/domains_2026-03-27.txt"
+      "count": 677,
+      "path": "data/new/2026/03/2026-03-27.txt"
     },
     {
       "date": "2026-03-28",
-      "count": 616,
-      "path": "data/domains_2026-03-28.txt"
+      "count": 492,
+      "path": "data/new/2026/03/2026-03-28.txt"
     },
     {
       "date": "2026-03-29",
-      "count": 784,
-      "path": "data/domains_2026-03-29.txt"
+      "count": 595,
+      "path": "data/new/2026/03/2026-03-29.txt"
     },
     {
       "date": "2026-03-30",
-      "count": 901,
-      "path": "data/domains_2026-03-30.txt"
+      "count": 693,
+      "path": "data/new/2026/03/2026-03-30.txt"
     },
     {
       "date": "2026-03-31",
-      "count": 786,
-      "path": "data/domains_2026-03-31.txt"
+      "count": 596,
+      "path": "data/new/2026/03/2026-03-31.txt"
     },
     {
       "date": "2026-04-01",
-      "count": 995,
-      "path": "data/domains_2026-04-01.txt"
+      "count": 744,
+      "path": "data/new/2026/04/2026-04-01.txt"
     },
     {
       "date": "2026-04-02",
-      "count": 975,
-      "path": "data/domains_2026-04-02.txt"
+      "count": 752,
+      "path": "data/new/2026/04/2026-04-02.txt"
     },
     {
       "date": "2026-04-03",
-      "count": 701,
-      "path": "data/domains_2026-04-03.txt"
+      "count": 538,
+      "path": "data/new/2026/04/2026-04-03.txt"
     },
     {
       "date": "2026-04-04",
-      "count": 639,
-      "path": "data/domains_2026-04-04.txt"
+      "count": 508,
+      "path": "data/new/2026/04/2026-04-04.txt"
     },
     {
       "date": "2026-04-05",
-      "count": 580,
-      "path": "data/domains_2026-04-05.txt"
+      "count": 455,
+      "path": "data/new/2026/04/2026-04-05.txt"
     },
     {
       "date": "2026-04-06",
-      "count": 875,
-      "path": "data/domains_2026-04-06.txt"
+      "count": 687,
+      "path": "data/new/2026/04/2026-04-06.txt"
     },
     {
       "date": "2026-04-07",
-      "count": 997,
-      "path": "data/domains_2026-04-07.txt"
+      "count": 753,
+      "path": "data/new/2026/04/2026-04-07.txt"
     },
     {
       "date": "2026-04-08",
-      "count": 989,
-      "path": "data/domains_2026-04-08.txt"
+      "count": 809,
+      "path": "data/new/2026/04/2026-04-08.txt"
     },
     {
       "date": "2026-04-09",
-      "count": 939,
-      "path": "data/domains_2026-04-09.txt"
+      "count": 708,
+      "path": "data/new/2026/04/2026-04-09.txt"
     },
     {
       "date": "2026-04-10",
-      "count": 974,
-      "path": "data/domains_2026-04-10.txt"
+      "count": 743,
+      "path": "data/new/2026/04/2026-04-10.txt"
     },
     {
       "date": "2026-04-11",
-      "count": 678,
-      "path": "data/domains_2026-04-11.txt"
+      "count": 538,
+      "path": "data/new/2026/04/2026-04-11.txt"
     },
     {
       "date": "2026-04-12",
-      "count": 782,
-      "path": "data/domains_2026-04-12.txt"
+      "count": 612,
+      "path": "data/new/2026/04/2026-04-12.txt"
     },
     {
       "date": "2026-04-13",
-      "count": 744,
-      "path": "data/domains_2026-04-13.txt"
+      "count": 564,
+      "path": "data/new/2026/04/2026-04-13.txt"
     },
     {
       "date": "2026-04-14",
-      "count": 977,
-      "path": "data/domains_2026-04-14.txt"
+      "count": 736,
+      "path": "data/new/2026/04/2026-04-14.txt"
     },
     {
       "date": "2026-04-15",
-      "count": 1029,
-      "path": "data/domains_2026-04-15.txt"
+      "count": 736,
+      "path": "data/new/2026/04/2026-04-15.txt"
     },
     {
       "date": "2026-04-16",
-      "count": 838,
-      "path": "data/domains_2026-04-16.txt"
+      "count": 631,
+      "path": "data/new/2026/04/2026-04-16.txt"
     },
     {
       "date": "2026-04-17",
-      "count": 795,
-      "path": "data/domains_2026-04-17.txt"
+      "count": 600,
+      "path": "data/new/2026/04/2026-04-17.txt"
     },
     {
       "date": "2026-04-18",
-      "count": 663,
-      "path": "data/domains_2026-04-18.txt"
+      "count": 512,
+      "path": "data/new/2026/04/2026-04-18.txt"
     },
     {
       "date": "2026-04-19",
-      "count": 812,
-      "path": "data/domains_2026-04-19.txt"
+      "count": 605,
+      "path": "data/new/2026/04/2026-04-19.txt"
     },
     {
       "date": "2026-04-20",
-      "count": 830,
-      "path": "data/domains_2026-04-20.txt"
+      "count": 618,
+      "path": "data/new/2026/04/2026-04-20.txt"
     },
     {
       "date": "2026-04-21",
-      "count": 871,
-      "path": "data/domains_2026-04-21.txt"
+      "count": 664,
+      "path": "data/new/2026/04/2026-04-21.txt"
     },
     {
       "date": "2026-04-22",
-      "count": 933,
-      "path": "data/domains_2026-04-22.txt"
+      "count": 678,
+      "path": "data/new/2026/04/2026-04-22.txt"
     },
     {
       "date": "2026-04-23",
-      "count": 969,
-      "path": "data/domains_2026-04-23.txt"
+      "count": 748,
+      "path": "data/new/2026/04/2026-04-23.txt"
     },
     {
       "date": "2026-04-24",
-      "count": 706,
-      "path": "data/domains_2026-04-24.txt"
+      "count": 550,
+      "path": "data/new/2026/04/2026-04-24.txt"
     },
     {
       "date": "2026-04-25",
-      "count": 697,
-      "path": "data/domains_2026-04-25.txt"
+      "count": 544,
+      "path": "data/new/2026/04/2026-04-25.txt"
     },
     {
       "date": "2026-04-26",
-      "count": 684,
-      "path": "data/domains_2026-04-26.txt"
+      "count": 522,
+      "path": "data/new/2026/04/2026-04-26.txt"
     },
     {
       "date": "2026-04-27",
-      "count": 801,
-      "path": "data/domains_2026-04-27.txt"
+      "count": 605,
+      "path": "data/new/2026/04/2026-04-27.txt"
     },
     {
       "date": "2026-04-28",
-      "count": 818,
-      "path": "data/domains_2026-04-28.txt"
+      "count": 620,
+      "path": "data/new/2026/04/2026-04-28.txt"
     },
     {
       "date": "2026-04-29",
-      "count": 896,
-      "path": "data/domains_2026-04-29.txt"
+      "count": 670,
+      "path": "data/new/2026/04/2026-04-29.txt"
     },
     {
       "date": "2026-04-30",
-      "count": 692,
-      "path": "data/domains_2026-04-30.txt"
+      "count": 519,
+      "path": "data/new/2026/04/2026-04-30.txt"
     },
     {
       "date": "2026-05-01",
-      "count": 770,
-      "path": "data/domains_2026-05-01.txt"
+      "count": 585,
+      "path": "data/new/2026/05/2026-05-01.txt"
     },
     {
       "date": "2026-05-02",
-      "count": 1085,
-      "path": "data/domains_2026-05-02.txt"
+      "count": 818,
+      "path": "data/new/2026/05/2026-05-02.txt"
     },
     {
       "date": "2026-05-03",
-      "count": 681,
-      "path": "data/domains_2026-05-03.txt"
+      "count": 541,
+      "path": "data/new/2026/05/2026-05-03.txt"
     },
     {
       "date": "2026-05-04",
-      "count": 847,
-      "path": "data/domains_2026-05-04.txt"
+      "count": 656,
+      "path": "data/new/2026/05/2026-05-04.txt"
     },
     {
       "date": "2026-05-05",
-      "count": 1109,
-      "path": "data/domains_2026-05-05.txt"
+      "count": 866,
+      "path": "data/new/2026/05/2026-05-05.txt"
     },
     {
       "date": "2026-05-06",
-      "count": 863,
-      "path": "data/domains_2026-05-06.txt"
+      "count": 660,
+      "path": "data/new/2026/05/2026-05-06.txt"
     },
     {
       "date": "2026-05-07",
-      "count": 974,
-      "path": "data/domains_2026-05-07.txt"
+      "count": 750,
+      "path": "data/new/2026/05/2026-05-07.txt"
     },
     {
       "date": "2026-05-08",
-      "count": 842,
-      "path": "data/domains_2026-05-08.txt"
+      "count": 648,
+      "path": "data/new/2026/05/2026-05-08.txt"
     },
     {
       "date": "2026-05-09",
-      "count": 593,
-      "path": "data/domains_2026-05-09.txt"
+      "count": 456,
+      "path": "data/new/2026/05/2026-05-09.txt"
     },
     {
       "date": "2026-05-10",
-      "count": 633,
-      "path": "data/domains_2026-05-10.txt"
+      "count": 482,
+      "path": "data/new/2026/05/2026-05-10.txt"
     },
     {
       "date": "2026-05-11",
-      "count": 1046,
-      "path": "data/domains_2026-05-11.txt"
+      "count": 791,
+      "path": "data/new/2026/05/2026-05-11.txt"
     },
     {
       "date": "2026-05-12",
-      "count": 794,
-      "path": "data/domains_2026-05-12.txt"
+      "count": 604,
+      "path": "data/new/2026/05/2026-05-12.txt"
     },
     {
       "date": "2026-05-13",
-      "count": 859,
-      "path": "data/domains_2026-05-13.txt"
+      "count": 645,
+      "path": "data/new/2026/05/2026-05-13.txt"
     },
     {
       "date": "2026-05-14",
-      "count": 1028,
-      "path": "data/domains_2026-05-14.txt"
+      "count": 756,
+      "path": "data/new/2026/05/2026-05-14.txt"
     },
     {
       "date": "2026-05-15",
-      "count": 759,
-      "path": "data/domains_2026-05-15.txt"
+      "count": 589,
+      "path": "data/new/2026/05/2026-05-15.txt"
     },
     {
       "date": "2026-05-16",
-      "count": 780,
-      "path": "data/domains_2026-05-16.txt"
+      "count": 627,
+      "path": "data/new/2026/05/2026-05-16.txt"
     },
     {
       "date": "2026-05-17",
-      "count": 589,
-      "path": "data/domains_2026-05-17.txt"
+      "count": 458,
+      "path": "data/new/2026/05/2026-05-17.txt"
     },
     {
       "date": "2026-05-18",
-      "count": 846,
-      "path": "data/domains_2026-05-18.txt"
+      "count": 622,
+      "path": "data/new/2026/05/2026-05-18.txt"
     },
     {
       "date": "2026-05-19",
-      "count": 760,
-      "path": "data/domains_2026-05-19.txt"
+      "count": 579,
+      "path": "data/new/2026/05/2026-05-19.txt"
     },
     {
       "date": "2026-05-20",
-      "count": 734,
-      "path": "data/domains_2026-05-20.txt"
+      "count": 548,
+      "path": "data/new/2026/05/2026-05-20.txt"
     },
     {
       "date": "2026-05-21",
-      "count": 1022,
-      "path": "data/domains_2026-05-21.txt"
+      "count": 780,
+      "path": "data/new/2026/05/2026-05-21.txt"
     },
     {
       "date": "2026-05-22",
-      "count": 771,
-      "path": "data/domains_2026-05-22.txt"
+      "count": 586,
+      "path": "data/new/2026/05/2026-05-22.txt"
     },
     {
       "date": "2026-05-23",
-      "count": 669,
-      "path": "data/domains_2026-05-23.txt"
+      "count": 530,
+      "path": "data/new/2026/05/2026-05-23.txt"
     },
     {
       "date": "2026-05-24",
-      "count": 890,
-      "path": "data/domains_2026-05-24.txt"
+      "count": 687,
+      "path": "data/new/2026/05/2026-05-24.txt"
     },
     {
       "date": "2026-05-25",
-      "count": 799,
-      "path": "data/domains_2026-05-25.txt"
+      "count": 608,
+      "path": "data/new/2026/05/2026-05-25.txt"
     },
     {
       "date": "2026-05-26",
-      "count": 1006,
-      "path": "data/domains_2026-05-26.txt"
+      "count": 798,
+      "path": "data/new/2026/05/2026-05-26.txt"
     },
     {
       "date": "2026-05-27",
-      "count": 840,
-      "path": "data/domains_2026-05-27.txt"
+      "count": 645,
+      "path": "data/new/2026/05/2026-05-27.txt"
     },
     {
       "date": "2026-05-28",
-      "count": 776,
-      "path": "data/domains_2026-05-28.txt"
+      "count": 607,
+      "path": "data/new/2026/05/2026-05-28.txt"
     },
     {
       "date": "2026-05-29",
-      "count": 738,
-      "path": "data/domains_2026-05-29.txt"
+      "count": 569,
+      "path": "data/new/2026/05/2026-05-29.txt"
     },
     {
       "date": "2026-05-30",
-      "count": 623,
-      "path": "data/domains_2026-05-30.txt"
+      "count": 497,
+      "path": "data/new/2026/05/2026-05-30.txt"
     },
     {
       "date": "2026-05-31",
-      "count": 641,
-      "path": "data/domains_2026-05-31.txt"
+      "count": 528,
+      "path": "data/new/2026/05/2026-05-31.txt"
     },
     {
       "date": "2026-06-01",
-      "count": 941,
-      "path": "data/domains_2026-06-01.txt"
+      "count": 741,
+      "path": "data/new/2026/06/2026-06-01.txt"
     },
     {
       "date": "2026-06-02",
-      "count": 927,
-      "path": "data/domains_2026-06-02.txt"
+      "count": 750,
+      "path": "data/new/2026/06/2026-06-02.txt"
     },
     {
       "date": "2026-06-03",
-      "count": 810,
-      "path": "data/domains_2026-06-03.txt"
+      "count": 643,
+      "path": "data/new/2026/06/2026-06-03.txt"
     },
     {
       "date": "2026-06-04",
-      "count": 959,
-      "path": "data/domains_2026-06-04.txt"
+      "count": 761,
+      "path": "data/new/2026/06/2026-06-04.txt"
     },
     {
       "date": "2026-06-05",
-      "count": 927,
-      "path": "data/domains_2026-06-05.txt"
+      "count": 713,
+      "path": "data/new/2026/06/2026-06-05.txt"
     },
     {
       "date": "2026-06-06",
-      "count": 768,
-      "path": "data/domains_2026-06-06.txt"
+      "count": 605,
+      "path": "data/new/2026/06/2026-06-06.txt"
     },
     {
       "date": "2026-06-07",
-      "count": 668,
-      "path": "data/domains_2026-06-07.txt"
+      "count": 519,
+      "path": "data/new/2026/06/2026-06-07.txt"
     },
     {
       "date": "2026-06-08",
-      "count": 1251,
-      "path": "data/domains_2026-06-08.txt"
+      "count": 898,
+      "path": "data/new/2026/06/2026-06-08.txt"
     },
     {
       "date": "2026-06-09",
-      "count": 985,
-      "path": "data/domains_2026-06-09.txt"
+      "count": 771,
+      "path": "data/new/2026/06/2026-06-09.txt"
     },
     {
       "date": "2026-06-10",
-      "count": 840,
-      "path": "data/domains_2026-06-10.txt"
+      "count": 680,
+      "path": "data/new/2026/06/2026-06-10.txt"
     },
     {
       "date": "2026-06-11",
-      "count": 696,
-      "path": "data/domains_2026-06-11.txt"
+      "count": 562,
+      "path": "data/new/2026/06/2026-06-11.txt"
     },
     {
       "date": "2026-06-12",
-      "count": 914,
-      "path": "data/domains_2026-06-12.txt"
+      "count": 704,
+      "path": "data/new/2026/06/2026-06-12.txt"
     },
     {
       "date": "2026-06-13",
-      "count": 776,
-      "path": "data/domains_2026-06-13.txt"
+      "count": 620,
+      "path": "data/new/2026/06/2026-06-13.txt"
     },
     {
       "date": "2026-06-14",
-      "count": 1063,
-      "path": "data/domains_2026-06-14.txt"
+      "count": 722,
+      "path": "data/new/2026/06/2026-06-14.txt"
     },
     {
       "date": "2026-06-15",
-      "count": 1051,
-      "path": "data/domains_2026-06-15.txt"
+      "count": 796,
+      "path": "data/new/2026/06/2026-06-15.txt"
     },
     {
       "date": "2026-06-16",
-      "count": 1380,
-      "path": "data/domains_2026-06-16.txt"
+      "count": 921,
+      "path": "data/new/2026/06/2026-06-16.txt"
     },
     {
       "date": "2026-06-17",
-      "count": 823,
-      "path": "data/domains_2026-06-17.txt"
+      "count": 641,
+      "path": "data/new/2026/06/2026-06-17.txt"
     },
     {
       "date": "2026-06-18",
-      "count": 515,
-      "path": "data/domains_2026-06-18.txt"
+      "count": 408,
+      "path": "data/new/2026/06/2026-06-18.txt"
     },
     {
       "date": "2026-06-19",
-      "count": 21,
-      "path": "data/domains_2026-06-19.txt"
+      "count": 16,
+      "path": "data/new/2026/06/2026-06-19.txt"
     }
   ],
-  "total_new_all_time": 146434,
-  "last_updated": "2026-06-20T21:20:25Z"
+  "total_new_all_time": 111183,
+  "last_updated": "2026-06-19"
 }
