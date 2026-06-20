@@ -4,15 +4,32 @@
 
 <br>
 
-[![Domains](https://img.shields.io/badge/Domains_Scanned-343%2C107-red?style=for-the-badge&logo=databricks&logoColor=white)](https://phishdestroy.github.io/nicenic-evidence/)
-[![Malicious](https://img.shields.io/badge/Malicious-18%2C927_(50%25_of_alive)-critical?style=for-the-badge&logo=virustotal&logoColor=white)](https://phishdestroy.github.io/nicenic-evidence/)
-[![Registrar](https://img.shields.io/badge/IANA_%233765-NICENIC-orange?style=for-the-badge&logo=icann&logoColor=white)](https://www.iana.org/assignments/registrar-ids/registrar-ids.xhtml)
-[![TLP](https://img.shields.io/badge/TLP-CLEAR-brightgreen?style=for-the-badge)](https://www.cisa.gov/tlp)
-[![Signed](https://img.shields.io/badge/ED25519-Signed-blue?style=for-the-badge&logo=gnuprivacyguard&logoColor=white)](SHA256SUMS.txt.sig)
-[![License](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge)](LICENSE)
-[![Pages](https://img.shields.io/badge/Live_Report-GitHub_Pages-purple?style=for-the-badge&logo=github)](https://phishdestroy.github.io/nicenic-evidence/)
+[![Domains](https://img.shields.io/badge/domains_scanned-343%2C107-6ea8d7?style=flat-square&logo=googleearth&logoColor=white&labelColor=0c1018)](https://phishdestroy.github.io/nicenic-evidence/)
+[![Malicious](https://img.shields.io/badge/CRITICAL%2BHIGH%2BMED-18%2C927_(50%25_alive)-da3633?style=flat-square&labelColor=0c1018)](https://phishdestroy.github.io/nicenic-evidence/)
+[![Registrar](https://img.shields.io/badge/IANA-%233765-6ea8d7?style=for-the-badge&labelColor=0c1018&logo=internetcomputer&logoColor=white)](https://www.iana.org/assignments/registrar-ids/registrar-ids.xhtml)
+[![TLP](https://img.shields.io/badge/TLP-CLEAR-3fb950?style=for-the-badge&labelColor=0c1018)](https://www.cisa.gov/tlp)
+[![Signed](https://img.shields.io/badge/ED25519-Signed-6ea8d7?style=for-the-badge&labelColor=0c1018&logo=gnuprivacyguard&logoColor=white)](SHA256SUMS.txt.sig)
+[![License](https://img.shields.io/badge/license-MIT-c0a060?style=for-the-badge&labelColor=0c1018)](LICENSE)
+[![Pages](https://img.shields.io/badge/%E2%96%B6_LIVE_REPORT-phishdestroy.github.io%2Fnicenic--evidence-3fb950?style=for-the-badge&labelColor=0c1018)](https://phishdestroy.github.io/nicenic-evidence/)
 
 <br>
+<br/>
+
+[![Domains Scanned](https://img.shields.io/badge/domains_scanned-343%2C107-6ea8d7?style=flat-square&logo=googleearth&logoColor=white&labelColor=0c1018)](#scope)
+[![CRITICAL](https://img.shields.io/badge/CRITICAL-10%2C377-da3633?style=flat-square&labelColor=0c1018)](#headline-findings)
+[![HIGH](https://img.shields.io/badge/HIGH-7%2C928-da3633?style=flat-square&labelColor=0c1018)](#headline-findings)
+[![Malicious/Alive](https://img.shields.io/badge/malicious_%2F_alive-50%25-da3633?style=flat-square&labelColor=0c1018)](#headline-findings)
+[![Clusters](https://img.shields.io/badge/operator_clusters-2%2C939-c0a060?style=flat-square&labelColor=0c1018)](#operator-clusters)
+[![Alive](https://img.shields.io/badge/alive-37%2C844-3fb950?style=flat-square&labelColor=0c1018)](#scope)
+
+<br/>
+
+[![IOC Feed](https://img.shields.io/badge/%E2%AC%87_IOC_FEED-domains__high.txt-6ea8d7?style=for-the-badge&labelColor=0c1018)](https://raw.githubusercontent.com/phishdestroy/nicenic-evidence/main/ioc/domains_high.txt)
+
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com/?lines=Complete-zone+scan+of+IANA+%233765+%28NICENIC%29;343%2C107+domains+enumerated+%E2%80%94+zero+sampling;18%2C927+confirmed+malicious+%2850%25+of+alive%29;Evidence+package+for+ICANN+enforcement&font=JetBrains+Mono&size=14&color=6ea8d7&center=true&width=720&height=32&pause=1500" alt="rotating headline"/>
+
 
 # NICENIC Zone Scan — Complete Registrar Investigation
 
@@ -24,22 +41,44 @@
 
 ---
 
-## Table of Contents
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-| Section | |
-|---|---|
-| [Background](#background) | Why NICENIC, methodology overview |
-| [Subject](#subject) | Registrar profile |
-| [Scope](#scope) | Zone composition |
-| [Methodology](#methodology) | Technical pipeline |
-| [Findings](#headline-findings) | Key statistics |
-| [Operator Clusters](#operator-clusters) | Infrastructure groupings |
-| [Evidence Archive](#evidence-archive) | Files and hashes |
-| [IOC Feed](#ioc-feed) | Blocklist downloads |
-| [Enforcement Posture](#enforcement-posture) | Who needs to act |
-| [Repository Structure](#repository-structure) | File layout |
+## 📑 Table of Contents
 
----
+<table>
+<tr>
+<td valign="top">
+
+**Investigation**
+- [Background](#background)
+- [Subject](#subject)
+- [Scope](#scope)
+- [Methodology](#methodology)
+
+</td>
+<td valign="top">
+
+**Evidence**
+- [Headline Findings](#headline-findings)
+- [Operator Clusters](#operator-clusters)
+- [Evidence Archive](#evidence-archive)
+- [IOC Feed](#ioc-feed)
+
+</td>
+<td valign="top">
+
+**Legal / Reuse**
+- [Legal Notice](#️-legal-notice--responsible-disclosure)
+- [Enforcement Posture](#enforcement-posture)
+- [Repository Structure](#repository-structure)
+- [Related Investigations](#related-investigations)
+
+</td>
+</tr>
+</table>
+
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 ## Background
 
@@ -84,7 +123,8 @@ This investigation enumerates every domain in NICENIC's zone, classifies content
 └─────────────────┘
 ```
 
----
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 ## Subject
 
@@ -99,7 +139,8 @@ This investigation enumerates every domain in NICENIC's zone, classifies content
 | **Supported TLDs** | Generic TLDs (gTLD) — `.com`, `.net`, `.org`, `.xyz`, `.top`, `.shop`, `.app`, `.academy`, and 100+ more |
 | **ICANN accreditation** | Active |
 
----
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 ## Scope
 
@@ -107,7 +148,8 @@ This investigation covers the **complete zone** of all domains registered under 
 
 > **Note:** Screenshots and deep-render data were collected only for HIGH and MEDIUM severity domains (estimated 10–25% of zone) to constrain storage and runtime. Dead domains are enumerated and classified but not rendered.
 
----
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 ## Methodology
 
@@ -157,7 +199,8 @@ This investigation covers the **complete zone** of all domains registered under 
 
 </details>
 
----
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 ## Headline Findings
 
@@ -174,7 +217,8 @@ This investigation covers the **complete zone** of all domains registered under 
 | Screenshots captured | 37,844 alive domains — not published in repo (size) |
 | Operator clusters identified | **2,939** |
 
----
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 ## Operator Clusters
 
@@ -190,7 +234,8 @@ Notable clusters:
 
 Full cluster data: [`data/clusters.json`](data/clusters.json) — includes favicon hash, server fingerprint, domain list, and category distribution per cluster.
 
----
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 ## Evidence Archive
 
@@ -209,7 +254,8 @@ Full cluster data: [`data/clusters.json`](data/clusters.json) — includes favic
 | `pkg/raw_data/high_severity.csv.gz` | — | Compressed CRITICAL+HIGH subset |
 | `SHA256SUMS.txt` | — | SHA-256 checksums of all published data files |
 
----
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 ## IOC Feed
 
@@ -224,7 +270,8 @@ https://raw.githubusercontent.com/phishdestroy/nicenic-evidence/main/ioc/domains
 https://raw.githubusercontent.com/phishdestroy/nicenic-evidence/main/ioc/indicators.csv
 ```
 
----
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 ## Enforcement Posture
 
@@ -243,7 +290,40 @@ NICENIC operates under Chinese jurisdiction. Effective enforcement requires mult
 
 ICANN's Registrar Accreditation Agreement §3.18 requires registrars to maintain and respond to abuse contacts within 24 hours. Documented non-response is grounds for accreditation suspension.
 
----
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+## ⚖️ Legal Notice & Responsible Disclosure
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+All data in this repository was collected exclusively from **publicly accessible sources**:
+
+| Source | Method |
+|---|---|
+| Zone file | ICANN CZDS — accredited access, permissible use |
+| WHOIS | Public WHOIS protocol (RFC 3912) |
+| HTTP responses | Passive crawl of publicly reachable URLs |
+| DNS records | Passive DNS / authoritative queries |
+| Screenshots | Rendered pages accessible to any browser |
+
+**No non-public systems were accessed. No credentials were tested. No authentication was bypassed. No victim data was processed.**
+
+This publication is conducted under:
+- ICANN Registrar Accreditation Agreement §3.18 (abuse response obligations)
+- [CISA Coordinated Vulnerability Disclosure guidelines](https://www.cisa.gov/coordinated-vulnerability-disclosure-process)
+- [FIRST.org TLP:CLEAR definition](https://www.first.org/tlp/) — unlimited public sharing permitted
+
+### Regarding Reputational Impact
+
+This research documents objectively verifiable facts: domain registration patterns, HTTP response content, and registrar abuse-response latency. These facts were publicly visible before this repository existed.
+
+NICENIC INTERNATIONAL GROUP CO., LIMITED is an ICANN-accredited registrar operating under contractual obligations to the global internet community. Registrars that facilitate industrial-scale phishing infrastructure have no legitimate reputational interest in suppressing evidence of that facilitation. Publication of factual evidence of contractual non-compliance is not defamation — it is the function ICANN's transparency requirements were built to serve.
+
+If NICENIC disputes any finding: submit documented evidence via [phishdestroy.io](https://phishdestroy.io). Findings supported by evidence will be corrected in a timestamped update.
+
 
 ## Repository Structure
 
@@ -287,7 +367,8 @@ nicenic-evidence/
 └── README.md                   # This file
 ```
 
----
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 ## Related Investigations
 
@@ -305,7 +386,7 @@ nicenic-evidence/
 
 Automated detection, classification, and public disclosure of domain abuse infrastructure.
 
-[phishdestroy.io](https://phishdestroy.io) · [GitHub](https://github.com/phishdestroy) · TLP:CLEAR
+[phishdestroy.io](https://phishdestroy.io) · [GitHub](https://github.com/phishdestroy) · [LEGAL.md](LEGAL.md) · TLP:CLEAR
 
 *"NICENIC's abuse response SLA is effectively infinite — we've made it finite."*
 
