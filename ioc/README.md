@@ -1,3 +1,5 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:030810,100:da3633&height=120&fontColor=ffffff&animation=fadeIn&text=IOC%20Feeds&fontSize=32&desc=18%2C927%20malicious%20domains%20%C2%B7%20NICENIC&descAlignY=62&descSize=14" width="100%"/>
+
 # IOC Feeds
 
 Ready-to-use blocklists derived from the NICENIC investigation.
@@ -19,3 +21,5 @@ https://raw.githubusercontent.com/phishdestroy/nicenic-evidence/master/ioc/domai
 ```
 
 Updated when new HIGH/CRITICAL domains are identified.
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:da3633,100:030810&height=60&section=footer" width="100%"/>
