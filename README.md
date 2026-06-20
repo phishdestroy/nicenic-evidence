@@ -24,6 +24,7 @@
 
 <br/>
 
+[![New Today](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/phishdestroy/nicenic-evidence/master/stats/today.json&style=flat-square&labelColor=0c1018)](https://github.com/phishdestroy/nicenic-evidence/tree/master/data/new) [![Collected](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/phishdestroy/nicenic-evidence/master/stats/total.json&style=flat-square&labelColor=0c1018)](https://github.com/phishdestroy/nicenic-evidence/blob/master/data/all.txt) [![Last Fetch](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/phishdestroy/nicenic-evidence/master/stats/last_fetch.json&style=flat-square&labelColor=0c1018)](https://github.com/phishdestroy/nicenic-evidence/actions)
 [![IOC Feed](https://img.shields.io/badge/%E2%AC%87_IOC_FEED-domains__high.txt-6ea8d7?style=for-the-badge&labelColor=0c1018)](https://raw.githubusercontent.com/phishdestroy/nicenic-evidence/main/ioc/domains_high.txt)
 
 <br/>
