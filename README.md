@@ -1,4 +1,8 @@
 <div align="center">
+<img src="https://raw.githubusercontent.com/phishdestroy/nicenic-evidence/master/docs/assets/banner.gif" width="100%"/>
+</div>
+
+<div align="center">
 
 <img src="docs/assets/banner.svg" alt="NICENIC Zone Scan — PhishDestroy Investigation" width="100%">
 
@@ -394,3 +398,6 @@ Automated detection, classification, and public disclosure of domain abuse infra
 **MIT License · TLP:CLEAR · June 2026**
 
 </div>
+
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
