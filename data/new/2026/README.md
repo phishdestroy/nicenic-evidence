@@ -1,8 +1,13 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:030810,100:da3633&height=120&fontColor=ffffff&animation=fadeIn&text=2026%20Registrations%20%C2%B7%20NICENIC&fontSize=32&desc=146%2C434%20domains%20%C2%B7%20170%20days%20tracked&descAlignY=62&descSize=14" width="100%"/>
+
 # 2026 New Registrations — NiceNIC
 
 > Auto-collected daily · **146,434 domains** · 2026-01-01 → 2026-06-19
 
-## Monthly Overview
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+Monthly Overview
 
 | Month | New Domains | Δ prev | Raw file |
 |:---|---:|---:|:---|
@@ -14,7 +19,10 @@
 | June 2026 | 16,315 | -35.7% | [2026-06.txt](2026-06.txt) |
 | **Total** | **146,434** | | |
 
-## Top Domain Zones (TLDs)
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+Top Domain Zones (TLDs)
 
 | # | TLD | Domains | Share |
 |:---:|:---|---:|:---:|
@@ -34,7 +42,10 @@
 | 14 | `.life` | 559 | 0.4% |
 | 15 | `.today` | 487 | 0.3% |
 
-## Peak Days
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+Peak Days
 
 | Metric | Value |
 |:---|:---|
@@ -42,9 +53,14 @@
 | Lowest single day | N/A — 0 domains |
 | Daily average | ~0 domains/day |
 
-## Browse by Month
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+Browse by Month
 
 [📁 January](01/) · [📁 February](02/) · [📁 March](03/) · [📁 April](04/) · [📁 May](05/) · [📁 June](06/)
 
 ---
 [← Back to data/new/](../) · [Repository →](https://github.com/phishdestroy/nicenic-evidence)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:da3633,100:030810&height=60&section=footer" width="100%"/>
