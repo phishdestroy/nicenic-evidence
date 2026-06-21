@@ -36,6 +36,10 @@
 
 <img src="https://readme-typing-svg.demolab.com/?lines=Complete-zone+scan+of+IANA+%233765+%28NICENIC%29;343%2C107+domains+enumerated+%E2%80%94+zero+sampling;18%2C927+confirmed+malicious+%2850%25+of+alive%29;Evidence+package+for+ICANN+enforcement&font=JetBrains+Mono&size=14&color=6ea8d7&center=true&width=720&height=32&pause=1500" alt="rotating headline"/>
 
+<!-- LIVE_STATS:START -->
+> 🔴 **LIVE INVESTIGATION FEED** — populating after first workflow run.
+<!-- LIVE_STATS:END -->
+
 # NICENIC Zone Scan — Complete Registrar Investigation
 
 **Phase I · NICENIC INTERNATIONAL GROUP CO., LIMITED · IANA #3765**
