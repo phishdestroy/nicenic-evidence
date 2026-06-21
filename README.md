@@ -32,6 +32,10 @@
 [![Revenue](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/phishdestroy/nicenic-evidence/master/stats/revenue.json&style=flat-square)](https://github.com/phishdestroy/nicenic-evidence)
 [![Avg Period](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/phishdestroy/nicenic-evidence/master/stats/lifetime.json&style=flat-square)](https://github.com/phishdestroy/nicenic-evidence)
 [![Top Hosting](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/phishdestroy/nicenic-evidence/master/stats/hosting.json&style=flat-square)](https://github.com/phishdestroy/nicenic-evidence)
+[![No IP at Reg](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/phishdestroy/nicenic-evidence/master/stats/no_ip.json&style=flat-square)](https://github.com/phishdestroy/nicenic-evidence)
+[![Deployed](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/phishdestroy/nicenic-evidence/master/stats/deployed.json&style=flat-square)](https://github.com/phishdestroy/nicenic-evidence)
+[![Long Reg](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/phishdestroy/nicenic-evidence/master/stats/longreg.json&style=flat-square)](https://github.com/phishdestroy/nicenic-evidence)
+[![Top TLDs](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/phishdestroy/nicenic-evidence/master/stats/tld_top.json&style=flat-square)](https://github.com/phishdestroy/nicenic-evidence)
 [![IOC Feed](https://img.shields.io/badge/%E2%AC%87_IOC_FEED-domains__high.txt-6ea8d7?style=for-the-badge&labelColor=0c1018)](https://raw.githubusercontent.com/phishdestroy/nicenic-evidence/main/ioc/domains_high.txt)
 
 <br/>
