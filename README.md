@@ -6,36 +6,14 @@
 
 <br>
 
-[![Domains](https://img.shields.io/badge/domains_scanned-343%2C107-6ea8d7?style=flat-square&logo=googleearth&logoColor=white&labelColor=0c1018)](https://phishdestroy.github.io/nicenic-evidence/)
-[![Malicious](https://img.shields.io/badge/CRITICAL%2BHIGH%2BMED-18%2C927_(50%25_alive)-da3633?style=flat-square&labelColor=0c1018)](https://phishdestroy.github.io/nicenic-evidence/)
+[-da3633?style=flat-square&labelColor=0c1018)](https://phishdestroy.github.io/nicenic-evidence/)
 [![Registrar](https://img.shields.io/badge/IANA-%233765-6ea8d7?style=for-the-badge&labelColor=0c1018&logo=internetcomputer&logoColor=white)](https://www.iana.org/assignments/registrar-ids/registrar-ids.xhtml)
 [![TLP](https://img.shields.io/badge/TLP-CLEAR-3fb950?style=for-the-badge&labelColor=0c1018)](https://www.cisa.gov/tlp)
-[![Signed](https://img.shields.io/badge/ED25519-Signed-6ea8d7?style=for-the-badge&labelColor=0c1018&logo=gnuprivacyguard&logoColor=white)](SHA256SUMS.txt.sig)
+
 [![License](https://img.shields.io/badge/license-MIT-c0a060?style=for-the-badge&labelColor=0c1018)](LICENSE)
 [![Pages](https://img.shields.io/badge/%E2%96%B6_LIVE_REPORT-phishdestroy.github.io%2Fnicenic--evidence-3fb950?style=for-the-badge&labelColor=0c1018)](https://phishdestroy.github.io/nicenic-evidence/)
 
-<br>
 <br/>
-
-[![Domains Scanned](https://img.shields.io/badge/domains_scanned-343%2C107-6ea8d7?style=flat-square&logo=googleearth&logoColor=white&labelColor=0c1018)](#scope)
-[![CRITICAL](https://img.shields.io/badge/CRITICAL-10%2C377-da3633?style=flat-square&labelColor=0c1018)](#headline-findings)
-[![HIGH](https://img.shields.io/badge/HIGH-7%2C928-da3633?style=flat-square&labelColor=0c1018)](#headline-findings)
-[![Malicious/Alive](https://img.shields.io/badge/malicious_%2F_alive-50%25-da3633?style=flat-square&labelColor=0c1018)](#headline-findings)
-[![Clusters](https://img.shields.io/badge/operator_clusters-2%2C939-c0a060?style=flat-square&labelColor=0c1018)](#operator-clusters)
-[![Alive](https://img.shields.io/badge/alive-37%2C844-3fb950?style=flat-square&labelColor=0c1018)](#scope)
-
-<br/>
-
-[![New Today](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/phishdestroy/nicenic-evidence/master/stats/today.json&style=flat-square&labelColor=0c1018)](https://github.com/phishdestroy/nicenic-evidence/tree/master/data/new) [![Total](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/phishdestroy/nicenic-evidence/master/stats/total.json&style=flat-square&labelColor=0c1018)](https://github.com/phishdestroy/nicenic-evidence/blob/master/data/all.txt) [![Last Fetch](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/phishdestroy/nicenic-evidence/master/stats/last_fetch.json&style=flat-square&labelColor=0c1018)](https://github.com/phishdestroy/nicenic-evidence/actions) [![Confirmed](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/phishdestroy/nicenic-evidence/master/stats/correlation.json&style=flat-square&labelColor=0c1018)](https://github.com/phishdestroy/nicenic-evidence) [![Fresh Catch](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/phishdestroy/nicenic-evidence/master/stats/freshness.json&style=flat-square&labelColor=0c1018)](https://github.com/phishdestroy/nicenic-evidence)
-
-[![Est. Revenue](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/phishdestroy/nicenic-evidence/master/stats/revenue.json&style=flat-square&labelColor=0c1018)](https://github.com/phishdestroy/nicenic-evidence) [![Top $ TLD](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/phishdestroy/nicenic-evidence/master/stats/top_tld_rev.json&style=flat-square&labelColor=0c1018)](https://github.com/phishdestroy/nicenic-evidence) [![Avg Period](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/phishdestroy/nicenic-evidence/master/stats/lifetime.json&style=flat-square&labelColor=0c1018)](https://github.com/phishdestroy/nicenic-evidence) [![Long Reg](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/phishdestroy/nicenic-evidence/master/stats/longreg.json&style=flat-square&labelColor=0c1018)](https://github.com/phishdestroy/nicenic-evidence) [![Top TLDs](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/phishdestroy/nicenic-evidence/master/stats/tld_top.json&style=flat-square&labelColor=0c1018)](https://github.com/phishdestroy/nicenic-evidence)
-
-[![Deployed](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/phishdestroy/nicenic-evidence/master/stats/deployed.json&style=flat-square&labelColor=0c1018)](https://github.com/phishdestroy/nicenic-evidence) [![No IP at Reg](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/phishdestroy/nicenic-evidence/master/stats/no_ip.json&style=flat-square&labelColor=0c1018)](https://github.com/phishdestroy/nicenic-evidence) [![Top Hosting](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/phishdestroy/nicenic-evidence/master/stats/hosting.json&style=flat-square&labelColor=0c1018)](https://github.com/phishdestroy/nicenic-evidence) [![Serial Regs](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/phishdestroy/nicenic-evidence/master/stats/serial_regs.json&style=flat-square&labelColor=0c1018)](https://github.com/phishdestroy/nicenic-evidence) [![Top Targets](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/phishdestroy/nicenic-evidence/master/stats/brands.json&style=flat-square&labelColor=0c1018)](https://github.com/phishdestroy/nicenic-evidence) [![Unranked](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/phishdestroy/nicenic-evidence/master/stats/unranked.json&style=flat-square&labelColor=0c1018)](https://github.com/phishdestroy/nicenic-evidence)
-
-<br/>
-
-<img src="https://readme-typing-svg.demolab.com/?lines=Complete-zone+scan+of+IANA+%233765+%28NICENIC%29;343%2C107+domains+enumerated+%E2%80%94+zero+sampling;18%2C927+confirmed+malicious+%2850%25+of+alive%29;Evidence+package+for+ICANN+enforcement&font=JetBrains+Mono&size=14&color=6ea8d7&center=true&width=720&height=32&pause=1500" alt="rotating headline"/>
-
 # NICENIC Zone Scan — Complete Registrar Investigation
 
 **Phase I · NICENIC INTERNATIONAL GROUP CO., LIMITED · IANA #3765**
@@ -45,7 +23,6 @@
 </div>
 
 ---
-
 
 <!-- LIVE_STATS:START -->
 
