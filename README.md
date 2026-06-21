@@ -6,7 +6,6 @@
 
 <br>
 
-[-da3633?style=flat-square&labelColor=0c1018)](https://phishdestroy.github.io/nicenic-evidence/)
 [![Registrar](https://img.shields.io/badge/IANA-%233765-6ea8d7?style=for-the-badge&labelColor=0c1018&logo=internetcomputer&logoColor=white)](https://www.iana.org/assignments/registrar-ids/registrar-ids.xhtml)
 [![TLP](https://img.shields.io/badge/TLP-CLEAR-3fb950?style=for-the-badge&labelColor=0c1018)](https://www.cisa.gov/tlp)
 
