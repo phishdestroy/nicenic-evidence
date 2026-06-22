@@ -92,7 +92,8 @@ jobs:
           LATEST=$(ls data/new/$(date -u +%Y)/$(date -u +%m)/*.txt 2>/dev/null | tail -1 | xargs -I{} basename {} .txt || echo "unknown")
           git commit -m "daily fetch: $(date -u +%Y-%m-%d) — +${NEW_COUNT} new | latest: ${LATEST} | total: ${AFTER} [skip ci]"
           for i in 1 2 3; do
-            git pull --rebase -X theirs origin master && git push && exit 0
+            git stash --include-untracked
+            git pull --rebase -X theirs origin master && git stash pop 2>/dev/null; git push && exit 0
             sleep $((i * 5))
           done
           exit 1
