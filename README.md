@@ -444,21 +444,47 @@ This investigation is part of a series documenting ICANN-accredited registrars t
 
 ## 🇷🇺 Russian Connection & Complicity Record
 
-### Russian Presence in NICENIC Zone
+### Russian Presence — Operator OSINT
 
-Russia is the **#2 hosting country** in NICENIC's zone: 3,113 deployed domains (8.5%). NICENIC is a known preferred registrar among Russian-speaking fraud operators requiring fast, anonymous, high-volume registration with minimal enforcement. The zone contains extensive Russian-language unlicensed gambling networks, carding shops, and crypto-drainer infrastructure targeting Russian and CIS victims.
+During the PhishDestroy investigation, a **VKontakte (VK) profile** belonging to a NiceNIC operator was identified. The profile was subscribed to the VK community **«Типичный мошенник»** (“Typical Scammer”) — a Russian-language social media page dedicated to scam tutorials, fraud toolkits, and cybercriminal community content. VK is a Russian social network. This is not a Chinese platform. The operator of an ICANN-accredited registrar subscribed to a scammer community in his personal social media is not an ambiguous data point.
 
-NICENIC is a **Chinese registrar** (Beijing) operating under Chinese jurisdiction, creating a structural enforcement gap: ICANN's administrative mechanisms take months while fraud domains operate in real time.
+**Key facts:**
+- **VK profile** — Russian social network (vk.com), not accessible to non-Russian audiences by default
+- **Subscribed to «Типичный мошенник»** — explicit fraud/scammer community content
+- Russia is the **#2 hosting country** in NICENIC’s zone: 3,113 deployed domains (8.5%)
+- NiceNIC is the preferred registrar of **Russian-speaking fraud affiliate networks** — documented in leaked Telegram screenshots where network instructors explicitly recommend NiceNIC to new affiliates
+- The **“Soulless”** scam network registered 1,200+ identical phishing sites via NiceNIC
+- NICENIC accepts **Bitcoin, Tether, Ethereum, Litecoin** — specifically to sever financial audit trails and enable anonymous registration
+
+### “We Are Not Against Scamming”
+
+On **January 10, 2026**, a post appeared from a NiceNIC-attributed account stating:
+
+> *“We are not against scamming… we here to make cash.”*
+
+NiceNIC subsequently claimed the account was “hacked” by a user named “Juliani” to maintain ICANN deniability. The statement is consistent with the operational record regardless of its attribution.
 
 ### Documented Obstruction
 
-- **RAA §3.18 requires 24-hour acknowledgement** of abuse reports. NICENIC's effective response is measured in weeks or is absent entirely.
-- Domains flagged with complete evidence packages (screenshots, AI classification, WHOIS, live HTTP proof) **remain active serving phishing content** days and weeks after reports.
-- **No public abuse transparency report** has been published by NICENIC for any reporting period.
-- **ICANN Contractual Compliance complaint filed.** NICENIC's continued accreditation depends on a process measured in months during which thousands of fraud domains remain live.
+- **RAA §3.18 requires 24-hour acknowledgement** of abuse reports. NICENIC’s effective response is measured in weeks or is absent entirely.
+- NICENIC’s abuse system **forwards complaints directly to the registrants** (the criminals) rather than investigating independently — and accepts registrant denials at face value to close tickets.
+- Auto-responder templates claim “insufficient evidence” even when full forensic packages are submitted: screenshots, AI classification, WHOIS, live HTTP proof, financial transaction hashes.
+- **Trust Wallet heist (December 2025):** $8.5M stolen — infrastructure hosted on NiceNIC. Domains remained live post-report.
+- **Scattered Spider** lookalike domains for ransomware supply-chain attacks registered via NiceNIC.
+- NICENIC’s **phishing domain score: 1,141.74** — **326× higher** than the industry average of ~3.5.
+- **No public abuse transparency report** published by NICENIC for any reporting period.
+- **ICANN Contractual Compliance complaint filed.** NiceNIC’s continued accreditation depends on a process measured in months during which thousands of fraud domains remain live.
 - Direct requests with documented evidence: **systematically ignored.**
 
-> *"NICENIC's abuse response SLA is effectively infinite. This investigation makes it finite."*
+### External Coverage
+
+| Publication | Title |
+|---|---|
+| 📰 PhishDestroy / Medium | [“NiceNIC Exposed: The ICANN-Accredited Registrar Powering the World’s Cybercriminal Ecosystem”](https://phishdestroy.medium.com/nicenic-exposed-the-icann-accredited-registrar-powering-the-worlds-cybercriminal-ecosystem-4e4996452e03) |
+| 📰 DecodeCybercrime | [“NiceNIC: The Leading Bulletproof Domain Registrar Enabling Global Cybercrime”](https://decodecybercrime.com/nicenic-the-leading-bulletproof-domain-registrar-enabling-global-cybercrime/) |
+| 📰 PhishDestroy.io | [nicenic-real — Full investigation](https://phishdestroy.io/nicenic-real) |
+
+> *“NICENIC’s abuse response SLA is effectively infinite. This investigation makes it finite.”*
 
 
 ## Related Investigations
