@@ -444,18 +444,23 @@ This investigation is part of a series documenting ICANN-accredited registrars t
 
 ## 🇷🇺 Russian Connection & Complicity Record
 
-### Russian Presence — Operator OSINT
+### Russian Presence — CEO OSINT
 
-During the PhishDestroy investigation, a **VKontakte (VK) profile** belonging to a NiceNIC operator was identified. The profile was subscribed to the VK community **«Типичный мошенник»** (“Typical Scammer”) — a Russian-language social media page dedicated to scam tutorials, fraud toolkits, and cybercriminal community content. VK is a Russian social network. This is not a Chinese platform. The operator of an ICANN-accredited registrar subscribed to a scammer community in his personal social media is not an ambiguous data point.
+**Helen Ho**, the CEO of NiceNIC, is directly associated with the email `support@nicenic.net`, which appears registered across multiple Russian-language platforms. She maintains an active **VKontakte (VK) account** under the handle:
 
-**Key facts:**
-- **VK profile** — Russian social network (vk.com), not accessible to non-Russian audiences by default
-- **Subscribed to «Типичный мошенник»** — explicit fraud/scammer community content
-- Russia is the **#2 hosting country** in NICENIC’s zone: 3,113 deployed domains (8.5%)
-- NiceNIC is the preferred registrar of **Russian-speaking fraud affiliate networks** — documented in leaked Telegram screenshots where network instructors explicitly recommend NiceNIC to new affiliates
-- The **“Soulless”** scam network registered 1,200+ identical phishing sites via NiceNIC
+> **`nicenic_global`** — [vk.com](https://vk.com)
+
+VK is a Russian social network with no meaningful presence in China. For a CEO of a Chinese registrar to maintain an **active** VK account — and to be highly active on it — is strategically significant. Analysis of her follower network on VK reveals **entities engaged in scam activity while using NiceNIC domain services**.
+
+Helen Ho's VK account is subscribed to the community **«Типичный мошенник»** ("Typical Scammer") — a Russian-language VK page dedicated to scam tutorials, fraud toolkits, and cybercriminal community content.
+
+The CEO of an ICANN-accredited registrar, subscribed to a scammer community on a Russian social network, with followers who are active fraud operators using her registrar's services — is not an ambiguous data point. It is a documented conflict of interest at the executive level.
+
+**Additional key facts:**
+- Russia is the **#2 hosting country** in NICENIC's zone: 3,113 deployed domains (8.5%)
+- NiceNIC is the preferred registrar of **Russian-speaking fraud affiliate networks** — documented in leaked Telegram screenshots where network instructors explicitly recommend NiceNIC to affiliates
+- The **"Soulless"** scam network registered 1,200+ identical phishing sites via NiceNIC
 - NICENIC accepts **Bitcoin, Tether, Ethereum, Litecoin** — specifically to sever financial audit trails and enable anonymous registration
-
 ### “We Are Not Against Scamming”
 
 On **January 10, 2026**, a post appeared from a NiceNIC-attributed account stating:
