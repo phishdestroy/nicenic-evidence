@@ -279,7 +279,8 @@ footer a{color:var(--cy)}
   <h1>NICENIC INTERNATIONAL GROUP CO., LIMITED<br><strong>Registrar Abuse Investigation</strong></h1>
   <p class="hero-sub">343,107 domains scanned · Complete registrar zone · IANA #3765 · China · PhishDestroy Research · June 2026</p>
   <div class="bignums">
-    <div class="b r"><div class="n">37,844</div><div class="l">Alive domains (11%)</div></div>
+    <div class="b r"><div class="n">37,844</div>
+  <div id="hero-live" style="display:flex;flex-wrap:wrap;gap:14px;margin-top:18px;padding-top:16px;border-top:1px solid rgba(255,255,255,.06)"></div><div class="l">Alive domains (11%)</div></div>
     <div class="b r"><div class="n">18,305</div><div class="l">HIGH+CRITICAL (48.4% of alive)</div></div>
     <div class="b o"><div class="n">622</div><div class="l">MEDIUM severity</div></div>
     <div class="b c"><div class="n">63,190</div><div class="l">Cloudflare-protected (83%)</div></div>
@@ -1811,6 +1812,44 @@ onHover:function(e,els){document.getElementById('chart-wrap').style.cursor=els.l
 
     // ── Trigger countUp on all existing stat cards ─────────────────────────
     animateCards(document);
+  });
+})();
+</script>
+
+<script>
+(function(){
+  function waitCD(cb){if(typeof _chartData!=='undefined'&&_chartData){cb(_chartData);return;}setTimeout(function(){waitCD(cb);},300);}
+  waitCD(function(d){
+    var el=document.getElementById('hero-live');
+    if(!el)return;
+    function stat(val,label,color,live){
+      var w=document.createElement('div');
+      w.setAttribute('style','display:flex;flex-direction:column;gap:2px');
+      var top=document.createElement('div');
+      top.setAttribute('style','display:flex;align-items:baseline;gap:6px');
+      var n=document.createElement('span');
+      n.setAttribute('style','font-size:1.6rem;font-weight:800;color:var(--'+color+');line-height:1');
+      n.textContent=val;
+      top.appendChild(n);
+      if(live){var dot=document.createElement('span');dot.setAttribute('style','font-size:9px;font-weight:700;color:var(--gn);border:1px solid rgba(63,185,80,.3);padding:1px 5px;border-radius:3px;font-family:monospace;animation:blink 2s step-end infinite');dot.textContent='LIVE';top.appendChild(dot);}
+      var l=document.createElement('div');l.setAttribute('style','font-size:10px;text-transform:uppercase;letter-spacing:.06em;color:var(--tx3)');l.textContent=label;
+      w.appendChild(top);w.appendChild(l);
+      return w;
+    }
+    var tot=(d.total_new_all_time||0).toLocaleString();
+    var rev='$'+Math.round(d.total_revenue_estimate||0).toLocaleString();
+    var dep=(d.deployment_rate||0)+'%';
+    var ser=(d.serial_email_count||0).toLocaleString();
+    var upd=d.last_updated||'—';
+    el.appendChild(stat(tot,'Total registered (live)',  'cy', true));
+    el.appendChild(stat(rev,'Est. registrar revenue',  'gn', true));
+    el.appendChild(stat(dep,'Deployment rate',          'or', false));
+    el.appendChild(stat(ser,'Serial registrants',       'rd', false));
+    var sep=document.createElement('div');sep.setAttribute('style','width:1px;background:rgba(255,255,255,.06);align-self:stretch;margin:0 4px');el.appendChild(sep);
+    var ud=document.createElement('div');ud.setAttribute('style','display:flex;flex-direction:column;gap:2px;justify-content:center');
+    var ul=document.createElement('div');ul.setAttribute('style','font-size:9px;text-transform:uppercase;letter-spacing:.06em;color:var(--tx3)');ul.textContent='Last updated';
+    var uv=document.createElement('div');uv.setAttribute('style','font-size:12px;font-family:monospace;color:var(--tx2)');uv.textContent=upd;
+    ud.appendChild(ul);ud.appendChild(uv);el.appendChild(ud);
   });
 })();
 </script>
