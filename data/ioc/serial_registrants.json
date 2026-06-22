@@ -203,7 +203,7 @@
     },
     {
       "email": "info@ankamall.com.tr",
-      "count": 82,
+      "count": 81,
       "domains": [
         "008ogwe.icu",
         "0qs4b4his2.icu",
@@ -228,7 +228,6 @@
         "abc987xyz456.icu",
         "acllfq.icu",
         "asdas3124rfdas.icu",
-        "basvurbavcu.sbs",
         "basvurukurumsalform.icu",
         "basvurukurumsalhizmet.icu",
         "basvurukurumsalinfo.icu",
@@ -465,16 +464,13 @@
     },
     {
       "email": "ihre@email.de",
-      "count": 33,
+      "count": 29,
       "domains": [
         "afst-roade.pro",
         "asf-digitalvigette.com",
-        "asf-mautstrasse.pro",
-        "asf-road.pro",
         "asf-vingete.com",
         "asf-vingete.org",
         "asf-vingetes.com",
-        "asf-vingette.pro",
         "asfi-auto.com",
         "asfi-auto.digital",
         "asfi-strabe.digital",
@@ -489,7 +485,6 @@
         "asfintolles.pro",
         "asfline.com",
         "asfvigette.com",
-        "asitage.pro",
         "autobahn-vignete.com",
         "autobahnvignete.com",
         "mautstrabe.digital",
@@ -819,22 +814,6 @@
       ]
     },
     {
-      "email": "ihre.email@beispiel.de",
-      "count": 14,
-      "domains": [
-        "acfineg.com",
-        "aroundroads.com",
-        "asfi-vingette.com",
-        "asfig-strabe.pro",
-        "asfin-strasse.com",
-        "asitage.info",
-        "mautroad.com",
-        "osstreshroadmap.com",
-        "roadmautguide.com",
-        "vignettemautinfo.com"
-      ]
-    },
-    {
       "email": "help@valgorix.com",
       "count": 14,
       "domains": [
@@ -897,6 +876,21 @@
         "sprawkabest.info",
         "sprawki-best.info",
         "sprawkibest.info"
+      ]
+    },
+    {
+      "email": "ihre.email@beispiel.de",
+      "count": 13,
+      "domains": [
+        "acfineg.com",
+        "aroundroads.com",
+        "asfi-vingette.com",
+        "asfin-strasse.com",
+        "asitage.info",
+        "mautroad.com",
+        "osstreshroadmap.com",
+        "roadmautguide.com",
+        "vignettemautinfo.com"
       ]
     },
     {
