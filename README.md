@@ -429,6 +429,38 @@ nicenic-evidence/
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
+
+## 🕸️ Network of Complicit Registrars
+
+This investigation is part of a series documenting ICANN-accredited registrars that systematically obstruct anti-phishing enforcement or directly profit from fraud infrastructure. All three registrars share a documented pattern: **direct requests backed by evidence are ignored, delayed, or met with active suppression.**
+
+| # | Registrar | IANA | Zone | Confirmed Malicious | Russian Connection | Investigation |
+|--|--|--|--|--|--|--|
+| 1 | **NICENIC INTERNATIONAL GROUP** *(this)* | #3765 | 349,376 | **18,927 (50% of alive)** | 🇷🇺 #2 hosting country (8.5%) | [nicenic-evidence](https://github.com/phishdestroy/nicenic-evidence) · [Live Report](https://phishdestroy.github.io/nicenic-evidence/) |
+| 2 | **Trustname.com / Fewmoretaps ÖÜ** | #4318 | 9,343 | **1,114 HIGH (86% alive)** | 🇷🇺 Russian-operated, Estonian shell | [trustname-evidence](https://github.com/phishdestroy/trustname-evidence) · [Live Report](https://phishdestroy.github.io/trustname-evidence/) |
+| 3 | **NameSilo, LLC** | #1479 | 5,251,494 | **183,419** | 🇷🇺 Russian team members, suppression campaign | [namesilo-evidence](https://github.com/phishdestroy/namesilo-evidence) · [Live Report](https://phishdestroy.github.io/namesilo-evidence/) |
+
+---
+
+## 🇷🇺 Russian Connection & Complicity Record
+
+### Russian Presence in NICENIC Zone
+
+Russia is the **#2 hosting country** in NICENIC's zone: 3,113 deployed domains (8.5%). NICENIC is a known preferred registrar among Russian-speaking fraud operators requiring fast, anonymous, high-volume registration with minimal enforcement. The zone contains extensive Russian-language unlicensed gambling networks, carding shops, and crypto-drainer infrastructure targeting Russian and CIS victims.
+
+NICENIC is a **Chinese registrar** (Beijing) operating under Chinese jurisdiction, creating a structural enforcement gap: ICANN's administrative mechanisms take months while fraud domains operate in real time.
+
+### Documented Obstruction
+
+- **RAA §3.18 requires 24-hour acknowledgement** of abuse reports. NICENIC's effective response is measured in weeks or is absent entirely.
+- Domains flagged with complete evidence packages (screenshots, AI classification, WHOIS, live HTTP proof) **remain active serving phishing content** days and weeks after reports.
+- **No public abuse transparency report** has been published by NICENIC for any reporting period.
+- **ICANN Contractual Compliance complaint filed.** NICENIC's continued accreditation depends on a process measured in months during which thousands of fraud domains remain live.
+- Direct requests with documented evidence: **systematically ignored.**
+
+> *"NICENIC's abuse response SLA is effectively infinite. This investigation makes it finite."*
+
+
 ## Related Investigations
 
 | Investigation | Registrar | Zone Size | Alive | Malicious | Report |
