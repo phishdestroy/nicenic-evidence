@@ -70,12 +70,19 @@ jobs:
             exit 1
           fi
 
+
+      - name: Rebuild dashboard data
+        run: |
+          if [ -f data/enriched.csv ]; then
+            python docs/build_datajson.py
+          fi
+
       - name: Commit and push
         run: |
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git config user.name "github-actions[bot]"
           BEFORE=$(wc -l < data/all.txt 2>/dev/null || echo 0)
-          git add data/ stats/ ioc/ README.md
+          git add data/ stats/ ioc/ docs/ README.md
           if git diff --staged --quiet; then
             echo "No changes"
             exit 0
