@@ -31,7 +31,7 @@
 <td align="center"><b>📦 Domains tracked</b><br/><sub><code>350,001</code></sub></td>
 <td align="center"><b>💰 Est. revenue</b><br/><sub><code>$2,712,941</code></sub></td>
 <td align="center"><b>📡 Deployed</b><br/><sub><code>54.8%</code></sub></td>
-<td align="center"><b>✅ Confirmed phishing</b><br/><sub><code>6.4%</code> (22,354)</sub></td>
+<td align="center"><b>✅ Confirmed phishing</b><br/><sub><code>6.4%</code> (22,360)</sub></td>
 <td align="center"><b>⚡ Fresh (≤7d)</b><br/><sub><code>1.5%</code></sub></td>
 <td align="center"><b>🕵️ Serial regs</b><br/><sub><code>43</code></sub></td>
 </tr></table>

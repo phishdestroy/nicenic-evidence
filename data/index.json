@@ -23102,11 +23102,11 @@
     "airdrop": 811,
     "verify": 675,
     "vault": 453,
-    "trezor": 414
+    "solana": 414
   },
   "unranked_pct": 98.4,
   "ranked_count": 5503,
-  "correlation_count": 22354,
+  "correlation_count": 22360,
   "correlation_pct": 6.4,
   "last_updated": "2026-06-22"
 }
