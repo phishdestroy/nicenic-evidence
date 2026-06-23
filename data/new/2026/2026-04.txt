@@ -1697,6 +1697,7 @@ app-cliente-soporteweb.com
 app-cliente-websoporte.com
 app-clientes-particular.com
 app-clientesportal.com
+app-connect-uniswap.org
 app-controlweb.com
 app-credefi.net
 app-cygnus.com
@@ -17422,6 +17423,7 @@ phantomchain.live
 phantomops.live
 phantummm.live
 pharmprofessional.com
+pharmregtop.com
 pharos-app.lat
 pharos-claim.com
 pharos-foundation.xyz
