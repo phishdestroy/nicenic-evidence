@@ -911,6 +911,25 @@
       ]
     },
     {
+      "email": "max@unternehmen.de",
+      "count": 13,
+      "domains": [
+        "amex-access.com",
+        "amex-desk.com",
+        "amex-hilfe.com",
+        "amex-key.com",
+        "amex-safekey.com",
+        "amex-safetykey.com",
+        "amex-save.com",
+        "amex-schutz.com",
+        "amex-sicherheit.app",
+        "amex-start.com",
+        "amex-status.com",
+        "amex-system.com",
+        "amex-versicherung.com"
+      ]
+    },
+    {
       "email": "info@medcom-site.com",
       "count": 12,
       "domains": [
@@ -1093,6 +1112,23 @@
       ]
     },
     {
+      "email": "support@soberapartmentsofamerica.org",
+      "count": 11,
+      "domains": [
+        "467marrsbahis.com",
+        "extrabet0996.com",
+        "extrabetoffcial-tr.com",
+        "extrabetyenigiris-tr.com",
+        "marsbahis-girisim-tr.com",
+        "marsbahis500.com",
+        "mertking1629.com",
+        "mertking1630.com",
+        "sekagirisi-tr.com",
+        "xn--extrbet994-v4a.com",
+        "xn--extrbet995-v4a.com"
+      ]
+    },
+    {
       "email": "info@spravka-ru.com",
       "count": 11,
       "domains": [
@@ -1141,22 +1177,6 @@
         "originals-diplommy24.com",
         "originals-diploms.com",
         "originals-diplomy.com"
-      ]
-    },
-    {
-      "email": "support@soberapartmentsofamerica.org",
-      "count": 10,
-      "domains": [
-        "467marrsbahis.com",
-        "extrabet0996.com",
-        "extrabetyenigiris-tr.com",
-        "marsbahis-girisim-tr.com",
-        "marsbahis500.com",
-        "mertking1629.com",
-        "mertking1630.com",
-        "sekagirisi-tr.com",
-        "xn--extrbet994-v4a.com",
-        "xn--extrbet995-v4a.com"
       ]
     },
     {
@@ -1247,21 +1267,6 @@
         "zedxion-exchange.com",
         "zedxion-giris.com",
         "zedxion-login.com"
-      ]
-    },
-    {
-      "email": "bilgi@avrasyatuneli.com",
-      "count": 9,
-      "domains": [
-        "cekicimhizliotokurtaricisi.xyz",
-        "lutfikirdarhastanem.xyz",
-        "nesnedeposum.xyz",
-        "nesnemarketdepom.xyz",
-        "parcatek.xyz",
-        "renaultyedeklerim.xyz",
-        "subaruotoparcacisi.xyz",
-        "yedekparcalarimfilosu.xyz",
-        "yogurtdiyarimm.xyz"
       ]
     }
   ]
