@@ -22,6 +22,7 @@
       "019511-coinbase.com",
       "033027coinbase.com",
       "034482coinbase.com",
+      "041413-coinbase.com",
       "047352-coinbase.xyz",
       "052831coinbase.com",
       "055262coinbase.com",
@@ -200,8 +201,7 @@
       "133750-coinbase.com",
       "133781coinbase.com",
       "133830-coinbase.com",
-      "133920-coinbase.com",
-      "1340254-coinbase.com"
+      "133920-coinbase.com"
     ],
     "claim": [
       "0x-claim.xyz",
@@ -1030,6 +1030,7 @@
       "advance-smartwallet.com",
       "ag-connect-wallet.com",
       "ai-agents-wallets.xyz",
+      "ai-wallet.app",
       "ailawallet.com",
       "airdrop-trustwallet.app",
       "airdrop-trustwallet.net",
@@ -1039,7 +1040,6 @@
       "airdrop-walletconnect.com",
       "alephuimdesktopwallet.sbs",
       "algowalletdesktop.icu",
-      "algowalletnode.top",
       "allocate-trustwallet.com",
       "allocation-trustwallet.com",
       "am1-trustwallet.com",
@@ -1089,7 +1089,6 @@
       "auth-smartwallet.com",
       "auths-wallets.com",
       "avaxwallet.org",
-      "awswallet.net",
       "awswalletamazon.com",
       "awsxwallet.com",
       "awsxwallets.com",
@@ -1199,6 +1198,7 @@
       "cakewalletdesktop.com",
       "cakewalletdesktop.live",
       "cakewalletdesktops.live",
+      "cakewalletlabs.com",
       "cakewalletsdesktop.live",
       "cancel-cbwallet.com",
       "card--trustwallet.com",
@@ -1908,8 +1908,6 @@
       "aviator-official-game.org",
       "aviator-officiall.net",
       "awsaiofficial.com",
-      "awsxofficial.com",
-      "awsxofficial.net",
       "bahiscasino-official2025.com",
       "bahisfairofficial2026.vip",
       "bahsine-official.com",
@@ -2019,7 +2017,9 @@
       "casibom-official-giris.com",
       "casibom-official-login.com",
       "casibom-official.org",
-      "casibom-official170.icu"
+      "casibom-official170.icu",
+      "casibom-official2025.com",
+      "casibom-official2026.com"
     ],
     "kraken": [
       "076261-kraken.com",
@@ -3387,7 +3387,6 @@
       "airdrop-kerneldao.net",
       "airdrop-layeredge.xyz",
       "airdrop-lido.com",
-      "airdrop-lido.net",
       "airdrop-lidofinance.com",
       "airdrop-lidotoken.org",
       "airdrop-lighter.sbs",
@@ -3433,7 +3432,8 @@
       "airdrop-neiroeth.com",
       "airdrop-neptune.cash",
       "airdrop-neur.com",
-      "airdrop-niggaliquid.fun"
+      "airdrop-niggaliquid.fun",
+      "airdrop-nubcat.xyz"
     ],
     "verify": [
       "05-25verifybnkaccess.info",
@@ -3516,7 +3516,6 @@
       "clientverifyalerts.info",
       "clientverifyportal.info",
       "cluster-verify-bridge.com",
-      "coinbaseverifyteam.com",
       "coinbasewebverify.com",
       "collab-verify.com",
       "collaborationverify.com",
@@ -3635,7 +3634,8 @@
       "mica-update-verify.com",
       "mica-verify-update.com",
       "mica-verify.com",
-      "michaelverifyscotia.business"
+      "michaelverifyscotia.business",
+      "mobilepayverifydk.com"
     ],
     "vault": [
       "118924-cbvault.com",

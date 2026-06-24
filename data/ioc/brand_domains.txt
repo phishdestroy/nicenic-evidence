@@ -18,6 +18,7 @@ coinbase	018999-coinbase.com
 coinbase	019511-coinbase.com
 coinbase	033027coinbase.com
 coinbase	034482coinbase.com
+coinbase	041413-coinbase.com
 coinbase	047352-coinbase.xyz
 coinbase	052831coinbase.com
 coinbase	055262coinbase.com
@@ -197,7 +198,6 @@ coinbase	133750-coinbase.com
 coinbase	133781coinbase.com
 coinbase	133830-coinbase.com
 coinbase	133920-coinbase.com
-coinbase	1340254-coinbase.com
 claim	0x-claim.xyz
 claim	0x00-claimables.xyz
 claim	0x000-claimables.xyz
@@ -1016,6 +1016,7 @@ wallet	adalite-wallet.com
 wallet	advance-smartwallet.com
 wallet	ag-connect-wallet.com
 wallet	ai-agents-wallets.xyz
+wallet	ai-wallet.app
 wallet	ailawallet.com
 wallet	airdrop-trustwallet.app
 wallet	airdrop-trustwallet.net
@@ -1025,7 +1026,6 @@ wallet	airdrop-trustwallet.xyz
 wallet	airdrop-walletconnect.com
 wallet	alephuimdesktopwallet.sbs
 wallet	algowalletdesktop.icu
-wallet	algowalletnode.top
 wallet	allocate-trustwallet.com
 wallet	allocation-trustwallet.com
 wallet	am1-trustwallet.com
@@ -1075,7 +1075,6 @@ wallet	audittrustwallet.info
 wallet	auth-smartwallet.com
 wallet	auths-wallets.com
 wallet	avaxwallet.org
-wallet	awswallet.net
 wallet	awswalletamazon.com
 wallet	awsxwallet.com
 wallet	awsxwallets.com
@@ -1185,6 +1184,7 @@ wallet	cakewalletdesktop.app
 wallet	cakewalletdesktop.com
 wallet	cakewalletdesktop.live
 wallet	cakewalletdesktops.live
+wallet	cakewalletlabs.com
 wallet	cakewalletsdesktop.live
 wallet	cancel-cbwallet.com
 wallet	card--trustwallet.com
@@ -1886,8 +1886,6 @@ official	aviator-official-game.net
 official	aviator-official-game.org
 official	aviator-officiall.net
 official	awsaiofficial.com
-official	awsxofficial.com
-official	awsxofficial.net
 official	bahiscasino-official2025.com
 official	bahisfairofficial2026.vip
 official	bahsine-official.com
@@ -1998,6 +1996,8 @@ official	casibom-official-giris.com
 official	casibom-official-login.com
 official	casibom-official.org
 official	casibom-official170.icu
+official	casibom-official2025.com
+official	casibom-official2026.com
 kraken	076261-kraken.com
 kraken	1-kraken.com
 kraken	109281-kraken.com
@@ -3351,7 +3351,6 @@ airdrop	airdrop-kerneldao.com
 airdrop	airdrop-kerneldao.net
 airdrop	airdrop-layeredge.xyz
 airdrop	airdrop-lido.com
-airdrop	airdrop-lido.net
 airdrop	airdrop-lidofinance.com
 airdrop	airdrop-lidotoken.org
 airdrop	airdrop-lighter.sbs
@@ -3398,6 +3397,7 @@ airdrop	airdrop-neiroeth.com
 airdrop	airdrop-neptune.cash
 airdrop	airdrop-neur.com
 airdrop	airdrop-niggaliquid.fun
+airdrop	airdrop-nubcat.xyz
 verify	05-25verifybnkaccess.info
 verify	1bmo-banking-verify.com
 verify	1bmo-mobile-verify.com
@@ -3478,7 +3478,6 @@ verify	clarity-verify.com
 verify	clientverifyalerts.info
 verify	clientverifyportal.info
 verify	cluster-verify-bridge.com
-verify	coinbaseverifyteam.com
 verify	coinbasewebverify.com
 verify	collab-verify.com
 verify	collaborationverify.com
@@ -3598,6 +3597,7 @@ verify	mica-update-verify.com
 verify	mica-verify-update.com
 verify	mica-verify.com
 verify	michaelverifyscotia.business
+verify	mobilepayverifydk.com
 vault	118924-cbvault.com
 vault	157206-cbvault.com
 vault	177253-cb-vault.com
