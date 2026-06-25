@@ -389,7 +389,6 @@ claim	blockdawgclaim.network
 claim	blockv-claim.com
 claim	blockv-claims.com
 claim	bloktopiaclaim.com
-claim	blt-dgeclaim.xyz
 claim	bluaiclaims.com
 claim	blub-claim.com
 claim	blubclaims.xyz
@@ -398,6 +397,7 @@ claim	bluzelleclaims.com
 claim	bluzellerewardclaims.com
 claim	bmoclaimsonline.com
 claim	bmoclaimsupport.com
+claim	bnb-claiming.com
 login	0auth-login.digital
 login	101clublogin.net
 login	1bmologin-dsvl2k9mc.com
@@ -1443,6 +1443,7 @@ ledger	182871-ledger.com
 ledger	183403ledger.com
 ledger	187456-ledger.com
 ledger	19051-ledger.com
+ledger	190612ledger.com
 ledger	1929311-ledger.com
 ledger	1929313-ledger.com
 ledger	1938102-ledger.com
@@ -1597,7 +1598,6 @@ ledger	assist-ledger.com
 ledger	at-ledger.com
 ledger	au-ledger.com
 ledger	aus-ledger.com
-ledger	auth-ledger.net
 support	029250-support.com
 support	0myidsupportdesk.live
 support	1-online-support.com
@@ -1869,6 +1869,7 @@ official	aresbetglobalofficial.vip
 official	aresbetofficial.vip
 official	artinexa-official.com
 official	asdcofficialssadsystemk.world
+official	asicminerofficial.com
 official	assets-mantleofficial.com
 official	at0micofficial.net
 official	autismofficial.xyz
@@ -1997,7 +1998,6 @@ official	casibom-official-login.com
 official	casibom-official.org
 official	casibom-official170.icu
 official	casibom-official2025.com
-official	casibom-official2026.com
 kraken	076261-kraken.com
 kraken	1-kraken.com
 kraken	109281-kraken.com
@@ -2083,6 +2083,7 @@ kraken	784328-kraken.com
 kraken	785976-kraken.com
 kraken	801842kraken.com
 kraken	81392-kraken.com
+kraken	817034kraken.com
 kraken	826971-kraken.com
 kraken	82721-kraken.com
 kraken	82721kraken.com
@@ -2197,7 +2198,6 @@ kraken	kraken-12att.net
 kraken	kraken-13-at.com
 kraken	kraken-13at.com
 kraken	kraken-13att.net
-kraken	kraken-14--at.net
 update	1337update.com
 update	1822direkt-update.com
 update	1822tanupdate.info
@@ -2376,6 +2376,7 @@ update	commerzbank-tan-update.app
 update	commerzbank-update.info
 update	commerzupdate.info
 update	commerzupdate.live
+update	communityupdate.xyz
 update	complete-here-update.com
 update	compliance-global-update.com
 update	compliance-mandatory-update.com
@@ -2397,7 +2398,6 @@ update	cryptodetailsupdaten.com
 update	csc-updates.live
 update	csr-update.info
 update	ctdl1-windowsupdate.com
-update	cygnusupdate.live
 crypto	094239-crypto.com
 crypto	109074-crypto.com
 crypto	1124crypto.com
@@ -2466,6 +2466,7 @@ crypto	309411crypto.com
 crypto	321352-crypto.com
 crypto	339810crypto.com
 crypto	344234-crypto.com
+crypto	352719-crypto.com
 crypto	352861crypto.com
 crypto	382741us-crypto.com
 crypto	386752crypto.com
@@ -2525,6 +2526,7 @@ crypto	818203-crypto.com
 crypto	836917-crypto.com
 crypto	838222-ticket-crypto.com
 crypto	845918-crypto.com
+crypto	847936-crypto.com
 crypto	863722-crypto.com
 crypto	873195-crypto.com
 crypto	874165-crypto.com
@@ -2596,8 +2598,6 @@ crypto	aucryptoconvention.com
 crypto	aucryptoevent.com
 crypto	aucryptoevents.com
 crypto	aucryptonew.com
-crypto	audit-crypto.com
-crypto	auscryptocon2026.com
 connect	0nline-2025at0connect.digital
 connect	0xmetaconnect-rpc.xyz
 connect	19928292pcstestconnect2919.com
@@ -2634,6 +2634,7 @@ connect	artmse-connection.com
 connect	assistservconnect.com
 connect	astar-network-connecting-you-to-web3.com
 connect	asterconnect.xyz
+connect	atoconnect-revise.icu
 connect	ausconnectresolve.net
 connect	aussieconnectaustral.net
 connect	austconnectlp.com
@@ -2777,7 +2778,6 @@ connect	connect-bananagun.com
 connect	connect-beefy.com
 connect	connect-bitstamq.com
 connect	connect-blastoff.com
-connect	connect-bloodloop.com
 connect	connect-brevis.network
 connect	connect-bungee.com
 connect	connect-bydfi.com
@@ -2790,6 +2790,7 @@ connect	connect-claim.com
 connect	connect-cocoon.com
 connect	connect-coinbase.com
 connect	connect-coinbureau.com
+connect	connect-collab.land
 connect	connect-coral.com
 connect	connect-curvance.com
 connect	connect-debank.com
@@ -2797,7 +2798,6 @@ connect	connect-devpage-rectify.com
 connect	connect-devrectify-page.com
 connect	connect-dsp2.info
 connect	connect-earnifi.com
-connect	connect-earnm.com
 trust	1-tdcanadatrust.com
 trust	1trusted.live
 trust	1win-trust2026.icu
@@ -3021,11 +3021,9 @@ account	account-assistance-auth934.live
 account	account-au-serviceportal.com
 account	account-auinbox.com
 account	account-ausinbox.com
-account	account-beehiiv.com
 account	account-binance.app
 account	account-bitstamp.net
 account	account-bitvavo.app
-account	account-canalplus-fr.com
 account	account-capitalontap.com
 account	account-capitalontaps.com
 account	account-capitlontap.com
@@ -3198,6 +3196,8 @@ account	accountsecurebnc.com
 account	accountsecurenow.com
 account	accountsecurity-coinbase.com
 account	accountsecurityalerts.com
+account	accountservice-bitpanda.com
+account	accountsettings-de.com
 airdrop	0x00000-bankless-hunt-airdrop.com
 airdrop	abstract-airdrop.xyz
 airdrop	aeth-airdrop.net
@@ -3820,7 +3820,9 @@ solana	alpha-solana.org
 solana	amlsolana.live
 solana	aparth-lasolana.com
 solana	asolanaz.xyz
+solana	assonsolana.xyz
 solana	auracoinsolana.com
+solana	babbysolana.xyz
 solana	bagworksolana.com
 solana	bagworksolana.net
 solana	baloosolana.xyz
@@ -3996,5 +3998,3 @@ solana	refund-solana.xyz
 solana	refundgas-solana.xyz
 solana	refundmysolana.xyz
 solana	refundsolana.fun
-solana	refundsolana.net
-solana	refundyoursolana.xyz

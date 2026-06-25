@@ -395,7 +395,6 @@
       "blockv-claim.com",
       "blockv-claims.com",
       "bloktopiaclaim.com",
-      "blt-dgeclaim.xyz",
       "bluaiclaims.com",
       "blub-claim.com",
       "blubclaims.xyz",
@@ -403,7 +402,8 @@
       "bluzelleclaims.com",
       "bluzellerewardclaims.com",
       "bmoclaimsonline.com",
-      "bmoclaimsupport.com"
+      "bmoclaimsupport.com",
+      "bnb-claiming.com"
     ],
     "login": [
       "0auth-login.digital",
@@ -1461,6 +1461,7 @@
       "183403ledger.com",
       "187456-ledger.com",
       "19051-ledger.com",
+      "190612ledger.com",
       "1929311-ledger.com",
       "1929313-ledger.com",
       "1938102-ledger.com",
@@ -1614,8 +1615,7 @@
       "assist-ledger.com",
       "at-ledger.com",
       "au-ledger.com",
-      "aus-ledger.com",
-      "auth-ledger.net"
+      "aus-ledger.com"
     ],
     "support": [
       "029250-support.com",
@@ -1891,6 +1891,7 @@
       "aresbetofficial.vip",
       "artinexa-official.com",
       "asdcofficialssadsystemk.world",
+      "asicminerofficial.com",
       "assets-mantleofficial.com",
       "at0micofficial.net",
       "autismofficial.xyz",
@@ -2018,8 +2019,7 @@
       "casibom-official-login.com",
       "casibom-official.org",
       "casibom-official170.icu",
-      "casibom-official2025.com",
-      "casibom-official2026.com"
+      "casibom-official2025.com"
     ],
     "kraken": [
       "076261-kraken.com",
@@ -2107,6 +2107,7 @@
       "785976-kraken.com",
       "801842kraken.com",
       "81392-kraken.com",
+      "817034kraken.com",
       "826971-kraken.com",
       "82721-kraken.com",
       "82721kraken.com",
@@ -2220,8 +2221,7 @@
       "kraken-12att.net",
       "kraken-13-at.com",
       "kraken-13at.com",
-      "kraken-13att.net",
-      "kraken-14--at.net"
+      "kraken-13att.net"
     ],
     "update": [
       "1337update.com",
@@ -2402,6 +2402,7 @@
       "commerzbank-update.info",
       "commerzupdate.info",
       "commerzupdate.live",
+      "communityupdate.xyz",
       "complete-here-update.com",
       "compliance-global-update.com",
       "compliance-mandatory-update.com",
@@ -2422,8 +2423,7 @@
       "cryptodetailsupdaten.com",
       "csc-updates.live",
       "csr-update.info",
-      "ctdl1-windowsupdate.com",
-      "cygnusupdate.live"
+      "ctdl1-windowsupdate.com"
     ],
     "crypto": [
       "094239-crypto.com",
@@ -2494,6 +2494,7 @@
       "321352-crypto.com",
       "339810crypto.com",
       "344234-crypto.com",
+      "352719-crypto.com",
       "352861crypto.com",
       "382741us-crypto.com",
       "386752crypto.com",
@@ -2553,6 +2554,7 @@
       "836917-crypto.com",
       "838222-ticket-crypto.com",
       "845918-crypto.com",
+      "847936-crypto.com",
       "863722-crypto.com",
       "873195-crypto.com",
       "874165-crypto.com",
@@ -2623,9 +2625,7 @@
       "aucryptoconvention.com",
       "aucryptoevent.com",
       "aucryptoevents.com",
-      "aucryptonew.com",
-      "audit-crypto.com",
-      "auscryptocon2026.com"
+      "aucryptonew.com"
     ],
     "connect": [
       "0nline-2025at0connect.digital",
@@ -2664,6 +2664,7 @@
       "assistservconnect.com",
       "astar-network-connecting-you-to-web3.com",
       "asterconnect.xyz",
+      "atoconnect-revise.icu",
       "ausconnectresolve.net",
       "aussieconnectaustral.net",
       "austconnectlp.com",
@@ -2807,7 +2808,6 @@
       "connect-beefy.com",
       "connect-bitstamq.com",
       "connect-blastoff.com",
-      "connect-bloodloop.com",
       "connect-brevis.network",
       "connect-bungee.com",
       "connect-bydfi.com",
@@ -2820,14 +2820,14 @@
       "connect-cocoon.com",
       "connect-coinbase.com",
       "connect-coinbureau.com",
+      "connect-collab.land",
       "connect-coral.com",
       "connect-curvance.com",
       "connect-debank.com",
       "connect-devpage-rectify.com",
       "connect-devrectify-page.com",
       "connect-dsp2.info",
-      "connect-earnifi.com",
-      "connect-earnm.com"
+      "connect-earnifi.com"
     ],
     "trust": [
       "1-tdcanadatrust.com",
@@ -3055,11 +3055,9 @@
       "account-au-serviceportal.com",
       "account-auinbox.com",
       "account-ausinbox.com",
-      "account-beehiiv.com",
       "account-binance.app",
       "account-bitstamp.net",
       "account-bitvavo.app",
-      "account-canalplus-fr.com",
       "account-capitalontap.com",
       "account-capitalontaps.com",
       "account-capitlontap.com",
@@ -3231,7 +3229,9 @@
       "accountsecurebnc.com",
       "accountsecurenow.com",
       "accountsecurity-coinbase.com",
-      "accountsecurityalerts.com"
+      "accountsecurityalerts.com",
+      "accountservice-bitpanda.com",
+      "accountsettings-de.com"
     ],
     "airdrop": [
       "0x00000-bankless-hunt-airdrop.com",
@@ -3862,7 +3862,9 @@
       "amlsolana.live",
       "aparth-lasolana.com",
       "asolanaz.xyz",
+      "assonsolana.xyz",
       "auracoinsolana.com",
+      "babbysolana.xyz",
       "bagworksolana.com",
       "bagworksolana.net",
       "baloosolana.xyz",
@@ -4037,9 +4039,7 @@
       "refund-solana.xyz",
       "refundgas-solana.xyz",
       "refundmysolana.xyz",
-      "refundsolana.fun",
-      "refundsolana.net",
-      "refundyoursolana.xyz"
+      "refundsolana.fun"
     ]
   }
 }
