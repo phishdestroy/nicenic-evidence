@@ -25,14 +25,14 @@
 
 <!-- LIVE_STATS:START -->
 
-> 🔴 **LIVE INVESTIGATION FEED** &middot; Auto-updated &middot; Last fetch `2026-06-26`
+> 🔴 **LIVE INVESTIGATION FEED** &middot; Auto-updated &middot; Last fetch `2026-06-27`
 
 <table><tr>
 <td align="center"><b>📦 Domains tracked</b><br/><sub><code>351,701</code></sub></td>
 <td align="center"><b>💰 Est. revenue</b><br/><sub><code>$2,722,440</code></sub></td>
 <td align="center"><b>📡 Deployed</b><br/><sub><code>54.7%</code></sub></td>
-<td align="center"><b>✅ Confirmed phishing</b><br/><sub><code>6.4%</code> (22,541)</sub></td>
-<td align="center"><b>⚡ Fresh (≤7d)</b><br/><sub><code>1.3%</code></sub></td>
+<td align="center"><b>✅ Confirmed phishing</b><br/><sub><code>6.4%</code> (22,550)</sub></td>
+<td align="center"><b>⚡ Fresh (≤7d)</b><br/><sub><code>1.1%</code></sub></td>
 <td align="center"><b>🕵️ Serial regs</b><br/><sub><code>44</code></sub></td>
 </tr></table>
 
