@@ -4,7 +4,7 @@
   "registrants": [
     {
       "email": "info@credicentrocoop.com",
-      "count": 96,
+      "count": 97,
       "domains": [
         "acceso-particularesweb.com",
         "accesoclientes-webapp.com",
@@ -84,6 +84,7 @@
         "ingdirect-soporteparticulares.com",
         "ingresos-soporte.com",
         "inicio-particularesweb.com",
+        "login-soporteweb.com",
         "myinvestor-alerta.com",
         "particular-gestionesapp.com",
         "particulares-serviciosweb.com",
@@ -450,7 +451,7 @@
     },
     {
       "email": "ihre@email.de",
-      "count": 29,
+      "count": 28,
       "domains": [
         "afst-roade.pro",
         "asf-digitalvigette.com",
@@ -473,7 +474,6 @@
         "asfvigette.com",
         "autobahn-vignete.com",
         "autobahnvignete.com",
-        "mautstrabe.digital",
         "safetycheck-kraken.com"
       ]
     },
