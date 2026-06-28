@@ -416,7 +416,6 @@ login	24x7ebankinglogin.com
 login	24x7mobilelogin.com
 login	24x7secureloginmt.com
 login	2fa-login.net
-login	321loginkapwfc.com
 login	3ex-login.com
 login	51clublogin.net
 login	55club-login.net
@@ -598,6 +597,7 @@ login	betcio-teklogin4.vip
 login	betcio-trlogin.vip
 login	betciolivelogin.com
 login	betciologinx.com
+login	betcup-login.vip
 secure	09025896-secure-chase.com
 secure	19023-secure.com
 secure	1bmo-banking-secure.com
@@ -826,7 +826,6 @@ token	airdrop-arbitrumtoken-secure01a.com
 token	airdrop-arbitrumtokens-gateway01c.com
 token	airdrop-arbtoken-gate1b.com
 token	airdrop-bakedtoken.com
-token	airdrop-borpatoken.com
 token	airdrop-galatoken.com
 token	airdrop-lidotoken.org
 token	airdrop-maxtoken.com
@@ -847,7 +846,6 @@ token	allocate-pawstoken.app
 token	allocate-pawstoken.net
 token	allocate-turbotoken.com
 token	allocation-degentokenbase.com
-token	allocations-borpatoken.com
 token	allocations-degentokenbase.com
 token	allstarstoken.app
 token	alphapepetoken.live
@@ -882,7 +880,6 @@ token	app-shibtoken.org
 token	appxaitoken.com
 token	appxaitokens.com
 token	apy-shibatoken.com
-token	arbinutoken.top
 token	arbitrumstoken-gateway01a.com
 token	arcticpablotoken.site
 token	arctoken.live
@@ -998,6 +995,9 @@ token	blazetoken.net
 token	blaztoken.live
 token	block-token.org
 token	block-token.xyz
+token	blockdagtoken.live
+token	blockdagtoken.network
+token	bmoresettoken22.com
 wallet	1amwallet.com
 wallet	1amwallet.xyz
 wallet	1gowallet-ar.com
@@ -1048,7 +1048,6 @@ wallet	app-wallet.online
 wallet	app-wallet.store
 wallet	apple-pay-wallet.com
 wallet	apple-wallet-gb.com
-wallet	appleid-activate-wallet.com
 wallet	applepay-wallet-id.com
 wallet	applewallet-update-id.com
 wallet	aquabitcoindesktopwallet.live
@@ -1198,6 +1197,7 @@ wallet	cbwallet-review.com
 wallet	cbwallet-smartupgrade.com
 wallet	cbwallet.app
 wallet	cbwalletportal.com
+wallet	cbwallets.com
 swap	0xswaps.xyz
 swap	1-swap.com
 swap	11amaswap.icu
@@ -1380,6 +1380,7 @@ swap	ccaoswap.app
 swap	ccswap.pro
 swap	ceto-swap.com
 swap	cetoswap.net
+swap	cetoswap.org
 swap	cetusswap.com
 swap	chainswapreward.tech
 swap	changelly-swap.com
@@ -1397,7 +1398,6 @@ swap	claim-uniswapstoken-gateway01c.org
 swap	claim-uniswaptokens.com
 swap	claimhyperswap.exchange
 swap	claims-quickswap.com
-swap	claims-quickswap.exchange
 ledger	01-ledger.com
 ledger	0182778-ledger.com
 ledger	02-ledger.com
@@ -1412,6 +1412,7 @@ ledger	10-ledger.com
 ledger	105996-ledger.com
 ledger	11-ledger.com
 ledger	1124ledger.com
+ledger	118483-ledger.com
 ledger	12-ledger.com
 ledger	1217316-ledger.com
 ledger	1217318-ledger.com
@@ -1473,6 +1474,7 @@ ledger	345698-ledger.com
 ledger	3592393-ledger.com
 ledger	371757-ledger.com
 ledger	378446-ledger.com
+ledger	3819345-ledger.com
 ledger	382381-ledger.com
 ledger	382959-ledger.com
 ledger	389092ledger.com
@@ -1491,6 +1493,7 @@ ledger	4932994-ledger.com
 ledger	499295-ledger.com
 ledger	509251ledger.com
 ledger	524122-ledger.com
+ledger	5296934-ledger.com
 ledger	54940-ledger.com
 ledger	55465-ledger.com
 ledger	581294-ledger.com
@@ -1523,7 +1526,6 @@ ledger	650910-ledger.com
 ledger	657633-ledger.com
 ledger	662772-ledger.com
 ledger	681492-ledger.com
-ledger	6828843-ledger.com
 ledger	68917-ledger.com
 ledger	6929942-ledger.com
 ledger	69437-ledger.com
@@ -1545,7 +1547,6 @@ ledger	845223-ledger.com
 ledger	849617-ledger.com
 ledger	858294-ledger.com
 ledger	859291-ledger.com
-ledger	859945-ledger.com
 ledger	877352ledger.com
 ledger	881145-ledger.com
 ledger	8823493-ledger.com
@@ -1597,7 +1598,6 @@ ledger	aus-ledger.com
 ledger	auth-ledger.net
 ledger	auth01-ledger.com
 ledger	auth5-ledger.com
-ledger	auth6-ledger.com
 support	029250-support.com
 support	0myidsupportdesk.live
 support	1-online-support.com
@@ -2030,7 +2030,6 @@ kraken	1945816-kraken.com
 kraken	195237kraken.com
 kraken	195772kraken.com
 kraken	19954-kraken.com
-kraken	2-kraken.cc
 kraken	2026583-kraken.com
 kraken	207268-kraken.com
 kraken	210843-kraken.com
@@ -2124,6 +2123,7 @@ kraken	caseid-kraken.com
 kraken	caseportal-kraken.com
 kraken	cases-kraken.com
 kraken	cdnkraken.com
+kraken	contact-kraken.com
 kraken	cover-kraken.com
 kraken	customersupport-kraken.com
 kraken	darkmarket-kraken.com
@@ -2149,7 +2149,6 @@ kraken	history-kraken.com
 kraken	hold-kraken.com
 kraken	home-kraken.com
 kraken	in-kraken.com
-kraken	inkraken-16at.com
 kraken	it-kraken.com
 kraken	k720529-kraken.com
 kraken	k720529kraken.com
@@ -2198,6 +2197,7 @@ kraken	kraken-13-at.com
 kraken	kraken-13at.com
 kraken	kraken-13att.net
 kraken	kraken-14--at.net
+kraken	kraken-14-at.com
 update	1337update.com
 update	1822direkt-update.com
 update	1822tanupdate.info
@@ -2211,7 +2211,6 @@ update	25refund-update.info
 update	589-updates.live
 update	aavechanupdates.com
 update	aaveupdate.live
-update	aaveupdates.com
 update	aax-updates.live
 update	acc3ss-g0update0311se.info
 update	access-docupdate.info
@@ -2398,6 +2397,7 @@ update	csc-updates.live
 update	csr-update.info
 update	ctdl1-windowsupdate.com
 update	cygnusupdate.live
+update	dagupdate.live
 crypto	094239-crypto.com
 crypto	109074-crypto.com
 crypto	1124crypto.com
@@ -2617,6 +2617,7 @@ connect	aisaconnect.com
 connect	allchainconnectsolver.live
 connect	amegy-bank-connect.com
 connect	amegyconnect.icu
+connect	amex-connect.com
 connect	anzchatconnect.com
 connect	apelloconnect.app
 connect	api-connect-opensea.com
@@ -2797,7 +2798,6 @@ connect	connect-dsp2.info
 connect	connect-earnifi.com
 connect	connect-earnm.com
 connect	connect-eclipse.com
-connect	connect-eesee.com
 trust	1-tdcanadatrust.com
 trust	1trusted.live
 trust	1win-trust2026.icu
@@ -3066,6 +3066,7 @@ account	account-mywealthsimple.com
 account	account-ndax.com
 account	account-nexo.com
 account	account-paxful.com
+account	account-portal-coinbase.com
 account	account-portal.live
 account	account-presaerch.app
 account	account-reactivation-de.com
@@ -3197,7 +3198,6 @@ account	accountsecure.digital
 account	accountsecurebnc.com
 account	accountsecurenow.com
 account	accountsecurity-coinbase.com
-account	accountsecurityalerts.com
 airdrop	0x00000-bankless-hunt-airdrop.com
 airdrop	abstract-airdrop.xyz
 airdrop	aeth-airdrop.net
@@ -3243,7 +3243,6 @@ airdrop	airdrop-blaze.net
 airdrop	airdrop-blaze.org
 airdrop	airdrop-blockstreet.xyz
 airdrop	airdrop-boredtopia.xyz
-airdrop	airdrop-borpatoken.com
 airdrop	airdrop-boundless.app
 airdrop	airdrop-boundless.online
 airdrop	airdrop-boundless.xyz
@@ -3398,6 +3397,7 @@ airdrop	airdrop-neptune.cash
 airdrop	airdrop-neur.com
 airdrop	airdrop-niggaliquid.fun
 airdrop	airdrop-nubcat.xyz
+airdrop	airdrop-nyx.com
 verify	05-25verifybnkaccess.info
 verify	1bmo-banking-verify.com
 verify	1bmo-mobile-verify.com
@@ -3633,6 +3633,7 @@ vault	asterdex-vault.com
 vault	astrovault.ltd
 vault	astrovault.pro
 vault	astrovault.zone
+vault	audienceprismvault.com
 vault	auth-docxvault.pro
 vault	auth-vault.com
 vault	authv2-docxvault.pro
@@ -3780,6 +3781,7 @@ vault	keyvaults.net
 vault	kiichainvaults.digital
 vault	kiichainvaults.xyz
 vault	layervaultchain.xyz
+vault	leadvaultorbit.com
 vault	leanrelaynode-vault.sbs
 vault	leapvault.info
 vault	ledger-vault.com
@@ -3796,8 +3798,6 @@ vault	marketing-vault.xyz
 vault	meritvaultaris-ai.com
 vault	meritvaultarisai.live
 vault	metavault.cfd
-vault	metricvault.icu
-vault	migrateemblemvault.xyz
 solana	1coinofsolana.com
 solana	1coinsolana.com
 solana	1coinsolana.net
