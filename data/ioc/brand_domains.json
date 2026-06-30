@@ -1,5 +1,5 @@
 {
-  "generated": "2026-06-29",
+  "generated": "2026-06-30",
   "keywords": {
     "coinbase": [
       "00-coinbase.com",
@@ -74,7 +74,6 @@
       "10930-coinbase.com",
       "10940-coinbase.com",
       "109493-coinbase.com",
-      "10984-coinbase.com",
       "110353-coinbase.com",
       "111403coinbase.com",
       "11236-coinbase.com",
@@ -201,7 +200,8 @@
       "133750-coinbase.com",
       "133781coinbase.com",
       "133830-coinbase.com",
-      "133920-coinbase.com"
+      "133920-coinbase.com",
+      "1340254-coinbase.com"
     ],
     "claim": [
       "0x-claim.xyz",
@@ -424,6 +424,7 @@
       "24x7mobilelogin.com",
       "24x7secureloginmt.com",
       "2fa-login.net",
+      "321loginkapwfc.com",
       "3ex-login.com",
       "51clublogin.net",
       "55club-login.net",
@@ -604,8 +605,7 @@
       "betcio-teklogin4.vip",
       "betcio-trlogin.vip",
       "betciolivelogin.com",
-      "betciologinx.com",
-      "betcup-login.vip"
+      "betciologinx.com"
     ],
     "secure": [
       "09025896-secure-chase.com",
@@ -764,6 +764,7 @@
       "bofa-secured-dispute.com",
       "bofasecured.com",
       "bov-3dsecure.com",
+      "breadsecure1ref.com",
       "brex-secure.com",
       "bsisecuredportal.com",
       "btgo-secure.com",
@@ -806,8 +807,7 @@
       "chase-secured-help.com",
       "chasesecureportal.com",
       "chasewebsecureservers.net",
-      "check-secure-service.com",
-      "check-secure-verify.com"
+      "check-secure-service.com"
     ],
     "token": [
       "1fueliotoken.life",
@@ -1524,6 +1524,7 @@
       "587273-ledger.com",
       "587295-ledger.com",
       "5882345-ledger.com",
+      "5892841-ledger.com",
       "589465-ledger.com",
       "589931-ledger.com",
       "59149129-ledger.com",
@@ -1544,6 +1545,7 @@
       "657633-ledger.com",
       "662772-ledger.com",
       "681492-ledger.com",
+      "6828843-ledger.com",
       "68917-ledger.com",
       "6929942-ledger.com",
       "69437-ledger.com",
@@ -1565,6 +1567,7 @@
       "849617-ledger.com",
       "858294-ledger.com",
       "859291-ledger.com",
+      "859945-ledger.com",
       "877352ledger.com",
       "881145-ledger.com",
       "8823493-ledger.com",
@@ -1612,10 +1615,7 @@
       "assist-ledger.com",
       "at-ledger.com",
       "au-ledger.com",
-      "aus-ledger.com",
-      "auth-ledger.net",
-      "auth01-ledger.com",
-      "auth5-ledger.com"
+      "aus-ledger.com"
     ],
     "support": [
       "029250-support.com",
@@ -1665,6 +1665,7 @@
       "airwallexhelpsupport.com",
       "airwallexsupportdesk.com",
       "airwallexsupporthelp.com",
+      "airwallexwebsupport.com",
       "allicabanksupportchat.com",
       "allicabanksupportdesk.com",
       "allicabanksupportteam.com",
@@ -1799,7 +1800,6 @@
       "booktradeentrysupport.org",
       "borgersupportinfo.com",
       "branchxsupports.live",
-      "breeze-airways-support.online",
       "brownlinesupport.com",
       "bunq-support.net",
       "bybit-support-mail.com",
@@ -2237,6 +2237,7 @@
       "589-updates.live",
       "aavechanupdates.com",
       "aaveupdate.live",
+      "aaveupdates.com",
       "aax-updates.live",
       "acc3ss-g0update0311se.info",
       "access-docupdate.info",
@@ -2389,7 +2390,6 @@
       "comdi-sicherheitupdateerneuern.app",
       "comdi-tanupdate.info",
       "comdi-update2025.com",
-      "comdi-updates24.com",
       "comdirec-update.com",
       "comditanupdate.info",
       "commerz-reupdateqr.info",
@@ -2570,6 +2570,7 @@
       "924298-crypto.com",
       "928414-crypto.com",
       "94738help-secure-crypto.com",
+      "949837crypto.com",
       "971527-crypto.com",
       "982742-crypto.com",
       "983773crypto.com",
@@ -2624,8 +2625,7 @@
       "aucryptoconference.com",
       "aucryptoconv.com",
       "aucryptoconvention.com",
-      "aucryptoevent.com",
-      "aucryptoevents.com"
+      "aucryptoevent.com"
     ],
     "connect": [
       "0nline-2025at0connect.digital",
@@ -2922,6 +2922,7 @@
       "canadatrustfastdelivery.com",
       "canadatrustpharmacy.net",
       "canadianpharmacytrust.net",
+      "cantrust.ltd",
       "cantrustbit.live",
       "card--trustwallet.com",
       "card-trust.biz",
@@ -2962,6 +2963,7 @@
       "dapp-trustepads.xyz",
       "dapp-trustpad.app",
       "dapp-trustpad.com",
+      "dapp-trustpad.info",
       "dapp-trustpad.net",
       "dapp-trustpad.org",
       "dapp-trustpad.vip",
@@ -3027,9 +3029,7 @@
       "hextrustreward.com",
       "hyperliquid-trustwallet.com",
       "imajbet-trusted.com",
-      "inglockswetrusts.com",
-      "intrustbkonline.icu",
-      "itrustcapitaldesktop.com"
+      "inglockswetrusts.com"
     ],
     "account": [
       "02-review-account.com",
@@ -3051,6 +3051,7 @@
       "account-assistance-auth-560.live",
       "account-assistance-auth-56997.live",
       "account-assistance-auth-8076.live",
+      "account-assistance-auth398.live",
       "account-assistance-auth934.live",
       "account-au-serviceportal.com",
       "account-auinbox.com",
@@ -3230,8 +3231,7 @@
       "accountsecure-coinbase.com",
       "accountsecure.digital",
       "accountsecurebnc.com",
-      "accountsecurenow.com",
-      "accountsecurity-coinbase.com"
+      "accountsecurenow.com"
     ],
     "airdrop": [
       "0x00000-bankless-hunt-airdrop.com",
@@ -3860,6 +3860,7 @@
       "alpha-solana.info",
       "alpha-solana.org",
       "amlsolana.live",
+      "angrybagsolana.com",
       "aparth-lasolana.com",
       "asolanaz.xyz",
       "assonsolana.xyz",
@@ -4038,8 +4039,7 @@
       "refund-solana.com",
       "refund-solana.xyz",
       "refundgas-solana.xyz",
-      "refundmysolana.xyz",
-      "refundsolana.fun"
+      "refundmysolana.xyz"
     ]
   }
 }

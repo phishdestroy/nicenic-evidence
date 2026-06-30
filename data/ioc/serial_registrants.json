@@ -1,5 +1,5 @@
 {
-  "generated": "2026-06-29",
+  "generated": "2026-06-30",
   "count": 50,
   "registrants": [
     {
@@ -620,7 +620,7 @@
     },
     {
       "email": "press@chain.link",
-      "count": 23,
+      "count": 22,
       "domains": [
         "app-llnk.org",
         "apyclink.com",
@@ -643,8 +643,7 @@
         "linkplatform.org",
         "linkstake.net",
         "linktreasury.org",
-        "stacklink.org",
-        "token-link.net"
+        "stacklink.org"
       ]
     },
     {
