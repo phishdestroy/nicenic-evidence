@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-01",
+  "generated": "2026-07-02",
   "keywords": {
     "coinbase": [
       "00-coinbase.com",
@@ -74,6 +74,7 @@
       "10930-coinbase.com",
       "10940-coinbase.com",
       "109493-coinbase.com",
+      "10984-coinbase.com",
       "110353-coinbase.com",
       "111403coinbase.com",
       "11236-coinbase.com",
@@ -200,8 +201,7 @@
       "1328271-coinbase.com",
       "133750-coinbase.com",
       "133781coinbase.com",
-      "133830-coinbase.com",
-      "133920-coinbase.com"
+      "133830-coinbase.com"
     ],
     "claim": [
       "0x-claim.xyz",
@@ -637,7 +637,6 @@
       "abacus-market-secure.net",
       "abodepdfsecure.com",
       "acc-secureconnection.com",
-      "access-royalbank-secure.com",
       "access-secured.app",
       "accessmyserviceportal-secure.com",
       "accesssecurely-au.com",
@@ -807,7 +806,8 @@
       "chase-secured-help.com",
       "chasesecureportal.com",
       "chasewebsecureservers.net",
-      "check-secure-service.com"
+      "check-secure-service.com",
+      "check-secure-verify.com"
     ],
     "token": [
       "1fueliotoken.life",
@@ -1480,6 +1480,7 @@
       "287822-ledger.com",
       "2939583-ledger.com",
       "298272-ledger.com",
+      "306002-ledger.com",
       "3194199-ledger.com",
       "31949129-ledger.com",
       "3241266-ledger.com",
@@ -1614,8 +1615,7 @@
       "apps-ledger.com",
       "assets-ledger.com",
       "assist-ledger.com",
-      "at-ledger.com",
-      "au-ledger.com"
+      "assistledger.com"
     ],
     "official": [
       "10cric-official-india.com",
@@ -1913,7 +1913,6 @@
       "atomic-support.app",
       "atosupportau.com",
       "atosupportonline.com",
-      "au-activity-support.site",
       "ausupportaccess.net",
       "authentication-support.com",
       "b-supporto.com",
@@ -2019,7 +2018,8 @@
       "cbfraudsupport.pro",
       "cdc-support.info",
       "centra-link-support.net",
-      "centsupportau.com"
+      "centsupportau.com",
+      "chainsupporthub.pro"
     ],
     "kraken": [
       "076261-kraken.com",
@@ -2101,6 +2101,7 @@
       "705321-kraken.com",
       "708321kraken.com",
       "708891-kraken.com",
+      "732673kraken.com",
       "749503kraken.com",
       "762847kraken.com",
       "784328-kraken.com",
@@ -2220,8 +2221,7 @@
       "kraken-12att.com",
       "kraken-12att.net",
       "kraken-13-at.com",
-      "kraken-13at.com",
-      "kraken-13att.net"
+      "kraken-13at.com"
     ],
     "update": [
       "1337update.com",
@@ -2663,6 +2663,7 @@
       "applicantsconnect.com",
       "artmse-connection.com",
       "assistservconnect.com",
+      "associatedconnectonline.icu",
       "astar-network-connecting-you-to-web3.com",
       "asterconnect.xyz",
       "atoconnect-revise.icu",
@@ -2826,8 +2827,7 @@
       "connect-devrectify-page.com",
       "connect-dsp2.info",
       "connect-earnifi.com",
-      "connect-earnm.com",
-      "connect-eclipse.com"
+      "connect-earnm.com"
     ],
     "trust": [
       "1-tdcanadatrust.com",
@@ -3251,6 +3251,7 @@
       "airdrop-anime.com",
       "airdrop-anime.live",
       "airdrop-anon.com",
+      "airdrop-ansem.com",
       "airdrop-apecoin.net",
       "airdrop-apepe.lol",
       "airdrop-arai.app",
@@ -3432,8 +3433,7 @@
       "airdrop-neptune.cash",
       "airdrop-neur.com",
       "airdrop-niggaliquid.fun",
-      "airdrop-nubcat.xyz",
-      "airdrop-nyx.com"
+      "airdrop-nubcat.xyz"
     ],
     "verify": [
       "05-25verifybnkaccess.info",
