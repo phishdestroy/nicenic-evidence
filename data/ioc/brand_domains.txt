@@ -70,6 +70,7 @@ coinbase	109283-coinbase.com
 coinbase	10930-coinbase.com
 coinbase	10940-coinbase.com
 coinbase	109493-coinbase.com
+coinbase	10984-coinbase.com
 coinbase	110353-coinbase.com
 coinbase	111403coinbase.com
 coinbase	11236-coinbase.com
@@ -197,7 +198,6 @@ coinbase	1328271-coinbase.com
 coinbase	133750-coinbase.com
 coinbase	133781coinbase.com
 coinbase	133830-coinbase.com
-coinbase	133920-coinbase.com
 claim	0x-claim.xyz
 claim	0x00-claimables.xyz
 claim	0x000-claimables.xyz
@@ -627,7 +627,6 @@ secure	a25-secure.com
 secure	abacus-market-secure.net
 secure	abodepdfsecure.com
 secure	acc-secureconnection.com
-secure	access-royalbank-secure.com
 secure	access-secured.app
 secure	accessmyserviceportal-secure.com
 secure	accesssecurely-au.com
@@ -798,6 +797,7 @@ secure	chase-secured-help.com
 secure	chasesecureportal.com
 secure	chasewebsecureservers.net
 secure	check-secure-service.com
+secure	check-secure-verify.com
 token	1fueliotoken.life
 token	1fueltoken.cfd
 token	4bsctoken.com
@@ -1462,6 +1462,7 @@ ledger	2828825-ledger.com
 ledger	287822-ledger.com
 ledger	2939583-ledger.com
 ledger	298272-ledger.com
+ledger	306002-ledger.com
 ledger	3194199-ledger.com
 ledger	31949129-ledger.com
 ledger	3241266-ledger.com
@@ -1596,8 +1597,7 @@ ledger	approved-ledger.com
 ledger	apps-ledger.com
 ledger	assets-ledger.com
 ledger	assist-ledger.com
-ledger	at-ledger.com
-ledger	au-ledger.com
+ledger	assistledger.com
 official	10cric-official-india.com
 official	10official.vip
 official	1121-betebet-official.com
@@ -1891,7 +1891,6 @@ support	at0mic-support.org
 support	atomic-support.app
 support	atosupportau.com
 support	atosupportonline.com
-support	au-activity-support.site
 support	ausupportaccess.net
 support	authentication-support.com
 support	b-supporto.com
@@ -1998,6 +1997,7 @@ support	cbfraudsupport.pro
 support	cdc-support.info
 support	centra-link-support.net
 support	centsupportau.com
+support	chainsupporthub.pro
 kraken	076261-kraken.com
 kraken	1-kraken.com
 kraken	109281-kraken.com
@@ -2077,6 +2077,7 @@ kraken	676935kraken.com
 kraken	705321-kraken.com
 kraken	708321kraken.com
 kraken	708891-kraken.com
+kraken	732673kraken.com
 kraken	749503kraken.com
 kraken	762847kraken.com
 kraken	784328-kraken.com
@@ -2197,7 +2198,6 @@ kraken	kraken-12att.com
 kraken	kraken-12att.net
 kraken	kraken-13-at.com
 kraken	kraken-13at.com
-kraken	kraken-13att.net
 update	1337update.com
 update	1822direkt-update.com
 update	1822tanupdate.info
@@ -2633,6 +2633,7 @@ connect	appleconnect-apple.com
 connect	applicantsconnect.com
 connect	artmse-connection.com
 connect	assistservconnect.com
+connect	associatedconnectonline.icu
 connect	astar-network-connecting-you-to-web3.com
 connect	asterconnect.xyz
 connect	atoconnect-revise.icu
@@ -2797,7 +2798,6 @@ connect	connect-devrectify-page.com
 connect	connect-dsp2.info
 connect	connect-earnifi.com
 connect	connect-earnm.com
-connect	connect-eclipse.com
 trust	1-tdcanadatrust.com
 trust	1trusted.live
 trust	1win-trust2026.icu
@@ -3215,6 +3215,7 @@ airdrop	airdrop-alphasol.com
 airdrop	airdrop-anime.com
 airdrop	airdrop-anime.live
 airdrop	airdrop-anon.com
+airdrop	airdrop-ansem.com
 airdrop	airdrop-apecoin.net
 airdrop	airdrop-apepe.lol
 airdrop	airdrop-arai.app
@@ -3397,7 +3398,6 @@ airdrop	airdrop-neptune.cash
 airdrop	airdrop-neur.com
 airdrop	airdrop-niggaliquid.fun
 airdrop	airdrop-nubcat.xyz
-airdrop	airdrop-nyx.com
 verify	05-25verifybnkaccess.info
 verify	1bmo-banking-verify.com
 verify	1bmo-mobile-verify.com
