@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-02",
+  "generated": "2026-07-03",
   "keywords": {
     "coinbase": [
       "00-coinbase.com",
@@ -673,6 +673,7 @@
       "analytics-secure.com",
       "anzausecure.com",
       "anzsecurehelp.com",
+      "anzsecurereset.com",
       "anzshieldsecure.com",
       "apellosecure.com",
       "api-secure.org",
@@ -806,8 +807,7 @@
       "chase-secured-help.com",
       "chasesecureportal.com",
       "chasewebsecureservers.net",
-      "check-secure-service.com",
-      "check-secure-verify.com"
+      "check-secure-service.com"
     ],
     "token": [
       "1fueliotoken.life",
@@ -1556,6 +1556,7 @@
       "772813-ledger.com",
       "774828-ledger.com",
       "78281-ledger.com",
+      "79351-ledger.com",
       "793526-ledger.com",
       "8101033-ledger.com",
       "817034-ledger.com",
@@ -1614,8 +1615,7 @@
       "approved-ledger.com",
       "apps-ledger.com",
       "assets-ledger.com",
-      "assist-ledger.com",
-      "assistledger.com"
+      "assist-ledger.com"
     ],
     "official": [
       "10cric-official-india.com",
@@ -2566,6 +2566,7 @@
       "909872-crypto.com",
       "91412-crypto.com",
       "91421-crypto.com",
+      "91729-crypto.com",
       "918412-crypto.com",
       "924298-crypto.com",
       "928414-crypto.com",
@@ -2624,8 +2625,7 @@
       "aucryptoconf.com",
       "aucryptoconference.com",
       "aucryptoconv.com",
-      "aucryptoconvention.com",
-      "aucryptoevent.com"
+      "aucryptoconvention.com"
     ],
     "connect": [
       "0nline-2025at0connect.digital",
@@ -2650,7 +2650,6 @@
       "amex-connect.com",
       "anzchatconnect.com",
       "apelloconnect.app",
-      "api-connect-opensea.com",
       "app-ag-connect.com",
       "app-connect-uniswap.org",
       "app-connect.cfd",
@@ -2827,7 +2826,8 @@
       "connect-devrectify-page.com",
       "connect-dsp2.info",
       "connect-earnifi.com",
-      "connect-earnm.com"
+      "connect-earnm.com",
+      "connect-eclipse.com"
     ],
     "trust": [
       "1-tdcanadatrust.com",
@@ -3154,6 +3154,7 @@
       "account-webhelp.com",
       "account-whitelist-coinbase.com",
       "account-witix.com",
+      "account-worldwide-electronicsnewlineomsigninidentifiercontinue.com",
       "account-yandex.net",
       "accountactivity-cb.com",
       "accountaus-report.com",
@@ -3212,7 +3213,6 @@
       "accounts-msftlogin.com",
       "accounts-mypcanada1.com",
       "accounts-o2.com",
-      "accounts-pass.com",
       "accounts-paxful.com",
       "accounts-protections-mail.com",
       "accounts-qoogle.com",
@@ -3835,9 +3835,9 @@
       "luxvaultys.vip",
       "mantlevaults.pro",
       "marketing-vault.xyz",
+      "marsteamvault.vip",
       "meritvaultaris-ai.com",
-      "meritvaultarisai.live",
-      "metavault.cfd"
+      "meritvaultarisai.live"
     ],
     "solana": [
       "1coinofsolana.com",
@@ -3877,6 +3877,7 @@
       "becker-solana.com",
       "bigtroutsolana.com",
       "birisolana.xyz",
+      "blackbullsolana.live",
       "bonkcoinsolana.com",
       "bonksolana.com",
       "bonksolana.xyz",
@@ -4038,8 +4039,7 @@
       "raydium-solana.site",
       "refund-solana.com",
       "refund-solana.xyz",
-      "refundgas-solana.xyz",
-      "refundmysolana.xyz"
+      "refundgas-solana.xyz"
     ]
   }
 }

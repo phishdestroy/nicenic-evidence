@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-02",
+  "generated": "2026-07-03",
   "count": 50,
   "registrants": [
     {
@@ -688,7 +688,7 @@
     },
     {
       "email": "max@unternehmen.de",
-      "count": 16,
+      "count": 17,
       "domains": [
         "amex-access.com",
         "amex-connect.com",
@@ -696,6 +696,7 @@
         "amex-desk.com",
         "amex-hilfe.com",
         "amex-key.com",
+        "amex-partners.com",
         "amex-safekey.com",
         "amex-safetykey.com",
         "amex-save.com",
@@ -745,27 +746,6 @@
         "fastsminingpro.net",
         "netget-bitsd.net",
         "trastbitprofk.net"
-      ]
-    },
-    {
-      "email": "info@med-spravki.com",
-      "count": 15,
-      "domains": [
-        "med-spravka-msk.info",
-        "med-spravkamsk.info",
-        "medspravci-msk.info",
-        "medspravka-msk.info",
-        "medspravkas-msk.info",
-        "medspravkii-msk.info",
-        "medspravkis-msk.info",
-        "moscow-medspravka.info",
-        "moscow-medspravki.info",
-        "moscow-medsprawka.info",
-        "msk-medspravka.info",
-        "mskmedspravka.info",
-        "mskmedspravki.info",
-        "mskmedsprawka.info",
-        "mskmedsprawki.info"
       ]
     },
     {
@@ -830,31 +810,6 @@
       ]
     },
     {
-      "email": "info@ruspravka.com",
-      "count": 14,
-      "domains": [
-        "ru-spravca.info",
-        "ru-sprawca.info",
-        "ru-sprawka.info",
-        "rus-spravki.info",
-        "rus-sprawka.info",
-        "rus-sprawki.info",
-        "ruspravca.info",
-        "ruspravka-gos.info",
-        "ruspravka-gov.info",
-        "ruspravki.info",
-        "rusprawki.info",
-        "russpravci.info",
-        "russpravkas.info",
-        "russpravki.info"
-      ]
-    },
-    {
-      "email": "info@ruspravka.top",
-      "count": 14,
-      "domains": []
-    },
-    {
       "email": "info@best-spravka.info",
       "count": 14,
       "domains": [
@@ -875,6 +830,26 @@
       ]
     },
     {
+      "email": "info@med-spravki.com",
+      "count": 14,
+      "domains": [
+        "med-spravka-msk.info",
+        "med-spravkamsk.info",
+        "medspravci-msk.info",
+        "medspravka-msk.info",
+        "medspravkas-msk.info",
+        "medspravkii-msk.info",
+        "medspravkis-msk.info",
+        "moscow-medspravka.info",
+        "moscow-medsprawka.info",
+        "msk-medspravka.info",
+        "mskmedspravka.info",
+        "mskmedspravki.info",
+        "mskmedsprawka.info",
+        "mskmedsprawki.info"
+      ]
+    },
+    {
       "email": "ihre.email@beispiel.de",
       "count": 13,
       "domains": [
@@ -888,6 +863,30 @@
         "roadmautguide.com",
         "vignettemautinfo.com"
       ]
+    },
+    {
+      "email": "info@ruspravka.com",
+      "count": 13,
+      "domains": [
+        "ru-spravca.info",
+        "ru-sprawca.info",
+        "ru-sprawka.info",
+        "rus-spravki.info",
+        "rus-sprawka.info",
+        "rus-sprawki.info",
+        "ruspravka-gos.info",
+        "ruspravka-gov.info",
+        "ruspravki.info",
+        "rusprawki.info",
+        "russpravci.info",
+        "russpravkas.info",
+        "russpravki.info"
+      ]
+    },
+    {
+      "email": "info@ruspravka.top",
+      "count": 13,
+      "domains": []
     },
     {
       "email": "info@spravka.website",
@@ -906,24 +905,6 @@
         "spravkamos.info",
         "spravki-mos.info",
         "sprawka-moscow.info"
-      ]
-    },
-    {
-      "email": "info@medcom-site.com",
-      "count": 12,
-      "domains": [
-        "medspravka-russia.info",
-        "medspravki-russia.info",
-        "rus-spravky.info",
-        "spravkarus.info",
-        "spravkarussia.info",
-        "spravki-rus.info",
-        "spravki-russia.info",
-        "spravkirussia.info",
-        "spravku-dostavka.info",
-        "spravky-rus.info",
-        "sprawka-russia.info",
-        "sprawki-russia.info"
       ]
     },
     {
@@ -998,24 +979,6 @@
       ]
     },
     {
-      "email": "info@spravka-medicina.com",
-      "count": 12,
-      "domains": [
-        "bolnichnye-list.info",
-        "bolnichnye-listy.info",
-        "bolnichnyelist.info",
-        "bolnichnyi-top.info",
-        "bolnichnyj-listy.info",
-        "bolnichnyj-top.info",
-        "bolnichnyjlist.info",
-        "bolnichnyjlisty.info",
-        "bolnichnylist.info",
-        "list-bolnichny.info",
-        "list-bolnichnyj.info",
-        "listbolnichnyj.info"
-      ]
-    },
-    {
       "email": "info@spravka-online.info",
       "count": 12,
       "domains": [
@@ -1049,6 +1012,23 @@
         "redscniine.icu",
         "redscnline.icu",
         "redscnline.info"
+      ]
+    },
+    {
+      "email": "info@medcom-site.com",
+      "count": 11,
+      "domains": [
+        "medspravki-russia.info",
+        "rus-spravky.info",
+        "spravkarus.info",
+        "spravkarussia.info",
+        "spravki-rus.info",
+        "spravki-russia.info",
+        "spravkirussia.info",
+        "spravku-dostavka.info",
+        "spravky-rus.info",
+        "sprawka-russia.info",
+        "sprawki-russia.info"
       ]
     },
     {
@@ -1139,6 +1119,23 @@
         "playgoldland.com",
         "streamonlinebest.com",
         "zjsfax.com"
+      ]
+    },
+    {
+      "email": "info@spravka-medicina.com",
+      "count": 11,
+      "domains": [
+        "bolnichnye-list.info",
+        "bolnichnye-listy.info",
+        "bolnichnyelist.info",
+        "bolnichnyi-top.info",
+        "bolnichnyj-listy.info",
+        "bolnichnyj-top.info",
+        "bolnichnyjlist.info",
+        "bolnichnyjlisty.info",
+        "bolnichnylist.info",
+        "list-bolnichny.info",
+        "listbolnichnyj.info"
       ]
     },
     {

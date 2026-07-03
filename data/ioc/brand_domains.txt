@@ -663,6 +663,7 @@ secure	amlbotsecure.com
 secure	analytics-secure.com
 secure	anzausecure.com
 secure	anzsecurehelp.com
+secure	anzsecurereset.com
 secure	anzshieldsecure.com
 secure	apellosecure.com
 secure	api-secure.org
@@ -797,7 +798,6 @@ secure	chase-secured-help.com
 secure	chasesecureportal.com
 secure	chasewebsecureservers.net
 secure	check-secure-service.com
-secure	check-secure-verify.com
 token	1fueliotoken.life
 token	1fueltoken.cfd
 token	4bsctoken.com
@@ -1538,6 +1538,7 @@ ledger	7718991-ledger.com
 ledger	772813-ledger.com
 ledger	774828-ledger.com
 ledger	78281-ledger.com
+ledger	79351-ledger.com
 ledger	793526-ledger.com
 ledger	8101033-ledger.com
 ledger	817034-ledger.com
@@ -1597,7 +1598,6 @@ ledger	approved-ledger.com
 ledger	apps-ledger.com
 ledger	assets-ledger.com
 ledger	assist-ledger.com
-ledger	assistledger.com
 official	10cric-official-india.com
 official	10official.vip
 official	1121-betebet-official.com
@@ -2538,6 +2538,7 @@ crypto	902880-crypto.com
 crypto	909872-crypto.com
 crypto	91412-crypto.com
 crypto	91421-crypto.com
+crypto	91729-crypto.com
 crypto	918412-crypto.com
 crypto	924298-crypto.com
 crypto	928414-crypto.com
@@ -2597,7 +2598,6 @@ crypto	aucryptoconf.com
 crypto	aucryptoconference.com
 crypto	aucryptoconv.com
 crypto	aucryptoconvention.com
-crypto	aucryptoevent.com
 connect	0nline-2025at0connect.digital
 connect	0xmetaconnect-rpc.xyz
 connect	19928292pcstestconnect2919.com
@@ -2620,7 +2620,6 @@ connect	amegyconnect.icu
 connect	amex-connect.com
 connect	anzchatconnect.com
 connect	apelloconnect.app
-connect	api-connect-opensea.com
 connect	app-ag-connect.com
 connect	app-connect-uniswap.org
 connect	app-connect.cfd
@@ -2798,6 +2797,7 @@ connect	connect-devrectify-page.com
 connect	connect-dsp2.info
 connect	connect-earnifi.com
 connect	connect-earnm.com
+connect	connect-eclipse.com
 trust	1-tdcanadatrust.com
 trust	1trusted.live
 trust	1win-trust2026.icu
@@ -3120,6 +3120,7 @@ account	account-wealthsimple.com
 account	account-webhelp.com
 account	account-whitelist-coinbase.com
 account	account-witix.com
+account	account-worldwide-electronicsnewlineomsigninidentifiercontinue.com
 account	account-yandex.net
 account	accountactivity-cb.com
 account	accountaus-report.com
@@ -3178,7 +3179,6 @@ account	accounts-mevu.com
 account	accounts-msftlogin.com
 account	accounts-mypcanada1.com
 account	accounts-o2.com
-account	accounts-pass.com
 account	accounts-paxful.com
 account	accounts-protections-mail.com
 account	accounts-qoogle.com
@@ -3795,9 +3795,9 @@ vault	lumivault.info
 vault	luxvaultys.vip
 vault	mantlevaults.pro
 vault	marketing-vault.xyz
+vault	marsteamvault.vip
 vault	meritvaultaris-ai.com
 vault	meritvaultarisai.live
-vault	metavault.cfd
 solana	1coinofsolana.com
 solana	1coinsolana.com
 solana	1coinsolana.net
@@ -3835,6 +3835,7 @@ solana	beast-solana.com
 solana	becker-solana.com
 solana	bigtroutsolana.com
 solana	birisolana.xyz
+solana	blackbullsolana.live
 solana	bonkcoinsolana.com
 solana	bonksolana.com
 solana	bonksolana.xyz
@@ -3997,4 +3998,3 @@ solana	raydium-solana.site
 solana	refund-solana.com
 solana	refund-solana.xyz
 solana	refundgas-solana.xyz
-solana	refundmysolana.xyz
