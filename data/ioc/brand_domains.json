@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-03",
+  "generated": "2026-07-04",
   "keywords": {
     "coinbase": [
       "00-coinbase.com",
@@ -295,7 +295,6 @@
       "assesement-claimsgov.cfd",
       "assessment-claim.info",
       "assessmentclaims.net",
-      "assets-reclaim.xyz",
       "aster-claim.com",
       "asterclaim.claims",
       "asterclaim.info",
@@ -403,7 +402,8 @@
       "bluzelleclaims.com",
       "bluzellerewardclaims.com",
       "bmoclaimsonline.com",
-      "bmoclaimsupport.com"
+      "bmoclaimsupport.com",
+      "bnb-claiming.com"
     ],
     "login": [
       "0auth-login.digital",
@@ -1880,7 +1880,6 @@
       "anz-customersupport.com",
       "anz-desksupport.com",
       "anz-getsupport.com",
-      "anz-livechatsupport.com",
       "anz-supportcentre.com",
       "anz-supportchat.com",
       "anz-supportdesk.com",
@@ -1890,7 +1889,6 @@
       "anzhelpdesksupport.com",
       "anzhelpsupport.com",
       "anzonlinesupport.com",
-      "anzsupport-livechat.com",
       "anzsupportchat.com",
       "anzsupportdesk.com",
       "anzsupporthub.com",
@@ -2019,7 +2017,9 @@
       "cdc-support.info",
       "centra-link-support.net",
       "centsupportau.com",
-      "chainsupporthub.pro"
+      "chainsupporthub.pro",
+      "chaseconnectsupport.com",
+      "chatingsupport.live"
     ],
     "kraken": [
       "076261-kraken.com",
@@ -3019,6 +3019,7 @@
       "goldcoinstrust.com",
       "goldentrustcredit.com",
       "grandpashabet-trusted.com",
+      "grandpashabt-trusted.icu",
       "greatportaltrust.com",
       "greattrustportal.com",
       "grndse-trust.com",
@@ -3028,8 +3029,7 @@
       "hedertrust.com",
       "hextrustreward.com",
       "hyperliquid-trustwallet.com",
-      "imajbet-trusted.com",
-      "inglockswetrusts.com"
+      "imajbet-trusted.com"
     ],
     "account": [
       "02-review-account.com",
@@ -3198,6 +3198,7 @@
       "accountreview-gemini.com",
       "accountrevisioncratax.com",
       "accounts-ads-google.com",
+      "accounts-center-microsoft.com",
       "accounts-etherfi.com",
       "accounts-getpluto.com",
       "accounts-goglemail.com",
@@ -3216,7 +3217,6 @@
       "accounts-paxful.com",
       "accounts-protections-mail.com",
       "accounts-qoogle.com",
-      "accounts-review.info",
       "accounts-roblox.com",
       "accounts-roblox.info",
       "accounts-roblox.org",
@@ -3797,7 +3797,6 @@
       "guidesvault.com",
       "gyaanvault.com",
       "help-coinbasevault.com",
-      "help-vault-coinbase.com",
       "help-vault-crypto.com",
       "hovaro-vaultix.com",
       "hovaro-vaultix.net",
@@ -3837,7 +3836,8 @@
       "marketing-vault.xyz",
       "marsteamvault.vip",
       "meritvaultaris-ai.com",
-      "meritvaultarisai.live"
+      "meritvaultarisai.live",
+      "metavault.cfd"
     ],
     "solana": [
       "1coinofsolana.com",

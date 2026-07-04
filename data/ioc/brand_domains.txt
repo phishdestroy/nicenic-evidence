@@ -289,7 +289,6 @@ claim	asiclaim.xyz
 claim	assesement-claimsgov.cfd
 claim	assessment-claim.info
 claim	assessmentclaims.net
-claim	assets-reclaim.xyz
 claim	aster-claim.com
 claim	asterclaim.claims
 claim	asterclaim.info
@@ -398,6 +397,7 @@ claim	bluzelleclaims.com
 claim	bluzellerewardclaims.com
 claim	bmoclaimsonline.com
 claim	bmoclaimsupport.com
+claim	bnb-claiming.com
 login	0auth-login.digital
 login	101clublogin.net
 login	1bmologin-dsvl2k9mc.com
@@ -1858,7 +1858,6 @@ support	anz-chatsupport.com
 support	anz-customersupport.com
 support	anz-desksupport.com
 support	anz-getsupport.com
-support	anz-livechatsupport.com
 support	anz-supportcentre.com
 support	anz-supportchat.com
 support	anz-supportdesk.com
@@ -1868,7 +1867,6 @@ support	anzfraudsupport.com
 support	anzhelpdesksupport.com
 support	anzhelpsupport.com
 support	anzonlinesupport.com
-support	anzsupport-livechat.com
 support	anzsupportchat.com
 support	anzsupportdesk.com
 support	anzsupporthub.com
@@ -1998,6 +1996,8 @@ support	cdc-support.info
 support	centra-link-support.net
 support	centsupportau.com
 support	chainsupporthub.pro
+support	chaseconnectsupport.com
+support	chatingsupport.live
 kraken	076261-kraken.com
 kraken	1-kraken.com
 kraken	109281-kraken.com
@@ -2987,6 +2987,7 @@ trust	getyourtrustcard.com
 trust	goldcoinstrust.com
 trust	goldentrustcredit.com
 trust	grandpashabet-trusted.com
+trust	grandpashabt-trusted.icu
 trust	greatportaltrust.com
 trust	greattrustportal.com
 trust	grndse-trust.com
@@ -2997,7 +2998,6 @@ trust	hedertrust.com
 trust	hextrustreward.com
 trust	hyperliquid-trustwallet.com
 trust	imajbet-trusted.com
-trust	inglockswetrusts.com
 account	02-review-account.com
 account	1win-2026bestaccount.com
 account	1win-account2026.com
@@ -3164,6 +3164,7 @@ account	accountreview-crypto.com
 account	accountreview-gemini.com
 account	accountrevisioncratax.com
 account	accounts-ads-google.com
+account	accounts-center-microsoft.com
 account	accounts-etherfi.com
 account	accounts-getpluto.com
 account	accounts-goglemail.com
@@ -3182,7 +3183,6 @@ account	accounts-o2.com
 account	accounts-paxful.com
 account	accounts-protections-mail.com
 account	accounts-qoogle.com
-account	accounts-review.info
 account	accounts-roblox.com
 account	accounts-roblox.info
 account	accounts-roblox.org
@@ -3757,7 +3757,6 @@ vault	goldenvault.ltd
 vault	guidesvault.com
 vault	gyaanvault.com
 vault	help-coinbasevault.com
-vault	help-vault-coinbase.com
 vault	help-vault-crypto.com
 vault	hovaro-vaultix.com
 vault	hovaro-vaultix.net
@@ -3798,6 +3797,7 @@ vault	marketing-vault.xyz
 vault	marsteamvault.vip
 vault	meritvaultaris-ai.com
 vault	meritvaultarisai.live
+vault	metavault.cfd
 solana	1coinofsolana.com
 solana	1coinsolana.com
 solana	1coinsolana.net
