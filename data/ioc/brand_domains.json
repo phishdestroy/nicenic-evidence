@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-04",
+  "generated": "2026-07-05",
   "keywords": {
     "coinbase": [
       "00-coinbase.com",
@@ -1544,7 +1544,6 @@
       "64521411-ledger.com",
       "650910-ledger.com",
       "657633-ledger.com",
-      "662772-ledger.com",
       "681492-ledger.com",
       "6828843-ledger.com",
       "68917-ledger.com",
@@ -1615,7 +1614,8 @@
       "approved-ledger.com",
       "apps-ledger.com",
       "assets-ledger.com",
-      "assist-ledger.com"
+      "assist-ledger.com",
+      "assistledger.com"
     ],
     "official": [
       "10cric-official-india.com",
@@ -1694,9 +1694,12 @@
       "at0micofficial.net",
       "autismofficial.xyz",
       "avelixio-official.net",
+      "aviator-game-inida-official.com",
       "aviator-game-official-indi.com",
       "aviator-game-official-indi.info",
       "aviator-game-official-indi.net",
+      "aviator-game-official-spribe-in.com",
+      "aviator-game-official-spribe-india.com",
       "aviator-game-official.net",
       "aviator-games-official-in.com",
       "aviator-games-official-ind.com",
@@ -1814,10 +1817,7 @@
       "casibom-official-adres.com",
       "casibom-official-casibom.com",
       "casibom-official-casibomgiris.com",
-      "casibom-official-giris.com",
-      "casibom-official-login.com",
-      "casibom-official.cfd",
-      "casibom-official.icu"
+      "casibom-official-giris.com"
     ],
     "support": [
       "029250-support.com",
@@ -2891,9 +2891,14 @@
       "averistrust.com",
       "b2b-trustpilot.com",
       "backofficetrustwallet.com",
+      "bahiscasino-2026trust.vip",
       "bahiscasino-trust2026.icu",
+      "bahiscasino-trustworthy.vip",
       "bahsegel-trusted.com",
+      "betgit-2026trust.vip",
       "betgit-trust2026.icu",
+      "betgit-trustworthy.vip",
+      "betsalvador-2026trust.xyz",
       "betsalvador-trust2026.icu",
       "bitpro-trust.net",
       "bitpro-trusts.net",
@@ -2931,9 +2936,13 @@
       "cardstrustwallet.info",
       "cardtrusts.com",
       "cars-trusted.com",
+      "casibom-2026trust.vip",
       "casino-med-trustly.xyz",
+      "casinomilyon-2026trust.xyz",
       "casinomilyon-trust2026.icu",
+      "casinoroyal-2026trust.vip",
       "casinoroyal-trust2026.icu",
+      "casinoroyal-trustworthy.vip",
       "cbtrustrecover.com",
       "cedatrustbanking.com",
       "center-trustpilot.com",
@@ -3007,7 +3016,9 @@
       "frandsenbktrust.icu",
       "frandsenbtrust.icu",
       "frandsentrust.icu",
+      "gameofbet-2026trust.vip",
       "gameofbet-trust2026.icu",
+      "gameofbet-trustworthy.vip",
       "gate-trustpilot.com",
       "gateway-trustpilot.com",
       "generictrustworld24x7.com",
@@ -3018,18 +3029,7 @@
       "getyourtrustcard.com",
       "goldcoinstrust.com",
       "goldentrustcredit.com",
-      "grandpashabet-trusted.com",
-      "grandpashabt-trusted.icu",
-      "greatportaltrust.com",
-      "greattrustportal.com",
-      "grndse-trust.com",
-      "grndse-trust1.com",
-      "guard-trustwallet.com",
-      "healthstartrust.com",
-      "hedertrust.com",
-      "hextrustreward.com",
-      "hyperliquid-trustwallet.com",
-      "imajbet-trusted.com"
+      "grandpashabet-2026trust.vip"
     ],
     "account": [
       "02-review-account.com",
@@ -3533,6 +3533,7 @@
       "creator-verify.live",
       "creatorsverifyform.com",
       "creatorsverifyportal.com",
+      "crypto-verify.net",
       "customverify01.com",
       "data-bofaverify.net",
       "dates-verify947832.com",
@@ -3634,8 +3635,7 @@
       "mica-update-verify.com",
       "mica-verify-update.com",
       "mica-verify.com",
-      "michaelverifyscotia.business",
-      "mobilepayverifydk.com"
+      "michaelverifyscotia.business"
     ],
     "vault": [
       "118924-cbvault.com",
@@ -3797,6 +3797,7 @@
       "guidesvault.com",
       "gyaanvault.com",
       "help-coinbasevault.com",
+      "help-vault-coinbase.com",
       "help-vault-crypto.com",
       "hovaro-vaultix.com",
       "hovaro-vaultix.net",
@@ -3836,8 +3837,7 @@
       "marketing-vault.xyz",
       "marsteamvault.vip",
       "meritvaultaris-ai.com",
-      "meritvaultarisai.live",
-      "metavault.cfd"
+      "meritvaultarisai.live"
     ],
     "solana": [
       "1coinofsolana.com",
