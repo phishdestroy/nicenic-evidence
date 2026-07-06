@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-05",
+  "generated": "2026-07-06",
   "keywords": {
     "coinbase": [
       "00-coinbase.com",
@@ -728,7 +728,6 @@
       "blaze-secure.com",
       "blosomsecurepassageping.com",
       "bltstamp-secure.com",
-      "blum-secure.xyz",
       "bmo-banking-secure.com",
       "bmo-client-secure.com",
       "bmo-mobile-secure.com",
@@ -807,7 +806,8 @@
       "chase-secured-help.com",
       "chasesecureportal.com",
       "chasewebsecureservers.net",
-      "check-secure-service.com"
+      "check-secure-service.com",
+      "check-secure-verify.com"
     ],
     "token": [
       "1fueliotoken.life",
@@ -1865,6 +1865,7 @@
       "aib-support-service.com",
       "aibsupportchat.com",
       "airwallexhelpsupport.com",
+      "airwallexlivesupport.com",
       "airwallexsupportdesk.com",
       "airwallexsupporthelp.com",
       "airwallexwebsupport.com",
@@ -2018,8 +2019,7 @@
       "centra-link-support.net",
       "centsupportau.com",
       "chainsupporthub.pro",
-      "chaseconnectsupport.com",
-      "chatingsupport.live"
+      "chaseconnectsupport.com"
     ],
     "kraken": [
       "076261-kraken.com",
@@ -2039,7 +2039,6 @@
       "1721271-kraken.com",
       "1721891-kraken.com",
       "173822kraken.com",
-      "174907-kraken.com",
       "177250-kraken.com",
       "177954-kraken.com",
       "1782831-kraken.com",
@@ -2107,6 +2106,8 @@
       "784328-kraken.com",
       "785976-kraken.com",
       "801842kraken.com",
+      "808908-kraken.com",
+      "80908-kraken.com",
       "81392-kraken.com",
       "817034kraken.com",
       "826971-kraken.com",
@@ -2220,8 +2221,7 @@
       "kraken-12at.com",
       "kraken-12att.com",
       "kraken-12att.net",
-      "kraken-13-at.com",
-      "kraken-13at.com"
+      "kraken-13-at.com"
     ],
     "update": [
       "1337update.com",
@@ -2539,6 +2539,7 @@
       "723278crypto.com",
       "723812-crypto.com",
       "734281-crypto.com",
+      "739416crypto.com",
       "75192-crypto.com",
       "780432-crypto.com",
       "781325-crypto.com",
@@ -2624,8 +2625,7 @@
       "au-crypto.com",
       "aucryptoconf.com",
       "aucryptoconference.com",
-      "aucryptoconv.com",
-      "aucryptoconvention.com"
+      "aucryptoconv.com"
     ],
     "connect": [
       "0nline-2025at0connect.digital",
@@ -2770,7 +2770,6 @@
       "confirm-walletconnect.com",
       "confirmation-walletconnect.com",
       "confirmation-walletsconnect.com",
-      "connect-1scoportail.com",
       "connect-accenture.com",
       "connect-administracion-login.com",
       "connect-administracionfirma-login.com",
@@ -2827,12 +2826,14 @@
       "connect-dsp2.info",
       "connect-earnifi.com",
       "connect-earnm.com",
-      "connect-eclipse.com"
+      "connect-eclipse.com",
+      "connect-eesee.com"
     ],
     "trust": [
       "1-tdcanadatrust.com",
       "1trusted.live",
       "1win-trust2026.icu",
+      "1win-trustworthy.icu",
       "2-tdcanadatrust.com",
       "24x7genericworldtrust.com",
       "24x7genericworldtrust.org",
@@ -2868,7 +2869,6 @@
       "app-trustepads.xyz",
       "app-trustpad.biz",
       "app-trustpad.net",
-      "app-trustpad.org",
       "app-trustpade.com",
       "app-trustpade.net",
       "app-trustpade.org",
@@ -2900,6 +2900,7 @@
       "betgit-trustworthy.vip",
       "betsalvador-2026trust.xyz",
       "betsalvador-trust2026.icu",
+      "betsalvador-trustworthy.icu",
       "bitpro-trust.net",
       "bitpro-trusts.net",
       "bitprof-trust.net",
@@ -2963,7 +2964,9 @@
       "com-verify-trustwallet.com",
       "connect-trust-dapp.com",
       "corracaptrust.com",
+      "cratosroyalbet-2026trust.icu",
       "cratosroyalbet-trust2026.icu",
+      "cratosroyalbet-trustworthy.icu",
       "credtrustonline.com",
       "czechtrust-app.com",
       "dapp-trustepad.net",
@@ -3026,10 +3029,7 @@
       "genesis-trustwallet.com",
       "germtrust.digital",
       "get-trustwallet.claims",
-      "getyourtrustcard.com",
-      "goldcoinstrust.com",
-      "goldentrustcredit.com",
-      "grandpashabet-2026trust.vip"
+      "getyourtrustcard.com"
     ],
     "account": [
       "02-review-account.com",
@@ -3045,6 +3045,7 @@
       "85securityaccountscb.com",
       "871178-ncinsuranceaccount-login.live",
       "account-5fisglobal.com",
+      "account-access-uphold.com",
       "account-activity-coinbase.com",
       "account-activitysendgrid.com",
       "account-apple-pay.com",
@@ -3143,7 +3144,6 @@
       "account-trezor.com",
       "account-trust-wallet.com",
       "account-unchained.com",
-      "account-unlock.com",
       "account-update-o2.com",
       "account-updating.com",
       "account-uphold.com",
@@ -3165,7 +3165,6 @@
       "accountcrcanada.com",
       "accountdaten-bitpanda.com",
       "accountdatenbestaetigung-bitpanda.com",
-      "accountdiagnosis.com",
       "accounthelp-coinbase.com",
       "accounthelp-secure.com",
       "accounthelp-update.com",
@@ -3231,7 +3230,8 @@
       "accountsa360.live",
       "accountsecure-coinbase.com",
       "accountsecure.digital",
-      "accountsecurebnc.com"
+      "accountsecurebnc.com",
+      "accountsecurenow.com"
     ],
     "airdrop": [
       "0x00000-bankless-hunt-airdrop.com",
@@ -3473,7 +3473,6 @@
       "au-verify.com",
       "auth-verify-7231.com",
       "auth2faverify.com",
-      "auth2faverifynow.com",
       "auverify.com",
       "bahiscasino-2026verify.com",
       "banksyd-verify.com",
@@ -3635,7 +3634,8 @@
       "mica-update-verify.com",
       "mica-verify-update.com",
       "mica-verify.com",
-      "michaelverifyscotia.business"
+      "michaelverifyscotia.business",
+      "mobilepayverifydk.com"
     ],
     "vault": [
       "118924-cbvault.com",

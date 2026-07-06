@@ -1748,6 +1748,7 @@ app-cptlntp.com
 app-cyclo.finance
 app-dcentwallet.com
 app-empresa-gestionweb.com
+app-etherfi.com
 app-ethgas.com
 app-ethgasfoundation.org
 app-everstake.com
