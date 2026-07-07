@@ -3,7 +3,6 @@ info@vuz.info	91
 info@africaoil.com	78
 angelgarcia.mail@gmail.com	42
 support@easybit.com	35
-info@ankamall.com.tr	28
 press@ethereum.org	27
 seu@email.com	26
 ihre@email.de	25
@@ -11,9 +10,9 @@ submissions@shib.io	25
 u003esubmissions@shib.io	25
 ads@shib.io	25
 u003eads@shib.io	25
-press@chain.link	24
+press@chain.link	25
 info@stroykatalog.ru	24
-max@unternehmen.de	21
+max@unternehmen.de	22
 admin@webmaster.com	20
 termas@termas.com.br	20
 ornek@email.com	15
@@ -23,6 +22,7 @@ support@stake.com	14
 help@valgorix.com	14
 info@best-spravka.info	14
 info@med-spravki.com	14
+info@ankamall.com.tr	14
 ihre.email@beispiel.de	13
 info@ruspravka.com	13
 info@ruspravka.top	13
@@ -44,7 +44,7 @@ info@spravka-medicina.com	11
 originals.diplomy@gmail.com	11
 contact@iotrust.kr	9
 support@adguard.com	9
+helpdesk@wingstop.com	9
 info@ilbet.com	9
 info@gost-sprawki.info	9
 info@24spravka.com	9
-support@pokerdom.vip	9

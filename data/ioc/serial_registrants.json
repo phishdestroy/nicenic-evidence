@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-06",
+  "generated": "2026-07-07",
   "count": 50,
   "registrants": [
     {
@@ -376,40 +376,6 @@
       ]
     },
     {
-      "email": "info@ankamall.com.tr",
-      "count": 28,
-      "domains": [
-        "167hwr24fi.icu",
-        "3vlx9cfazzwv.icu",
-        "44r9bioubqiivwj0jq.icu",
-        "7ftvz55v.icu",
-        "acllfq.icu",
-        "basvurukurumsalhizmet.icu",
-        "basvurukurumsalinfo.icu",
-        "basvurukurumsalnet.icu",
-        "d28ty3i48lk96hnlux.icu",
-        "dn8w43im.icu",
-        "geiqk44sh612.icu",
-        "h72vn3jtpt5.icu",
-        "hcu6ubizt.icu",
-        "ihzq7o.icu",
-        "isgunbasvurumuz.com",
-        "m67exdgs7xbk.icu",
-        "maspiodaonmb.icu",
-        "q7rvpvo8axy2.icu",
-        "qjt3l3wslwq.icu",
-        "systemv4524fcs23df231.com",
-        "tta3p0px47q0.icu",
-        "ui9r09xfxp2n.icu",
-        "uoni1m1godlr.icu",
-        "voe1blb.icu",
-        "w8t2mcf.icu",
-        "ya0nrtdrel2n.icu",
-        "zc7jw9qvq9.icu",
-        "zj8t9hnw.icu"
-      ]
-    },
-    {
       "email": "press@ethereum.org",
       "count": 27,
       "domains": [
@@ -547,7 +513,7 @@
     },
     {
       "email": "press@chain.link",
-      "count": 24,
+      "count": 25,
       "domains": [
         "app-llnk.org",
         "apyclink.com",
@@ -572,7 +538,8 @@
         "linkstake.net",
         "linktreasury.org",
         "stacklink.org",
-        "token-link.net"
+        "token-link.net",
+        "token-link.org"
       ]
     },
     {
@@ -607,9 +574,10 @@
     },
     {
       "email": "max@unternehmen.de",
-      "count": 21,
+      "count": 22,
       "domains": [
         "americanexpress-ident.com",
+        "americanexpress-keys.com",
         "amex-access.com",
         "amex-connect.com",
         "amex-create.com",
@@ -822,6 +790,26 @@
         "mskmedspravki.info",
         "mskmedsprawka.info",
         "mskmedsprawki.info"
+      ]
+    },
+    {
+      "email": "info@ankamall.com.tr",
+      "count": 14,
+      "domains": [
+        "3vlx9cfazzwv.icu",
+        "44r9bioubqiivwj0jq.icu",
+        "basvurukurumsalhizmet.icu",
+        "basvurukurumsalinfo.icu",
+        "basvurukurumsalnet.icu",
+        "d28ty3i48lk96hnlux.icu",
+        "geiqk44sh612.icu",
+        "isgunbasvurumuz.com",
+        "m67exdgs7xbk.icu",
+        "maspiodaonmb.icu",
+        "systemv4524fcs23df231.com",
+        "tta3p0px47q0.icu",
+        "ui9r09xfxp2n.icu",
+        "uoni1m1godlr.icu"
       ]
     },
     {
@@ -1161,6 +1149,21 @@
       ]
     },
     {
+      "email": "helpdesk@wingstop.com",
+      "count": 9,
+      "domains": [
+        "vvingsttop.com",
+        "wingstop.today",
+        "wingstops.today",
+        "wingsttops.digital",
+        "winngstop.digital",
+        "wlngstoop.today",
+        "wlngstop.info",
+        "wlngstops.digital",
+        "wlngstops.today"
+      ]
+    },
+    {
       "email": "info@ilbet.com",
       "count": 9,
       "domains": [
@@ -1203,21 +1206,6 @@
         "msk-bolnichny.info",
         "msk-bolnichnyi24.info",
         "mskbolnichny.info"
-      ]
-    },
-    {
-      "email": "support@pokerdom.vip",
-      "count": 9,
-      "domains": [
-        "koinbaylogin.com",
-        "sarmayex-login.com",
-        "voox-exchange.com",
-        "voox-login.com",
-        "wallex-login.com",
-        "wallex-web.com",
-        "zedxion-exchange.com",
-        "zedxion-giris.com",
-        "zedxion-login.com"
       ]
     }
   ]

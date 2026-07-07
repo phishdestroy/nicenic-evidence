@@ -25,14 +25,14 @@
 
 <!-- LIVE_STATS:START -->
 
-> 🔴 **LIVE INVESTIGATION FEED** &middot; Auto-updated &middot; Last fetch `2026-07-06`
+> 🔴 **LIVE INVESTIGATION FEED** &middot; Auto-updated &middot; Last fetch `2026-07-07`
 
 <table><tr>
-<td align="center"><b>📦 Domains tracked</b><br/><sub><code>357,049</code></sub></td>
-<td align="center"><b>💰 Est. revenue</b><br/><sub><code>$2,751,294</code></sub></td>
-<td align="center"><b>📡 Deployed</b><br/><sub><code>53.7%</code></sub></td>
-<td align="center"><b>✅ Confirmed phishing</b><br/><sub><code>6.7%</code> (23,956)</sub></td>
-<td align="center"><b>⚡ Fresh (≤7d)</b><br/><sub><code>1.1%</code></sub></td>
+<td align="center"><b>📦 Domains tracked</b><br/><sub><code>357,627</code></sub></td>
+<td align="center"><b>💰 Est. revenue</b><br/><sub><code>$2,754,391</code></sub></td>
+<td align="center"><b>📡 Deployed</b><br/><sub><code>53.6%</code></sub></td>
+<td align="center"><b>✅ Confirmed phishing</b><br/><sub><code>6.7%</code> (24,019)</sub></td>
+<td align="center"><b>⚡ Fresh (≤7d)</b><br/><sub><code>1.0%</code></sub></td>
 <td align="center"><b>🕵️ Serial regs</b><br/><sub><code>44</code></sub></td>
 </tr></table>
 
@@ -40,28 +40,28 @@
 
 | TLD | Count | Avg Reg Period | Est. Revenue |
 |:--|--:|--:|--:|
-| `.com` | 196,411 | 563d | $1,765,735 |
-| `.vip` | 27,653 | 372d | $137,988 |
-| `.icu` | 18,405 | 394d | $18,221 |
-| `.net` | 16,595 | 678d | $165,784 |
-| `.xyz` | 15,857 | 476d | $23,627 |
-| `.info` | 11,247 | 503d | $44,876 |
-| `.live` | 10,910 | 404d | $108,991 |
-| `.cfd` | 9,020 | 477d | $45,010 |
-| `.org` | 8,204 | 842d | $81,958 |
-| `.sbs` | 6,837 | 434d | $34,117 |
+| `.com` | 196,590 | 563d | $1,767,344 |
+| `.vip` | 27,685 | 372d | $138,148 |
+| `.icu` | 18,653 | 393d | $18,466 |
+| `.net` | 16,611 | 678d | $165,944 |
+| `.xyz` | 15,832 | 476d | $23,590 |
+| `.info` | 11,261 | 503d | $44,931 |
+| `.live` | 10,941 | 404d | $109,301 |
+| `.cfd` | 9,101 | 476d | $45,414 |
+| `.org` | 8,201 | 842d | $81,928 |
+| `.sbs` | 6,840 | 434d | $34,132 |
 
 ### 🌍 Top Hosting Countries
 
 ```
-US  ██████████████████     12,569 (34.9%)
+US  ██████████████████     12,554 (34.8%)
 RU  ████░░░░░░░░░░░░░░      2,981 (8.3%)
-CA  ███░░░░░░░░░░░░░░░      2,785 (7.7%)
-NL  ███░░░░░░░░░░░░░░░      2,606 (7.2%)
-DE  ███░░░░░░░░░░░░░░░      2,218 (6.2%)
-GB  ███░░░░░░░░░░░░░░░      2,096 (5.8%)
-BG  ██░░░░░░░░░░░░░░░░      1,771 (4.9%)
-UA  █░░░░░░░░░░░░░░░░░        868 (2.4%)
+CA  ███░░░░░░░░░░░░░░░      2,784 (7.7%)
+NL  ███░░░░░░░░░░░░░░░      2,614 (7.3%)
+DE  ███░░░░░░░░░░░░░░░      2,212 (6.1%)
+GB  ███░░░░░░░░░░░░░░░      2,098 (5.8%)
+BG  ██░░░░░░░░░░░░░░░░      1,772 (4.9%)
+UA  █░░░░░░░░░░░░░░░░░        869 (2.4%)
 ```
 
 ### 📈 Registration Burst Days
@@ -76,7 +76,7 @@ UA  █░░░░░░░░░░░░░░░░░        868 (2.4%)
 
 ### 🎯 Top Targeted Brands & Keywords
 
-`coinbase (3,810)` &middot; `claim (3,461)` &middot; `login (2,221)` &middot; `secure (1,698)` &middot; `token (1,571)` &middot; `wallet (1,507)` &middot; `swap (1,358)` &middot; `ledger (1,329)` &middot; `official (1,294)` &middot; `support (1,265)` &middot; `kraken (1,213)` &middot; `update (1,163)` &middot; `crypto (1,145)` &middot; `connect (1,109)` &middot; `trust (897)`
+`coinbase (3,813)` &middot; `claim (3,454)` &middot; `login (2,227)` &middot; `secure (1,699)` &middot; `token (1,572)` &middot; `wallet (1,506)` &middot; `swap (1,357)` &middot; `ledger (1,329)` &middot; `official (1,293)` &middot; `support (1,262)` &middot; `kraken (1,214)` &middot; `update (1,157)` &middot; `crypto (1,147)` &middot; `connect (1,110)` &middot; `trust (901)`
 
 ### 🕵️ Top Serial Registrants — 50 emails with ≥5 domains
 
@@ -87,11 +87,11 @@ UA  █░░░░░░░░░░░░░░░░░        868 (2.4%)
 | 3 | `inf***@africaoil.com` | **78** |
 | 4 | `ang***@gmail.com` | **42** |
 | 5 | `sup***@easybit.com` | **35** |
-| 6 | `inf***@ankamall.com.tr` | **28** |
-| 7 | `pre***@ethereum.org` | **27** |
-| 8 | `s***@email.com` | **26** |
-| 9 | `ihr***@email.de` | **25** |
-| 10 | `sub***@shib.io` | **25** |
+| 6 | `pre***@ethereum.org` | **27** |
+| 7 | `s***@email.com` | **26** |
+| 8 | `ihr***@email.de` | **25** |
+| 9 | `sub***@shib.io` | **25** |
+| 10 | `u00***@shib.io` | **25** |
 
 ### 📥 Download Threat Intelligence
 

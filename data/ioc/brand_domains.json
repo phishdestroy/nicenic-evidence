@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-06",
+  "generated": "2026-07-07",
   "keywords": {
     "coinbase": [
       "00-coinbase.com",
@@ -318,7 +318,6 @@
       "auclaimstatus.live",
       "audclaim.info",
       "audirect-claim.info",
-      "aura-claim.com",
       "aussreclaimserv.com",
       "ava-claim.com",
       "avalonfinance-claim-airdrop.xyz",
@@ -403,7 +402,8 @@
       "bluzellerewardclaims.com",
       "bmoclaimsonline.com",
       "bmoclaimsupport.com",
-      "bnb-claiming.com"
+      "bnb-claiming.com",
+      "boaclaimsonline.com"
     ],
     "login": [
       "0auth-login.digital",
@@ -664,6 +664,7 @@
       "aibsecure-auth.com",
       "aibsecure-payments-review.com",
       "airdrop-arbitrumtoken-secure01a.com",
+      "airwallexsecurehelp.com",
       "alertcibcwebsecure.com",
       "alternasecureid.com",
       "ameris-bank-secure.com",
@@ -806,8 +807,7 @@
       "chase-secured-help.com",
       "chasesecureportal.com",
       "chasewebsecureservers.net",
-      "check-secure-service.com",
-      "check-secure-verify.com"
+      "check-secure-service.com"
     ],
     "token": [
       "1fueliotoken.life",
@@ -1160,7 +1160,6 @@
       "bitfinexwallet.icu",
       "bitfrostdesktopwallet.com",
       "bitfrostwallet.site",
-      "bitgetwebwallet.com",
       "bitonwallets.com",
       "bitpanda-defiwallet.com",
       "bitpaydesktopwallet.com",
@@ -1211,11 +1210,11 @@
       "cbwallet.app",
       "cbwalletportal.com",
       "cbwallets.com",
-      "celiawallet.app"
+      "celiawallet.app",
+      "cenorawallets.com"
     ],
     "swap": [
       "0xswaps.xyz",
-      "1-swap.com",
       "11amaswap.icu",
       "11amaswap.run",
       "1inch-swap.org",
@@ -1251,7 +1250,6 @@
       "airswap.ink",
       "airswapreward.live",
       "airswaprewards.live",
-      "aiwefaceswaps.org",
       "akeswap.com",
       "allocation-tapswapai.com",
       "allocation-tapswaps.com",
@@ -1413,7 +1411,9 @@
       "claim-uniswapstoken-gateway01c.org",
       "claim-uniswaptokens.com",
       "claimhyperswap.exchange",
-      "claims-quickswap.com"
+      "claims-quickswap.com",
+      "claims-quickswap.exchange",
+      "claims-syncswap.com"
     ],
     "ledger": [
       "01-ledger.com",
@@ -1544,6 +1544,7 @@
       "64521411-ledger.com",
       "650910-ledger.com",
       "657633-ledger.com",
+      "662772-ledger.com",
       "681492-ledger.com",
       "6828843-ledger.com",
       "68917-ledger.com",
@@ -1614,8 +1615,7 @@
       "approved-ledger.com",
       "apps-ledger.com",
       "assets-ledger.com",
-      "assist-ledger.com",
-      "assistledger.com"
+      "assist-ledger.com"
     ],
     "official": [
       "10cric-official-india.com",
@@ -1687,6 +1687,7 @@
       "aresbet-official.vip",
       "aresbetglobalofficial.vip",
       "aresbetofficial.vip",
+      "artemisbet-official.live",
       "artinexa-official.com",
       "asdcofficialssadsystemk.world",
       "asicminerofficial.com",
@@ -1816,8 +1817,7 @@
       "casibom-official-address.com",
       "casibom-official-adres.com",
       "casibom-official-casibom.com",
-      "casibom-official-casibomgiris.com",
-      "casibom-official-giris.com"
+      "casibom-official-casibomgiris.com"
     ],
     "support": [
       "029250-support.com",
@@ -2054,7 +2054,6 @@
       "195772kraken.com",
       "19954-kraken.com",
       "2-kraken.cc",
-      "2026583-kraken.com",
       "207268-kraken.com",
       "210843-kraken.com",
       "215728-kraken.com",
@@ -2122,6 +2121,7 @@
       "843831-ticket-kraken.com",
       "853247-kraken.com",
       "873941kraken.com",
+      "91254kraken.com",
       "917845kraken.com",
       "927346kraken.com",
       "937162kraken.com",
@@ -2341,7 +2341,6 @@
       "boboupdate.live",
       "boisecurityupdate.com",
       "bp-sicherheitsupdate.com",
-      "bsanupdate.com",
       "bxeupdate.live",
       "c-update.info",
       "c24-2fa-update.com",
@@ -2423,7 +2422,8 @@
       "csr-update.info",
       "ctdl1-windowsupdate.com",
       "cygnusupdate.live",
-      "dagupdate.live"
+      "dagupdate.live",
+      "dappupdate.live"
     ],
     "crypto": [
       "094239-crypto.com",
@@ -2533,6 +2533,7 @@
       "676934crypto.com",
       "676938crypto.com",
       "678712-crypto.com",
+      "70382-crypto.com",
       "712357-crypto.com",
       "717444crypto.com",
       "71843-crypto.com",
@@ -2624,8 +2625,7 @@
       "assitance-crypto.com",
       "au-crypto.com",
       "aucryptoconf.com",
-      "aucryptoconference.com",
-      "aucryptoconv.com"
+      "aucryptoconference.com"
     ],
     "connect": [
       "0nline-2025at0connect.digital",
@@ -2869,6 +2869,7 @@
       "app-trustepads.xyz",
       "app-trustpad.biz",
       "app-trustpad.net",
+      "app-trustpad.org",
       "app-trustpade.com",
       "app-trustpade.net",
       "app-trustpade.org",
@@ -3028,8 +3029,7 @@
       "generictrustworld24x7.org",
       "genesis-trustwallet.com",
       "germtrust.digital",
-      "get-trustwallet.claims",
-      "getyourtrustcard.com"
+      "get-trustwallet.claims"
     ],
     "account": [
       "02-review-account.com",
@@ -3144,6 +3144,7 @@
       "account-trezor.com",
       "account-trust-wallet.com",
       "account-unchained.com",
+      "account-unlock.com",
       "account-update-o2.com",
       "account-updating.com",
       "account-uphold.com",
@@ -3162,9 +3163,11 @@
       "accountcare-apple.com",
       "accountcheckcenter.com",
       "accountcr-canada.com",
+      "accountcraportal.com",
       "accountcrcanada.com",
       "accountdaten-bitpanda.com",
       "accountdatenbestaetigung-bitpanda.com",
+      "accountdiagnosis.com",
       "accounthelp-coinbase.com",
       "accounthelp-secure.com",
       "accounthelp-update.com",
@@ -3228,10 +3231,7 @@
       "accounts-wealthsimple.com",
       "accounts-wordpress.com",
       "accountsa360.live",
-      "accountsecure-coinbase.com",
-      "accountsecure.digital",
-      "accountsecurebnc.com",
-      "accountsecurenow.com"
+      "accountsecure-coinbase.com"
     ],
     "airdrop": [
       "0x00000-bankless-hunt-airdrop.com",
@@ -3357,6 +3357,7 @@
       "airdrop-humidifi.app",
       "airdrop-hunterz.fun",
       "airdrop-hype.fun",
+      "airdrop-hypefoundation.app",
       "airdrop-hyperbitcoin.app",
       "airdrop-hyperbitcoin.com",
       "airdrop-hyperiiquid.xyz",
@@ -3432,8 +3433,7 @@
       "airdrop-neiroeth.com",
       "airdrop-neptune.cash",
       "airdrop-neur.com",
-      "airdrop-niggaliquid.fun",
-      "airdrop-nubcat.xyz"
+      "airdrop-niggaliquid.fun"
     ],
     "verify": [
       "05-25verifybnkaccess.info",
@@ -3847,7 +3847,6 @@
       "2025solana.com",
       "401konsolana.com",
       "401konsolana.net",
-      "401ksolana.com",
       "401ksolana.net",
       "8onsolana.com",
       "affordablesolana.com",
@@ -3877,6 +3876,7 @@
       "becker-solana.com",
       "bigtroutsolana.com",
       "birisolana.xyz",
+      "blackbullonsolana.com",
       "blackbullsolana.live",
       "bonkcoinsolana.com",
       "bonksolana.com",
