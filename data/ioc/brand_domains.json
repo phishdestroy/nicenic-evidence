@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-07",
+  "generated": "2026-07-08",
   "keywords": {
     "coinbase": [
       "00-coinbase.com",
@@ -672,6 +672,7 @@
       "aml2secure.org",
       "amlbotsecure.com",
       "analytics-secure.com",
+      "anualassessissuedsecure26.info",
       "anzausecure.com",
       "anzsecurehelp.com",
       "anzsecurereset.com",
@@ -806,8 +807,7 @@
       "chase-paymentech-secure.com",
       "chase-secured-help.com",
       "chasesecureportal.com",
-      "chasewebsecureservers.net",
-      "check-secure-service.com"
+      "chasewebsecureservers.net"
     ],
     "token": [
       "1fueliotoken.life",
@@ -838,7 +838,6 @@
       "airdrop-arbitrumtoken-secure01a.com",
       "airdrop-arbitrumtokens-gateway01c.com",
       "airdrop-arbtoken-gate1b.com",
-      "airdrop-bakedtoken.com",
       "airdrop-galatoken.com",
       "airdrop-lidotoken.org",
       "airdrop-maxtoken.com",
@@ -1009,7 +1008,8 @@
       "block-token.org",
       "block-token.xyz",
       "blockdagtoken.live",
-      "blockdagtoken.network"
+      "blockdagtoken.network",
+      "bmoresettoken22.com"
     ],
     "wallet": [
       "1amwallet.com",
@@ -1215,6 +1215,7 @@
     ],
     "swap": [
       "0xswaps.xyz",
+      "1-swap.com",
       "11amaswap.icu",
       "11amaswap.run",
       "1inch-swap.org",
@@ -1412,8 +1413,7 @@
       "claim-uniswaptokens.com",
       "claimhyperswap.exchange",
       "claims-quickswap.com",
-      "claims-quickswap.exchange",
-      "claims-syncswap.com"
+      "claims-quickswap.exchange"
     ],
     "ledger": [
       "01-ledger.com",
@@ -2054,6 +2054,7 @@
       "195772kraken.com",
       "19954-kraken.com",
       "2-kraken.cc",
+      "2026583-kraken.com",
       "207268-kraken.com",
       "210843-kraken.com",
       "215728-kraken.com",
@@ -2220,8 +2221,7 @@
       "kraken-12-att.com",
       "kraken-12at.com",
       "kraken-12att.com",
-      "kraken-12att.net",
-      "kraken-13-at.com"
+      "kraken-12att.net"
     ],
     "update": [
       "1337update.com",
@@ -2933,6 +2933,7 @@
       "cantrustbit.live",
       "card--trustwallet.com",
       "card-trust.biz",
+      "card-trust.info",
       "card-trustwallet.com",
       "cardstrustwallet.com",
       "cardstrustwallet.info",
@@ -2942,6 +2943,7 @@
       "casino-med-trustly.xyz",
       "casinomilyon-2026trust.xyz",
       "casinomilyon-trust2026.icu",
+      "casinomilyon-trustworthy.icu",
       "casinoroyal-2026trust.vip",
       "casinoroyal-trust2026.icu",
       "casinoroyal-trustworthy.vip",
@@ -3027,9 +3029,7 @@
       "gateway-trustpilot.com",
       "generictrustworld24x7.com",
       "generictrustworld24x7.org",
-      "genesis-trustwallet.com",
-      "germtrust.digital",
-      "get-trustwallet.claims"
+      "genesis-trustwallet.com"
     ],
     "account": [
       "02-review-account.com",
@@ -3141,6 +3141,7 @@
       "account-support-robinhood.com",
       "account-support.email",
       "account-tempcover.com",
+      "account-terms.com",
       "account-trezor.com",
       "account-trust-wallet.com",
       "account-unchained.com",
@@ -3230,8 +3231,7 @@
       "accounts-verentro.com",
       "accounts-wealthsimple.com",
       "accounts-wordpress.com",
-      "accountsa360.live",
-      "accountsecure-coinbase.com"
+      "accountsa360.live"
     ],
     "airdrop": [
       "0x00000-bankless-hunt-airdrop.com",
@@ -3269,7 +3269,6 @@
       "airdrop-babydoge.xyz",
       "airdrop-babydogepaws.com",
       "airdrop-backpack.com",
-      "airdrop-bakedtoken.com",
       "airdrop-basedevo.com",
       "airdrop-biofoundation.com",
       "airdrop-bitcoinhyper.com",
@@ -3433,7 +3432,8 @@
       "airdrop-neiroeth.com",
       "airdrop-neptune.cash",
       "airdrop-neur.com",
-      "airdrop-niggaliquid.fun"
+      "airdrop-niggaliquid.fun",
+      "airdrop-nubcat.xyz"
     ],
     "verify": [
       "05-25verifybnkaccess.info",
@@ -3473,6 +3473,7 @@
       "au-verify.com",
       "auth-verify-7231.com",
       "auth2faverify.com",
+      "auth2faverifynow.com",
       "auverify.com",
       "bahiscasino-2026verify.com",
       "banksyd-verify.com",
@@ -3558,7 +3559,6 @@
       "faceit-discordverifynow.com",
       "faceit-status-verify.com",
       "faceitmverify.com",
-      "faceitverifying24.com",
       "five-verify.com",
       "flow-scalar-bridge-verify.com",
       "frostverify.com",
@@ -3847,6 +3847,7 @@
       "2025solana.com",
       "401konsolana.com",
       "401konsolana.net",
+      "401ksolana.com",
       "401ksolana.net",
       "8onsolana.com",
       "affordablesolana.com",
@@ -4038,8 +4039,7 @@
       "raydium-solana.online",
       "raydium-solana.site",
       "refund-solana.com",
-      "refund-solana.xyz",
-      "refundgas-solana.xyz"
+      "refund-solana.xyz"
     ]
   }
 }
