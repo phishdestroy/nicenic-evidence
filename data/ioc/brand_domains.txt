@@ -662,6 +662,7 @@ secure	aml-check-secure.com
 secure	aml2secure.org
 secure	amlbotsecure.com
 secure	analytics-secure.com
+secure	anualassessissuedsecure26.info
 secure	anzausecure.com
 secure	anzsecurehelp.com
 secure	anzsecurereset.com
@@ -797,7 +798,6 @@ secure	chase-paymentech-secure.com
 secure	chase-secured-help.com
 secure	chasesecureportal.com
 secure	chasewebsecureservers.net
-secure	check-secure-service.com
 token	1fueliotoken.life
 token	1fueltoken.cfd
 token	4bsctoken.com
@@ -826,7 +826,6 @@ token	airdrop-arbitrumtoken-gateway01a.com
 token	airdrop-arbitrumtoken-secure01a.com
 token	airdrop-arbitrumtokens-gateway01c.com
 token	airdrop-arbtoken-gate1b.com
-token	airdrop-bakedtoken.com
 token	airdrop-galatoken.com
 token	airdrop-lidotoken.org
 token	airdrop-maxtoken.com
@@ -998,6 +997,7 @@ token	block-token.org
 token	block-token.xyz
 token	blockdagtoken.live
 token	blockdagtoken.network
+token	bmoresettoken22.com
 wallet	1amwallet.com
 wallet	1amwallet.xyz
 wallet	1gowallet-ar.com
@@ -1199,6 +1199,7 @@ wallet	cbwallets.com
 wallet	celiawallet.app
 wallet	cenorawallets.com
 swap	0xswaps.xyz
+swap	1-swap.com
 swap	11amaswap.icu
 swap	11amaswap.run
 swap	1inch-swap.org
@@ -1397,7 +1398,6 @@ swap	claim-uniswaptokens.com
 swap	claimhyperswap.exchange
 swap	claims-quickswap.com
 swap	claims-quickswap.exchange
-swap	claims-syncswap.com
 ledger	01-ledger.com
 ledger	0182778-ledger.com
 ledger	02-ledger.com
@@ -2030,6 +2030,7 @@ kraken	195237kraken.com
 kraken	195772kraken.com
 kraken	19954-kraken.com
 kraken	2-kraken.cc
+kraken	2026583-kraken.com
 kraken	207268-kraken.com
 kraken	210843-kraken.com
 kraken	215728-kraken.com
@@ -2197,7 +2198,6 @@ kraken	kraken-12-att.com
 kraken	kraken-12at.com
 kraken	kraken-12att.com
 kraken	kraken-12att.net
-kraken	kraken-13-at.com
 update	1337update.com
 update	1822direkt-update.com
 update	1822tanupdate.info
@@ -2901,6 +2901,7 @@ trust	cantrust.ltd
 trust	cantrustbit.live
 trust	card--trustwallet.com
 trust	card-trust.biz
+trust	card-trust.info
 trust	card-trustwallet.com
 trust	cardstrustwallet.com
 trust	cardstrustwallet.info
@@ -2910,6 +2911,7 @@ trust	casibom-2026trust.vip
 trust	casino-med-trustly.xyz
 trust	casinomilyon-2026trust.xyz
 trust	casinomilyon-trust2026.icu
+trust	casinomilyon-trustworthy.icu
 trust	casinoroyal-2026trust.vip
 trust	casinoroyal-trust2026.icu
 trust	casinoroyal-trustworthy.vip
@@ -2996,8 +2998,6 @@ trust	gateway-trustpilot.com
 trust	generictrustworld24x7.com
 trust	generictrustworld24x7.org
 trust	genesis-trustwallet.com
-trust	germtrust.digital
-trust	get-trustwallet.claims
 account	02-review-account.com
 account	1win-2026bestaccount.com
 account	1win-account2026.com
@@ -3107,6 +3107,7 @@ account	account-support-info.com
 account	account-support-robinhood.com
 account	account-support.email
 account	account-tempcover.com
+account	account-terms.com
 account	account-trezor.com
 account	account-trust-wallet.com
 account	account-unchained.com
@@ -3197,7 +3198,6 @@ account	accounts-verentro.com
 account	accounts-wealthsimple.com
 account	accounts-wordpress.com
 account	accountsa360.live
-account	accountsecure-coinbase.com
 airdrop	0x00000-bankless-hunt-airdrop.com
 airdrop	abstract-airdrop.xyz
 airdrop	aeth-airdrop.net
@@ -3233,7 +3233,6 @@ airdrop	airdrop-babydoge.org
 airdrop	airdrop-babydoge.xyz
 airdrop	airdrop-babydogepaws.com
 airdrop	airdrop-backpack.com
-airdrop	airdrop-bakedtoken.com
 airdrop	airdrop-basedevo.com
 airdrop	airdrop-biofoundation.com
 airdrop	airdrop-bitcoinhyper.com
@@ -3398,6 +3397,7 @@ airdrop	airdrop-neiroeth.com
 airdrop	airdrop-neptune.cash
 airdrop	airdrop-neur.com
 airdrop	airdrop-niggaliquid.fun
+airdrop	airdrop-nubcat.xyz
 verify	05-25verifybnkaccess.info
 verify	1bmo-banking-verify.com
 verify	1bmo-mobile-verify.com
@@ -3435,6 +3435,7 @@ verify	atoverify.com
 verify	au-verify.com
 verify	auth-verify-7231.com
 verify	auth2faverify.com
+verify	auth2faverifynow.com
 verify	auverify.com
 verify	bahiscasino-2026verify.com
 verify	banksyd-verify.com
@@ -3520,7 +3521,6 @@ verify	faceit-discord-verifynow.com
 verify	faceit-discordverifynow.com
 verify	faceit-status-verify.com
 verify	faceitmverify.com
-verify	faceitverifying24.com
 verify	five-verify.com
 verify	flow-scalar-bridge-verify.com
 verify	frostverify.com
@@ -3805,6 +3805,7 @@ solana	2025-breakpoint-solana.com
 solana	2025solana.com
 solana	401konsolana.com
 solana	401konsolana.net
+solana	401ksolana.com
 solana	401ksolana.net
 solana	8onsolana.com
 solana	affordablesolana.com
@@ -3997,4 +3998,3 @@ solana	raydium-solana.online
 solana	raydium-solana.site
 solana	refund-solana.com
 solana	refund-solana.xyz
-solana	refundgas-solana.xyz

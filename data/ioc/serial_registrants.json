@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-07",
+  "generated": "2026-07-08",
   "count": 50,
   "registrants": [
     {
@@ -574,10 +574,11 @@
     },
     {
       "email": "max@unternehmen.de",
-      "count": 22,
+      "count": 23,
       "domains": [
         "americanexpress-ident.com",
         "americanexpress-keys.com",
+        "americanexpress-sicherheit.com",
         "amex-access.com",
         "amex-connect.com",
         "amex-create.com",
