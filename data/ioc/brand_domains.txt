@@ -231,6 +231,7 @@ claim	aerodrome-claim.xyz
 claim	aerodromeclaims.live
 claim	aethirclaimportal.live
 claim	aevotokenclaim.xyz
+claim	ag-claim.info
 claim	ag-claims.app
 claim	ai16zdao-claim.com
 claim	aiagentlayerclaim.com
@@ -312,6 +313,7 @@ claim	auclaimsfundsummary.com
 claim	auclaimstatus.live
 claim	audclaim.info
 claim	audirect-claim.info
+claim	aura-claim.com
 claim	aussreclaimserv.com
 claim	ava-claim.com
 claim	avalonfinance-claim-airdrop.xyz
@@ -396,8 +398,6 @@ claim	bluzelleclaims.com
 claim	bluzellerewardclaims.com
 claim	bmoclaimsonline.com
 claim	bmoclaimsupport.com
-claim	bnb-claiming.com
-claim	boaclaimsonline.com
 login	0auth-login.digital
 login	101clublogin.net
 login	1bmologin-dsvl2k9mc.com
@@ -431,6 +431,7 @@ login	871178-ncinsuranceaccount-login.live
 login	8735651-federal-insurance-login.live
 login	8818732-fedeposit-login.live
 login	88456-fdic-login.support
+login	888321-fedinsurance-login.live
 login	88854356-fedinsurance-login.live
 login	898832-fedinsurance-login.live
 login	abacuslogin.com
@@ -561,7 +562,6 @@ login	bahiscom-logintek1.vip
 login	bahsegel-loginbahiscsno.com
 login	bahsegellogindestek.com
 login	banca-login.com
-login	bankinter-empresaslogin.com
 login	batonex-login-exchange.com
 login	bawg-elogin.com
 login	bbva-acceso-login.com
@@ -1014,6 +1014,7 @@ wallet	acewalletdrainer.com
 wallet	adalite-wallet.com
 wallet	advance-smartwallet.com
 wallet	ag-connect-wallet.com
+wallet	ag-wallet.sbs
 wallet	ai-agents-wallets.xyz
 wallet	ai-wallet.app
 wallet	ailawallet.com
@@ -1197,7 +1198,6 @@ wallet	cbwallet.app
 wallet	cbwalletportal.com
 wallet	cbwallets.com
 wallet	celiawallet.app
-wallet	cenorawallets.com
 swap	0xswaps.xyz
 swap	1-swap.com
 swap	11amaswap.icu
@@ -1257,7 +1257,6 @@ swap	app-cow-swap-v2.com
 swap	app-crv-curve-swap-curveswap.net
 swap	app-crv-curve-swap.org
 swap	app-curve-curve-fi-curve-finance-curve-swap.net
-swap	app-hyprcrswap.com
 swap	app-hyprrswap.com
 swap	app-hyprrswap.net
 swap	app-jupiter-swap.net
@@ -1398,6 +1397,7 @@ swap	claim-uniswaptokens.com
 swap	claimhyperswap.exchange
 swap	claims-quickswap.com
 swap	claims-quickswap.exchange
+swap	claims-syncswap.com
 ledger	01-ledger.com
 ledger	0182778-ledger.com
 ledger	02-ledger.com
@@ -1559,7 +1559,6 @@ ledger	892124-ledger.com
 ledger	9234923-ledger.com
 ledger	923712-ledger.com
 ledger	9263267-ledger.com
-ledger	927372-ledger.com
 ledger	92832-ledger.com
 ledger	92847-ledger.com
 ledger	941053-ledger.com
@@ -1592,6 +1591,7 @@ ledger	app-ledger-com.live
 ledger	app-ledger-security.com
 ledger	app-ledger.org
 ledger	app-ledgerwallet.com
+ledger	app-legal-ledger.icu
 ledger	app-openledger.xyz
 ledger	app-wallet-ledger.live
 ledger	approved-ledger.com
@@ -1791,13 +1791,13 @@ official	casibom-2025official.com
 official	casibom-casibomgiris-official.com
 official	casibom-casibomofficial.com
 official	casibom-giris-official.com
+official	casibom-girisofficial.cfd
 official	casibom-girisofficial.icu
 official	casibom-guncel-official.com
 official	casibom-official-2025.com
 official	casibom-official-address.com
 official	casibom-official-adres.com
 official	casibom-official-casibom.com
-official	casibom-official-casibomgiris.com
 support	029250-support.com
 support	0myidsupportdesk.live
 support	1-online-support.com
@@ -1834,7 +1834,6 @@ support	activatecustomerduesupportdillegence.com
 support	activity-claimssupportinfo.icu
 support	activity-support.icu
 support	adminsupport.live
-support	adssupport-partners.com
 support	adsupport-google.com
 support	ae-support.com
 support	afterpay-resetsupport.com
@@ -1998,6 +1997,7 @@ support	centra-link-support.net
 support	centsupportau.com
 support	chainsupporthub.pro
 support	chaseconnectsupport.com
+support	chatingsupport.live
 kraken	076261-kraken.com
 kraken	1-kraken.com
 kraken	109281-kraken.com
@@ -3294,6 +3294,7 @@ airdrop	airdrop-firelight.finance
 airdrop	airdrop-floki.com
 airdrop	airdrop-floki.live
 airdrop	airdrop-flork.com
+airdrop	airdrop-flt.info
 airdrop	airdrop-fogo.com
 airdrop	airdrop-football.fun
 airdrop	airdrop-frax.com
@@ -3369,6 +3370,7 @@ airdrop	airdrop-maga.com
 airdrop	airdrop-maga.xyz
 airdrop	airdrop-maker.com
 airdrop	airdrop-mana.org
+airdrop	airdrop-manlets.xyz
 airdrop	airdrop-mantle.xyz
 airdrop	airdrop-masterbot.app
 airdrop	airdrop-maxtoken.com
@@ -3396,8 +3398,6 @@ airdrop	airdrop-nearmobile.xyz
 airdrop	airdrop-neiroeth.com
 airdrop	airdrop-neptune.cash
 airdrop	airdrop-neur.com
-airdrop	airdrop-niggaliquid.fun
-airdrop	airdrop-nubcat.xyz
 verify	05-25verifybnkaccess.info
 verify	1bmo-banking-verify.com
 verify	1bmo-mobile-verify.com

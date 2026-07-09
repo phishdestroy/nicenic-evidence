@@ -896,6 +896,7 @@ tripscan103.cc
 tripscan104.cc
 tripscan105.cc
 tripscan106.cc
+tripscan107.cc
 tripscan64c.cc
 tripscan65c.cc
 tripscan66c.cc
