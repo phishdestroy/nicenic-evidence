@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-08",
+  "generated": "2026-07-09",
   "keywords": {
     "coinbase": [
       "00-coinbase.com",
@@ -237,6 +237,7 @@
       "aerodromeclaims.live",
       "aethirclaimportal.live",
       "aevotokenclaim.xyz",
+      "ag-claim.info",
       "ag-claims.app",
       "ai16zdao-claim.com",
       "aiagentlayerclaim.com",
@@ -318,6 +319,7 @@
       "auclaimstatus.live",
       "audclaim.info",
       "audirect-claim.info",
+      "aura-claim.com",
       "aussreclaimserv.com",
       "ava-claim.com",
       "avalonfinance-claim-airdrop.xyz",
@@ -401,9 +403,7 @@
       "bluzelleclaims.com",
       "bluzellerewardclaims.com",
       "bmoclaimsonline.com",
-      "bmoclaimsupport.com",
-      "bnb-claiming.com",
-      "boaclaimsonline.com"
+      "bmoclaimsupport.com"
     ],
     "login": [
       "0auth-login.digital",
@@ -439,6 +439,7 @@
       "8735651-federal-insurance-login.live",
       "8818732-fedeposit-login.live",
       "88456-fdic-login.support",
+      "888321-fedinsurance-login.live",
       "88854356-fedinsurance-login.live",
       "898832-fedinsurance-login.live",
       "abacuslogin.com",
@@ -569,7 +570,6 @@
       "bahsegel-loginbahiscsno.com",
       "bahsegellogindestek.com",
       "banca-login.com",
-      "bankinter-empresaslogin.com",
       "batonex-login-exchange.com",
       "bawg-elogin.com",
       "bbva-acceso-login.com",
@@ -1028,6 +1028,7 @@
       "adalite-wallet.com",
       "advance-smartwallet.com",
       "ag-connect-wallet.com",
+      "ag-wallet.sbs",
       "ai-agents-wallets.xyz",
       "ai-wallet.app",
       "ailawallet.com",
@@ -1210,8 +1211,7 @@
       "cbwallet.app",
       "cbwalletportal.com",
       "cbwallets.com",
-      "celiawallet.app",
-      "cenorawallets.com"
+      "celiawallet.app"
     ],
     "swap": [
       "0xswaps.xyz",
@@ -1273,7 +1273,6 @@
       "app-crv-curve-swap-curveswap.net",
       "app-crv-curve-swap.org",
       "app-curve-curve-fi-curve-finance-curve-swap.net",
-      "app-hyprcrswap.com",
       "app-hyprrswap.com",
       "app-hyprrswap.net",
       "app-jupiter-swap.net",
@@ -1413,7 +1412,8 @@
       "claim-uniswaptokens.com",
       "claimhyperswap.exchange",
       "claims-quickswap.com",
-      "claims-quickswap.exchange"
+      "claims-quickswap.exchange",
+      "claims-syncswap.com"
     ],
     "ledger": [
       "01-ledger.com",
@@ -1577,7 +1577,6 @@
       "9234923-ledger.com",
       "923712-ledger.com",
       "9263267-ledger.com",
-      "927372-ledger.com",
       "92832-ledger.com",
       "92847-ledger.com",
       "941053-ledger.com",
@@ -1610,6 +1609,7 @@
       "app-ledger-security.com",
       "app-ledger.org",
       "app-ledgerwallet.com",
+      "app-legal-ledger.icu",
       "app-openledger.xyz",
       "app-wallet-ledger.live",
       "approved-ledger.com",
@@ -1811,13 +1811,13 @@
       "casibom-casibomgiris-official.com",
       "casibom-casibomofficial.com",
       "casibom-giris-official.com",
+      "casibom-girisofficial.cfd",
       "casibom-girisofficial.icu",
       "casibom-guncel-official.com",
       "casibom-official-2025.com",
       "casibom-official-address.com",
       "casibom-official-adres.com",
-      "casibom-official-casibom.com",
-      "casibom-official-casibomgiris.com"
+      "casibom-official-casibom.com"
     ],
     "support": [
       "029250-support.com",
@@ -1856,7 +1856,6 @@
       "activity-claimssupportinfo.icu",
       "activity-support.icu",
       "adminsupport.live",
-      "adssupport-partners.com",
       "adsupport-google.com",
       "ae-support.com",
       "afterpay-resetsupport.com",
@@ -2019,7 +2018,8 @@
       "centra-link-support.net",
       "centsupportau.com",
       "chainsupporthub.pro",
-      "chaseconnectsupport.com"
+      "chaseconnectsupport.com",
+      "chatingsupport.live"
     ],
     "kraken": [
       "076261-kraken.com",
@@ -3330,6 +3330,7 @@
       "airdrop-floki.com",
       "airdrop-floki.live",
       "airdrop-flork.com",
+      "airdrop-flt.info",
       "airdrop-fogo.com",
       "airdrop-football.fun",
       "airdrop-frax.com",
@@ -3405,6 +3406,7 @@
       "airdrop-maga.xyz",
       "airdrop-maker.com",
       "airdrop-mana.org",
+      "airdrop-manlets.xyz",
       "airdrop-mantle.xyz",
       "airdrop-masterbot.app",
       "airdrop-maxtoken.com",
@@ -3431,9 +3433,7 @@
       "airdrop-nearmobile.xyz",
       "airdrop-neiroeth.com",
       "airdrop-neptune.cash",
-      "airdrop-neur.com",
-      "airdrop-niggaliquid.fun",
-      "airdrop-nubcat.xyz"
+      "airdrop-neur.com"
     ],
     "verify": [
       "05-25verifybnkaccess.info",

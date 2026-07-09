@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-08",
+  "generated": "2026-07-09",
   "count": 50,
   "registrants": [
     {
@@ -288,7 +288,7 @@
     },
     {
       "email": "angelgarcia.mail@gmail.com",
-      "count": 42,
+      "count": 41,
       "domains": [
         "25musk.org",
         "cbfund.info",
@@ -307,7 +307,6 @@
         "musk1.info",
         "promo-musk.net",
         "reward-promotions.org",
-        "ripple-pomotion.info",
         "ripple-pomotion.net",
         "ripple-pomotion.org",
         "ripplefinace-promo.info",
@@ -830,10 +829,9 @@
     },
     {
       "email": "info@ruspravka.com",
-      "count": 13,
+      "count": 12,
       "domains": [
         "ru-spravca.info",
-        "ru-sprawca.info",
         "ru-sprawka.info",
         "rus-spravki.info",
         "rus-sprawka.info",
@@ -849,27 +847,8 @@
     },
     {
       "email": "info@ruspravka.top",
-      "count": 13,
+      "count": 12,
       "domains": []
-    },
-    {
-      "email": "info@spravka.website",
-      "count": 13,
-      "domains": [
-        "mos-spravca.info",
-        "mos-spravka.info",
-        "mos-spravkas.info",
-        "mos-spravki.info",
-        "mos-spravky.info",
-        "moscow-spravka.info",
-        "moscow-spravki.info",
-        "moscow-sprawka.info",
-        "moscow-sprawki.info",
-        "mosspravki.info",
-        "spravkamos.info",
-        "spravki-mos.info",
-        "sprawka-moscow.info"
-      ]
     },
     {
       "email": "info@spravka-medik.info",
@@ -890,24 +869,6 @@
       ]
     },
     {
-      "email": "info@sprawka-compani.info",
-      "count": 12,
-      "domains": [
-        "clinik-spravka.info",
-        "klinic-spravka.info",
-        "klinic-spravki.info",
-        "klinik-spravka.info",
-        "klinik-spravki.info",
-        "spravka-klinic.info",
-        "spravka-klinics.info",
-        "spravkaklinic.info",
-        "spravkas-klinic.info",
-        "spravki-klinic.info",
-        "spravki-klinik.info",
-        "spravkiklinic.info"
-      ]
-    },
-    {
       "email": "donate@opencart.com",
       "count": 12,
       "domains": [
@@ -925,39 +886,21 @@
       ]
     },
     {
-      "email": "info@spravki-online.info",
+      "email": "info@spravka.website",
       "count": 12,
       "domains": [
-        "cpravki-msk.info",
-        "m-medspravka.info",
-        "med-spravkimsk.info",
-        "medspravkamsk.info",
-        "medspravki-m.info",
-        "msk-medspravki.info",
-        "mskspravki.info",
-        "spravkamsk.info",
-        "sprawka-msk.info",
-        "sprawkamsk.info",
-        "sprawki-msk.info",
-        "sprawkimsk.info"
-      ]
-    },
-    {
-      "email": "info@spravka-online.info",
-      "count": 12,
-      "domains": [
-        "cpravka-onlines.info",
-        "cpravkas-onlines.info",
-        "onlinespravki.info",
-        "spravka-onlajn.info",
-        "spravka-only.info",
-        "spravki-onlajn.info",
-        "spravki-only.info",
-        "spravkus-online.info",
-        "sprawkaonline.info",
-        "sprawkionline.info",
-        "sprawkus-online.info",
-        "sprawkys-online.info"
+        "mos-spravca.info",
+        "mos-spravka.info",
+        "mos-spravkas.info",
+        "mos-spravki.info",
+        "mos-spravky.info",
+        "moscow-spravka.info",
+        "moscow-spravki.info",
+        "moscow-sprawka.info",
+        "mosspravki.info",
+        "spravkamos.info",
+        "spravki-mos.info",
+        "sprawka-moscow.info"
       ]
     },
     {
@@ -979,26 +922,26 @@
       ]
     },
     {
-      "email": "info@medcom-site.com",
-      "count": 11,
-      "domains": [
-        "medspravki-russia.info",
-        "rus-spravky.info",
-        "spravkarus.info",
-        "spravkarussia.info",
-        "spravki-rus.info",
-        "spravki-russia.info",
-        "spravkirussia.info",
-        "spravku-dostavka.info",
-        "spravky-rus.info",
-        "sprawka-russia.info",
-        "sprawki-russia.info"
-      ]
-    },
-    {
       "email": "support@stake.us",
       "count": 11,
       "domains": []
+    },
+    {
+      "email": "info@sprawka-compani.info",
+      "count": 11,
+      "domains": [
+        "clinik-spravka.info",
+        "klinic-spravki.info",
+        "klinik-spravka.info",
+        "klinik-spravki.info",
+        "spravka-klinic.info",
+        "spravka-klinics.info",
+        "spravkaklinic.info",
+        "spravkas-klinic.info",
+        "spravki-klinic.info",
+        "spravki-klinik.info",
+        "spravkiklinic.info"
+      ]
     },
     {
       "email": "info@shop-spravki.com",
@@ -1052,23 +995,6 @@
       ]
     },
     {
-      "email": "info@spravka-ru.com",
-      "count": 11,
-      "domains": [
-        "bolnichka-mck.info",
-        "msk-bolnichka.info",
-        "spravka-bolnichka.info",
-        "spravka-onlin.info",
-        "spravka-vbolnichke.info",
-        "spravki-bolnichka.info",
-        "spravki-v-bolnichke.info",
-        "spravki-vbolnichke.info",
-        "spravkibolnichki.info",
-        "spravkiizbolnichki.info",
-        "sprawka-bolnichka.info"
-      ]
-    },
-    {
       "email": "support@dervalio.com",
       "count": 11,
       "domains": [
@@ -1086,20 +1012,20 @@
       ]
     },
     {
-      "email": "info@spravka-medicina.com",
+      "email": "info@spravki-online.info",
       "count": 11,
       "domains": [
-        "bolnichnye-list.info",
-        "bolnichnye-listy.info",
-        "bolnichnyelist.info",
-        "bolnichnyi-top.info",
-        "bolnichnyj-listy.info",
-        "bolnichnyj-top.info",
-        "bolnichnyjlist.info",
-        "bolnichnyjlisty.info",
-        "bolnichnylist.info",
-        "list-bolnichny.info",
-        "listbolnichnyj.info"
+        "cpravki-msk.info",
+        "m-medspravka.info",
+        "med-spravkimsk.info",
+        "medspravkamsk.info",
+        "medspravki-m.info",
+        "msk-medspravki.info",
+        "mskspravki.info",
+        "spravkamsk.info",
+        "sprawka-msk.info",
+        "sprawkamsk.info",
+        "sprawkimsk.info"
       ]
     },
     {
@@ -1117,6 +1043,54 @@
         "originals-diplommy24.com",
         "originals-diploms.com",
         "originals-diplomy.com"
+      ]
+    },
+    {
+      "email": "info@medcom-site.com",
+      "count": 10,
+      "domains": [
+        "medspravki-russia.info",
+        "rus-spravky.info",
+        "spravkarus.info",
+        "spravkarussia.info",
+        "spravki-rus.info",
+        "spravki-russia.info",
+        "spravkirussia.info",
+        "spravku-dostavka.info",
+        "spravky-rus.info",
+        "sprawka-russia.info"
+      ]
+    },
+    {
+      "email": "info@spravka-online.info",
+      "count": 10,
+      "domains": [
+        "cpravka-onlines.info",
+        "cpravkas-onlines.info",
+        "onlinespravki.info",
+        "spravka-onlajn.info",
+        "spravka-only.info",
+        "spravki-onlajn.info",
+        "spravki-only.info",
+        "sprawkaonline.info",
+        "sprawkionline.info",
+        "sprawkus-online.info"
+      ]
+    },
+    {
+      "email": "info@spravka-medicina.com",
+      "count": 10,
+      "domains": [
+        "bolnichnye-list.info",
+        "bolnichnyelist.info",
+        "bolnichnyi-top.info",
+        "bolnichnyj-listy.info",
+        "bolnichnyj-top.info",
+        "bolnichnyjlist.info",
+        "bolnichnyjlisty.info",
+        "bolnichnylist.info",
+        "list-bolnichny.info",
+        "listbolnichnyj.info"
       ]
     },
     {
@@ -1195,18 +1169,33 @@
       ]
     },
     {
-      "email": "info@24spravka.com",
+      "email": "info@spravka-ru.com",
       "count": 9,
       "domains": [
-        "bolnichniy-moskow.info",
-        "bolnichniy-msk.info",
-        "bolnichniymsk.info",
-        "bolnichny-msk.info",
-        "bolnichnyjmsk.info",
-        "bolnichnymsk.info",
-        "msk-bolnichny.info",
-        "msk-bolnichnyi24.info",
-        "mskbolnichny.info"
+        "bolnichka-mck.info",
+        "spravka-onlin.info",
+        "spravka-vbolnichke.info",
+        "spravki-bolnichka.info",
+        "spravki-v-bolnichke.info",
+        "spravki-vbolnichke.info",
+        "spravkibolnichki.info",
+        "spravkiizbolnichki.info",
+        "sprawka-bolnichka.info"
+      ]
+    },
+    {
+      "email": "support@pokerdom.vip",
+      "count": 9,
+      "domains": [
+        "koinbaylogin.com",
+        "sarmayex-login.com",
+        "voox-exchange.com",
+        "voox-login.com",
+        "wallex-login.com",
+        "wallex-web.com",
+        "zedxion-exchange.com",
+        "zedxion-giris.com",
+        "zedxion-login.com"
       ]
     }
   ]
