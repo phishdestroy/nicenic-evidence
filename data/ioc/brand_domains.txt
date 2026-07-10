@@ -56,7 +56,6 @@ coinbase	1049298-coinbase.com
 coinbase	105003coinbase.com
 coinbase	1052954-coinbase.com
 coinbase	105524coinbase.com
-coinbase	10579-coinbase.com
 coinbase	1058294-coinbase.com
 coinbase	105882-coinbase.com
 coinbase	105915coinbase.com
@@ -198,6 +197,7 @@ coinbase	1328271-coinbase.com
 coinbase	133750-coinbase.com
 coinbase	133781coinbase.com
 coinbase	133830-coinbase.com
+coinbase	133920-coinbase.com
 claim	0x-claim.xyz
 claim	0x00-claimables.xyz
 claim	0x000-claimables.xyz
@@ -370,6 +370,7 @@ claim	bitcoinhyper-claims.com
 claim	bitcoinhyperclaim.info
 claim	bitcoinpenguins-claim.com
 claim	bitlayer-claim.xyz
+claim	blackbullsolclaim.pro
 claim	blackholeclaim.xyz
 claim	blastl2claim.com
 claim	blaze-claim.net
@@ -397,7 +398,6 @@ claim	blum-claims.com
 claim	bluzelleclaims.com
 claim	bluzellerewardclaims.com
 claim	bmoclaimsonline.com
-claim	bmoclaimsupport.com
 login	0auth-login.digital
 login	101clublogin.net
 login	1bmologin-dsvl2k9mc.com
@@ -426,6 +426,7 @@ login	592943-login-coinbase.com
 login	594384-login-coinbase.com
 login	7login-td.com
 login	818821-ncinsuranceaccount-login.live
+login	866125-fedinsurance-login.live
 login	8666581-fedinsurance-login.live
 login	871178-ncinsuranceaccount-login.live
 login	8735651-federal-insurance-login.live
@@ -597,7 +598,6 @@ login	betcio-teklogin3.vip
 login	betcio-teklogin4.vip
 login	betcio-trlogin.vip
 login	betciolivelogin.com
-login	betciologinx.com
 secure	09025896-secure-chase.com
 secure	19023-secure.com
 secure	1bmo-banking-secure.com
@@ -1013,7 +1013,6 @@ wallet	account-trust-wallet.com
 wallet	acewalletdrainer.com
 wallet	adalite-wallet.com
 wallet	advance-smartwallet.com
-wallet	ag-connect-wallet.com
 wallet	ag-wallet.sbs
 wallet	ai-agents-wallets.xyz
 wallet	ai-wallet.app
@@ -1198,6 +1197,7 @@ wallet	cbwallet.app
 wallet	cbwalletportal.com
 wallet	cbwallets.com
 wallet	celiawallet.app
+wallet	cenorawallets.com
 swap	0xswaps.xyz
 swap	1-swap.com
 swap	11amaswap.icu
@@ -1257,6 +1257,7 @@ swap	app-cow-swap-v2.com
 swap	app-crv-curve-swap-curveswap.net
 swap	app-crv-curve-swap.org
 swap	app-curve-curve-fi-curve-finance-curve-swap.net
+swap	app-hyprcrswap.com
 swap	app-hyprrswap.com
 swap	app-hyprrswap.net
 swap	app-jupiter-swap.net
@@ -1397,7 +1398,6 @@ swap	claim-uniswaptokens.com
 swap	claimhyperswap.exchange
 swap	claims-quickswap.com
 swap	claims-quickswap.exchange
-swap	claims-syncswap.com
 ledger	01-ledger.com
 ledger	0182778-ledger.com
 ledger	02-ledger.com
@@ -1559,6 +1559,7 @@ ledger	892124-ledger.com
 ledger	9234923-ledger.com
 ledger	923712-ledger.com
 ledger	9263267-ledger.com
+ledger	927372-ledger.com
 ledger	92832-ledger.com
 ledger	92847-ledger.com
 ledger	941053-ledger.com
@@ -1597,7 +1598,6 @@ ledger	app-wallet-ledger.live
 ledger	approved-ledger.com
 ledger	apps-ledger.com
 ledger	assets-ledger.com
-ledger	assist-ledger.com
 official	10cric-official-india.com
 official	10official.vip
 official	1121-betebet-official.com
@@ -2476,7 +2476,6 @@ crypto	394164-crypto.com
 crypto	409110crypto.com
 crypto	418910-crypto.com
 crypto	439304-crypto.com
-crypto	44983-crypto.com
 crypto	467891-crypto.com
 crypto	478322-crypto.com
 crypto	4827193-crypto.com
@@ -2488,7 +2487,6 @@ crypto	52938-crypto.com
 crypto	532218-crypto.com
 crypto	543544crypto.com
 crypto	56321-crypto.com
-crypto	57182-crypto.com
 crypto	576319-crypto.com
 crypto	578332crypto.com
 crypto	578392-crypto.com
@@ -2533,7 +2531,6 @@ crypto	847936-crypto.com
 crypto	863722-crypto.com
 crypto	873195-crypto.com
 crypto	874165-crypto.com
-crypto	88623-crypto.com
 crypto	894210-crypto.com
 crypto	900312-crypto.com
 crypto	902880-crypto.com
@@ -2598,6 +2595,9 @@ crypto	assitance-crypto.com
 crypto	au-crypto.com
 crypto	aucryptoconf.com
 crypto	aucryptoconference.com
+crypto	aucryptoconv.com
+crypto	aucryptoconvention.com
+crypto	aucryptoevent.com
 connect	0nline-2025at0connect.digital
 connect	0xmetaconnect-rpc.xyz
 connect	19928292pcstestconnect2919.com
@@ -2610,7 +2610,6 @@ connect	accesd-seconnecter.com
 connect	accessehub-connects.info
 connect	adapt-connect.pro
 connect	adminconnect.live
-connect	ag-connect-wallet.com
 connect	agentconnect-coinbase.com
 connect	airdrop-walletconnect.com
 connect	aisaconnect.com
@@ -2766,7 +2765,6 @@ connect	connect-app.pub
 connect	connect-asterdex.com
 connect	connect-astra.com
 connect	connect-athene.com
-connect	connect-atleta.com
 connect	connect-auth.net
 connect	connect-avalon.com
 connect	connect-avive.com
@@ -2798,6 +2796,8 @@ connect	connect-earnifi.com
 connect	connect-earnm.com
 connect	connect-eclipse.com
 connect	connect-eesee.com
+connect	connect-ellipal.com
+connect	connect-elys.com
 trust	1-tdcanadatrust.com
 trust	1trusted.live
 trust	1win-trust2026.icu
@@ -2962,6 +2962,7 @@ trust	dapp-trustpads.xyz
 trust	darknet-trust.com
 trust	darknettrust.com
 trust	dealstrust.vip
+trust	defi-trustpad.net
 trust	desktop-itrustcapital.com
 trust	digitaltrustnetworks.xyz
 trust	dlztrustnik.info
@@ -2997,7 +2998,6 @@ trust	gate-trustpilot.com
 trust	gateway-trustpilot.com
 trust	generictrustworld24x7.com
 trust	generictrustworld24x7.org
-trust	genesis-trustwallet.com
 account	02-review-account.com
 account	1win-2026bestaccount.com
 account	1win-account2026.com
