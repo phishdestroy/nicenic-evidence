@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-09",
+  "generated": "2026-07-10",
   "count": 50,
   "registrants": [
     {
@@ -288,7 +288,7 @@
     },
     {
       "email": "angelgarcia.mail@gmail.com",
-      "count": 41,
+      "count": 40,
       "domains": [
         "25musk.org",
         "cbfund.info",
@@ -320,7 +320,6 @@
         "rippleofficial-reward.net",
         "rippleofficial-reward.org",
         "ripplepromo-investing.net",
-        "ripplereward-foundation.info",
         "saylorgo.info",
         "tate2x.info",
         "tesla-reward.org",
@@ -409,7 +408,7 @@
     },
     {
       "email": "seu@email.com",
-      "count": 26,
+      "count": 25,
       "domains": [
         "agendavirtualfacil.com",
         "agendefacilonline.com",
@@ -417,7 +416,6 @@
         "autodigitalfacil.com",
         "brasadelivery.cfd",
         "brasadelivery.icu",
-        "brasadelivery.sbs",
         "brasadelivery.store",
         "btmob24.com",
         "crmpay.net",
@@ -753,26 +751,6 @@
       ]
     },
     {
-      "email": "info@best-spravka.info",
-      "count": 14,
-      "domains": [
-        "best-spravkas.info",
-        "best-spravkys.info",
-        "best-sprawki.info",
-        "bestspravka.info",
-        "bestspravki.info",
-        "bestsprawka.info",
-        "bestsprawki.info",
-        "prostomed-sprakva.info",
-        "spravki-best.info",
-        "spravkibest.info",
-        "sprawka-best.info",
-        "sprawkabest.info",
-        "sprawki-best.info",
-        "sprawkibest.info"
-      ]
-    },
-    {
       "email": "info@med-spravki.com",
       "count": 14,
       "domains": [
@@ -825,6 +803,25 @@
         "osstreshroadmap.com",
         "roadmautguide.com",
         "vignettemautinfo.com"
+      ]
+    },
+    {
+      "email": "info@best-spravka.info",
+      "count": 13,
+      "domains": [
+        "best-spravkas.info",
+        "best-spravkys.info",
+        "bestspravka.info",
+        "bestspravki.info",
+        "bestsprawka.info",
+        "bestsprawki.info",
+        "prostomed-sprakva.info",
+        "spravki-best.info",
+        "spravkibest.info",
+        "sprawka-best.info",
+        "sprawkabest.info",
+        "sprawki-best.info",
+        "sprawkibest.info"
       ]
     },
     {
@@ -883,24 +880,6 @@
         "urbanvico.com",
         "urheilu-karki.com",
         "zatempl.com"
-      ]
-    },
-    {
-      "email": "info@spravka.website",
-      "count": 12,
-      "domains": [
-        "mos-spravca.info",
-        "mos-spravka.info",
-        "mos-spravkas.info",
-        "mos-spravki.info",
-        "mos-spravky.info",
-        "moscow-spravka.info",
-        "moscow-spravki.info",
-        "moscow-sprawka.info",
-        "mosspravki.info",
-        "spravkamos.info",
-        "spravki-mos.info",
-        "sprawka-moscow.info"
       ]
     },
     {
@@ -1012,23 +991,6 @@
       ]
     },
     {
-      "email": "info@spravki-online.info",
-      "count": 11,
-      "domains": [
-        "cpravki-msk.info",
-        "m-medspravka.info",
-        "med-spravkimsk.info",
-        "medspravkamsk.info",
-        "medspravki-m.info",
-        "msk-medspravki.info",
-        "mskspravki.info",
-        "spravkamsk.info",
-        "sprawka-msk.info",
-        "sprawkamsk.info",
-        "sprawkimsk.info"
-      ]
-    },
-    {
       "email": "originals.diplomy@gmail.com",
       "count": 11,
       "domains": [
@@ -1046,35 +1008,51 @@
       ]
     },
     {
-      "email": "info@medcom-site.com",
+      "email": "helpdesk@wingstop.com",
       "count": 10,
       "domains": [
-        "medspravki-russia.info",
-        "rus-spravky.info",
-        "spravkarus.info",
-        "spravkarussia.info",
-        "spravki-rus.info",
-        "spravki-russia.info",
-        "spravkirussia.info",
-        "spravku-dostavka.info",
-        "spravky-rus.info",
-        "sprawka-russia.info"
+        "vvingsttop.com",
+        "wingstop.today",
+        "wingstops.today",
+        "wingsttops.digital",
+        "winngstop.digital",
+        "wlngstoop.today",
+        "wlngstop.info",
+        "wlngstops.cloud",
+        "wlngstops.digital",
+        "wlngstops.today"
       ]
     },
     {
-      "email": "info@spravka-online.info",
+      "email": "info@spravki-online.info",
       "count": 10,
       "domains": [
-        "cpravka-onlines.info",
-        "cpravkas-onlines.info",
-        "onlinespravki.info",
-        "spravka-onlajn.info",
-        "spravka-only.info",
-        "spravki-onlajn.info",
-        "spravki-only.info",
-        "sprawkaonline.info",
-        "sprawkionline.info",
-        "sprawkus-online.info"
+        "cpravki-msk.info",
+        "m-medspravka.info",
+        "med-spravkimsk.info",
+        "medspravkamsk.info",
+        "medspravki-m.info",
+        "msk-medspravki.info",
+        "mskspravki.info",
+        "sprawka-msk.info",
+        "sprawkamsk.info",
+        "sprawkimsk.info"
+      ]
+    },
+    {
+      "email": "info@spravka.website",
+      "count": 10,
+      "domains": [
+        "mos-spravca.info",
+        "mos-spravka.info",
+        "mos-spravkas.info",
+        "mos-spravki.info",
+        "mos-spravky.info",
+        "moscow-spravka.info",
+        "moscow-sprawka.info",
+        "mosspravki.info",
+        "spravkamos.info",
+        "spravki-mos.info"
       ]
     },
     {
@@ -1109,6 +1087,21 @@
       ]
     },
     {
+      "email": "info@medcom-site.com",
+      "count": 9,
+      "domains": [
+        "medspravki-russia.info",
+        "rus-spravky.info",
+        "spravkarus.info",
+        "spravkarussia.info",
+        "spravki-rus.info",
+        "spravkirussia.info",
+        "spravku-dostavka.info",
+        "spravky-rus.info",
+        "sprawka-russia.info"
+      ]
+    },
+    {
       "email": "support@adguard.com",
       "count": 9,
       "domains": [
@@ -1121,21 +1114,6 @@
         "adguardscan.org",
         "adguardtech.com",
         "adguardtech.net"
-      ]
-    },
-    {
-      "email": "helpdesk@wingstop.com",
-      "count": 9,
-      "domains": [
-        "vvingsttop.com",
-        "wingstop.today",
-        "wingstops.today",
-        "wingsttops.digital",
-        "winngstop.digital",
-        "wlngstoop.today",
-        "wlngstop.info",
-        "wlngstops.digital",
-        "wlngstops.today"
       ]
     },
     {
@@ -1154,21 +1132,6 @@
       ]
     },
     {
-      "email": "info@gost-sprawki.info",
-      "count": 9,
-      "domains": [
-        "gost-spravka.info",
-        "gostcpravka.info",
-        "gostcpravki.info",
-        "gostcprawka.info",
-        "gostcprawki.info",
-        "gostspravca.info",
-        "gostsprawca.info",
-        "sprakapogostu.info",
-        "sprakipogostu.info"
-      ]
-    },
-    {
       "email": "info@spravka-ru.com",
       "count": 9,
       "domains": [
@@ -1184,6 +1147,21 @@
       ]
     },
     {
+      "email": "info@spravka-online.info",
+      "count": 9,
+      "domains": [
+        "cpravka-onlines.info",
+        "cpravkas-onlines.info",
+        "onlinespravki.info",
+        "spravka-onlajn.info",
+        "spravka-only.info",
+        "spravki-only.info",
+        "sprawkaonline.info",
+        "sprawkionline.info",
+        "sprawkus-online.info"
+      ]
+    },
+    {
       "email": "support@pokerdom.vip",
       "count": 9,
       "domains": [
@@ -1196,6 +1174,21 @@
         "zedxion-exchange.com",
         "zedxion-giris.com",
         "zedxion-login.com"
+      ]
+    },
+    {
+      "email": "destek@betvole.com",
+      "count": 9,
+      "domains": [
+        "1556betvole.com",
+        "1972betvole.com",
+        "979betvole.com",
+        "981betvole.com",
+        "994betvole.com",
+        "995betvole.com",
+        "997betvole.com",
+        "998betvole.com",
+        "999betvole.com"
       ]
     }
   ]
