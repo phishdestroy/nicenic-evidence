@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-10",
+  "generated": "2026-07-11",
   "keywords": {
     "coinbase": [
       "00-coinbase.com",
@@ -60,6 +60,7 @@
       "105003coinbase.com",
       "1052954-coinbase.com",
       "105524coinbase.com",
+      "10579-coinbase.com",
       "1058294-coinbase.com",
       "105882-coinbase.com",
       "105915coinbase.com",
@@ -200,8 +201,7 @@
       "1328271-coinbase.com",
       "133750-coinbase.com",
       "133781coinbase.com",
-      "133830-coinbase.com",
-      "133920-coinbase.com"
+      "133830-coinbase.com"
     ],
     "claim": [
       "0x-claim.xyz",
@@ -705,7 +705,6 @@
       "auth-secure-gate5.com",
       "authcc-secured.com",
       "authscotiabanksecure.com",
-      "authsecure-cb.com",
       "aws-secure.com",
       "b2brouter-secure.com",
       "bankofmissouri-secure.com",
@@ -807,7 +806,8 @@
       "chase-paymentech-secure.com",
       "chase-secured-help.com",
       "chasesecureportal.com",
-      "chasewebsecureservers.net"
+      "chasewebsecureservers.net",
+      "check-secure-service.com"
     ],
     "token": [
       "1fueliotoken.life",
@@ -1091,7 +1091,6 @@
       "awsxwallets.com",
       "axelardesktopwallet.app",
       "axtercoldwallet.com",
-      "b1wallet.com",
       "backofficeatomicwallet.com",
       "backofficetrustwallet.com",
       "backpack-wallet.org",
@@ -1211,7 +1210,8 @@
       "cbwalletportal.com",
       "cbwallets.com",
       "celiawallet.app",
-      "cenorawallets.com"
+      "cenorawallets.com",
+      "chainxaiwallet.com"
     ],
     "swap": [
       "0xswaps.xyz",
@@ -2504,6 +2504,7 @@
       "409110crypto.com",
       "418910-crypto.com",
       "439304-crypto.com",
+      "44983-crypto.com",
       "467891-crypto.com",
       "478322-crypto.com",
       "4827193-crypto.com",
@@ -2515,6 +2516,7 @@
       "532218-crypto.com",
       "543544crypto.com",
       "56321-crypto.com",
+      "57182-crypto.com",
       "576319-crypto.com",
       "578332crypto.com",
       "578392-crypto.com",
@@ -2559,6 +2561,7 @@
       "863722-crypto.com",
       "873195-crypto.com",
       "874165-crypto.com",
+      "88623-crypto.com",
       "894210-crypto.com",
       "900312-crypto.com",
       "902880-crypto.com",
@@ -2622,10 +2625,7 @@
       "assitance-crypto.com",
       "au-crypto.com",
       "aucryptoconf.com",
-      "aucryptoconference.com",
-      "aucryptoconv.com",
-      "aucryptoconvention.com",
-      "aucryptoevent.com"
+      "aucryptoconference.com"
     ],
     "connect": [
       "0nline-2025at0connect.digital",
@@ -2938,6 +2938,7 @@
       "cardstrustwallet.com",
       "cardstrustwallet.info",
       "cardtrusts.com",
+      "care-itrustcapital.com",
       "cars-trusted.com",
       "casibom-2026trust.vip",
       "casino-med-trustly.xyz",
@@ -3028,8 +3029,7 @@
       "gameofbet-trustworthy.vip",
       "gate-trustpilot.com",
       "gateway-trustpilot.com",
-      "generictrustworld24x7.com",
-      "generictrustworld24x7.org"
+      "generictrustworld24x7.com"
     ],
     "account": [
       "02-review-account.com",
@@ -3507,6 +3507,7 @@
       "chasesverify.com",
       "check-secure-verify.com",
       "check-verify-secure.com",
+      "cibcbusiness-verify.com",
       "cibcverify-now.com",
       "citi-verify00743.support",
       "citibankverify.live",
@@ -3634,8 +3635,7 @@
       "mica-update-verify.com",
       "mica-verify-update.com",
       "mica-verify.com",
-      "michaelverifyscotia.business",
-      "mobilepayverifydk.com"
+      "michaelverifyscotia.business"
     ],
     "vault": [
       "118924-cbvault.com",
