@@ -56,6 +56,7 @@ coinbase	1049298-coinbase.com
 coinbase	105003coinbase.com
 coinbase	1052954-coinbase.com
 coinbase	105524coinbase.com
+coinbase	10579-coinbase.com
 coinbase	1058294-coinbase.com
 coinbase	105882-coinbase.com
 coinbase	105915coinbase.com
@@ -197,7 +198,6 @@ coinbase	1328271-coinbase.com
 coinbase	133750-coinbase.com
 coinbase	133781coinbase.com
 coinbase	133830-coinbase.com
-coinbase	133920-coinbase.com
 claim	0x-claim.xyz
 claim	0x00-claimables.xyz
 claim	0x000-claimables.xyz
@@ -695,7 +695,6 @@ secure	auth-secure-gate2.com
 secure	auth-secure-gate5.com
 secure	authcc-secured.com
 secure	authscotiabanksecure.com
-secure	authsecure-cb.com
 secure	aws-secure.com
 secure	b2brouter-secure.com
 secure	bankofmissouri-secure.com
@@ -798,6 +797,7 @@ secure	chase-paymentech-secure.com
 secure	chase-secured-help.com
 secure	chasesecureportal.com
 secure	chasewebsecureservers.net
+secure	check-secure-service.com
 token	1fueliotoken.life
 token	1fueltoken.cfd
 token	4bsctoken.com
@@ -1077,7 +1077,6 @@ wallet	awsxwallet.com
 wallet	awsxwallets.com
 wallet	axelardesktopwallet.app
 wallet	axtercoldwallet.com
-wallet	b1wallet.com
 wallet	backofficeatomicwallet.com
 wallet	backofficetrustwallet.com
 wallet	backpack-wallet.org
@@ -1198,6 +1197,7 @@ wallet	cbwalletportal.com
 wallet	cbwallets.com
 wallet	celiawallet.app
 wallet	cenorawallets.com
+wallet	chainxaiwallet.com
 swap	0xswaps.xyz
 swap	1-swap.com
 swap	11amaswap.icu
@@ -2476,6 +2476,7 @@ crypto	394164-crypto.com
 crypto	409110crypto.com
 crypto	418910-crypto.com
 crypto	439304-crypto.com
+crypto	44983-crypto.com
 crypto	467891-crypto.com
 crypto	478322-crypto.com
 crypto	4827193-crypto.com
@@ -2487,6 +2488,7 @@ crypto	52938-crypto.com
 crypto	532218-crypto.com
 crypto	543544crypto.com
 crypto	56321-crypto.com
+crypto	57182-crypto.com
 crypto	576319-crypto.com
 crypto	578332crypto.com
 crypto	578392-crypto.com
@@ -2531,6 +2533,7 @@ crypto	847936-crypto.com
 crypto	863722-crypto.com
 crypto	873195-crypto.com
 crypto	874165-crypto.com
+crypto	88623-crypto.com
 crypto	894210-crypto.com
 crypto	900312-crypto.com
 crypto	902880-crypto.com
@@ -2595,9 +2598,6 @@ crypto	assitance-crypto.com
 crypto	au-crypto.com
 crypto	aucryptoconf.com
 crypto	aucryptoconference.com
-crypto	aucryptoconv.com
-crypto	aucryptoconvention.com
-crypto	aucryptoevent.com
 connect	0nline-2025at0connect.digital
 connect	0xmetaconnect-rpc.xyz
 connect	19928292pcstestconnect2919.com
@@ -2906,6 +2906,7 @@ trust	card-trustwallet.com
 trust	cardstrustwallet.com
 trust	cardstrustwallet.info
 trust	cardtrusts.com
+trust	care-itrustcapital.com
 trust	cars-trusted.com
 trust	casibom-2026trust.vip
 trust	casino-med-trustly.xyz
@@ -2997,7 +2998,6 @@ trust	gameofbet-trustworthy.vip
 trust	gate-trustpilot.com
 trust	gateway-trustpilot.com
 trust	generictrustworld24x7.com
-trust	generictrustworld24x7.org
 account	02-review-account.com
 account	1win-2026bestaccount.com
 account	1win-account2026.com
@@ -3469,6 +3469,7 @@ verify	chase-verify-activity.com
 verify	chasesverify.com
 verify	check-secure-verify.com
 verify	check-verify-secure.com
+verify	cibcbusiness-verify.com
 verify	cibcverify-now.com
 verify	citi-verify00743.support
 verify	citibankverify.live
@@ -3597,7 +3598,6 @@ verify	mica-update-verify.com
 verify	mica-verify-update.com
 verify	mica-verify.com
 verify	michaelverifyscotia.business
-verify	mobilepayverifydk.com
 vault	118924-cbvault.com
 vault	157206-cbvault.com
 vault	177253-cb-vault.com
