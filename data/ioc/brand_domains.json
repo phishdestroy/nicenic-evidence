@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-12",
+  "generated": "2026-07-13",
   "keywords": {
     "coinbase": [
       "00-coinbase.com",
@@ -59,6 +59,7 @@
       "1049298-coinbase.com",
       "105003coinbase.com",
       "1052954-coinbase.com",
+      "105377coinbase.com",
       "105524coinbase.com",
       "10579-coinbase.com",
       "1058294-coinbase.com",
@@ -66,15 +67,18 @@
       "105915coinbase.com",
       "105996coinbase.com",
       "106304-coinbase.com",
+      "107389coinbase.com",
       "107524-coinbase.com",
       "108122-coinbase.com",
       "1083-coinbase.com",
       "108419-coinbase.com",
+      "108738coinbase.com",
       "109283-coinbase.com",
       "10930-coinbase.com",
       "10940-coinbase.com",
       "109493-coinbase.com",
       "10984-coinbase.com",
+      "109952coinbase.com",
       "110353-coinbase.com",
       "111403coinbase.com",
       "11236-coinbase.com",
@@ -197,11 +201,7 @@
       "132193coinbase.com",
       "132493-coinbase.com",
       "132535coinbase.com",
-      "132662coinbase.com",
-      "1328271-coinbase.com",
-      "133750-coinbase.com",
-      "133781coinbase.com",
-      "133830-coinbase.com"
+      "132662coinbase.com"
     ],
     "claim": [
       "0x-claim.xyz",
@@ -706,6 +706,7 @@
       "authcc-secured.com",
       "authscotiabanksecure.com",
       "authsecure-cb.com",
+      "aws-secure.com",
       "b2brouter-secure.com",
       "bankofmissouri-secure.com",
       "basesecureonline.com",
@@ -806,8 +807,7 @@
       "chase-paymentech-secure.com",
       "chase-secured-help.com",
       "chasesecureportal.com",
-      "chasewebsecureservers.net",
-      "check-secure-service.com"
+      "chasewebsecureservers.net"
     ],
     "token": [
       "1fueliotoken.life",
@@ -1091,6 +1091,7 @@
       "awsxwallets.com",
       "axelardesktopwallet.app",
       "axtercoldwallet.com",
+      "b1wallet.com",
       "backofficeatomicwallet.com",
       "backofficetrustwallet.com",
       "backpack-wallet.org",
@@ -1210,8 +1211,7 @@
       "cbwalletportal.com",
       "cbwallets.com",
       "celiawallet.app",
-      "cenorawallets.com",
-      "chainxaiwallet.com"
+      "cenorawallets.com"
     ],
     "swap": [
       "0xswaps.xyz",
@@ -1274,7 +1274,7 @@
       "app-crv-curve-swap.org",
       "app-curve-curve-fi-curve-finance-curve-swap.net",
       "app-hyprcrswap.com",
-      "app-hyprrswap.net",
+      "app-hyprrswap.com",
       "app-jupiter-swap.net",
       "app-lcecneamswap.xyz",
       "app-quickswap.exchange",
@@ -1782,6 +1782,7 @@
       "927372-ledger.com",
       "92832-ledger.com",
       "92847-ledger.com",
+      "931602-ledger.com",
       "941053-ledger.com",
       "9592784-ledger.com",
       "978828ledger.com",
@@ -1816,8 +1817,7 @@
       "app-openledger.xyz",
       "app-wallet-ledger.live",
       "approved-ledger.com",
-      "apps-ledger.com",
-      "assets-ledger.com"
+      "apps-ledger.com"
     ],
     "support": [
       "029250-support.com",
@@ -2360,6 +2360,7 @@
       "changes-updated.com",
       "check-inf-here-update.com",
       "chkngupdate.com",
+      "cibcdeviceupdate.com",
       "claim-g0update0311.info",
       "claimsupdate.net",
       "clayerupdate.live",
@@ -2422,8 +2423,7 @@
       "cryptodetailsupdaten.com",
       "csc-updates.live",
       "csr-update.info",
-      "ctdl1-windowsupdate.com",
-      "cygnusupdate.live"
+      "ctdl1-windowsupdate.com"
     ],
     "crypto": [
       "094239-crypto.com",
@@ -2506,12 +2506,12 @@
       "439304-crypto.com",
       "44983-crypto.com",
       "467891-crypto.com",
-      "478322-crypto.com",
       "4827193-crypto.com",
       "485013-crypto.com",
       "488241-crypto.com",
       "489207-crypto.com",
       "51092-crypto.com",
+      "525346-crypto.com",
       "52938-crypto.com",
       "532218-crypto.com",
       "543544crypto.com",
@@ -3447,6 +3447,7 @@
       "accessverify.pro",
       "account-verify-etsy.com",
       "accountverifyemail.com",
+      "accountverifyvzw.com",
       "accverify75-booking.com",
       "accverifyaifdic.digital",
       "afcu-verify.com",
@@ -3634,8 +3635,7 @@
       "matbetverify2026.live",
       "matqet-verifylogin.com",
       "matrica-verify.app",
-      "mica-update-verify.com",
-      "mica-verify-update.com"
+      "mica-update-verify.com"
     ],
     "vault": [
       "118924-cbvault.com",
@@ -3674,6 +3674,7 @@
       "astrovault.pro",
       "astrovault.zone",
       "audienceprismvault.com",
+      "audsyncvaultsmainblock.xyz",
       "auth-docxvault.pro",
       "auth-vault.com",
       "authv2-docxvault.pro",
@@ -3836,8 +3837,7 @@
       "mantlevaults.pro",
       "marketing-vault.xyz",
       "marsteamvault.vip",
-      "meritvaultaris-ai.com",
-      "meritvaultarisai.live"
+      "meritvaultaris-ai.com"
     ],
     "solana": [
       "1coinofsolana.com",

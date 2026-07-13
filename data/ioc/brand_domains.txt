@@ -55,6 +55,7 @@ coinbase	1048592-coinbase.com
 coinbase	1049298-coinbase.com
 coinbase	105003coinbase.com
 coinbase	1052954-coinbase.com
+coinbase	105377coinbase.com
 coinbase	105524coinbase.com
 coinbase	10579-coinbase.com
 coinbase	1058294-coinbase.com
@@ -62,15 +63,18 @@ coinbase	105882-coinbase.com
 coinbase	105915coinbase.com
 coinbase	105996coinbase.com
 coinbase	106304-coinbase.com
+coinbase	107389coinbase.com
 coinbase	107524-coinbase.com
 coinbase	108122-coinbase.com
 coinbase	1083-coinbase.com
 coinbase	108419-coinbase.com
+coinbase	108738coinbase.com
 coinbase	109283-coinbase.com
 coinbase	10930-coinbase.com
 coinbase	10940-coinbase.com
 coinbase	109493-coinbase.com
 coinbase	10984-coinbase.com
+coinbase	109952coinbase.com
 coinbase	110353-coinbase.com
 coinbase	111403coinbase.com
 coinbase	11236-coinbase.com
@@ -194,10 +198,6 @@ coinbase	132193coinbase.com
 coinbase	132493-coinbase.com
 coinbase	132535coinbase.com
 coinbase	132662coinbase.com
-coinbase	1328271-coinbase.com
-coinbase	133750-coinbase.com
-coinbase	133781coinbase.com
-coinbase	133830-coinbase.com
 claim	0x-claim.xyz
 claim	0x00-claimables.xyz
 claim	0x000-claimables.xyz
@@ -696,6 +696,7 @@ secure	auth-secure-gate5.com
 secure	authcc-secured.com
 secure	authscotiabanksecure.com
 secure	authsecure-cb.com
+secure	aws-secure.com
 secure	b2brouter-secure.com
 secure	bankofmissouri-secure.com
 secure	basesecureonline.com
@@ -797,7 +798,6 @@ secure	chase-paymentech-secure.com
 secure	chase-secured-help.com
 secure	chasesecureportal.com
 secure	chasewebsecureservers.net
-secure	check-secure-service.com
 token	1fueliotoken.life
 token	1fueltoken.cfd
 token	4bsctoken.com
@@ -1077,6 +1077,7 @@ wallet	awsxwallet.com
 wallet	awsxwallets.com
 wallet	axelardesktopwallet.app
 wallet	axtercoldwallet.com
+wallet	b1wallet.com
 wallet	backofficeatomicwallet.com
 wallet	backofficetrustwallet.com
 wallet	backpack-wallet.org
@@ -1197,7 +1198,6 @@ wallet	cbwalletportal.com
 wallet	cbwallets.com
 wallet	celiawallet.app
 wallet	cenorawallets.com
-wallet	chainxaiwallet.com
 swap	0xswaps.xyz
 swap	1-swap.com
 swap	11amaswap.icu
@@ -1258,7 +1258,7 @@ swap	app-crv-curve-swap-curveswap.net
 swap	app-crv-curve-swap.org
 swap	app-curve-curve-fi-curve-finance-curve-swap.net
 swap	app-hyprcrswap.com
-swap	app-hyprrswap.net
+swap	app-hyprrswap.com
 swap	app-jupiter-swap.net
 swap	app-lcecneamswap.xyz
 swap	app-quickswap.exchange
@@ -1762,6 +1762,7 @@ ledger	9263267-ledger.com
 ledger	927372-ledger.com
 ledger	92832-ledger.com
 ledger	92847-ledger.com
+ledger	931602-ledger.com
 ledger	941053-ledger.com
 ledger	9592784-ledger.com
 ledger	978828ledger.com
@@ -1797,7 +1798,6 @@ ledger	app-openledger.xyz
 ledger	app-wallet-ledger.live
 ledger	approved-ledger.com
 ledger	apps-ledger.com
-ledger	assets-ledger.com
 support	029250-support.com
 support	0myidsupportdesk.live
 support	1-online-support.com
@@ -2334,6 +2334,7 @@ update	change-new-update.com
 update	changes-updated.com
 update	check-inf-here-update.com
 update	chkngupdate.com
+update	cibcdeviceupdate.com
 update	claim-g0update0311.info
 update	claimsupdate.net
 update	clayerupdate.live
@@ -2397,7 +2398,6 @@ update	cryptodetailsupdaten.com
 update	csc-updates.live
 update	csr-update.info
 update	ctdl1-windowsupdate.com
-update	cygnusupdate.live
 crypto	094239-crypto.com
 crypto	109074-crypto.com
 crypto	1124crypto.com
@@ -2478,12 +2478,12 @@ crypto	418910-crypto.com
 crypto	439304-crypto.com
 crypto	44983-crypto.com
 crypto	467891-crypto.com
-crypto	478322-crypto.com
 crypto	4827193-crypto.com
 crypto	485013-crypto.com
 crypto	488241-crypto.com
 crypto	489207-crypto.com
 crypto	51092-crypto.com
+crypto	525346-crypto.com
 crypto	52938-crypto.com
 crypto	532218-crypto.com
 crypto	543544crypto.com
@@ -3409,6 +3409,7 @@ verify	access-verifyidentity.com
 verify	accessverify.pro
 verify	account-verify-etsy.com
 verify	accountverifyemail.com
+verify	accountverifyvzw.com
 verify	accverify75-booking.com
 verify	accverifyaifdic.digital
 verify	afcu-verify.com
@@ -3597,7 +3598,6 @@ verify	matbetverify2026.live
 verify	matqet-verifylogin.com
 verify	matrica-verify.app
 verify	mica-update-verify.com
-verify	mica-verify-update.com
 vault	118924-cbvault.com
 vault	157206-cbvault.com
 vault	177253-cb-vault.com
@@ -3634,6 +3634,7 @@ vault	astrovault.ltd
 vault	astrovault.pro
 vault	astrovault.zone
 vault	audienceprismvault.com
+vault	audsyncvaultsmainblock.xyz
 vault	auth-docxvault.pro
 vault	auth-vault.com
 vault	authv2-docxvault.pro
@@ -3797,7 +3798,6 @@ vault	mantlevaults.pro
 vault	marketing-vault.xyz
 vault	marsteamvault.vip
 vault	meritvaultaris-ai.com
-vault	meritvaultarisai.live
 solana	1coinofsolana.com
 solana	1coinsolana.com
 solana	1coinsolana.net

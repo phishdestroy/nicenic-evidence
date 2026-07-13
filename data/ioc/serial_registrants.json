@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-12",
+  "generated": "2026-07-13",
   "count": 50,
   "registrants": [
     {
@@ -404,6 +404,39 @@
       ]
     },
     {
+      "email": "max@unternehmen.de",
+      "count": 27,
+      "domains": [
+        "americanexpress-helpdesk.com",
+        "americanexpress-ident.com",
+        "americanexpress-keys.com",
+        "americanexpress-safekeys.com",
+        "americanexpress-sicherheit.com",
+        "americanexpress-verifizierung.com",
+        "amex-access.com",
+        "amex-connect.com",
+        "amex-create.com",
+        "amex-de.com",
+        "amex-desk.com",
+        "amex-hilfe.com",
+        "amex-key.com",
+        "amex-partner.com",
+        "amex-partners.com",
+        "amex-safekey.com",
+        "amex-safekeys.com",
+        "amex-safetykey.com",
+        "amex-save.com",
+        "amex-schutz.com",
+        "amex-shield.com",
+        "amex-sicherheit.app",
+        "amex-start.com",
+        "amex-status.com",
+        "amex-system.com",
+        "amex-verifizierung.com",
+        "amex-versicherung.com"
+      ]
+    },
+    {
       "email": "submissions@shib.io",
       "count": 25,
       "domains": [
@@ -563,35 +596,6 @@
         "xn--krb12-sqa.cc",
         "xn--krb13-sqa.cc",
         "xn--krb14-sqa.cc"
-      ]
-    },
-    {
-      "email": "max@unternehmen.de",
-      "count": 23,
-      "domains": [
-        "americanexpress-ident.com",
-        "americanexpress-keys.com",
-        "americanexpress-sicherheit.com",
-        "amex-access.com",
-        "amex-connect.com",
-        "amex-create.com",
-        "amex-desk.com",
-        "amex-hilfe.com",
-        "amex-key.com",
-        "amex-partner.com",
-        "amex-partners.com",
-        "amex-safekey.com",
-        "amex-safekeys.com",
-        "amex-safetykey.com",
-        "amex-save.com",
-        "amex-schutz.com",
-        "amex-shield.com",
-        "amex-sicherheit.app",
-        "amex-start.com",
-        "amex-status.com",
-        "amex-system.com",
-        "amex-verifizierung.com",
-        "amex-versicherung.com"
       ]
     },
     {
