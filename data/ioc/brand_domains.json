@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-13",
+  "generated": "2026-07-14",
   "keywords": {
     "coinbase": [
       "00-coinbase.com",
@@ -1275,6 +1275,7 @@
       "app-curve-curve-fi-curve-finance-curve-swap.net",
       "app-hyprcrswap.com",
       "app-hyprrswap.com",
+      "app-hyprrswap.net",
       "app-jupiter-swap.net",
       "app-lcecneamswap.xyz",
       "app-quickswap.exchange",
@@ -1412,8 +1413,7 @@
       "claim-uniswapstoken-gateway01c.org",
       "claim-uniswaptokens.com",
       "claimhyperswap.exchange",
-      "claims-quickswap.com",
-      "claims-quickswap.exchange"
+      "claims-quickswap.com"
     ],
     "official": [
       "10cric-official-india.com",
@@ -2032,6 +2032,7 @@
       "12692-kraken.com",
       "12692kraken.com",
       "1357141-kraken.com",
+      "148293kraken.com",
       "149283-kraken.com",
       "158253-kraken.com",
       "16311769-kraken.com",
@@ -2220,8 +2221,7 @@
       "kraken-11at.com",
       "kraken-12-att.com",
       "kraken-12at.com",
-      "kraken-12att.com",
-      "kraken-12att.net"
+      "kraken-12att.com"
     ],
     "update": [
       "1337update.com",
@@ -2506,6 +2506,7 @@
       "439304-crypto.com",
       "44983-crypto.com",
       "467891-crypto.com",
+      "478322-crypto.com",
       "4827193-crypto.com",
       "485013-crypto.com",
       "488241-crypto.com",
@@ -2624,8 +2625,7 @@
       "asdiahjfgaiungacrypto.run",
       "assitance-crypto.com",
       "au-crypto.com",
-      "aucryptoconf.com",
-      "aucryptoconference.com"
+      "aucryptoconf.com"
     ],
     "connect": [
       "0nline-2025at0connect.digital",
@@ -3559,8 +3559,6 @@
       "ethverify.net",
       "eventbrite-verify.com",
       "exodus-verify.com",
-      "faceit-discord-verifynow.com",
-      "faceit-discordverifynow.com",
       "faceit-status-verify.com",
       "faceitmverify.com",
       "five-verify.com",
@@ -3635,7 +3633,9 @@
       "matbetverify2026.live",
       "matqet-verifylogin.com",
       "matrica-verify.app",
-      "mica-update-verify.com"
+      "mica-update-verify.com",
+      "mica-verify-update.com",
+      "mica-verify.com"
     ],
     "vault": [
       "118924-cbvault.com",

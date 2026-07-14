@@ -1259,6 +1259,7 @@ swap	app-crv-curve-swap.org
 swap	app-curve-curve-fi-curve-finance-curve-swap.net
 swap	app-hyprcrswap.com
 swap	app-hyprrswap.com
+swap	app-hyprrswap.net
 swap	app-jupiter-swap.net
 swap	app-lcecneamswap.xyz
 swap	app-quickswap.exchange
@@ -1397,7 +1398,6 @@ swap	claim-uniswapstoken-gateway01c.org
 swap	claim-uniswaptokens.com
 swap	claimhyperswap.exchange
 swap	claims-quickswap.com
-swap	claims-quickswap.exchange
 official	10cric-official-india.com
 official	10official.vip
 official	1121-betebet-official.com
@@ -2008,6 +2008,7 @@ kraken	12546-kraken.com
 kraken	12692-kraken.com
 kraken	12692kraken.com
 kraken	1357141-kraken.com
+kraken	148293kraken.com
 kraken	149283-kraken.com
 kraken	158253-kraken.com
 kraken	16311769-kraken.com
@@ -2197,7 +2198,6 @@ kraken	kraken-11at.com
 kraken	kraken-12-att.com
 kraken	kraken-12at.com
 kraken	kraken-12att.com
-kraken	kraken-12att.net
 update	1337update.com
 update	1822direkt-update.com
 update	1822tanupdate.info
@@ -2478,6 +2478,7 @@ crypto	418910-crypto.com
 crypto	439304-crypto.com
 crypto	44983-crypto.com
 crypto	467891-crypto.com
+crypto	478322-crypto.com
 crypto	4827193-crypto.com
 crypto	485013-crypto.com
 crypto	488241-crypto.com
@@ -2597,7 +2598,6 @@ crypto	asdiahjfgaiungacrypto.run
 crypto	assitance-crypto.com
 crypto	au-crypto.com
 crypto	aucryptoconf.com
-crypto	aucryptoconference.com
 connect	0nline-2025at0connect.digital
 connect	0xmetaconnect-rpc.xyz
 connect	19928292pcstestconnect2919.com
@@ -3521,8 +3521,6 @@ verify	easywebtd4-verify.com
 verify	ethverify.net
 verify	eventbrite-verify.com
 verify	exodus-verify.com
-verify	faceit-discord-verifynow.com
-verify	faceit-discordverifynow.com
 verify	faceit-status-verify.com
 verify	faceitmverify.com
 verify	five-verify.com
@@ -3598,6 +3596,8 @@ verify	matbetverify2026.live
 verify	matqet-verifylogin.com
 verify	matrica-verify.app
 verify	mica-update-verify.com
+verify	mica-verify-update.com
+verify	mica-verify.com
 vault	118924-cbvault.com
 vault	157206-cbvault.com
 vault	177253-cb-vault.com
