@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-13",
+  "generated": "2026-07-14",
   "count": 50,
   "registrants": [
     {
@@ -107,7 +107,7 @@
     },
     {
       "email": "info@vuz.info",
-      "count": 89,
+      "count": 86,
       "domains": [
         "vuz-0q.info",
         "vuz-1.info",
@@ -121,11 +121,9 @@
         "vuz-c.info",
         "vuz-c0.info",
         "vuz-d.info",
-        "vuz-in.info",
         "vuz-j.info",
         "vuz-j0.info",
         "vuz-jv.info",
-        "vuz-k.info",
         "vuz-kk.info",
         "vuz-nd.info",
         "vuz-q5.info",
@@ -158,7 +156,6 @@
         "vuzb2.info",
         "vuzd.info",
         "vuzdy.info",
-        "vuzg.info",
         "vuzi.info",
         "vuzinfo0o.cfd",
         "vuzinfo4x.cfd",
@@ -286,7 +283,7 @@
     },
     {
       "email": "angelgarcia.mail@gmail.com",
-      "count": 39,
+      "count": 38,
       "domains": [
         "25musk.org",
         "cbfund.info",
@@ -297,7 +294,6 @@
         "elon-x2.info",
         "elonvoucher.com",
         "foundation-reward.net",
-        "musk-payment.info",
         "musk-payment.org",
         "musk-reward.info",
         "musk-reward.net",
@@ -767,7 +763,7 @@
     },
     {
       "email": "info@best-spravka.info",
-      "count": 13,
+      "count": 12,
       "domains": [
         "best-spravkas.info",
         "best-spravkys.info",
@@ -777,7 +773,6 @@
         "bestsprawki.info",
         "prostomed-sprakva.info",
         "spravki-best.info",
-        "spravkibest.info",
         "sprawka-best.info",
         "sprawkabest.info",
         "sprawki-best.info",
@@ -845,23 +840,6 @@
       "email": "info@ruspravka.top",
       "count": 11,
       "domains": []
-    },
-    {
-      "email": "info@spravka-medik.info",
-      "count": 11,
-      "domains": [
-        "docs-spravka.info",
-        "docspravca.info",
-        "docspravka.info",
-        "doctor-spravki.info",
-        "dok-spravka.info",
-        "dok-spravki.info",
-        "dokspravka.info",
-        "dokspravki.info",
-        "doksprawka.info",
-        "doktor-cpravka.info",
-        "doktor-spravki.info"
-      ]
     },
     {
       "email": "customerservice@thread.bank",
@@ -948,22 +926,6 @@
       ]
     },
     {
-      "email": "info@sprawka-compani.info",
-      "count": 10,
-      "domains": [
-        "clinik-spravka.info",
-        "klinic-spravki.info",
-        "klinik-spravki.info",
-        "spravka-klinic.info",
-        "spravka-klinics.info",
-        "spravkaklinic.info",
-        "spravkas-klinic.info",
-        "spravki-klinic.info",
-        "spravki-klinik.info",
-        "spravkiklinic.info"
-      ]
-    },
-    {
       "email": "info@shop-spravki.com",
       "count": 10,
       "domains": [
@@ -980,19 +942,19 @@
       ]
     },
     {
-      "email": "info@spravka-medicina.com",
+      "email": "info@spravka-medik.info",
       "count": 10,
       "domains": [
-        "bolnichnye-list.info",
-        "bolnichnyelist.info",
-        "bolnichnyi-top.info",
-        "bolnichnyj-listy.info",
-        "bolnichnyj-top.info",
-        "bolnichnyjlist.info",
-        "bolnichnyjlisty.info",
-        "bolnichnylist.info",
-        "list-bolnichny.info",
-        "listbolnichnyj.info"
+        "docs-spravka.info",
+        "docspravca.info",
+        "docspravka.info",
+        "doctor-spravki.info",
+        "dok-spravki.info",
+        "dokspravka.info",
+        "dokspravki.info",
+        "doksprawka.info",
+        "doktor-cpravka.info",
+        "doktor-spravki.info"
       ]
     },
     {
@@ -1057,18 +1019,18 @@
       ]
     },
     {
-      "email": "info@spravka-ru.com",
+      "email": "info@sprawka-compani.info",
       "count": 9,
       "domains": [
-        "bolnichka-mck.info",
-        "spravka-onlin.info",
-        "spravka-vbolnichke.info",
-        "spravki-bolnichka.info",
-        "spravki-v-bolnichke.info",
-        "spravki-vbolnichke.info",
-        "spravkibolnichki.info",
-        "spravkiizbolnichki.info",
-        "sprawka-bolnichka.info"
+        "klinic-spravki.info",
+        "klinik-spravki.info",
+        "spravka-klinic.info",
+        "spravka-klinics.info",
+        "spravkaklinic.info",
+        "spravkas-klinic.info",
+        "spravki-klinic.info",
+        "spravki-klinik.info",
+        "spravkiklinic.info"
       ]
     },
     {
@@ -1084,6 +1046,21 @@
         "sprawkaonline.info",
         "sprawkionline.info",
         "sprawkus-online.info"
+      ]
+    },
+    {
+      "email": "info@spravka-medicina.com",
+      "count": 9,
+      "domains": [
+        "bolnichnye-list.info",
+        "bolnichnyelist.info",
+        "bolnichnyi-top.info",
+        "bolnichnyj-listy.info",
+        "bolnichnyj-top.info",
+        "bolnichnyjlist.info",
+        "bolnichnylist.info",
+        "list-bolnichny.info",
+        "listbolnichnyj.info"
       ]
     },
     {
@@ -1139,6 +1116,20 @@
         "asfig-vigette.com",
         "asfmaut.com",
         "osterroutes.com"
+      ]
+    },
+    {
+      "email": "info@spravka-ru.com",
+      "count": 8,
+      "domains": [
+        "bolnichka-mck.info",
+        "spravka-onlin.info",
+        "spravka-vbolnichke.info",
+        "spravki-bolnichka.info",
+        "spravki-v-bolnichke.info",
+        "spravkibolnichki.info",
+        "spravkiizbolnichki.info",
+        "sprawka-bolnichka.info"
       ]
     },
     {
