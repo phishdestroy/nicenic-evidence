@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-14",
+  "generated": "2026-07-15",
   "keywords": {
     "coinbase": [
       "00-coinbase.com",
@@ -155,7 +155,6 @@
       "123818-coinbase.com",
       "123819-coinbase.com",
       "123902-coinbase.com",
-      "12398-coinbase.com",
       "12402-coinbase.com",
       "1241255-coinbase.com",
       "124322coinbase.com",
@@ -201,7 +200,8 @@
       "132193coinbase.com",
       "132493-coinbase.com",
       "132535coinbase.com",
-      "132662coinbase.com"
+      "1328271-coinbase.com",
+      "133750-coinbase.com"
     ],
     "claim": [
       "0x-claim.xyz",
@@ -282,7 +282,6 @@
       "appclaim.xyz",
       "approvedclaims.icu",
       "approvedclaims.info",
-      "approvedclaims.net",
       "apps-claim-monad.xyz",
       "appvirtualsclaims.xyz",
       "aptclaim.app",
@@ -296,7 +295,6 @@
       "asiclaim.xyz",
       "assesement-claimsgov.cfd",
       "assessment-claim.info",
-      "assessmentclaims.net",
       "aster-claim.com",
       "asterclaim.claims",
       "asterclaim.info",
@@ -403,7 +401,9 @@
       "blub-claim.com",
       "blubclaims.xyz",
       "blum-claims.com",
-      "bluzelleclaims.com"
+      "bluzelleclaims.com",
+      "bluzellerewardclaims.com",
+      "bmoclaimsonline.com"
     ],
     "login": [
       "0auth-login.digital",
@@ -894,6 +894,7 @@
       "appxaitokens.com",
       "apy-shibatoken.com",
       "arbitrumstoken-gateway01a.com",
+      "archtoken.info",
       "arcticpablotoken.site",
       "arctoken.live",
       "armytoken.live",
@@ -1008,8 +1009,7 @@
       "blaztoken.live",
       "block-token.org",
       "block-token.xyz",
-      "blockdagtoken.live",
-      "blockdagtoken.network"
+      "blockdagtoken.live"
     ],
     "wallet": [
       "1amwallet.com",
@@ -1530,6 +1530,7 @@
       "bet-officialgiris2025.com",
       "bet-yeniofficial2025.com",
       "bet1-official2026.com",
+      "betasusofficialgiris.icu",
       "betcio-officialtr.com",
       "betcioofficial-tr.com",
       "betebet-official.com",
@@ -1559,6 +1560,7 @@
       "betnanoofficial.app",
       "betnanoofficial.cam",
       "betnanoofficial.direct",
+      "betnanoofficial.icu",
       "betnanoofficial.net",
       "betnanoofficial.store",
       "betnanoofficial2026.com",
@@ -1584,6 +1586,7 @@
       "betturkeyliveofficial.com",
       "betturkeyofficialcc.com",
       "betvibe-official-india.com",
+      "betzulaofficial.icu",
       "bfsofficial.xyz",
       "bhcofficialentry.com",
       "billionairestudiosofficial.com",
@@ -1595,6 +1598,7 @@
       "blacksprut03-official.com",
       "blacksprutdarknetofficial.com",
       "blaze-official.net",
+      "bonifyofficial.com",
       "bonusdeneme-official.icu",
       "bottegadesiresofficial.com",
       "boutiqofficial.com",
@@ -1611,11 +1615,7 @@
       "casibom-giris-official.com",
       "casibom-girisofficial.cfd",
       "casibom-girisofficial.icu",
-      "casibom-guncel-official.com",
-      "casibom-official-2025.com",
-      "casibom-official-address.com",
-      "casibom-official-adres.com",
-      "casibom-official-casibom.com"
+      "casibom-guncel-official.com"
     ],
     "ledger": [
       "01-ledger.com",
@@ -2050,7 +2050,6 @@
       "189482-kraken.com",
       "192338kraken.com",
       "194532-kraken.com",
-      "1945816-kraken.com",
       "195237kraken.com",
       "195772kraken.com",
       "19954-kraken.com",
@@ -2221,7 +2220,8 @@
       "kraken-11at.com",
       "kraken-12-att.com",
       "kraken-12at.com",
-      "kraken-12att.com"
+      "kraken-12att.com",
+      "kraken-12att.net"
     ],
     "update": [
       "1337update.com",
@@ -2545,7 +2545,6 @@
       "75192-crypto.com",
       "780432-crypto.com",
       "781325-crypto.com",
-      "78309-crypto.com",
       "784320crypto.com",
       "793524-crypto.com",
       "793526-crypto.com",
@@ -2580,7 +2579,6 @@
       "983773crypto.com",
       "990251-crypto.com",
       "994153crypto.com",
-      "99587-crypto.com",
       "aaxcrypto-streamr.xyz",
       "abacus-crypto-market.com",
       "abacuscryptomarket.com",
@@ -2625,7 +2623,9 @@
       "asdiahjfgaiungacrypto.run",
       "assitance-crypto.com",
       "au-crypto.com",
-      "aucryptoconf.com"
+      "aucryptoconf.com",
+      "aucryptoconference.com",
+      "aucryptoconv.com"
     ],
     "connect": [
       "0nline-2025at0connect.digital",
@@ -3559,6 +3559,8 @@
       "ethverify.net",
       "eventbrite-verify.com",
       "exodus-verify.com",
+      "faceit-discord-verifynow.com",
+      "faceit-discordverifynow.com",
       "faceit-status-verify.com",
       "faceitmverify.com",
       "five-verify.com",
@@ -3633,9 +3635,7 @@
       "matbetverify2026.live",
       "matqet-verifylogin.com",
       "matrica-verify.app",
-      "mica-update-verify.com",
-      "mica-verify-update.com",
-      "mica-verify.com"
+      "mica-update-verify.com"
     ],
     "vault": [
       "118924-cbvault.com",
@@ -3848,7 +3848,6 @@
       "401konsolana.com",
       "401konsolana.net",
       "401ksolana.com",
-      "401ksolana.net",
       "8onsolana.com",
       "affordablesolana.com",
       "airdrop-solanatoken-gateway01a.com",
@@ -4038,6 +4037,7 @@
       "raydium-solana.network",
       "raydium-solana.online",
       "raydium-solana.site",
+      "realbeckersolana.com",
       "refund-solana.com",
       "refund-solana.xyz"
     ]

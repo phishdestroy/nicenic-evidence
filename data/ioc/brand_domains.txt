@@ -151,7 +151,6 @@ coinbase	12346-coinbase.com
 coinbase	123818-coinbase.com
 coinbase	123819-coinbase.com
 coinbase	123902-coinbase.com
-coinbase	12398-coinbase.com
 coinbase	12402-coinbase.com
 coinbase	1241255-coinbase.com
 coinbase	124322coinbase.com
@@ -197,7 +196,8 @@ coinbase	132067-coinbase.com
 coinbase	132193coinbase.com
 coinbase	132493-coinbase.com
 coinbase	132535coinbase.com
-coinbase	132662coinbase.com
+coinbase	1328271-coinbase.com
+coinbase	133750-coinbase.com
 claim	0x-claim.xyz
 claim	0x00-claimables.xyz
 claim	0x000-claimables.xyz
@@ -276,7 +276,6 @@ claim	app-claimedgex.live
 claim	appclaim.xyz
 claim	approvedclaims.icu
 claim	approvedclaims.info
-claim	approvedclaims.net
 claim	apps-claim-monad.xyz
 claim	appvirtualsclaims.xyz
 claim	aptclaim.app
@@ -290,7 +289,6 @@ claim	asess-claims.info
 claim	asiclaim.xyz
 claim	assesement-claimsgov.cfd
 claim	assessment-claim.info
-claim	assessmentclaims.net
 claim	aster-claim.com
 claim	asterclaim.claims
 claim	asterclaim.info
@@ -398,6 +396,8 @@ claim	blub-claim.com
 claim	blubclaims.xyz
 claim	blum-claims.com
 claim	bluzelleclaims.com
+claim	bluzellerewardclaims.com
+claim	bmoclaimsonline.com
 login	0auth-login.digital
 login	101clublogin.net
 login	1bmologin-dsvl2k9mc.com
@@ -882,6 +882,7 @@ token	appxaitoken.com
 token	appxaitokens.com
 token	apy-shibatoken.com
 token	arbitrumstoken-gateway01a.com
+token	archtoken.info
 token	arcticpablotoken.site
 token	arctoken.live
 token	armytoken.live
@@ -997,7 +998,6 @@ token	blaztoken.live
 token	block-token.org
 token	block-token.xyz
 token	blockdagtoken.live
-token	blockdagtoken.network
 wallet	1amwallet.com
 wallet	1amwallet.xyz
 wallet	1gowallet-ar.com
@@ -1512,6 +1512,7 @@ official	bet-official2026.com
 official	bet-officialgiris2025.com
 official	bet-yeniofficial2025.com
 official	bet1-official2026.com
+official	betasusofficialgiris.icu
 official	betcio-officialtr.com
 official	betcioofficial-tr.com
 official	betebet-official.com
@@ -1541,6 +1542,7 @@ official	betnanoofficial-girisi.com
 official	betnanoofficial.app
 official	betnanoofficial.cam
 official	betnanoofficial.direct
+official	betnanoofficial.icu
 official	betnanoofficial.net
 official	betnanoofficial.store
 official	betnanoofficial2026.com
@@ -1566,6 +1568,7 @@ official	bettilt-official.vip
 official	betturkeyliveofficial.com
 official	betturkeyofficialcc.com
 official	betvibe-official-india.com
+official	betzulaofficial.icu
 official	bfsofficial.xyz
 official	bhcofficialentry.com
 official	billionairestudiosofficial.com
@@ -1577,6 +1580,7 @@ official	blacksprut02-official.com
 official	blacksprut03-official.com
 official	blacksprutdarknetofficial.com
 official	blaze-official.net
+official	bonifyofficial.com
 official	bonusdeneme-official.icu
 official	bottegadesiresofficial.com
 official	boutiqofficial.com
@@ -1594,10 +1598,6 @@ official	casibom-giris-official.com
 official	casibom-girisofficial.cfd
 official	casibom-girisofficial.icu
 official	casibom-guncel-official.com
-official	casibom-official-2025.com
-official	casibom-official-address.com
-official	casibom-official-adres.com
-official	casibom-official-casibom.com
 ledger	01-ledger.com
 ledger	0182778-ledger.com
 ledger	02-ledger.com
@@ -2026,7 +2026,6 @@ kraken	189281kraken.com
 kraken	189482-kraken.com
 kraken	192338kraken.com
 kraken	194532-kraken.com
-kraken	1945816-kraken.com
 kraken	195237kraken.com
 kraken	195772kraken.com
 kraken	19954-kraken.com
@@ -2198,6 +2197,7 @@ kraken	kraken-11at.com
 kraken	kraken-12-att.com
 kraken	kraken-12at.com
 kraken	kraken-12att.com
+kraken	kraken-12att.net
 update	1337update.com
 update	1822direkt-update.com
 update	1822tanupdate.info
@@ -2517,7 +2517,6 @@ crypto	739416crypto.com
 crypto	75192-crypto.com
 crypto	780432-crypto.com
 crypto	781325-crypto.com
-crypto	78309-crypto.com
 crypto	784320crypto.com
 crypto	793524-crypto.com
 crypto	793526-crypto.com
@@ -2552,7 +2551,6 @@ crypto	982742-crypto.com
 crypto	983773crypto.com
 crypto	990251-crypto.com
 crypto	994153crypto.com
-crypto	99587-crypto.com
 crypto	aaxcrypto-streamr.xyz
 crypto	abacus-crypto-market.com
 crypto	abacuscryptomarket.com
@@ -2598,6 +2596,8 @@ crypto	asdiahjfgaiungacrypto.run
 crypto	assitance-crypto.com
 crypto	au-crypto.com
 crypto	aucryptoconf.com
+crypto	aucryptoconference.com
+crypto	aucryptoconv.com
 connect	0nline-2025at0connect.digital
 connect	0xmetaconnect-rpc.xyz
 connect	19928292pcstestconnect2919.com
@@ -3521,6 +3521,8 @@ verify	easywebtd4-verify.com
 verify	ethverify.net
 verify	eventbrite-verify.com
 verify	exodus-verify.com
+verify	faceit-discord-verifynow.com
+verify	faceit-discordverifynow.com
 verify	faceit-status-verify.com
 verify	faceitmverify.com
 verify	five-verify.com
@@ -3596,8 +3598,6 @@ verify	matbetverify2026.live
 verify	matqet-verifylogin.com
 verify	matrica-verify.app
 verify	mica-update-verify.com
-verify	mica-verify-update.com
-verify	mica-verify.com
 vault	118924-cbvault.com
 vault	157206-cbvault.com
 vault	177253-cb-vault.com
@@ -3806,7 +3806,6 @@ solana	2025solana.com
 solana	401konsolana.com
 solana	401konsolana.net
 solana	401ksolana.com
-solana	401ksolana.net
 solana	8onsolana.com
 solana	affordablesolana.com
 solana	airdrop-solanatoken-gateway01a.com
@@ -3996,5 +3995,6 @@ solana	raydium-solana.net
 solana	raydium-solana.network
 solana	raydium-solana.online
 solana	raydium-solana.site
+solana	realbeckersolana.com
 solana	refund-solana.com
 solana	refund-solana.xyz

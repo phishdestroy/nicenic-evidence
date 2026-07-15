@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-14",
+  "generated": "2026-07-15",
   "count": 50,
   "registrants": [
     {
@@ -283,7 +283,7 @@
     },
     {
       "email": "angelgarcia.mail@gmail.com",
-      "count": 38,
+      "count": 37,
       "domains": [
         "25musk.org",
         "cbfund.info",
@@ -318,7 +318,6 @@
         "tesla-reward.org",
         "teslafoundation-reward.info",
         "teslapromo-crypto.net",
-        "xrpbonus-invest.info",
         "xrpbonus-invest.org",
         "xrpreward-event.net",
         "xrpreward-event.org",
@@ -431,52 +430,6 @@
         "amex-verifizierung.com",
         "amex-versicherung.com"
       ]
-    },
-    {
-      "email": "submissions@shib.io",
-      "count": 25,
-      "domains": [
-        "apyshib.com",
-        "award-shibinu.com",
-        "bounty-shibinu.com",
-        "collect-shibinu.com",
-        "collectshib.com",
-        "daoshib.com",
-        "earn-shibinu.net",
-        "gainshib.com",
-        "giftshiba.com",
-        "launch-shibinu.com",
-        "prize-shibinu.com",
-        "shib-bounty.net",
-        "shib-launch.com",
-        "shib-obtain.com",
-        "shib-yield.com",
-        "shibagrant.com",
-        "shibfarm.com",
-        "shibgift.com",
-        "shibinu-dashboard.com",
-        "shibinu-prize.com",
-        "shibinu-protocol.org",
-        "shibinu-win.com",
-        "shibprotocol.com",
-        "stakeshib.com",
-        "stakeshiba.com"
-      ]
-    },
-    {
-      "email": "u003esubmissions@shib.io",
-      "count": 25,
-      "domains": []
-    },
-    {
-      "email": "ads@shib.io",
-      "count": 25,
-      "domains": []
-    },
-    {
-      "email": "u003eads@shib.io",
-      "count": 25,
-      "domains": []
     },
     {
       "email": "press@chain.link",
@@ -593,6 +546,50 @@
         "xn--krb13-sqa.cc",
         "xn--krb14-sqa.cc"
       ]
+    },
+    {
+      "email": "submissions@shib.io",
+      "count": 23,
+      "domains": [
+        "apyshib.com",
+        "award-shibinu.com",
+        "bounty-shibinu.com",
+        "collect-shibinu.com",
+        "collectshib.com",
+        "daoshib.com",
+        "earn-shibinu.net",
+        "gainshib.com",
+        "giftshiba.com",
+        "launch-shibinu.com",
+        "prize-shibinu.com",
+        "shib-bounty.net",
+        "shib-launch.com",
+        "shib-obtain.com",
+        "shib-yield.com",
+        "shibagrant.com",
+        "shibgift.com",
+        "shibinu-dashboard.com",
+        "shibinu-prize.com",
+        "shibinu-protocol.org",
+        "shibinu-win.com",
+        "shibprotocol.com",
+        "stakeshiba.com"
+      ]
+    },
+    {
+      "email": "u003esubmissions@shib.io",
+      "count": 23,
+      "domains": []
+    },
+    {
+      "email": "ads@shib.io",
+      "count": 23,
+      "domains": []
+    },
+    {
+      "email": "u003eads@shib.io",
+      "count": 23,
+      "domains": []
     },
     {
       "email": "admin@webmaster.com",
@@ -762,24 +759,6 @@
       ]
     },
     {
-      "email": "info@best-spravka.info",
-      "count": 12,
-      "domains": [
-        "best-spravkas.info",
-        "best-spravkys.info",
-        "bestspravka.info",
-        "bestspravki.info",
-        "bestsprawka.info",
-        "bestsprawki.info",
-        "prostomed-sprakva.info",
-        "spravki-best.info",
-        "sprawka-best.info",
-        "sprawkabest.info",
-        "sprawki-best.info",
-        "sprawkibest.info"
-      ]
-    },
-    {
       "email": "donate@opencart.com",
       "count": 12,
       "domains": [
@@ -893,23 +872,6 @@
       ]
     },
     {
-      "email": "info@med-spravki.com",
-      "count": 11,
-      "domains": [
-        "med-spravkamsk.info",
-        "medspravci-msk.info",
-        "medspravkas-msk.info",
-        "medspravkii-msk.info",
-        "medspravkis-msk.info",
-        "moscow-medspravka.info",
-        "moscow-medsprawka.info",
-        "msk-medspravka.info",
-        "mskmedspravka.info",
-        "mskmedspravki.info",
-        "mskmedsprawka.info"
-      ]
-    },
-    {
       "email": "helpdesk@wingstop.com",
       "count": 10,
       "domains": [
@@ -926,35 +888,19 @@
       ]
     },
     {
-      "email": "info@shop-spravki.com",
+      "email": "info@med-spravki.com",
       "count": 10,
       "domains": [
-        "shop-spravci.info",
-        "shop-spravka.info",
-        "spravka-shop.info",
-        "spravka-shopp.info",
-        "spravki-shopp.info",
-        "spravki-shops.info",
-        "spravkishop.info",
-        "sprawka-shopp.info",
-        "sprawkashop.info",
-        "sprawkishop.info"
-      ]
-    },
-    {
-      "email": "info@spravka-medik.info",
-      "count": 10,
-      "domains": [
-        "docs-spravka.info",
-        "docspravca.info",
-        "docspravka.info",
-        "doctor-spravki.info",
-        "dok-spravki.info",
-        "dokspravka.info",
-        "dokspravki.info",
-        "doksprawka.info",
-        "doktor-cpravka.info",
-        "doktor-spravki.info"
+        "med-spravkamsk.info",
+        "medspravci-msk.info",
+        "medspravkas-msk.info",
+        "medspravkii-msk.info",
+        "medspravkis-msk.info",
+        "moscow-medspravka.info",
+        "moscow-medsprawka.info",
+        "msk-medspravka.info",
+        "mskmedspravki.info",
+        "mskmedsprawka.info"
       ]
     },
     {
@@ -1019,48 +965,48 @@
       ]
     },
     {
-      "email": "info@sprawka-compani.info",
+      "email": "info@spravka-medik.info",
       "count": 9,
       "domains": [
-        "klinic-spravki.info",
-        "klinik-spravki.info",
-        "spravka-klinic.info",
-        "spravka-klinics.info",
-        "spravkaklinic.info",
-        "spravkas-klinic.info",
-        "spravki-klinic.info",
-        "spravki-klinik.info",
-        "spravkiklinic.info"
+        "docs-spravka.info",
+        "docspravca.info",
+        "docspravka.info",
+        "doctor-spravki.info",
+        "dok-spravka.info",
+        "dokspravki.info",
+        "doksprawka.info",
+        "doktor-cpravka.info",
+        "doktor-spravki.info"
       ]
     },
     {
-      "email": "info@spravka-online.info",
+      "email": "info@best-spravka.info",
       "count": 9,
       "domains": [
-        "cpravka-onlines.info",
-        "cpravkas-onlines.info",
-        "onlinespravki.info",
-        "spravka-onlajn.info",
-        "spravka-only.info",
-        "spravki-only.info",
-        "sprawkaonline.info",
-        "sprawkionline.info",
-        "sprawkus-online.info"
+        "best-spravkas.info",
+        "best-spravkys.info",
+        "bestsprawka.info",
+        "bestsprawki.info",
+        "prostomed-sprakva.info",
+        "sprawka-best.info",
+        "sprawkabest.info",
+        "sprawki-best.info",
+        "sprawkibest.info"
       ]
     },
     {
-      "email": "info@spravka-medicina.com",
+      "email": "info@shop-spravki.com",
       "count": 9,
       "domains": [
-        "bolnichnye-list.info",
-        "bolnichnyelist.info",
-        "bolnichnyi-top.info",
-        "bolnichnyj-listy.info",
-        "bolnichnyj-top.info",
-        "bolnichnyjlist.info",
-        "bolnichnylist.info",
-        "list-bolnichny.info",
-        "listbolnichnyj.info"
+        "shop-spravci.info",
+        "shop-spravka.info",
+        "spravka-shop.info",
+        "spravki-shopp.info",
+        "spravki-shops.info",
+        "spravkishop.info",
+        "sprawka-shopp.info",
+        "sprawkashop.info",
+        "sprawkishop.info"
       ]
     },
     {
@@ -1094,20 +1040,6 @@
       ]
     },
     {
-      "email": "info@medcom-site.com",
-      "count": 8,
-      "domains": [
-        "medspravki-russia.info",
-        "rus-spravky.info",
-        "spravkarus.info",
-        "spravkarussia.info",
-        "spravki-rus.info",
-        "spravku-dostavka.info",
-        "spravky-rus.info",
-        "sprawka-russia.info"
-      ]
-    },
-    {
       "email": "ihre@email.com",
       "count": 8,
       "domains": [
@@ -1119,20 +1051,6 @@
       ]
     },
     {
-      "email": "info@spravka-ru.com",
-      "count": 8,
-      "domains": [
-        "bolnichka-mck.info",
-        "spravka-onlin.info",
-        "spravka-vbolnichke.info",
-        "spravki-bolnichka.info",
-        "spravki-v-bolnichke.info",
-        "spravkibolnichki.info",
-        "spravkiizbolnichki.info",
-        "sprawka-bolnichka.info"
-      ]
-    },
-    {
       "email": "reklama@pokerdom.com",
       "count": 8,
       "domains": []
@@ -1141,6 +1059,64 @@
       "email": "support@pokerdom.com",
       "count": 8,
       "domains": []
+    },
+    {
+      "email": "tu@ejemplo.com",
+      "count": 8,
+      "domains": [
+        "consultmovile.pro",
+        "ddi-movile.com",
+        "ddivimovile.com",
+        "divimovile.com",
+        "movilecheck.pro",
+        "movilechilie.com",
+        "wo-movile.com"
+      ]
+    },
+    {
+      "email": "amanda@mattwilsonco.com",
+      "count": 8,
+      "domains": [
+        "darknet-tor.cc",
+        "mega-darknet-onion.cc",
+        "mega-mega.cc",
+        "megaonion.cc",
+        "megator.cc",
+        "omgomg.cc",
+        "omgomgomg1.cc",
+        "tor-onion.cc"
+      ]
+    },
+    {
+      "email": "info@mattwilsonco.com",
+      "count": 8,
+      "domains": []
+    },
+    {
+      "email": "support@casibom.com",
+      "count": 7,
+      "domains": [
+        "9025casibom.com",
+        "9085casibom.com",
+        "9088casibom.com",
+        "9096casibom.com",
+        "9113casibom.com",
+        "9213casibom.com",
+        "casibom7085.com"
+      ]
+    },
+    {
+      "email": "destek@perabet.com",
+      "count": 7,
+      "domains": [
+        "perabet1267.com",
+        "perabet1297.com",
+        "perabet1303.com",
+        "perabet1357.com",
+        "perabet1369.com",
+        "perabet1370.com",
+        "perabet1375.com"
+      ]
     }
   ]
 }
