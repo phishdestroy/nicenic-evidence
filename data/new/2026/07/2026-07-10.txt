@@ -280,6 +280,7 @@ finallyfamous.sbs
 flarenetwork-defi.live
 flarenetwork-distribution.live
 flarenetwork-distributions.live
+flarenetwork-drop.live
 flarenetwork-drops.live
 flarenetwork-foundation.live
 flarenetwork-gover.app
@@ -301,12 +302,14 @@ giff-mobile.com
 giffmobile.com
 gift-nanoether.com
 giris-mobil.icu
+giris-yap.icu
 girisimler1.icu
 girisimler2.icu
 girisimler3.icu
 girisimler4.icu
 glu.tax
 governace-flarenetwork.app
+governace-flarenetworks.app
 governace-flarenetworks.xyz
 governaces-flarenetworks.app
 governance-flarenetwork.live
