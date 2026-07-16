@@ -6626,8 +6626,8 @@
     },
     {
       "date": "2017-07-14",
-      "count": 3,
-      "revenue": 27.97,
+      "count": 2,
+      "revenue": 17.98,
       "path": "data/new/2017/07/2017-07-14.txt"
     },
     {
@@ -10580,8 +10580,8 @@
     },
     {
       "date": "2020-07-15",
-      "count": 2,
-      "revenue": 17.98,
+      "count": 1,
+      "revenue": 8.99,
       "path": "data/new/2020/07/2020-07-15.txt"
     },
     {
@@ -14168,8 +14168,8 @@
     },
     {
       "date": "2022-07-14",
-      "count": 3,
-      "revenue": 27.97,
+      "count": 2,
+      "revenue": 17.98,
       "path": "data/new/2022/07/2022-07-14.txt"
     },
     {
@@ -18446,14 +18446,14 @@
     },
     {
       "date": "2024-07-14",
-      "count": 36,
-      "revenue": 276.65,
+      "count": 4,
+      "revenue": 36.96,
       "path": "data/new/2024/07/2024-07-14.txt"
     },
     {
       "date": "2024-07-15",
-      "count": 44,
-      "revenue": 393.58,
+      "count": 34,
+      "revenue": 295.67,
       "path": "data/new/2024/07/2024-07-15.txt"
     },
     {
@@ -20636,14 +20636,14 @@
     },
     {
       "date": "2025-07-14",
-      "count": 284,
-      "revenue": 2458.71,
+      "count": 13,
+      "revenue": 145.87,
       "path": "data/new/2025/07/2025-07-14.txt"
     },
     {
       "date": "2025-07-15",
-      "count": 338,
-      "revenue": 3000.22,
+      "count": 283,
+      "revenue": 2542.77,
       "path": "data/new/2025/07/2025-07-15.txt"
     },
     {
@@ -22825,121 +22825,121 @@
       "path": "data/new/2026/07/2026-07-13.txt"
     }
   ],
-  "total_new_all_time": 363412,
-  "total_revenue_estimate": 2783800.02,
-  "avg_registration_days": 527,
+  "total_new_all_time": 363041,
+  "total_revenue_estimate": 2780663.16,
+  "avg_registration_days": 528,
   "ip_countries": {
-    "US": 12582,
-    "RU": 2920,
-    "CA": 2762,
-    "NL": 2548,
-    "DE": 2103,
-    "GB": 2094,
-    "BG": 1721,
-    "UA": 869,
-    "SE": 777,
-    "IR": 705
+    "US": 12509,
+    "RU": 2914,
+    "CA": 2756,
+    "NL": 2536,
+    "GB": 2088,
+    "DE": 2076,
+    "BG": 1716,
+    "UA": 867,
+    "SE": 770,
+    "IR": 704
   },
   "top_shared_ips": {
-    "188.114.96.3": 38225,
-    "188.114.97.3": 38061,
-    "216.150.1.1": 1671,
-    "198.148.92.239": 919,
-    "216.198.79.1": 730,
+    "188.114.96.3": 38155,
+    "188.114.97.3": 38008,
+    "216.150.1.1": 1668,
+    "198.148.92.239": 888,
+    "216.198.79.1": 725,
     "104.154.151.46": 701,
     "158.94.210.59": 635,
     "185.107.44.123": 617,
     "91.236.116.210": 551,
-    "85.158.57.2": 351,
-    "94.154.172.39": 345,
+    "85.158.57.2": 347,
+    "94.154.172.39": 344,
     "192.142.10.5": 298,
     "80.66.81.232": 292,
-    "104.21.112.1": 270,
-    "104.21.80.1": 267,
-    "104.21.64.1": 258,
-    "104.21.32.1": 253,
+    "104.21.112.1": 254,
     "91.92.240.199": 252,
-    "104.21.16.1": 251,
-    "104.21.48.1": 246
+    "104.21.80.1": 247,
+    "104.21.16.1": 240,
+    "104.21.64.1": 239,
+    "104.21.32.1": 237,
+    "3.171.214.109": 233
   },
-  "deployed_count": 192228,
-  "no_ip_count": 171184,
-  "deployment_rate": 52.9,
+  "deployed_count": 191578,
+  "no_ip_count": 171463,
+  "deployment_rate": 52.8,
   "reg_periods": {
     "lt_1yr": 0,
-    "eq_1yr": 248399,
-    "yr_2": 102654,
-    "yr_3plus": 12359
+    "eq_1yr": 248073,
+    "yr_2": 102612,
+    "yr_3plus": 12356
   },
-  "pct_gt_1yr": 31.6,
+  "pct_gt_1yr": 31.7,
   "pct_gt_2yr": 3.4,
   "tld_stats": {
     "com": {
-      "count": 198056,
+      "count": 197800,
       "avg_days": 565
     },
     "vip": {
-      "count": 28177,
+      "count": 28176,
       "avg_days": 371
     },
     "icu": {
-      "count": 20921,
+      "count": 20913,
       "avg_days": 391
     },
     "net": {
-      "count": 16754,
+      "count": 16733,
       "avg_days": 679
     },
     "xyz": {
-      "count": 15898,
+      "count": 15889,
       "avg_days": 474
     },
     "info": {
-      "count": 11450,
-      "avg_days": 503
+      "count": 11438,
+      "avg_days": 504
     },
     "live": {
-      "count": 11298,
+      "count": 11292,
       "avg_days": 405
     },
     "cfd": {
-      "count": 9566,
+      "count": 9564,
       "avg_days": 471
     },
     "org": {
-      "count": 8180,
+      "count": 8175,
       "avg_days": 845
     },
     "sbs": {
-      "count": 7044,
+      "count": 7043,
       "avg_days": 435
     },
     "pro": {
-      "count": 6235,
+      "count": 6225,
       "avg_days": 377
     },
     "app": {
-      "count": 5364,
+      "count": 5357,
       "avg_days": 487
     },
     "cyou": {
-      "count": 1997,
+      "count": 1995,
       "avg_days": 513
     },
     "cc": {
-      "count": 1617,
-      "avg_days": 709
+      "count": 1614,
+      "avg_days": 710
     },
     "digital": {
       "count": 1569,
       "avg_days": 365
     },
     "biz": {
-      "count": 1148,
-      "avg_days": 1422
+      "count": 1146,
+      "avg_days": 1424
     },
     "life": {
-      "count": 1008,
+      "count": 1006,
       "avg_days": 374
     },
     "today": {
@@ -22951,93 +22951,93 @@
       "avg_days": 386
     },
     "online": {
-      "count": 810,
-      "avg_days": 575
+      "count": 805,
+      "avg_days": 576
     }
   },
   "revenue_by_tld": {
     "com": {
-      "count": 198056,
+      "count": 197800,
       "price": 8.99,
-      "revenue": 1780523.44,
-      "pct": 64.0
+      "revenue": 1778222.0,
+      "pct": 63.9
     },
     "vip": {
-      "count": 28177,
+      "count": 28176,
       "price": 4.99,
-      "revenue": 140603.23,
+      "revenue": 140598.24,
       "pct": 5.1
     },
     "icu": {
-      "count": 20921,
+      "count": 20913,
       "price": 0.99,
-      "revenue": 20711.79,
+      "revenue": 20703.87,
       "pct": 0.7
     },
     "net": {
-      "count": 16754,
+      "count": 16733,
       "price": 9.99,
-      "revenue": 167372.46,
+      "revenue": 167162.67,
       "pct": 6.0
     },
     "xyz": {
-      "count": 15898,
+      "count": 15889,
       "price": 1.49,
-      "revenue": 23688.02,
+      "revenue": 23674.61,
       "pct": 0.9
     },
     "info": {
-      "count": 11450,
+      "count": 11438,
       "price": 3.99,
-      "revenue": 45685.5,
+      "revenue": 45637.62,
       "pct": 1.6
     },
     "live": {
-      "count": 11298,
+      "count": 11292,
       "price": 9.99,
-      "revenue": 112867.02,
+      "revenue": 112807.08,
       "pct": 4.1
     },
     "cfd": {
-      "count": 9566,
+      "count": 9564,
       "price": 4.99,
-      "revenue": 47734.34,
+      "revenue": 47724.36,
       "pct": 1.7
     },
     "org": {
-      "count": 8180,
+      "count": 8175,
       "price": 9.99,
-      "revenue": 81718.2,
+      "revenue": 81668.25,
       "pct": 2.9
     },
     "sbs": {
-      "count": 7044,
+      "count": 7043,
       "price": 4.99,
-      "revenue": 35149.56,
+      "revenue": 35144.57,
       "pct": 1.3
     },
     "pro": {
-      "count": 6235,
+      "count": 6225,
       "price": 7.99,
-      "revenue": 49817.65,
+      "revenue": 49737.75,
       "pct": 1.8
     },
     "app": {
-      "count": 5364,
+      "count": 5357,
       "price": 14.0,
-      "revenue": 75096.0,
+      "revenue": 74998.0,
       "pct": 2.7
     },
     "cyou": {
-      "count": 1997,
+      "count": 1995,
       "price": 0.99,
-      "revenue": 1977.03,
+      "revenue": 1975.05,
       "pct": 0.1
     },
     "cc": {
-      "count": 1617,
+      "count": 1614,
       "price": 19.99,
-      "revenue": 32323.83,
+      "revenue": 32263.86,
       "pct": 1.2
     },
     "digital": {
@@ -23047,15 +23047,15 @@
       "pct": 0.8
     },
     "biz": {
-      "count": 1148,
+      "count": 1146,
       "price": 9.99,
-      "revenue": 11468.52,
+      "revenue": 11448.54,
       "pct": 0.4
     },
     "life": {
-      "count": 1008,
+      "count": 1006,
       "price": 4.99,
-      "revenue": 5029.92,
+      "revenue": 5019.94,
       "pct": 0.2
     },
     "today": {
@@ -23071,20 +23071,20 @@
       "pct": 0.8
     },
     "online": {
-      "count": 810,
+      "count": 805,
       "price": 4.99,
-      "revenue": 4041.9,
+      "revenue": 4016.95,
       "pct": 0.1
     }
   },
   "catch_age_buckets": {
     "same_day": 0,
-    "within_week": 3850,
-    "within_month": 19152,
-    "older": 340410
+    "within_week": 3027,
+    "within_month": 18922,
+    "older": 341092
   },
-  "avg_catch_age_days": 2583,
-  "fresh_pct": 1.1,
+  "avg_catch_age_days": 2584,
+  "fresh_pct": 0.8,
   "burst_days": [
     {
       "date": "2026-06-16",
@@ -23139,7 +23139,7 @@
   ],
   "top_registrant_emails": {
     "info@credicentrocoop.com": 97,
-    "info@vuz.info": 86,
+    "info@vuz.info": 78,
     "info@africaoil.com": 78,
     "angelgarcia.mail@gmail.com": 37,
     "support@easybit.com": 35,
@@ -23147,8 +23147,8 @@
     "max@unternehmen.de": 27,
     "press@chain.link": 25,
     "seu@email.com": 24,
-    "ihre@email.de": 24,
     "info@stroykatalog.ru": 24,
+    "ihre@email.de": 23,
     "submissions@shib.io": 23,
     "u003esubmissions@shib.io": 23,
     "ads@shib.io": 23,
@@ -23160,43 +23160,43 @@
     "info@timeweb.ru": 15
   },
   "top_registrant_phones": {
-    "0-12-12-12-12-0": 394,
-    "9-12-15-18-9": 143,
-    "6-12-12-16-14": 137,
-    "7-10-12-15-17-10": 107,
+    "0-12-12-12-12-0": 393,
+    "9-12-15-18-9": 142,
+    "6-12-12-16-14": 136,
+    "7-10-12-15-17-10": 106,
     "0-14-14-14-14-0": 96,
     "5-19-12-12-19": 93,
-    "0-11-18-50-54-116": 92,
+    "0-11-18-50-54-116": 85,
     "0-11-14-21-13": 84,
     "+234-123-456-7890": 78,
     "+61-48-207-5486": 58
   },
-  "serial_email_count": 34,
+  "serial_email_count": 33,
   "brand_heatmap": {
-    "coinbase": 3834,
-    "claim": 3446,
-    "login": 2237,
-    "secure": 1712,
-    "token": 1590,
-    "wallet": 1507,
-    "swap": 1360,
-    "official": 1358,
-    "ledger": 1342,
+    "coinbase": 3831,
+    "claim": 3441,
+    "login": 2234,
+    "secure": 1707,
+    "token": 1588,
+    "wallet": 1505,
+    "swap": 1359,
+    "official": 1357,
+    "ledger": 1339,
     "support": 1274,
-    "kraken": 1219,
-    "update": 1157,
+    "kraken": 1217,
+    "update": 1156,
     "crypto": 1147,
     "connect": 1109,
-    "trust": 916,
+    "trust": 914,
     "account": 873,
     "airdrop": 801,
-    "verify": 669,
+    "verify": 668,
     "vault": 458,
     "solana": 426
   },
   "unranked_pct": 98.5,
-  "ranked_count": 5567,
-  "correlation_count": 25103,
+  "ranked_count": 5522,
+  "correlation_count": 25079,
   "correlation_pct": 6.9,
   "last_updated": "2026-07-13"
 }
