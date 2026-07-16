@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-15",
+  "generated": "2026-07-16",
   "count": 50,
   "registrants": [
     {
@@ -107,19 +107,15 @@
     },
     {
       "email": "info@vuz.info",
-      "count": 86,
+      "count": 78,
       "domains": [
         "vuz-0q.info",
-        "vuz-1.info",
         "vuz-2.info",
         "vuz-2q.info",
         "vuz-5.info",
         "vuz-5e.info",
         "vuz-7.info",
-        "vuz-a.info",
         "vuz-ax.info",
-        "vuz-c.info",
-        "vuz-c0.info",
         "vuz-d.info",
         "vuz-j.info",
         "vuz-j0.info",
@@ -129,13 +125,11 @@
         "vuz-q5.info",
         "vuz-t.info",
         "vuz-t0.info",
-        "vuz-u.info",
         "vuz-u3.info",
         "vuz-v.info",
         "vuz-v3.info",
         "vuz-vf.info",
         "vuz-x1.info",
-        "vuz-y1.info",
         "vuz.info",
         "vuz03.info",
         "vuz0a.info",
@@ -144,8 +138,6 @@
         "vuz1v.info",
         "vuz2m.info",
         "vuz3.info",
-        "vuz4.info",
-        "vuz4d.info",
         "vuz4m.info",
         "vuz6.info",
         "vuz6c.info",
@@ -154,6 +146,7 @@
         "vuz9o.info",
         "vuzb.info",
         "vuzb2.info",
+        "vuzcc.info",
         "vuzd.info",
         "vuzdy.info",
         "vuzi.info",
@@ -189,7 +182,6 @@
         "vuzpw.info",
         "vuzrj.info",
         "vuzs1.info",
-        "vuzv.info",
         "vuzvp.info",
         "vuzvs.info",
         "vuzyi.info",
@@ -493,31 +485,6 @@
       ]
     },
     {
-      "email": "ihre@email.de",
-      "count": 24,
-      "domains": [
-        "asf-digitalvigette.com",
-        "asf-vingete.com",
-        "asf-vingete.org",
-        "asf-vingetes.com",
-        "asfi-auto.com",
-        "asfibahne.org",
-        "asfig-online.com",
-        "asfig-strabe.com",
-        "asfig-strasse.com",
-        "asfig-vigette.org",
-        "asfigroads.org",
-        "asfimautlearn.org",
-        "asfin-roads.com",
-        "asfintolles.pro",
-        "asfline.com",
-        "asfvigette.com",
-        "autobahn-vignete.com",
-        "autobahnvignete.com",
-        "safetycheck-kraken.com"
-      ]
-    },
-    {
       "email": "info@stroykatalog.ru",
       "count": 24,
       "domains": [
@@ -545,6 +512,31 @@
         "xn--krb12-sqa.cc",
         "xn--krb13-sqa.cc",
         "xn--krb14-sqa.cc"
+      ]
+    },
+    {
+      "email": "ihre@email.de",
+      "count": 23,
+      "domains": [
+        "asf-digitalvigette.com",
+        "asf-vingete.com",
+        "asf-vingete.org",
+        "asf-vingetes.com",
+        "asfi-auto.com",
+        "asfibahne.org",
+        "asfig-online.com",
+        "asfig-strabe.com",
+        "asfig-strasse.com",
+        "asfig-vigette.org",
+        "asfigroads.org",
+        "asfimautlearn.org",
+        "asfin-roads.com",
+        "asfintolles.pro",
+        "asfline.com",
+        "asfvigette.com",
+        "autobahn-vignete.com",
+        "autobahnvignete.com",
+        "safetycheck-kraken.com"
       ]
     },
     {
@@ -799,28 +791,6 @@
       "domains": []
     },
     {
-      "email": "info@ruspravka.com",
-      "count": 11,
-      "domains": [
-        "ru-spravca.info",
-        "ru-sprawka.info",
-        "rus-spravki.info",
-        "rus-sprawka.info",
-        "rus-sprawki.info",
-        "ruspravka-gos.info",
-        "ruspravka-gov.info",
-        "ruspravki.info",
-        "russpravci.info",
-        "russpravkas.info",
-        "russpravki.info"
-      ]
-    },
-    {
-      "email": "info@ruspravka.top",
-      "count": 11,
-      "domains": []
-    },
-    {
       "email": "customerservice@thread.bank",
       "count": 11,
       "domains": [
@@ -872,6 +842,27 @@
       ]
     },
     {
+      "email": "info@ruspravka.com",
+      "count": 10,
+      "domains": [
+        "ru-spravca.info",
+        "ru-sprawka.info",
+        "rus-spravki.info",
+        "rus-sprawka.info",
+        "ruspravka-gos.info",
+        "ruspravka-gov.info",
+        "ruspravki.info",
+        "russpravci.info",
+        "russpravkas.info",
+        "russpravki.info"
+      ]
+    },
+    {
+      "email": "info@ruspravka.top",
+      "count": 10,
+      "domains": []
+    },
+    {
       "email": "helpdesk@wingstop.com",
       "count": 10,
       "domains": [
@@ -885,22 +876,6 @@
         "wlngstops.cloud",
         "wlngstops.digital",
         "wlngstops.today"
-      ]
-    },
-    {
-      "email": "info@med-spravki.com",
-      "count": 10,
-      "domains": [
-        "med-spravkamsk.info",
-        "medspravci-msk.info",
-        "medspravkas-msk.info",
-        "medspravkii-msk.info",
-        "medspravkis-msk.info",
-        "moscow-medspravka.info",
-        "moscow-medsprawka.info",
-        "msk-medspravka.info",
-        "mskmedspravki.info",
-        "mskmedsprawka.info"
       ]
     },
     {
@@ -965,48 +940,18 @@
       ]
     },
     {
-      "email": "info@spravka-medik.info",
+      "email": "info@med-spravki.com",
       "count": 9,
       "domains": [
-        "docs-spravka.info",
-        "docspravca.info",
-        "docspravka.info",
-        "doctor-spravki.info",
-        "dok-spravka.info",
-        "dokspravki.info",
-        "doksprawka.info",
-        "doktor-cpravka.info",
-        "doktor-spravki.info"
-      ]
-    },
-    {
-      "email": "info@best-spravka.info",
-      "count": 9,
-      "domains": [
-        "best-spravkas.info",
-        "best-spravkys.info",
-        "bestsprawka.info",
-        "bestsprawki.info",
-        "prostomed-sprakva.info",
-        "sprawka-best.info",
-        "sprawkabest.info",
-        "sprawki-best.info",
-        "sprawkibest.info"
-      ]
-    },
-    {
-      "email": "info@shop-spravki.com",
-      "count": 9,
-      "domains": [
-        "shop-spravci.info",
-        "shop-spravka.info",
-        "spravka-shop.info",
-        "spravki-shopp.info",
-        "spravki-shops.info",
-        "spravkishop.info",
-        "sprawka-shopp.info",
-        "sprawkashop.info",
-        "sprawkishop.info"
+        "med-spravkamsk.info",
+        "medspravci-msk.info",
+        "medspravkas-msk.info",
+        "medspravkii-msk.info",
+        "medspravkis-msk.info",
+        "moscow-medspravka.info",
+        "moscow-medsprawka.info",
+        "mskmedspravki.info",
+        "mskmedsprawka.info"
       ]
     },
     {
@@ -1051,6 +996,20 @@
       ]
     },
     {
+      "email": "info@spravka-medik.info",
+      "count": 8,
+      "domains": [
+        "docs-spravka.info",
+        "docspravca.info",
+        "docspravka.info",
+        "doctor-spravki.info",
+        "dok-spravka.info",
+        "dokspravki.info",
+        "doktor-cpravka.info",
+        "doktor-spravki.info"
+      ]
+    },
+    {
       "email": "reklama@pokerdom.com",
       "count": 8,
       "domains": []
@@ -1059,19 +1018,6 @@
       "email": "support@pokerdom.com",
       "count": 8,
       "domains": []
-    },
-    {
-      "email": "tu@ejemplo.com",
-      "count": 8,
-      "domains": [
-        "consultmovile.pro",
-        "ddi-movile.com",
-        "ddivimovile.com",
-        "divimovile.com",
-        "movilecheck.pro",
-        "movilechilie.com",
-        "wo-movile.com"
-      ]
     },
     {
       "email": "amanda@mattwilsonco.com",
@@ -1116,6 +1062,44 @@
         "perabet1369.com",
         "perabet1370.com",
         "perabet1375.com"
+      ]
+    },
+    {
+      "email": "info@bowrivercapital.com",
+      "count": 7,
+      "domains": [
+        "bowrivercapital-partner.com",
+        "bowrivercapital-partner1.com",
+        "bowrivercapital-partners.com",
+        "bowrivercapitalgrp.com",
+        "bowrivercapitalir.com",
+        "bowrivercapitalpartner.com",
+        "bowrivercapitaltd.com"
+      ]
+    },
+    {
+      "email": "gvgalleryshop@gmail.com",
+      "count": 7,
+      "domains": [
+        "braveststudio.net",
+        "godspeedsco.com",
+        "mertraauk.com",
+        "thelabubuo.com",
+        "theraspberryshills.com",
+        "theraspberryshillsclothing.com"
+      ]
+    },
+    {
+      "email": "ex@abc.xyz",
+      "count": 7,
+      "domains": [
+        "cc2btc.biz",
+        "fallsviewcasino-ca.com",
+        "goksad.org",
+        "norskadm.org",
+        "rainbet-casino-au.com",
+        "rainbet-casino-canada.com",
+        "truefortuneuk.com"
       ]
     }
   ]

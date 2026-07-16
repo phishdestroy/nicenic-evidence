@@ -2127,7 +2127,6 @@ kraken	care-kraken.com
 kraken	caseid-kraken.com
 kraken	caseportal-kraken.com
 kraken	cases-kraken.com
-kraken	cdnkraken.com
 kraken	contact-kraken.com
 kraken	cover-kraken.com
 kraken	customersupport-kraken.com
@@ -2198,6 +2197,7 @@ kraken	kraken-12-att.com
 kraken	kraken-12at.com
 kraken	kraken-12att.com
 kraken	kraken-12att.net
+kraken	kraken-13-at.com
 update	1337update.com
 update	1822direkt-update.com
 update	1822tanupdate.info
