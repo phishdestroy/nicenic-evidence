@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-17",
+  "generated": "2026-07-18",
   "keywords": {
     "coinbase": [
       "00-coinbase.com",
@@ -212,7 +212,6 @@
       "0xzerebro-claim.com",
       "1inchclaim.live",
       "1inchclaim.network",
-      "2025claimsnotice.net",
       "2025membershipclaim-costco.com",
       "2025noticeclaimsinfo.info",
       "48club-claims.xyz",
@@ -272,6 +271,7 @@
       "anyinuclaims.xyz",
       "apeccoinclaim.com",
       "apeclaime.com",
+      "apeclaims.live",
       "apecoinclaims.com",
       "apecoinrewardsclaim.sbs",
       "apepeclaims.lol",
@@ -745,7 +745,6 @@
       "bmoauth-secure.com",
       "bmobusiness-securelogin.com",
       "bmoconnectsecure.com",
-      "bmosecure-authentification.com",
       "bmosecure-signin.com",
       "bmosecure-webportal.com",
       "bmosecure2025.com",
@@ -807,7 +806,8 @@
       "channel-secure-beamless.com",
       "chase-paymentech-secure.com",
       "chase-secured-help.com",
-      "chasesecureportal.com"
+      "chasesecureportal.com",
+      "check-secure-service.com"
     ],
     "token": [
       "1fueliotoken.life",
@@ -1291,6 +1291,7 @@
       "at0micofficial.net",
       "autismofficial.xyz",
       "avelixio-official.net",
+      "aviator-game-india-official.games",
       "aviator-game-inida-official.com",
       "aviator-game-official-indi.com",
       "aviator-game-official-indi.info",
@@ -1307,6 +1308,7 @@
       "aviator-official-game.org",
       "aviator-officiall.net",
       "avvabet-official.icu",
+      "avvabetofficialsite.icu",
       "awsaiofficial.com",
       "bahiscasino-official2025.com",
       "bahisfairofficial2026.vip",
@@ -1411,9 +1413,7 @@
       "carsickofficialuk.com",
       "casibom-2025official.com",
       "casibom-casibomgiris-official.com",
-      "casibom-casibomofficial.com",
-      "casibom-giris-official.com",
-      "casibom-girisofficial.cfd"
+      "casibom-casibomofficial.com"
     ],
     "swap": [
       "0xswaps.xyz",
@@ -1997,6 +1997,7 @@
       "bnzwebsupport.com",
       "boacashprolivesupport.com",
       "boasupport.live",
+      "booking-support.cards",
       "booktradeentrysupport.org",
       "borgersupportinfo.com",
       "branchxsupports.live",
@@ -2006,7 +2007,6 @@
       "bybit-support-mail.com",
       "callcosupport.net",
       "calssupport.com",
-      "canadianpharmsupport.com",
       "casesupport-apple.com",
       "cashproboachatsupport.com",
       "cashprochatsupport.com",
@@ -2235,6 +2235,7 @@
       "2026-etfupdate00.icu",
       "25refund-update.info",
       "589-updates.live",
+      "a-update-your-tax.com",
       "aavechanupdates.com",
       "aaveupdate.live",
       "aaveupdates.com",
@@ -2422,8 +2423,7 @@
       "craannualupdatereminder.com",
       "criticalupdate.xyz",
       "cryptodetailsupdaten.com",
-      "csc-updates.live",
-      "csr-update.info"
+      "csc-updates.live"
     ],
     "crypto": [
       "094239-crypto.com",
@@ -2443,6 +2443,7 @@
       "115274-crypto.com",
       "115501-crypto.com",
       "115502-crypto.com",
+      "117390-crypto.com",
       "118924-crypto.com",
       "128433-crypto.com",
       "131849-crypto.com",
@@ -2624,8 +2625,7 @@
       "appllexcrypto.com",
       "asdiahjfgaiungacrypto.run",
       "assitance-crypto.com",
-      "au-crypto.com",
-      "aucryptoconf.com"
+      "au-crypto.com"
     ],
     "connect": [
       "0nline-2025at0connect.digital",
@@ -2670,6 +2670,7 @@
       "austconnectlp.com",
       "australiangrantconnects.digital",
       "australiat-lncome-grantconnect.digital",
+      "australservice-auconnect.net",
       "authorize-connect.app",
       "authscotiaconnect.com",
       "bahiscom-connect.icu",
@@ -2798,7 +2799,6 @@
       "connect-auth.net",
       "connect-avalon.com",
       "connect-avive.com",
-      "connect-aylab.com",
       "connect-bananagun.com",
       "connect-beefy.com",
       "connect-bitstamq.com",
@@ -3564,6 +3564,7 @@
       "faceit-status-verify.com",
       "faceitmverify.com",
       "five-verify.com",
+      "flarefndn-verify.live",
       "flow-scalar-bridge-verify.com",
       "frostverify.com",
       "frverify.com",
@@ -3634,8 +3635,7 @@
       "matbet-myverify.com",
       "matbetverify2026.live",
       "matqet-verifylogin.com",
-      "matrica-verify.app",
-      "mica-update-verify.com"
+      "matrica-verify.app"
     ],
     "vault": [
       "118924-cbvault.com",
@@ -3878,6 +3878,7 @@
       "bigtroutsolana.com",
       "bilysolana.xyz",
       "birisolana.xyz",
+      "blackbull-solana.com",
       "blackbullonsolana.com",
       "blackbullsolana.live",
       "bonkcoinsolana.com",
@@ -4038,8 +4039,7 @@
       "raydium-solana.net",
       "raydium-solana.network",
       "raydium-solana.online",
-      "raydium-solana.site",
-      "realbeckersolana.com"
+      "raydium-solana.site"
     ]
   }
 }
