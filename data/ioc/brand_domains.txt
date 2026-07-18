@@ -206,7 +206,6 @@ claim	0xclaim.xyz
 claim	0xzerebro-claim.com
 claim	1inchclaim.live
 claim	1inchclaim.network
-claim	2025claimsnotice.net
 claim	2025membershipclaim-costco.com
 claim	2025noticeclaimsinfo.info
 claim	48club-claims.xyz
@@ -266,6 +265,7 @@ claim	anyinuclaim.live
 claim	anyinuclaims.xyz
 claim	apeccoinclaim.com
 claim	apeclaime.com
+claim	apeclaims.live
 claim	apecoinclaims.com
 claim	apecoinrewardsclaim.sbs
 claim	apepeclaims.lol
@@ -735,7 +735,6 @@ secure	bmo-secureonline.com
 secure	bmoauth-secure.com
 secure	bmobusiness-securelogin.com
 secure	bmoconnectsecure.com
-secure	bmosecure-authentification.com
 secure	bmosecure-signin.com
 secure	bmosecure-webportal.com
 secure	bmosecure2025.com
@@ -798,6 +797,7 @@ secure	channel-secure-beamless.com
 secure	chase-paymentech-secure.com
 secure	chase-secured-help.com
 secure	chasesecureportal.com
+secure	check-secure-service.com
 token	1fueliotoken.life
 token	1fueltoken.cfd
 token	4bsctoken.com
@@ -1275,6 +1275,7 @@ official	assets-mantleofficial.com
 official	at0micofficial.net
 official	autismofficial.xyz
 official	avelixio-official.net
+official	aviator-game-india-official.games
 official	aviator-game-inida-official.com
 official	aviator-game-official-indi.com
 official	aviator-game-official-indi.info
@@ -1291,6 +1292,7 @@ official	aviator-official-game.net
 official	aviator-official-game.org
 official	aviator-officiall.net
 official	avvabet-official.icu
+official	avvabetofficialsite.icu
 official	awsaiofficial.com
 official	bahiscasino-official2025.com
 official	bahisfairofficial2026.vip
@@ -1396,8 +1398,6 @@ official	carsickofficialuk.com
 official	casibom-2025official.com
 official	casibom-casibomgiris-official.com
 official	casibom-casibomofficial.com
-official	casibom-giris-official.com
-official	casibom-girisofficial.cfd
 swap	0xswaps.xyz
 swap	1-swap.com
 swap	11amaswap.icu
@@ -1975,6 +1975,7 @@ support	bnzsupporthelp.com
 support	bnzwebsupport.com
 support	boacashprolivesupport.com
 support	boasupport.live
+support	booking-support.cards
 support	booktradeentrysupport.org
 support	borgersupportinfo.com
 support	branchxsupports.live
@@ -1984,7 +1985,6 @@ support	businesscustomersupport.xyz
 support	bybit-support-mail.com
 support	callcosupport.net
 support	calssupport.com
-support	canadianpharmsupport.com
 support	casesupport-apple.com
 support	cashproboachatsupport.com
 support	cashprochatsupport.com
@@ -2209,6 +2209,7 @@ update	2025statusupdate.info
 update	2026-etfupdate00.icu
 update	25refund-update.info
 update	589-updates.live
+update	a-update-your-tax.com
 update	aavechanupdates.com
 update	aaveupdate.live
 update	aaveupdates.com
@@ -2397,7 +2398,6 @@ update	craannualupdatereminder.com
 update	criticalupdate.xyz
 update	cryptodetailsupdaten.com
 update	csc-updates.live
-update	csr-update.info
 crypto	094239-crypto.com
 crypto	109074-crypto.com
 crypto	1124crypto.com
@@ -2415,6 +2415,7 @@ crypto	115224-crypto.com
 crypto	115274-crypto.com
 crypto	115501-crypto.com
 crypto	115502-crypto.com
+crypto	117390-crypto.com
 crypto	118924-crypto.com
 crypto	128433-crypto.com
 crypto	131849-crypto.com
@@ -2597,7 +2598,6 @@ crypto	appllexcrypto.com
 crypto	asdiahjfgaiungacrypto.run
 crypto	assitance-crypto.com
 crypto	au-crypto.com
-crypto	aucryptoconf.com
 connect	0nline-2025at0connect.digital
 connect	0xmetaconnect-rpc.xyz
 connect	19928292pcstestconnect2919.com
@@ -2640,6 +2640,7 @@ connect	aussieconnectaustral.net
 connect	austconnectlp.com
 connect	australiangrantconnects.digital
 connect	australiat-lncome-grantconnect.digital
+connect	australservice-auconnect.net
 connect	authorize-connect.app
 connect	authscotiaconnect.com
 connect	bahiscom-connect.icu
@@ -2768,7 +2769,6 @@ connect	connect-athene.com
 connect	connect-auth.net
 connect	connect-avalon.com
 connect	connect-avive.com
-connect	connect-aylab.com
 connect	connect-bananagun.com
 connect	connect-beefy.com
 connect	connect-bitstamq.com
@@ -3526,6 +3526,7 @@ verify	faceit-discordverifynow.com
 verify	faceit-status-verify.com
 verify	faceitmverify.com
 verify	five-verify.com
+verify	flarefndn-verify.live
 verify	flow-scalar-bridge-verify.com
 verify	frostverify.com
 verify	frverify.com
@@ -3597,7 +3598,6 @@ verify	matbet-myverify.com
 verify	matbetverify2026.live
 verify	matqet-verifylogin.com
 verify	matrica-verify.app
-verify	mica-update-verify.com
 vault	118924-cbvault.com
 vault	157206-cbvault.com
 vault	177253-cb-vault.com
@@ -3836,6 +3836,7 @@ solana	becker-solana.com
 solana	bigtroutsolana.com
 solana	bilysolana.xyz
 solana	birisolana.xyz
+solana	blackbull-solana.com
 solana	blackbullonsolana.com
 solana	blackbullsolana.live
 solana	bonkcoinsolana.com
@@ -3997,4 +3998,3 @@ solana	raydium-solana.net
 solana	raydium-solana.network
 solana	raydium-solana.online
 solana	raydium-solana.site
-solana	realbeckersolana.com
