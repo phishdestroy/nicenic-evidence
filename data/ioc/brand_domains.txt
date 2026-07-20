@@ -135,6 +135,7 @@ coinbase	118930-coinbase.com
 coinbase	11930-coinbase.com
 coinbase	119414coinbase.com
 coinbase	119415coinbase.com
+coinbase	11am6-coinbase.com
 coinbase	11yekn7-coinbase.com
 coinbase	121355-coinbase.com
 coinbase	1214345-coinbase.com
@@ -197,7 +198,6 @@ coinbase	132193coinbase.com
 coinbase	132493-coinbase.com
 coinbase	132535coinbase.com
 coinbase	132662coinbase.com
-coinbase	1328271-coinbase.com
 claim	0x-claim.xyz
 claim	0x00-claimables.xyz
 claim	0x000-claimables.xyz
@@ -461,6 +461,7 @@ login	airwallexs-login.com
 login	alertas-loginweb.com
 login	allicabanklogin.com
 login	allicabusinesslogin.com
+login	allicasecurelogin.com
 login	almanbahislogin.vip
 login	alo-gaming-login.vip
 login	alobet-turkeylogin.com
@@ -545,6 +546,7 @@ login	authweblogin.com
 login	autorisation-login.com
 login	aviso-loginapp.com
 login	aviso-loginweb.com
+login	avisos-loginapp.com
 login	avisos-loginweb.com
 login	avva-bet-tr-logining.vip
 login	avva-bhs-login.vip
@@ -596,8 +598,6 @@ login	betcio-logintekk2.vip
 login	betcio-teklogin1.vip
 login	betcio-teklogin3.vip
 login	betcio-teklogin4.vip
-login	betcio-trlogin.vip
-login	betciolivelogin.com
 secure	09025896-secure-chase.com
 secure	19023-secure.com
 secure	1bmo-banking-secure.com
@@ -657,6 +657,7 @@ secure	airdrop-arbitrumtoken-secure01a.com
 secure	airwallexsecurehelp.com
 secure	airwallexsecuresupport.com
 secure	alertcibcwebsecure.com
+secure	allicasecurelogin.com
 secure	alternasecureid.com
 secure	ameris-bank-secure.com
 secure	aml-check-secure.com
@@ -797,7 +798,6 @@ secure	centra-link-secure.net
 secure	centrelink-secured.net
 secure	channel-secure-beamless.com
 secure	chase-paymentech-secure.com
-secure	chase-secured-help.com
 token	1fueliotoken.life
 token	1fueltoken.cfd
 token	4bsctoken.com
@@ -1215,6 +1215,7 @@ official	1win-pas-official16.xyz
 official	1win-www-official14.xyz
 official	1winindiaofficial.com
 official	1winofficialcasino.com
+official	1xbet-india-official.com
 official	2026-official-pusulabet.com
 official	2026-officialgiris.com
 official	2026official-holiganbet.com
@@ -1397,7 +1398,6 @@ official	breathedivinityofficial.com
 official	bsfofficial.live
 official	btofficialentry.com
 official	buran-casino-official.com
-official	buttcoinofficial.xyz
 swap	0xswaps.xyz
 swap	1-swap.com
 swap	11amaswap.icu
@@ -1495,6 +1495,7 @@ swap	ash-swap.com
 swap	ashswap.xyz
 swap	aswap-alphaofsol.com
 swap	ateswap.com
+swap	aveswap.finance
 swap	aveswapweb3.com
 swap	awards-shibaswap.com
 swap	b1tswaper.icu
@@ -1597,7 +1598,6 @@ swap	claim-uniswapstoken-gateway01a.org
 swap	claim-uniswapstoken-gateway01c.org
 swap	claim-uniswaptokens.com
 swap	claimhyperswap.exchange
-swap	claims-quickswap.com
 ledger	01-ledger.com
 ledger	0182778-ledger.com
 ledger	02-ledger.com
@@ -1829,6 +1829,7 @@ support	account-support.email
 support	accounts-support-google.com
 support	accountsupport-bill.com
 support	accountsupport-coinbase.com
+support	accountsupport-td.com
 support	acs-24-support.com
 support	activatecustomerduesupportdillegence.com
 support	activity-claimssupportinfo.icu
@@ -1928,7 +1929,6 @@ support	bitgetchatsupport.com
 support	bitgetcontactsupport.com
 support	bitgetdesksupport.com
 support	bitgetsupport.org
-support	bitgetsupportapp.com
 support	bitgetsupportbot.com
 support	bitgetsupportchat.com
 support	bitgetsupportcontact.com
@@ -2333,6 +2333,7 @@ update	chain-update.com
 update	change-new-update.com
 update	changes-updated.com
 update	check-inf-here-update.com
+update	chkngupdate.com
 update	cibcdeviceupdate.com
 update	claim-g0update0311.info
 update	claimsupdate.net
@@ -2397,7 +2398,6 @@ update	cryptodetailsupdaten.com
 update	csc-updates.live
 update	csr-update.info
 update	ctdl1-windowsupdate.com
-update	cygnusupdate.live
 crypto	094239-crypto.com
 crypto	109074-crypto.com
 crypto	1124crypto.com
@@ -2667,6 +2667,7 @@ connect	bridge-connect.live
 connect	btbe-connection.com
 connect	btcbull-connect.com
 connect	btpse-connection.com
+connect	callbackconnection.xyz
 connect	canadpostconnect.com
 connect	canonicalconnect.com
 connect	captital-connection.cyou
@@ -2797,7 +2798,6 @@ connect	connect-eclipse.com
 connect	connect-eesee.com
 connect	connect-ellipal.com
 connect	connect-elys.com
-connect	connect-ethenalabs.com
 trust	1-tdcanadatrust.com
 trust	1trusted.live
 trust	1win-trust2026.icu
@@ -2964,6 +2964,7 @@ trust	darknet-trust.com
 trust	darknettrust.com
 trust	dealstrust.vip
 trust	defi-trustpad.net
+trust	defi-trustpads.net
 trust	desktop-itrustcapital.com
 trust	digitaltrustnetworks.xyz
 trust	directtrust.live
@@ -2997,7 +2998,6 @@ trust	gameofbet-2026trust.vip
 trust	gameofbet-trust2026.icu
 trust	gameofbet-trustworthy.vip
 trust	gate-trustpilot.com
-trust	gateway-trustpilot.com
 account	02-review-account.com
 account	1win-2026bestaccount.com
 account	1win-account2026.com
@@ -3044,10 +3044,8 @@ account	account-db.com
 account	account-digifinex.com
 account	account-dispute-portal.center
 account	account-etoro.com
-account	account-ftxdigital.com
 account	account-ftxlimited.com
 account	account-ftxltd.com
-account	account-ftxtrading.com
 account	account-gateway.com
 account	account-helpdesk-coinbase.com
 account	account-hubspot.com
@@ -3147,7 +3145,6 @@ account	accountingescrowservices.com
 account	accountinghelpintuit.com
 account	accountingproposal.biz
 account	accountings-expert.com
-account	accountkundendatenbestaetigung-coinbase.com
 account	accountlogin-bitpanda.com
 account	accountlogin-coinbase.com
 account	accountmailbox.com
@@ -3198,6 +3195,9 @@ account	accounts-support-google.com
 account	accounts-verentro.com
 account	accounts-wealthsimple.com
 account	accounts-wordpress.com
+account	accountsa360.live
+account	accountsecure-coinbase.com
+account	accountsecure.digital
 airdrop	0x00000-bankless-hunt-airdrop.com
 airdrop	abstract-airdrop.xyz
 airdrop	aeth-airdrop.net
@@ -3609,6 +3609,7 @@ vault	284109us-coinbasevault.com
 vault	382741-coinbasevault.com
 vault	49512-vault-coinbase.com
 vault	587642-cbvault.com
+vault	762559-cbvault.com
 vault	81914-vault-gemini.com
 vault	84913-vault-gemini.com
 vault	935151-cbvault.com
@@ -3797,7 +3798,6 @@ vault	liquidvaults.xyz
 vault	lumivault.info
 vault	luxvaultys.vip
 vault	mantlevaults.pro
-vault	marketing-vault.xyz
 solana	1coinofsolana.com
 solana	1coinsolana.com
 solana	1coinsolana.net
@@ -3845,7 +3845,6 @@ solana	bonksolana.xyz
 solana	booonsolana.xyz
 solana	bootokensolana.xyz
 solana	bored-ape-solana-club-nft.xyz
-solana	bruvsolana.com
 solana	bullishdegensolana.com
 solana	bullishdegensolana.net
 solana	bullsolana.app
@@ -3929,6 +3928,7 @@ solana	lobstarsolana.com
 solana	lobstarsolana.net
 solana	lobstarwilde-solana.com
 solana	lucky-solana.com
+solana	luckycoinsolana.com
 solana	luckycoinsolana.net
 solana	lumesolana.com
 solana	marinadefinancesolana.com
