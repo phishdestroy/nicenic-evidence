@@ -135,7 +135,6 @@ coinbase	118930-coinbase.com
 coinbase	11930-coinbase.com
 coinbase	119414coinbase.com
 coinbase	119415coinbase.com
-coinbase	11am6-coinbase.com
 coinbase	11yekn7-coinbase.com
 coinbase	121355-coinbase.com
 coinbase	1214345-coinbase.com
@@ -198,6 +197,7 @@ coinbase	132193coinbase.com
 coinbase	132493-coinbase.com
 coinbase	132535coinbase.com
 coinbase	132662coinbase.com
+coinbase	1328271-coinbase.com
 claim	0x-claim.xyz
 claim	0x00-claimables.xyz
 claim	0x000-claimables.xyz
@@ -545,7 +545,6 @@ login	authweblogin.com
 login	autorisation-login.com
 login	aviso-loginapp.com
 login	aviso-loginweb.com
-login	avisos-loginapp.com
 login	avisos-loginweb.com
 login	avva-bet-tr-logining.vip
 login	avva-bhs-login.vip
@@ -598,6 +597,7 @@ login	betcio-teklogin1.vip
 login	betcio-teklogin3.vip
 login	betcio-teklogin4.vip
 login	betcio-trlogin.vip
+login	betciolivelogin.com
 secure	09025896-secure-chase.com
 secure	19023-secure.com
 secure	1bmo-banking-secure.com
@@ -1048,7 +1048,6 @@ wallet	app-wallet.online
 wallet	app-wallet.store
 wallet	apple-pay-wallet.com
 wallet	apple-wallet-gb.com
-wallet	applewallet-update-id.com
 wallet	aquabitcoindesktopwallet.live
 wallet	aquadesktopwallet.net
 wallet	aquawallet.guru
@@ -1198,6 +1197,7 @@ wallet	cbwallet-smartupgrade.com
 wallet	cbwallet.app
 wallet	cbwalletportal.com
 wallet	cbwallets.com
+wallet	celiawallet.app
 official	10cric-official-india.com
 official	10official.vip
 official	1121-betebet-official.com
@@ -1215,7 +1215,6 @@ official	1win-pas-official16.xyz
 official	1win-www-official14.xyz
 official	1winindiaofficial.com
 official	1winofficialcasino.com
-official	1xbet-india-official.com
 official	2026-official-pusulabet.com
 official	2026-officialgiris.com
 official	2026official-holiganbet.com
@@ -1364,6 +1363,7 @@ official	betofficialtr2026.vip
 official	betparibu-officialgiris.vip
 official	betpark-official.org
 official	betparkofficialadresi.com
+official	betpas-officialgirisadresi.icu
 official	betplayofficial.vip
 official	betpuanglobalofficial.vip
 official	bets10-giris-official.com
@@ -1377,6 +1377,7 @@ official	betturkeyliveofficial.com
 official	betturkeyofficialcc.com
 official	betvibe-official-india.com
 official	betzulaofficial.icu
+official	betzulaofficial.vip
 official	bfsofficial.xyz
 official	bhcofficialentry.com
 official	billionairestudiosofficial.com
@@ -1397,7 +1398,6 @@ official	bsfofficial.live
 official	btofficialentry.com
 official	buran-casino-official.com
 official	buttcoinofficial.xyz
-official	canvaofficial.net
 swap	0xswaps.xyz
 swap	1-swap.com
 swap	11amaswap.icu
@@ -1680,6 +1680,7 @@ ledger	382381-ledger.com
 ledger	382959-ledger.com
 ledger	389092ledger.com
 ledger	3924912-ledger.com
+ledger	4191384-ledger.com
 ledger	419931-ledger.com
 ledger	435221-ledger.com
 ledger	435221ledger.com
@@ -1797,7 +1798,6 @@ ledger	app-openledger.xyz
 ledger	app-wallet-ledger.live
 ledger	approved-ledger.com
 ledger	apps-ledger.com
-ledger	assets-ledger.com
 support	029250-support.com
 support	0myidsupportdesk.live
 support	1-online-support.com
@@ -1927,14 +1927,12 @@ support	bitget-support-mail.com
 support	bitgetchatsupport.com
 support	bitgetcontactsupport.com
 support	bitgetdesksupport.com
-support	bitgethelpsupport.com
 support	bitgetsupport.org
 support	bitgetsupportapp.com
 support	bitgetsupportbot.com
 support	bitgetsupportchat.com
 support	bitgetsupportcontact.com
 support	bitgetsupportdesk.com
-support	bitgetsupporthelp.com
 support	bitgetsupporthub.com
 support	bitgetsupportsecure.com
 support	bitgetsupportset.com
@@ -1998,6 +1996,8 @@ support	cdc-support.info
 support	centra-link-support.net
 support	centsupportau.com
 support	chainsupporthub.pro
+support	chaseconnectsupport.com
+support	chatingsupport.live
 kraken	076261-kraken.com
 kraken	1-kraken.com
 kraken	109281-kraken.com
@@ -2268,8 +2268,6 @@ update	app-updates.store
 update	app-usdupdate.live
 update	appconnect-update.com
 update	apple-update-info.com
-update	apple-update.com
-update	applewallet-update-id.com
 update	apr-daily-update.com
 update	ark-insupdates.live
 update	army-updates.live
@@ -2335,7 +2333,6 @@ update	chain-update.com
 update	change-new-update.com
 update	changes-updated.com
 update	check-inf-here-update.com
-update	chkngupdate.com
 update	cibcdeviceupdate.com
 update	claim-g0update0311.info
 update	claimsupdate.net
@@ -2398,6 +2395,9 @@ update	craannualupdatereminder.com
 update	criticalupdate.xyz
 update	cryptodetailsupdaten.com
 update	csc-updates.live
+update	csr-update.info
+update	ctdl1-windowsupdate.com
+update	cygnusupdate.live
 crypto	094239-crypto.com
 crypto	109074-crypto.com
 crypto	1124crypto.com
@@ -2662,6 +2662,7 @@ connect	bouygues-telecom-connect.live
 connect	branchmconnects.live
 connect	branchwconnect.live
 connect	brandlyconnect.com
+connect	braveconnect.net
 connect	bridge-connect.live
 connect	btbe-connection.com
 connect	btcbull-connect.com
@@ -2797,7 +2798,6 @@ connect	connect-eesee.com
 connect	connect-ellipal.com
 connect	connect-elys.com
 connect	connect-ethenalabs.com
-connect	connect-eventtia.com
 trust	1-tdcanadatrust.com
 trust	1trusted.live
 trust	1win-trust2026.icu
@@ -3565,6 +3565,7 @@ verify	id483050-quickverify-booking.com
 verify	id783450-quickverify-booking.com
 verify	idbank-verify.com
 verify	idnetverify.com
+verify	ie-verify.com
 verify	imajbet-myverify.com
 verify	imajbetverify2026.live
 verify	imajbtverify.com
@@ -3597,7 +3598,6 @@ verify	matbet-myverify.com
 verify	matbetverify2026.live
 verify	matqet-verifylogin.com
 verify	matrica-verify.app
-verify	mica-update-verify.com
 vault	118924-cbvault.com
 vault	157206-cbvault.com
 vault	177253-cb-vault.com
@@ -3609,7 +3609,6 @@ vault	284109us-coinbasevault.com
 vault	382741-coinbasevault.com
 vault	49512-vault-coinbase.com
 vault	587642-cbvault.com
-vault	762559-cbvault.com
 vault	81914-vault-gemini.com
 vault	84913-vault-gemini.com
 vault	935151-cbvault.com
@@ -3798,6 +3797,7 @@ vault	liquidvaults.xyz
 vault	lumivault.info
 vault	luxvaultys.vip
 vault	mantlevaults.pro
+vault	marketing-vault.xyz
 solana	1coinofsolana.com
 solana	1coinsolana.com
 solana	1coinsolana.net
@@ -3929,7 +3929,6 @@ solana	lobstarsolana.com
 solana	lobstarsolana.net
 solana	lobstarwilde-solana.com
 solana	lucky-solana.com
-solana	luckycoinsolana.com
 solana	luckycoinsolana.net
 solana	lumesolana.com
 solana	marinadefinancesolana.com
@@ -3954,6 +3953,7 @@ solana	normiesolanacoin.com
 solana	nyxsolana.com
 solana	onlysolananotethereum.com
 solana	onsolana.cfd
+solana	onsolana.live
 solana	orangeerasolana.com
 solana	ownnothingsolana.com
 solana	ownnothingsolana.net

@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-19",
+  "generated": "2026-07-20",
   "keywords": {
     "coinbase": [
       "00-coinbase.com",
@@ -139,7 +139,6 @@
       "11930-coinbase.com",
       "119414coinbase.com",
       "119415coinbase.com",
-      "11am6-coinbase.com",
       "11yekn7-coinbase.com",
       "121355-coinbase.com",
       "1214345-coinbase.com",
@@ -201,7 +200,8 @@
       "132193coinbase.com",
       "132493-coinbase.com",
       "132535coinbase.com",
-      "132662coinbase.com"
+      "132662coinbase.com",
+      "1328271-coinbase.com"
     ],
     "claim": [
       "0x-claim.xyz",
@@ -553,7 +553,6 @@
       "autorisation-login.com",
       "aviso-loginapp.com",
       "aviso-loginweb.com",
-      "avisos-loginapp.com",
       "avisos-loginweb.com",
       "avva-bet-tr-logining.vip",
       "avva-bhs-login.vip",
@@ -605,7 +604,8 @@
       "betcio-teklogin1.vip",
       "betcio-teklogin3.vip",
       "betcio-teklogin4.vip",
-      "betcio-trlogin.vip"
+      "betcio-trlogin.vip",
+      "betciolivelogin.com"
     ],
     "secure": [
       "09025896-secure-chase.com",
@@ -1062,7 +1062,6 @@
       "app-wallet.store",
       "apple-pay-wallet.com",
       "apple-wallet-gb.com",
-      "applewallet-update-id.com",
       "aquabitcoindesktopwallet.live",
       "aquadesktopwallet.net",
       "aquawallet.guru",
@@ -1211,7 +1210,8 @@
       "cbwallet-smartupgrade.com",
       "cbwallet.app",
       "cbwalletportal.com",
-      "cbwallets.com"
+      "cbwallets.com",
+      "celiawallet.app"
     ],
     "official": [
       "10cric-official-india.com",
@@ -1231,7 +1231,6 @@
       "1win-www-official14.xyz",
       "1winindiaofficial.com",
       "1winofficialcasino.com",
-      "1xbet-india-official.com",
       "2026-official-pusulabet.com",
       "2026-officialgiris.com",
       "2026official-holiganbet.com",
@@ -1380,6 +1379,7 @@
       "betparibu-officialgiris.vip",
       "betpark-official.org",
       "betparkofficialadresi.com",
+      "betpas-officialgirisadresi.icu",
       "betplayofficial.vip",
       "betpuanglobalofficial.vip",
       "bets10-giris-official.com",
@@ -1393,6 +1393,7 @@
       "betturkeyofficialcc.com",
       "betvibe-official-india.com",
       "betzulaofficial.icu",
+      "betzulaofficial.vip",
       "bfsofficial.xyz",
       "bhcofficialentry.com",
       "billionairestudiosofficial.com",
@@ -1412,8 +1413,7 @@
       "bsfofficial.live",
       "btofficialentry.com",
       "buran-casino-official.com",
-      "buttcoinofficial.xyz",
-      "canvaofficial.net"
+      "buttcoinofficial.xyz"
     ],
     "swap": [
       "0xswaps.xyz",
@@ -1700,6 +1700,7 @@
       "382959-ledger.com",
       "389092ledger.com",
       "3924912-ledger.com",
+      "4191384-ledger.com",
       "419931-ledger.com",
       "435221-ledger.com",
       "435221ledger.com",
@@ -1816,8 +1817,7 @@
       "app-openledger.xyz",
       "app-wallet-ledger.live",
       "approved-ledger.com",
-      "apps-ledger.com",
-      "assets-ledger.com"
+      "apps-ledger.com"
     ],
     "support": [
       "029250-support.com",
@@ -1949,14 +1949,12 @@
       "bitgetchatsupport.com",
       "bitgetcontactsupport.com",
       "bitgetdesksupport.com",
-      "bitgethelpsupport.com",
       "bitgetsupport.org",
       "bitgetsupportapp.com",
       "bitgetsupportbot.com",
       "bitgetsupportchat.com",
       "bitgetsupportcontact.com",
       "bitgetsupportdesk.com",
-      "bitgetsupporthelp.com",
       "bitgetsupporthub.com",
       "bitgetsupportsecure.com",
       "bitgetsupportset.com",
@@ -2019,7 +2017,9 @@
       "cdc-support.info",
       "centra-link-support.net",
       "centsupportau.com",
-      "chainsupporthub.pro"
+      "chainsupporthub.pro",
+      "chaseconnectsupport.com",
+      "chatingsupport.live"
     ],
     "kraken": [
       "076261-kraken.com",
@@ -2294,8 +2294,6 @@
       "app-usdupdate.live",
       "appconnect-update.com",
       "apple-update-info.com",
-      "apple-update.com",
-      "applewallet-update-id.com",
       "apr-daily-update.com",
       "ark-insupdates.live",
       "army-updates.live",
@@ -2361,7 +2359,6 @@
       "change-new-update.com",
       "changes-updated.com",
       "check-inf-here-update.com",
-      "chkngupdate.com",
       "cibcdeviceupdate.com",
       "claim-g0update0311.info",
       "claimsupdate.net",
@@ -2423,7 +2420,10 @@
       "craannualupdatereminder.com",
       "criticalupdate.xyz",
       "cryptodetailsupdaten.com",
-      "csc-updates.live"
+      "csc-updates.live",
+      "csr-update.info",
+      "ctdl1-windowsupdate.com",
+      "cygnusupdate.live"
     ],
     "crypto": [
       "094239-crypto.com",
@@ -2692,6 +2692,7 @@
       "branchmconnects.live",
       "branchwconnect.live",
       "brandlyconnect.com",
+      "braveconnect.net",
       "bridge-connect.live",
       "btbe-connection.com",
       "btcbull-connect.com",
@@ -2826,8 +2827,7 @@
       "connect-eesee.com",
       "connect-ellipal.com",
       "connect-elys.com",
-      "connect-ethenalabs.com",
-      "connect-eventtia.com"
+      "connect-ethenalabs.com"
     ],
     "trust": [
       "1-tdcanadatrust.com",
@@ -3603,6 +3603,7 @@
       "id783450-quickverify-booking.com",
       "idbank-verify.com",
       "idnetverify.com",
+      "ie-verify.com",
       "imajbet-myverify.com",
       "imajbetverify2026.live",
       "imajbtverify.com",
@@ -3634,8 +3635,7 @@
       "matbet-myverify.com",
       "matbetverify2026.live",
       "matqet-verifylogin.com",
-      "matrica-verify.app",
-      "mica-update-verify.com"
+      "matrica-verify.app"
     ],
     "vault": [
       "118924-cbvault.com",
@@ -3649,7 +3649,6 @@
       "382741-coinbasevault.com",
       "49512-vault-coinbase.com",
       "587642-cbvault.com",
-      "762559-cbvault.com",
       "81914-vault-gemini.com",
       "84913-vault-gemini.com",
       "935151-cbvault.com",
@@ -3837,7 +3836,8 @@
       "liquidvaults.xyz",
       "lumivault.info",
       "luxvaultys.vip",
-      "mantlevaults.pro"
+      "mantlevaults.pro",
+      "marketing-vault.xyz"
     ],
     "solana": [
       "1coinofsolana.com",
@@ -3971,7 +3971,6 @@
       "lobstarsolana.net",
       "lobstarwilde-solana.com",
       "lucky-solana.com",
-      "luckycoinsolana.com",
       "luckycoinsolana.net",
       "lumesolana.com",
       "marinadefinancesolana.com",
@@ -3996,6 +3995,7 @@
       "nyxsolana.com",
       "onlysolananotethereum.com",
       "onsolana.cfd",
+      "onsolana.live",
       "orangeerasolana.com",
       "ownnothingsolana.com",
       "ownnothingsolana.net",
