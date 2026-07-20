@@ -28,47 +28,47 @@
 > 🔴 **LIVE INVESTIGATION FEED** &middot; Auto-updated &middot; Last fetch `2026-07-20`
 
 <table><tr>
-<td align="center"><b>📦 Domains tracked</b><br/><sub><code>367,379</code></sub></td>
-<td align="center"><b>💰 Est. revenue</b><br/><sub><code>$2,802,598</code></sub></td>
-<td align="center"><b>📡 Deployed</b><br/><sub><code>52.5%</code></sub></td>
-<td align="center"><b>✅ Confirmed phishing</b><br/><sub><code>6.9%</code> (25,295)</sub></td>
-<td align="center"><b>⚡ Fresh (≤7d)</b><br/><sub><code>1.2%</code></sub></td>
-<td align="center"><b>🕵️ Serial regs</b><br/><sub><code>31</code></sub></td>
+<td align="center"><b>📦 Domains tracked</b><br/><sub><code>367,867</code></sub></td>
+<td align="center"><b>💰 Est. revenue</b><br/><sub><code>$2,804,892</code></sub></td>
+<td align="center"><b>📡 Deployed</b><br/><sub><code>52.4%</code></sub></td>
+<td align="center"><b>✅ Confirmed phishing</b><br/><sub><code>6.9%</code> (25,311)</sub></td>
+<td align="center"><b>⚡ Fresh (≤7d)</b><br/><sub><code>1.4%</code></sub></td>
+<td align="center"><b>🕵️ Serial regs</b><br/><sub><code>32</code></sub></td>
 </tr></table>
 
 ### 🏷️ Top TLD Zones
 
 | TLD | Count | Avg Reg Period | Est. Revenue |
 |:--|--:|--:|--:|
-| `.com` | 198,763 | 566d | $1,786,879 |
-| `.vip` | 28,430 | 371d | $141,866 |
-| `.icu` | 22,534 | 389d | $22,309 |
-| `.net` | 16,846 | 678d | $168,292 |
-| `.xyz` | 16,012 | 473d | $23,858 |
-| `.info` | 11,617 | 503d | $46,352 |
-| `.live` | 11,589 | 406d | $115,774 |
-| `.cfd` | 9,790 | 470d | $48,852 |
-| `.org` | 8,170 | 847d | $81,618 |
-| `.sbs` | 7,198 | 434d | $35,918 |
+| `.com` | 198,886 | 566d | $1,787,985 |
+| `.vip` | 28,448 | 371d | $141,956 |
+| `.icu` | 22,772 | 389d | $22,544 |
+| `.net` | 16,843 | 678d | $168,262 |
+| `.xyz` | 16,004 | 473d | $23,846 |
+| `.live` | 11,626 | 406d | $116,144 |
+| `.info` | 11,624 | 503d | $46,380 |
+| `.cfd` | 9,807 | 470d | $48,937 |
+| `.org` | 8,158 | 848d | $81,498 |
+| `.sbs` | 7,217 | 434d | $36,013 |
 
 ### 🌍 Top Hosting Countries
 
 ```
-US  ██████████████████     12,455 (35.1%)
-RU  ████░░░░░░░░░░░░░░      2,872 (8.1%)
-CA  ███░░░░░░░░░░░░░░░      2,757 (7.8%)
-NL  ███░░░░░░░░░░░░░░░      2,523 (7.1%)
-GB  ███░░░░░░░░░░░░░░░      2,086 (5.9%)
-DE  ██░░░░░░░░░░░░░░░░      2,073 (5.8%)
-BG  ██░░░░░░░░░░░░░░░░      1,680 (4.7%)
-UA  █░░░░░░░░░░░░░░░░░        846 (2.4%)
+US  ██████████████████     12,395 (35.0%)
+RU  ████░░░░░░░░░░░░░░      2,862 (8.1%)
+CA  ███░░░░░░░░░░░░░░░      2,752 (7.8%)
+NL  ███░░░░░░░░░░░░░░░      2,525 (7.1%)
+GB  ███░░░░░░░░░░░░░░░      2,088 (5.9%)
+DE  ███░░░░░░░░░░░░░░░      2,070 (5.8%)
+BG  ██░░░░░░░░░░░░░░░░      1,681 (4.7%)
+UA  █░░░░░░░░░░░░░░░░░        843 (2.4%)
 ```
 
 ### 📈 Registration Burst Days
 
 | Date | Domains | × Average |
 |:--|--:|--:|
-| `2026-06-16` | 1,382 | **14.4×** 🚨 |
+| `2026-06-16` | 1,382 | **14.3×** 🚨 |
 | `2026-06-08` | 1,252 | **13.0×** 🚨 |
 | `2026-03-06` | 1,244 | **12.9×** 🚨 |
 | `2025-12-04` | 1,215 | **12.6×** 🚨 |
@@ -76,7 +76,7 @@ UA  █░░░░░░░░░░░░░░░░░        846 (2.4%)
 
 ### 🎯 Top Targeted Brands & Keywords
 
-`coinbase (3,839)` &middot; `claim (3,470)` &middot; `login (2,238)` &middot; `secure (1,716)` &middot; `token (1,596)` &middot; `wallet (1,518)` &middot; `official (1,412)` &middot; `swap (1,361)` &middot; `ledger (1,342)` &middot; `support (1,275)` &middot; `kraken (1,235)` &middot; `update (1,162)` &middot; `crypto (1,149)` &middot; `connect (1,107)` &middot; `trust (930)`
+`coinbase (3,842)` &middot; `claim (3,470)` &middot; `login (2,242)` &middot; `secure (1,717)` &middot; `token (1,591)` &middot; `wallet (1,518)` &middot; `official (1,412)` &middot; `swap (1,360)` &middot; `ledger (1,338)` &middot; `support (1,271)` &middot; `kraken (1,234)` &middot; `update (1,162)` &middot; `crypto (1,148)` &middot; `connect (1,109)` &middot; `trust (931)`
 
 ### 🕵️ Top Serial Registrants — 50 emails with ≥5 domains
 

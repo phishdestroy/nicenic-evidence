@@ -139,6 +139,7 @@
       "11930-coinbase.com",
       "119414coinbase.com",
       "119415coinbase.com",
+      "11am6-coinbase.com",
       "11yekn7-coinbase.com",
       "121355-coinbase.com",
       "1214345-coinbase.com",
@@ -200,8 +201,7 @@
       "132193coinbase.com",
       "132493-coinbase.com",
       "132535coinbase.com",
-      "132662coinbase.com",
-      "1328271-coinbase.com"
+      "132662coinbase.com"
     ],
     "claim": [
       "0x-claim.xyz",
@@ -469,6 +469,7 @@
       "alertas-loginweb.com",
       "allicabanklogin.com",
       "allicabusinesslogin.com",
+      "allicasecurelogin.com",
       "almanbahislogin.vip",
       "alo-gaming-login.vip",
       "alobet-turkeylogin.com",
@@ -553,6 +554,7 @@
       "autorisation-login.com",
       "aviso-loginapp.com",
       "aviso-loginweb.com",
+      "avisos-loginapp.com",
       "avisos-loginweb.com",
       "avva-bet-tr-logining.vip",
       "avva-bhs-login.vip",
@@ -603,9 +605,7 @@
       "betcio-logintekk2.vip",
       "betcio-teklogin1.vip",
       "betcio-teklogin3.vip",
-      "betcio-teklogin4.vip",
-      "betcio-trlogin.vip",
-      "betciolivelogin.com"
+      "betcio-teklogin4.vip"
     ],
     "secure": [
       "09025896-secure-chase.com",
@@ -667,6 +667,7 @@
       "airwallexsecurehelp.com",
       "airwallexsecuresupport.com",
       "alertcibcwebsecure.com",
+      "allicasecurelogin.com",
       "alternasecureid.com",
       "ameris-bank-secure.com",
       "aml-check-secure.com",
@@ -806,8 +807,7 @@
       "centra-link-secure.net",
       "centrelink-secured.net",
       "channel-secure-beamless.com",
-      "chase-paymentech-secure.com",
-      "chase-secured-help.com"
+      "chase-paymentech-secure.com"
     ],
     "token": [
       "1fueliotoken.life",
@@ -1231,6 +1231,7 @@
       "1win-www-official14.xyz",
       "1winindiaofficial.com",
       "1winofficialcasino.com",
+      "1xbet-india-official.com",
       "2026-official-pusulabet.com",
       "2026-officialgiris.com",
       "2026official-holiganbet.com",
@@ -1412,8 +1413,7 @@
       "breathedivinityofficial.com",
       "bsfofficial.live",
       "btofficialentry.com",
-      "buran-casino-official.com",
-      "buttcoinofficial.xyz"
+      "buran-casino-official.com"
     ],
     "swap": [
       "0xswaps.xyz",
@@ -1513,6 +1513,7 @@
       "ashswap.xyz",
       "aswap-alphaofsol.com",
       "ateswap.com",
+      "aveswap.finance",
       "aveswapweb3.com",
       "awards-shibaswap.com",
       "b1tswaper.icu",
@@ -1614,8 +1615,7 @@
       "claim-uniswapstoken-gateway01a.org",
       "claim-uniswapstoken-gateway01c.org",
       "claim-uniswaptokens.com",
-      "claimhyperswap.exchange",
-      "claims-quickswap.com"
+      "claimhyperswap.exchange"
     ],
     "ledger": [
       "01-ledger.com",
@@ -1851,6 +1851,7 @@
       "accounts-support-google.com",
       "accountsupport-bill.com",
       "accountsupport-coinbase.com",
+      "accountsupport-td.com",
       "acs-24-support.com",
       "activatecustomerduesupportdillegence.com",
       "activity-claimssupportinfo.icu",
@@ -1950,7 +1951,6 @@
       "bitgetcontactsupport.com",
       "bitgetdesksupport.com",
       "bitgetsupport.org",
-      "bitgetsupportapp.com",
       "bitgetsupportbot.com",
       "bitgetsupportchat.com",
       "bitgetsupportcontact.com",
@@ -2359,6 +2359,7 @@
       "change-new-update.com",
       "changes-updated.com",
       "check-inf-here-update.com",
+      "chkngupdate.com",
       "cibcdeviceupdate.com",
       "claim-g0update0311.info",
       "claimsupdate.net",
@@ -2422,8 +2423,7 @@
       "cryptodetailsupdaten.com",
       "csc-updates.live",
       "csr-update.info",
-      "ctdl1-windowsupdate.com",
-      "cygnusupdate.live"
+      "ctdl1-windowsupdate.com"
     ],
     "crypto": [
       "094239-crypto.com",
@@ -2697,6 +2697,7 @@
       "btbe-connection.com",
       "btcbull-connect.com",
       "btpse-connection.com",
+      "callbackconnection.xyz",
       "canadpostconnect.com",
       "canonicalconnect.com",
       "captital-connection.cyou",
@@ -2826,8 +2827,7 @@
       "connect-eclipse.com",
       "connect-eesee.com",
       "connect-ellipal.com",
-      "connect-elys.com",
-      "connect-ethenalabs.com"
+      "connect-elys.com"
     ],
     "trust": [
       "1-tdcanadatrust.com",
@@ -2996,6 +2996,7 @@
       "darknettrust.com",
       "dealstrust.vip",
       "defi-trustpad.net",
+      "defi-trustpads.net",
       "desktop-itrustcapital.com",
       "digitaltrustnetworks.xyz",
       "directtrust.live",
@@ -3028,8 +3029,7 @@
       "gameofbet-2026trust.vip",
       "gameofbet-trust2026.icu",
       "gameofbet-trustworthy.vip",
-      "gate-trustpilot.com",
-      "gateway-trustpilot.com"
+      "gate-trustpilot.com"
     ],
     "account": [
       "02-review-account.com",
@@ -3078,10 +3078,8 @@
       "account-digifinex.com",
       "account-dispute-portal.center",
       "account-etoro.com",
-      "account-ftxdigital.com",
       "account-ftxlimited.com",
       "account-ftxltd.com",
-      "account-ftxtrading.com",
       "account-gateway.com",
       "account-helpdesk-coinbase.com",
       "account-hubspot.com",
@@ -3181,7 +3179,6 @@
       "accountinghelpintuit.com",
       "accountingproposal.biz",
       "accountings-expert.com",
-      "accountkundendatenbestaetigung-coinbase.com",
       "accountlogin-bitpanda.com",
       "accountlogin-coinbase.com",
       "accountmailbox.com",
@@ -3231,7 +3228,10 @@
       "accounts-support-google.com",
       "accounts-verentro.com",
       "accounts-wealthsimple.com",
-      "accounts-wordpress.com"
+      "accounts-wordpress.com",
+      "accountsa360.live",
+      "accountsecure-coinbase.com",
+      "accountsecure.digital"
     ],
     "airdrop": [
       "0x00000-bankless-hunt-airdrop.com",
@@ -3649,6 +3649,7 @@
       "382741-coinbasevault.com",
       "49512-vault-coinbase.com",
       "587642-cbvault.com",
+      "762559-cbvault.com",
       "81914-vault-gemini.com",
       "84913-vault-gemini.com",
       "935151-cbvault.com",
@@ -3836,8 +3837,7 @@
       "liquidvaults.xyz",
       "lumivault.info",
       "luxvaultys.vip",
-      "mantlevaults.pro",
-      "marketing-vault.xyz"
+      "mantlevaults.pro"
     ],
     "solana": [
       "1coinofsolana.com",
@@ -3887,7 +3887,6 @@
       "booonsolana.xyz",
       "bootokensolana.xyz",
       "bored-ape-solana-club-nft.xyz",
-      "bruvsolana.com",
       "bullishdegensolana.com",
       "bullishdegensolana.net",
       "bullsolana.app",
@@ -3971,6 +3970,7 @@
       "lobstarsolana.net",
       "lobstarwilde-solana.com",
       "lucky-solana.com",
+      "luckycoinsolana.com",
       "luckycoinsolana.net",
       "lumesolana.com",
       "marinadefinancesolana.com",

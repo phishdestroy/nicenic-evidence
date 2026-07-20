@@ -857,6 +857,22 @@
       ]
     },
     {
+      "email": "privacypolicyupdates@automattic.com",
+      "count": 10,
+      "domains": [
+        "accounts-wordpress.com",
+        "candidatexml.com",
+        "ctr-namespace.com",
+        "socket-wordpress.com",
+        "socket-wordpress.net",
+        "socket-wp.com",
+        "uptime-notify.com",
+        "wordpressws.com",
+        "wsswp.com",
+        "wsswp.net"
+      ]
+    },
+    {
       "email": "contact@iotrust.kr",
       "count": 9,
       "domains": [
@@ -929,21 +945,6 @@
         "997betvole.com",
         "998betvole.com",
         "999betvole.com"
-      ]
-    },
-    {
-      "email": "tomshaw@pumpthewaterorg020.onmicrosoft.com",
-      "count": 9,
-      "domains": [
-        "egiin-oniine.icu",
-        "empcwers.icu",
-        "hudscnvaiiey.icu",
-        "hvdscnvaley.icu",
-        "llsternill.icu",
-        "northonlin.icu",
-        "redscniine.icu",
-        "redscnline.icu",
-        "redscnline.info"
       ]
     },
     {
@@ -1025,6 +1026,20 @@
       "domains": []
     },
     {
+      "email": "tomshaw@pumpthewaterorg020.onmicrosoft.com",
+      "count": 8,
+      "domains": [
+        "egiin-oniine.icu",
+        "empcwers.icu",
+        "hudscnvaiiey.icu",
+        "llsternill.icu",
+        "northonlin.icu",
+        "redscniine.icu",
+        "redscnline.icu",
+        "redscnline.info"
+      ]
+    },
+    {
       "email": "amanda@mattwilsonco.com",
       "count": 8,
       "domains": [
@@ -1070,28 +1085,16 @@
       ]
     },
     {
-      "email": "info@bowrivercapital.com",
+      "email": "info@medcom-site.com",
       "count": 7,
       "domains": [
-        "bowrivercapital-partner.com",
-        "bowrivercapital-partner1.com",
-        "bowrivercapital-partners.com",
-        "bowrivercapitalgrp.com",
-        "bowrivercapitalir.com",
-        "bowrivercapitalpartner.com",
-        "bowrivercapitaltd.com"
-      ]
-    },
-    {
-      "email": "gvgalleryshop@gmail.com",
-      "count": 7,
-      "domains": [
-        "braveststudio.net",
-        "godspeedsco.com",
-        "mertraauk.com",
-        "thelabubuo.com",
-        "theraspberryshills.com",
-        "theraspberryshillsclothing.com"
+        "cpravku-dostavka.info",
+        "rus-spravky.info",
+        "spravkarussia.info",
+        "spravki-rus.info",
+        "spravku-dostavka.info",
+        "spravky-rus.info",
+        "sprawka-russia.info"
       ]
     }
   ]
