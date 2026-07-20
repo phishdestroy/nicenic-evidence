@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-19",
+  "generated": "2026-07-20",
   "count": 50,
   "registrants": [
     {
@@ -266,7 +266,7 @@
     },
     {
       "email": "angelgarcia.mail@gmail.com",
-      "count": 37,
+      "count": 36,
       "domains": [
         "25musk.org",
         "cbfund.info",
@@ -300,7 +300,6 @@
         "tate2x.info",
         "tesla-reward.org",
         "teslafoundation-reward.info",
-        "teslapromo-crypto.net",
         "xrpbonus-invest.org",
         "xrpreward-event.net",
         "xrpreward-event.org",
@@ -350,13 +349,17 @@
     },
     {
       "email": "max@unternehmen.de",
-      "count": 28,
+      "count": 32,
       "domains": [
         "americanexpress-helpdesk.com",
         "americanexpress-ident.com",
         "americanexpress-key.com",
         "americanexpress-keys.com",
         "americanexpress-safekeys.com",
+        "americanexpress-safety.com",
+        "americanexpress-safetykey.com",
+        "americanexpress-schutz.com",
+        "americanexpress-services.com",
         "americanexpress-sicherheit.com",
         "americanexpress-verifizierung.com",
         "amex-access.com",
@@ -463,7 +466,7 @@
     },
     {
       "email": "press@chain.link",
-      "count": 24,
+      "count": 25,
       "domains": [
         "app-llnk.org",
         "apyclink.com",
@@ -484,6 +487,7 @@
         "linkextra.net",
         "linkgrant.com",
         "linkplatform.org",
+        "linkprotocol.org",
         "linkstake.net",
         "linktreasury.org",
         "stacklink.org",
