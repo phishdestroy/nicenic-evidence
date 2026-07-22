@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-21",
+  "generated": "2026-07-22",
   "keywords": {
     "coinbase": [
       "00-coinbase.com",
@@ -838,7 +838,6 @@
       "airdrop-arbitrumtoken-secure01a.com",
       "airdrop-arbitrumtokens-gateway01c.com",
       "airdrop-arbtoken-gate1b.com",
-      "airdrop-galatoken.com",
       "airdrop-lidotoken.org",
       "airdrop-maxtoken.com",
       "airdrop-optimismtokens-gateway01a.com",
@@ -1009,7 +1008,8 @@
       "block-token.org",
       "block-token.xyz",
       "blockdagtoken.live",
-      "blockdagtoken.network"
+      "blockdagtoken.network",
+      "bmoresettoken22.com"
     ],
     "wallet": [
       "1amwallet.com",
@@ -1769,7 +1769,6 @@
       "842391-ledger.com",
       "845223-ledger.com",
       "849617-ledger.com",
-      "858294-ledger.com",
       "859291-ledger.com",
       "859945-ledger.com",
       "877352ledger.com",
@@ -1817,7 +1816,8 @@
       "app-openledger.xyz",
       "app-wallet-ledger.live",
       "approved-ledger.com",
-      "apps-ledger.com"
+      "apps-ledger.com",
+      "assets-ledger.com"
     ],
     "support": [
       "029250-support.com",
@@ -1954,7 +1954,6 @@
       "bitgetsupportbot.com",
       "bitgetsupportchat.com",
       "bitgetsupportcontact.com",
-      "bitgetsupportdesk.com",
       "bitgetsupporthub.com",
       "bitgetsupportsecure.com",
       "bitgetsupportset.com",
@@ -2019,7 +2018,8 @@
       "centsupportau.com",
       "chainsupporthub.pro",
       "chaseconnectsupport.com",
-      "chatingsupport.live"
+      "chatingsupport.live",
+      "chatsupportdesk.com"
     ],
     "kraken": [
       "076261-kraken.com",
@@ -2602,6 +2602,7 @@
       "aichatouaticrypto.sbs",
       "aicryptotrader.icu",
       "aid-crypto.com",
+      "aigerimcrypto.sbs",
       "ainelcrypto-it.live",
       "ainelcrypto.live",
       "airdrop-crypto.net",
@@ -2624,8 +2625,7 @@
       "applecrypto-event.com",
       "appleforcrypto.com",
       "appllexcrypto.com",
-      "asdiahjfgaiungacrypto.run",
-      "assitance-crypto.com"
+      "asdiahjfgaiungacrypto.run"
     ],
     "connect": [
       "0nline-2025at0connect.digital",
@@ -2823,11 +2823,11 @@
       "connect-devrectify-page.com",
       "connect-dsp2.info",
       "connect-earnifi.com",
-      "connect-earnm.com",
       "connect-eclipse.com",
       "connect-eesee.com",
       "connect-ellipal.com",
-      "connect-elys.com"
+      "connect-elys.com",
+      "connect-ethenalabs.com"
     ],
     "trust": [
       "1-tdcanadatrust.com",
@@ -3079,12 +3079,10 @@
       "account-dispute-portal.center",
       "account-etoro.com",
       "account-ftxlimited.com",
-      "account-ftxltd.com",
       "account-gateway.com",
       "account-helpdesk-coinbase.com",
       "account-hubspot.com",
       "account-icann.com",
-      "account-inboxau.com",
       "account-inboxaus.com",
       "account-ledger.com",
       "account-lock-crypto.com",
@@ -3231,7 +3229,9 @@
       "accounts-wordpress.com",
       "accountsa360.live",
       "accountsecure-coinbase.com",
-      "accountsecure.digital"
+      "accountsecure.digital",
+      "accountsecurebnc.com",
+      "accountsecurenow.com"
     ],
     "airdrop": [
       "0x00000-bankless-hunt-airdrop.com",
@@ -3287,6 +3287,7 @@
       "airdrop-bullish.xyz",
       "airdrop-butthole.com",
       "airdrop-caldera.xyz",
+      "airdrop-cashcat.com",
       "airdrop-catwifmask.vip",
       "airdrop-chainlink.xyz",
       "airdrop-chainopera.com",
@@ -3294,7 +3295,6 @@
       "airdrop-chainoperaai.xyz",
       "airdrop-chaos.com",
       "airdrop-checker-grass.com",
-      "airdrop-chiliz.org",
       "airdrop-chillhouse.com",
       "airdrop-clanker.world",
       "airdrop-cronos.net",
@@ -3340,7 +3340,6 @@
       "airdrop-gala.net",
       "airdrop-galagames.net",
       "airdrop-galagames.org",
-      "airdrop-galatoken.com",
       "airdrop-gigachad.com",
       "airdrop-goatcoin.com",
       "airdrop-goldcoin.fun",
@@ -3433,7 +3432,8 @@
       "airdrop-nearmobile.xyz",
       "airdrop-neiroeth.com",
       "airdrop-neptune.cash",
-      "airdrop-neur.com"
+      "airdrop-neur.com",
+      "airdrop-niggaliquid.fun"
     ],
     "verify": [
       "05-25verifybnkaccess.info",
@@ -3653,7 +3653,6 @@
       "81914-vault-gemini.com",
       "84913-vault-gemini.com",
       "935151-cbvault.com",
-      "access-mypaymentvault.com",
       "accessvault-coinbase.com",
       "accountsvaultcrypto.com",
       "acecasinovault.com",
@@ -3680,7 +3679,6 @@
       "auth-vault.com",
       "authv2-docxvault.pro",
       "authvtzoneqbvault.com",
-      "autovault77.com",
       "aymentvault.com",
       "azurevault.info",
       "baseapp-vault.com",
@@ -3837,7 +3835,9 @@
       "liquidvaults.xyz",
       "lumivault.info",
       "luxvaultys.vip",
-      "mantlevaults.pro"
+      "mantlevaults.pro",
+      "marketing-vault.xyz",
+      "marsteamvault.vip"
     ],
     "solana": [
       "1coinofsolana.com",
@@ -3845,7 +3845,6 @@
       "1coinsolana.net",
       "2025-breakpoint-solana.com",
       "2025solana.com",
-      "401konsolana.com",
       "401konsolana.net",
       "401ksolana.com",
       "401ksolana.net",
@@ -3887,6 +3886,7 @@
       "booonsolana.xyz",
       "bootokensolana.xyz",
       "bored-ape-solana-club-nft.xyz",
+      "bruvsolana.com",
       "bullishdegensolana.com",
       "bullishdegensolana.net",
       "bullsolana.app",
@@ -4023,7 +4023,6 @@
       "privacycashsolana.com",
       "program-solana.com",
       "program-solana.xyz",
-      "psyopsolana.com",
       "psyopsolana.net",
       "punch-solana.com",
       "punchinsolana.fun",
@@ -4039,7 +4038,8 @@
       "raydium-solana.com",
       "raydium-solana.net",
       "raydium-solana.network",
-      "raydium-solana.online"
+      "raydium-solana.online",
+      "raydium-solana.site"
     ]
   }
 }
