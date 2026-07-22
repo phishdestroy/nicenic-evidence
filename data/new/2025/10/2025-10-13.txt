@@ -308,6 +308,7 @@ kra--40-cc.cc
 kra41.life
 kra42.run
 kra42.sbs
+kraken-shop.cc
 kugoreta.info
 kwarden.site
 lamiforu.info

@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-21",
+  "generated": "2026-07-22",
   "count": 50,
   "registrants": [
     {
@@ -349,8 +349,10 @@
     },
     {
       "email": "max@unternehmen.de",
-      "count": 32,
+      "count": 35,
       "domains": [
+        "americanexpress-checks.com",
+        "americanexpress-einrichtung.com",
         "americanexpress-helpdesk.com",
         "americanexpress-ident.com",
         "americanexpress-key.com",
@@ -362,6 +364,7 @@
         "americanexpress-services.com",
         "americanexpress-sicherheit.com",
         "americanexpress-verifizierung.com",
+        "americanexpress-versicherung.com",
         "amex-access.com",
         "amex-connect.com",
         "amex-create.com",
@@ -815,6 +818,23 @@
       ]
     },
     {
+      "email": "privacypolicyupdates@automattic.com",
+      "count": 11,
+      "domains": [
+        "accounts-wordpress.com",
+        "candidatexml.com",
+        "ctr-namespace.com",
+        "perplexmaglev.com",
+        "socket-wordpress.com",
+        "socket-wordpress.net",
+        "socket-wp.com",
+        "uptime-notify.com",
+        "wordpressws.com",
+        "wsswp.com",
+        "wsswp.net"
+      ]
+    },
+    {
       "email": "support@stake.us",
       "count": 10,
       "domains": []
@@ -854,22 +874,6 @@
         "wlngstops.cloud",
         "wlngstops.digital",
         "wlngstops.today"
-      ]
-    },
-    {
-      "email": "privacypolicyupdates@automattic.com",
-      "count": 10,
-      "domains": [
-        "accounts-wordpress.com",
-        "candidatexml.com",
-        "ctr-namespace.com",
-        "socket-wordpress.com",
-        "socket-wordpress.net",
-        "socket-wp.com",
-        "uptime-notify.com",
-        "wordpressws.com",
-        "wsswp.com",
-        "wsswp.net"
       ]
     },
     {
