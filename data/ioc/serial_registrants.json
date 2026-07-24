@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-22",
+  "generated": "2026-07-24",
   "count": 50,
   "registrants": [
     {
@@ -191,7 +191,7 @@
     },
     {
       "email": "info@vuz.info",
-      "count": 69,
+      "count": 65,
       "domains": [
         "vuz-0q.info",
         "vuz-2.info",
@@ -202,7 +202,6 @@
         "vuz-j.info",
         "vuz-j0.info",
         "vuz-jv.info",
-        "vuz-nd.info",
         "vuz-t.info",
         "vuz-t0.info",
         "vuz-u3.info",
@@ -220,9 +219,7 @@
         "vuz6c.info",
         "vuz6n.info",
         "vuz7o.info",
-        "vuz9o.info",
         "vuzb.info",
-        "vuzb2.info",
         "vuzcc.info",
         "vuzdy.info",
         "vuzi.info",
@@ -250,7 +247,6 @@
         "vuzinfoyc.cfd",
         "vuzinfoyi.cfd",
         "vuzinfoz7.cfd",
-        "vuzj.info",
         "vuzjh.info",
         "vuzjj.info",
         "vuzkh.info",
@@ -265,45 +261,47 @@
       ]
     },
     {
-      "email": "angelgarcia.mail@gmail.com",
-      "count": 36,
+      "email": "max@unternehmen.de",
+      "count": 38,
       "domains": [
-        "25musk.org",
-        "cbfund.info",
-        "elon-crypto.org",
-        "elon-finance.org",
-        "elon-promotion.org",
-        "elon-reward.net",
-        "elon-x2.info",
-        "elonvoucher.com",
-        "foundation-reward.net",
-        "musk-payment.org",
-        "musk-reward.info",
-        "musk-reward.net",
-        "musk1.info",
-        "promo-musk.net",
-        "reward-promotions.org",
-        "ripple-pomotion.net",
-        "ripple-pomotion.org",
-        "ripplefinace-promo.info",
-        "ripplefinace-promotion.net",
-        "ripplefinace-promotion.org",
-        "rippleoffical-event.info",
-        "rippleoffical-event.org",
-        "rippleofficial-promo.info",
-        "rippleofficial-promo.net",
-        "rippleofficial-promo.org",
-        "rippleofficial-reward.net",
-        "rippleofficial-reward.org",
-        "ripplepromo-investing.net",
-        "saylorgo.info",
-        "tate2x.info",
-        "tesla-reward.org",
-        "teslafoundation-reward.info",
-        "xrpbonus-invest.org",
-        "xrpreward-event.net",
-        "xrpreward-event.org",
-        "xrpreward-promotion.net"
+        "americanexpress-checks.com",
+        "americanexpress-einrichtung.com",
+        "americanexpress-helpdesk.com",
+        "americanexpress-ident.com",
+        "americanexpress-key.com",
+        "americanexpress-keys.com",
+        "americanexpress-kundenservice.com",
+        "americanexpress-recovery.com",
+        "americanexpress-referenz.com",
+        "americanexpress-safekeys.com",
+        "americanexpress-safety.com",
+        "americanexpress-safetykey.com",
+        "americanexpress-schutz.com",
+        "americanexpress-services.com",
+        "americanexpress-sicherheit.com",
+        "americanexpress-verifizierung.com",
+        "americanexpress-versicherung.com",
+        "amex-access.com",
+        "amex-connect.com",
+        "amex-create.com",
+        "amex-de.com",
+        "amex-desk.com",
+        "amex-hilfe.com",
+        "amex-key.com",
+        "amex-partner.com",
+        "amex-partners.com",
+        "amex-safekey.com",
+        "amex-safekeys.com",
+        "amex-safetykey.com",
+        "amex-save.com",
+        "amex-schutz.com",
+        "amex-shield.com",
+        "amex-sicherheit.app",
+        "amex-start.com",
+        "amex-status.com",
+        "amex-system.com",
+        "amex-verifizierung.com",
+        "amex-versicherung.com"
       ]
     },
     {
@@ -348,44 +346,39 @@
       ]
     },
     {
-      "email": "max@unternehmen.de",
-      "count": 35,
+      "email": "angelgarcia.mail@gmail.com",
+      "count": 30,
       "domains": [
-        "americanexpress-checks.com",
-        "americanexpress-einrichtung.com",
-        "americanexpress-helpdesk.com",
-        "americanexpress-ident.com",
-        "americanexpress-key.com",
-        "americanexpress-keys.com",
-        "americanexpress-safekeys.com",
-        "americanexpress-safety.com",
-        "americanexpress-safetykey.com",
-        "americanexpress-schutz.com",
-        "americanexpress-services.com",
-        "americanexpress-sicherheit.com",
-        "americanexpress-verifizierung.com",
-        "americanexpress-versicherung.com",
-        "amex-access.com",
-        "amex-connect.com",
-        "amex-create.com",
-        "amex-de.com",
-        "amex-desk.com",
-        "amex-hilfe.com",
-        "amex-key.com",
-        "amex-partner.com",
-        "amex-partners.com",
-        "amex-safekey.com",
-        "amex-safekeys.com",
-        "amex-safetykey.com",
-        "amex-save.com",
-        "amex-schutz.com",
-        "amex-shield.com",
-        "amex-sicherheit.app",
-        "amex-start.com",
-        "amex-status.com",
-        "amex-system.com",
-        "amex-verifizierung.com",
-        "amex-versicherung.com"
+        "25musk.org",
+        "cbfund.info",
+        "elon-crypto.org",
+        "elon-finance.org",
+        "elon-promotion.org",
+        "elon-reward.net",
+        "elonvoucher.com",
+        "foundation-reward.net",
+        "musk-payment.org",
+        "musk-reward.net",
+        "musk1.info",
+        "promo-musk.net",
+        "reward-promotions.org",
+        "ripple-pomotion.net",
+        "ripple-pomotion.org",
+        "ripplefinace-promotion.net",
+        "ripplefinace-promotion.org",
+        "rippleoffical-event.org",
+        "rippleofficial-promo.net",
+        "rippleofficial-promo.org",
+        "rippleofficial-reward.net",
+        "rippleofficial-reward.org",
+        "ripplepromo-investing.net",
+        "saylorgo.info",
+        "tate2x.info",
+        "tesla-reward.org",
+        "xrpbonus-invest.org",
+        "xrpreward-event.net",
+        "xrpreward-event.org",
+        "xrpreward-promotion.net"
       ]
     },
     {
@@ -529,39 +522,13 @@
       ]
     },
     {
-      "email": "ihre@email.de",
-      "count": 23,
-      "domains": [
-        "asf-digitalvigette.com",
-        "asf-vingete.com",
-        "asf-vingete.org",
-        "asf-vingetes.com",
-        "asfi-auto.com",
-        "asfibahne.org",
-        "asfig-online.com",
-        "asfig-strabe.com",
-        "asfig-strasse.com",
-        "asfig-vigette.org",
-        "asfigroads.org",
-        "asfimautlearn.org",
-        "asfin-roads.com",
-        "asfintolles.pro",
-        "asfline.com",
-        "asfvigette.com",
-        "autobahn-vignete.com",
-        "autobahnvignete.com",
-        "mautkasse.digital",
-        "safetycheck-kraken.com",
-        "securitycheck-kraken.com"
-      ]
-    },
-    {
       "email": "seu@email.com",
-      "count": 22,
+      "count": 23,
       "domains": [
         "agendavirtualfacil.com",
         "agendefacilonline.com",
         "atendimentodigitalfacil.com",
+        "autoatendimentoonline.com",
         "autodigitalfacil.com",
         "brasadelivery.cfd",
         "btmob24.com",
@@ -581,6 +548,32 @@
         "portaldoservicos.com",
         "servicoautoinicio.com",
         "solucaodigitalfacil.com"
+      ]
+    },
+    {
+      "email": "ihre@email.de",
+      "count": 22,
+      "domains": [
+        "asf-digitalvigette.com",
+        "asf-vingete.com",
+        "asf-vingete.org",
+        "asf-vingetes.com",
+        "asfi-auto.com",
+        "asfibahne.org",
+        "asfig-online.com",
+        "asfig-strabe.com",
+        "asfig-strasse.com",
+        "asfig-vigette.org",
+        "asfigroads.org",
+        "asfimautlearn.org",
+        "asfin-roads.com",
+        "asfline.com",
+        "asfvigette.com",
+        "autobahn-vignete.com",
+        "autobahnvignete.com",
+        "mautkasse.digital",
+        "safetycheck-kraken.com",
+        "securitycheck-kraken.com"
       ]
     },
     {
@@ -840,27 +833,6 @@
       "domains": []
     },
     {
-      "email": "info@ruspravka.com",
-      "count": 10,
-      "domains": [
-        "ru-spravca.info",
-        "ru-sprawka.info",
-        "rus-spravki.info",
-        "rus-sprawka.info",
-        "ruspravka-gos.info",
-        "ruspravka-gov.info",
-        "ruspravki.info",
-        "russpravci.info",
-        "russpravkas.info",
-        "russpravki.info"
-      ]
-    },
-    {
-      "email": "info@ruspravka.top",
-      "count": 10,
-      "domains": []
-    },
-    {
       "email": "helpdesk@wingstop.com",
       "count": 10,
       "domains": [
@@ -922,6 +894,21 @@
       ]
     },
     {
+      "email": "ex@abc.xyz",
+      "count": 9,
+      "domains": [
+        "calingeorgescu.info",
+        "cc2btc.biz",
+        "fallsviewcasino-ca.com",
+        "goksad.org",
+        "norskadm.org",
+        "online-casinos-ohnes-verifizierung.com",
+        "rainbet-casino-au.com",
+        "rainbet-casino-canada.com",
+        "truefortuneuk.com"
+      ]
+    },
+    {
       "email": "support@pokerdom.vip",
       "count": 9,
       "domains": [
@@ -978,48 +965,6 @@
       ]
     },
     {
-      "email": "info@spravka-medik.info",
-      "count": 8,
-      "domains": [
-        "docs-spravka.info",
-        "docspravca.info",
-        "docspravka.info",
-        "doctor-spravki.info",
-        "dok-spravka.info",
-        "dokspravki.info",
-        "doktor-cpravka.info",
-        "doktor-spravki.info"
-      ]
-    },
-    {
-      "email": "ex@abc.xyz",
-      "count": 8,
-      "domains": [
-        "calingeorgescu.info",
-        "cc2btc.biz",
-        "fallsviewcasino-ca.com",
-        "goksad.org",
-        "norskadm.org",
-        "rainbet-casino-au.com",
-        "rainbet-casino-canada.com",
-        "truefortuneuk.com"
-      ]
-    },
-    {
-      "email": "info@med-spravki.com",
-      "count": 8,
-      "domains": [
-        "med-spravkamsk.info",
-        "medspravci-msk.info",
-        "medspravkas-msk.info",
-        "medspravkii-msk.info",
-        "medspravkis-msk.info",
-        "moscow-medspravka.info",
-        "mskmedspravki.info",
-        "mskmedsprawka.info"
-      ]
-    },
-    {
       "email": "reklama@pokerdom.com",
       "count": 8,
       "domains": []
@@ -1028,6 +973,20 @@
       "email": "support@pokerdom.com",
       "count": 8,
       "domains": []
+    },
+    {
+      "email": "xraypub@tutamail.com",
+      "count": 8,
+      "domains": [
+        "avbechix.icu",
+        "crdok.icu",
+        "hfmsnmqg.icu",
+        "lfmrma.icu",
+        "njtqdax.xyz",
+        "tzvgvtq.icu",
+        "wbufrcy.xyz",
+        "yjarl.icu"
+      ]
     },
     {
       "email": "tomshaw@pumpthewaterorg020.onmicrosoft.com",
@@ -1089,17 +1048,47 @@
       ]
     },
     {
-      "email": "info@medcom-site.com",
+      "email": "info@bowrivercapital.com",
       "count": 7,
       "domains": [
-        "cpravku-dostavka.info",
-        "rus-spravky.info",
-        "spravkarussia.info",
-        "spravki-rus.info",
-        "spravku-dostavka.info",
-        "spravky-rus.info",
-        "sprawka-russia.info"
+        "bowrivercapital-partner.com",
+        "bowrivercapital-partner1.com",
+        "bowrivercapital-partners.com",
+        "bowrivercapitalgrp.com",
+        "bowrivercapitalir.com",
+        "bowrivercapitalpartner.com",
+        "bowrivercapitaltd.com"
       ]
+    },
+    {
+      "email": "gvgalleryshop@gmail.com",
+      "count": 7,
+      "domains": [
+        "braveststudio.net",
+        "godspeedsco.com",
+        "mertraauk.com",
+        "thelabubuo.com",
+        "theraspberryshills.com",
+        "theraspberryshillsclothing.com"
+      ]
+    },
+    {
+      "email": "support@jojobet.com",
+      "count": 7,
+      "domains": [
+        "betofice971.com",
+        "joiobet1785.com",
+        "jojobet11381.com",
+        "jojobet89011.com",
+        "jojobett1120.com",
+        "jojolbet1113.com",
+        "ulltrabet1224.com"
+      ]
+    },
+    {
+      "email": "partners@jojobet.com",
+      "count": 7,
+      "domains": []
     }
   ]
 }
