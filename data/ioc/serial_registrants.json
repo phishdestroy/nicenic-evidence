@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-25",
+  "generated": "2026-07-26",
   "count": 50,
   "registrants": [
     {
@@ -760,6 +760,23 @@
       ]
     },
     {
+      "email": "helpdesk@wingstop.com",
+      "count": 11,
+      "domains": [
+        "vvingsttop.com",
+        "wingstop.today",
+        "wingstops.today",
+        "wingsttops.digital",
+        "winngstop.digital",
+        "wlngstoop.today",
+        "wlngstop.info",
+        "wlngstopp.today",
+        "wlngstops.cloud",
+        "wlngstops.digital",
+        "wlngstops.today"
+      ]
+    },
+    {
       "email": "customerservice@thread.bank",
       "count": 11,
       "domains": [
@@ -831,22 +848,6 @@
       "email": "support@stake.us",
       "count": 10,
       "domains": []
-    },
-    {
-      "email": "helpdesk@wingstop.com",
-      "count": 10,
-      "domains": [
-        "vvingsttop.com",
-        "wingstop.today",
-        "wingstops.today",
-        "wingsttops.digital",
-        "winngstop.digital",
-        "wlngstoop.today",
-        "wlngstop.info",
-        "wlngstops.cloud",
-        "wlngstops.digital",
-        "wlngstops.today"
-      ]
     },
     {
       "email": "contact@iotrust.kr",
