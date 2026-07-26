@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-25",
+  "generated": "2026-07-26",
   "keywords": {
     "coinbase": [
       "00-coinbase.com",
@@ -112,6 +112,7 @@
       "114874-coinbase.com",
       "114879-coinbase.com",
       "114880-coinbase.com",
+      "11501-coinbase.com",
       "1155410coinbase.com",
       "115591coinbase.com",
       "115596coinbase.com",
@@ -200,8 +201,7 @@
       "132193coinbase.com",
       "132493-coinbase.com",
       "132535coinbase.com",
-      "132662coinbase.com",
-      "1328271-coinbase.com"
+      "132662coinbase.com"
     ],
     "claim": [
       "0x-claim.xyz",
@@ -334,7 +334,6 @@
       "babyxrpclaim.xyz",
       "backpack-claim.live",
       "backpack-claims.live",
-      "badge-claim.com",
       "badidea-claim.com",
       "badidea-claims.com",
       "badideaclaim.com",
@@ -403,7 +402,8 @@
       "blt-dgeclaim.xyz",
       "bluaiclaims.com",
       "blub-claim.com",
-      "blubclaims.xyz"
+      "blubclaims.xyz",
+      "blum-claims.com"
     ],
     "login": [
       "0auth-login.digital",
@@ -484,6 +484,7 @@
       "app-acceso-loginweb.com",
       "app-accesologin.com",
       "app-accesosweb-login.com",
+      "app-avisologin.com",
       "app-avisos-login.com",
       "app-clientes-login.com",
       "app-clientes-loginweb.com",
@@ -499,6 +500,7 @@
       "app-login-clientes.com",
       "app-login-servicios.com",
       "app-login-usuarios.com",
+      "app-loginaviso.com",
       "app-logininfo.com",
       "app-logininicio.com",
       "app-loginmovil.com",
@@ -550,6 +552,7 @@
       "authloginweb.com",
       "authweblogin.com",
       "autorisation-login.com",
+      "aviso-loginapp.com",
       "aviso-loginweb.com",
       "avisos-loginapp.com",
       "avisos-loginweb.com",
@@ -602,10 +605,7 @@
       "betcio-logintekk2.vip",
       "betcio-teklogin1.vip",
       "betcio-teklogin3.vip",
-      "betcio-teklogin4.vip",
-      "betcio-trlogin.vip",
-      "betciolivelogin.com",
-      "betciologinx.com"
+      "betcio-teklogin4.vip"
     ],
     "secure": [
       "09025896-secure-chase.com",
@@ -1315,6 +1315,7 @@
       "bahiscasino-official2025.com",
       "bahisfairofficial2026.vip",
       "bahsine-official.com",
+      "bakebagsofficial.com",
       "balkanpharmaceuticals-official.com",
       "bandanaofficial.com",
       "baroncoinofficial.com",
@@ -1412,8 +1413,7 @@
       "boutiqofficial.com",
       "breathedivinityofficial.com",
       "bsfofficial.live",
-      "btofficialentry.com",
-      "buran-casino-official.com"
+      "btofficialentry.com"
     ],
     "swap": [
       "0xswaps.xyz",
@@ -1762,6 +1762,7 @@
       "8101033-ledger.com",
       "817034-ledger.com",
       "817342-ledger.com",
+      "82738-ledger.com",
       "828912-ledger.com",
       "838112-ledger.com",
       "842391-ledger.com",
@@ -1816,8 +1817,7 @@
       "app-wallet-ledger.live",
       "approved-ledger.com",
       "apps-ledger.com",
-      "assets-ledger.com",
-      "assistledger.com"
+      "assets-ledger.com"
     ],
     "support": [
       "029250-support.com",
@@ -2089,7 +2089,6 @@
       "475123-krakenportal.com",
       "4827193-kraken.com",
       "493522-kraken.com",
-      "498567-kraken.com",
       "563216-kraken.com",
       "583184-kraken.com",
       "58574kraken.com",
@@ -2221,7 +2220,8 @@
       "kraken-11-att.com",
       "kraken-11-att.net",
       "kraken-11at.com",
-      "kraken-12-att.com"
+      "kraken-12-att.com",
+      "kraken-12at.com"
     ],
     "update": [
       "1337update.com",
@@ -2674,6 +2674,7 @@
       "authorize-connect.app",
       "authscotiaconnect.com",
       "bahiscom-connect.icu",
+      "baseconnectionsdashboard.com",
       "battletested-connector.sbs",
       "becomeapartnerconnect.com",
       "bestconnectapi.com",
@@ -2700,7 +2701,6 @@
       "canadpostconnect.com",
       "canonicalconnect.com",
       "captital-connection.cyou",
-      "cards-connects.com",
       "careerconnectionocuvr.com",
       "careerconnective.com",
       "careersconnect-careerpath.com",
@@ -2922,7 +2922,6 @@
       "btrks-trust1.com",
       "businesses-trustpilot.com",
       "busineswatrust.icu",
-      "buytrusthealthpills24x7.com",
       "calvenridgetrust-app.net",
       "calvenridgetrust.live",
       "canadapharmacytrust.net",
@@ -3029,7 +3028,8 @@
       "gameofbet-trust2026.icu",
       "gameofbet-trustworthy.vip",
       "gate-trustpilot.com",
-      "gateway-trustpilot.com"
+      "gateway-trustpilot.com",
+      "generictrustworld24x7.com"
     ],
     "account": [
       "1win-2026bestaccount.com",
@@ -3054,8 +3054,6 @@
       "account-assistance-auth398.live",
       "account-assistance-auth934.live",
       "account-au-serviceportal.com",
-      "account-auinbox.com",
-      "account-ausinbox.com",
       "account-beehiiv.com",
       "account-binance.app",
       "account-bitstamp.net",
@@ -3121,7 +3119,6 @@
       "account-sendgrid.com",
       "account-sendgrld.com",
       "account-services-help.com",
-      "account-shopi.com",
       "account-signin.com",
       "account-signintoken2756124.com",
       "account-signon.com",
@@ -3157,6 +3154,7 @@
       "accountaus-report.com",
       "accountauth-be.com",
       "accountcare-apple.com",
+      "accountcheckcenter.com",
       "accountcr-canada.com",
       "accountcraportal.com",
       "accountcrcanada.com",
@@ -3231,7 +3229,9 @@
       "accountsecurenow.com",
       "accountsecurity-coinbase.com",
       "accountsecurityalerts.com",
-      "accountservice-bitpanda.com"
+      "accountservice-bitpanda.com",
+      "accountsettings-de.com",
+      "accountsfloreshr.com"
     ],
     "airdrop": [
       "0x00000-bankless-hunt-airdrop.com",
@@ -3399,8 +3399,6 @@
       "airdrop-lmao.fun",
       "airdrop-loncher.fun",
       "airdrop-ltv.finance",
-      "airdrop-maga.app",
-      "airdrop-maga.com",
       "airdrop-maga.xyz",
       "airdrop-maker.com",
       "airdrop-mana.org",
@@ -3433,7 +3431,9 @@
       "airdrop-neptune.cash",
       "airdrop-neur.com",
       "airdrop-niggaliquid.fun",
-      "airdrop-nubcat.xyz"
+      "airdrop-nubcat.xyz",
+      "airdrop-nyx.com",
+      "airdrop-oether.com"
     ],
     "verify": [
       "05-25verifybnkaccess.info",
@@ -3462,7 +3462,6 @@
       "amlverify.live",
       "amzverify.info",
       "anz-reverify.com",
-      "anz-verify-nz.com",
       "api-verify.com",
       "apiverifyauth-652.com",
       "apiverifyauth.com",
@@ -3635,7 +3634,8 @@
       "matbet-myverify.com",
       "matbetverify2026.live",
       "matqet-verifylogin.com",
-      "matrica-verify.app"
+      "matrica-verify.app",
+      "mica-update-verify.com"
     ],
     "vault": [
       "118924-cbvault.com",
@@ -3662,6 +3662,7 @@
       "activatemycoinbasevault.com",
       "adaptive-vault.cfd",
       "adavaultpool.com",
+      "adavaultpool.info",
       "adavaultpool.net",
       "af-atomicvault-2077.cyou",
       "af-quantumvault-2077.cyou",
@@ -3836,8 +3837,7 @@
       "liquidvaults.xyz",
       "lumivault.info",
       "luxvaultys.vip",
-      "mantlevaults.pro",
-      "marketing-vault.xyz"
+      "mantlevaults.pro"
     ],
     "solana": [
       "1coinofsolana.com",
