@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-27",
+  "generated": "2026-07-28",
   "count": 50,
   "registrants": [
     {
@@ -191,7 +191,7 @@
     },
     {
       "email": "info@vuz.info",
-      "count": 65,
+      "count": 64,
       "domains": [
         "vuz-0q.info",
         "vuz-2.info",
@@ -209,7 +209,6 @@
         "vuz-vf.info",
         "vuz-x1.info",
         "vuz.info",
-        "vuz03.info",
         "vuz0a.info",
         "vuz0d.info",
         "vuz1.info",
@@ -262,8 +261,9 @@
     },
     {
       "email": "max@unternehmen.de",
-      "count": 38,
+      "count": 41,
       "domains": [
+        "americanexpress-authentifizierung.com",
         "americanexpress-checks.com",
         "americanexpress-einrichtung.com",
         "americanexpress-helpdesk.com",
@@ -278,9 +278,11 @@
         "americanexpress-safetykey.com",
         "americanexpress-schutz.com",
         "americanexpress-services.com",
+        "americanexpress-shield.com",
         "americanexpress-sicherheit.com",
         "americanexpress-verifizierung.com",
         "americanexpress-versicherung.com",
+        "americanexpress-vorgang.com",
         "amex-access.com",
         "amex-connect.com",
         "amex-create.com",
@@ -629,6 +631,29 @@
       ]
     },
     {
+      "email": "info@timeweb.ru",
+      "count": 17,
+      "domains": [
+        "allpsdtemplates.cc",
+        "auth-vexarena.com",
+        "en-victory-hub.com",
+        "en-victoryhub.com",
+        "eng-vertex-club.com",
+        "eng-victory-hub.com",
+        "engvertex-clubgg.com",
+        "gorzdrav-spb.online",
+        "join-berserk-order.com",
+        "silenttitans-join.com",
+        "silenttitans-team.com",
+        "steam-join.com",
+        "stm-auth.com",
+        "team-ggluckycrew.com",
+        "team-silenttitans.com",
+        "tw-steam-auth.com",
+        "vrach42.info"
+      ]
+    },
+    {
       "email": "ornek@email.com",
       "count": 15,
       "domains": [
@@ -665,27 +690,6 @@
         "fastsminingpro.net",
         "netget-bitsd.net",
         "trastbitprofk.net"
-      ]
-    },
-    {
-      "email": "info@timeweb.ru",
-      "count": 15,
-      "domains": [
-        "allpsdtemplates.cc",
-        "auth-vexarena.com",
-        "en-victory-hub.com",
-        "en-victoryhub.com",
-        "eng-vertex-club.com",
-        "eng-victory-hub.com",
-        "engvertex-clubgg.com",
-        "join-berserk-order.com",
-        "silenttitans-join.com",
-        "silenttitans-team.com",
-        "steam-join.com",
-        "stm-auth.com",
-        "team-ggluckycrew.com",
-        "team-silenttitans.com",
-        "tw-steam-auth.com"
       ]
     },
     {

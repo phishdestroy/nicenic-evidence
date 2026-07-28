@@ -494,6 +494,7 @@ login	app-login-servicios.com
 login	app-login-usuarios.com
 login	app-loginaviso.com
 login	app-logininfo.com
+login	app-logininicio.com
 login	app-loginmovil.com
 login	app-loginsoporte.com
 login	app-loginweb.com
@@ -597,7 +598,6 @@ login	betcio-logintekk2.vip
 login	betcio-teklogin1.vip
 login	betcio-teklogin3.vip
 login	betcio-teklogin4.vip
-login	betcio-trlogin.vip
 secure	09025896-secure-chase.com
 secure	19023-secure.com
 secure	1bmo-banking-secure.com
@@ -877,6 +877,7 @@ token	app-shibatoken.net
 token	app-shibatoken.org
 token	app-shibatokens.org
 token	app-shibtoken.org
+token	app-tokenworks.com
 token	appxaitoken.com
 token	appxaitokens.com
 token	apy-shibatoken.com
@@ -906,6 +907,7 @@ token	award-linktoken.org
 token	award-shibtoken.org
 token	awards-linktoken.net
 token	awards-shibatoken.com
+token	awards-shibtoken.net
 token	awsaitoken.com
 token	awsaitoken.net
 token	awstokensale.com
@@ -996,8 +998,6 @@ token	blockdagtoken.network
 token	bmoresettoken22.com
 token	bnb-testtoken.com
 token	bnbcarnivaltoken.pro
-token	bonktoken-drop.xyz
-token	bootokensolana.xyz
 wallet	1amwallet.com
 wallet	1amwallet.xyz
 wallet	1gowallet-ar.com
@@ -1368,6 +1368,7 @@ official	betparkofficial.icu
 official	betparkofficial1.icu
 official	betparkofficial2.icu
 official	betparkofficial3.icu
+official	betparkofficial4.icu
 official	betparkofficial5.icu
 official	betparkofficial6.icu
 official	betparkofficial7.icu
@@ -1383,6 +1384,7 @@ official	bets10-officialtr.com
 official	betsmoveofficials.vip
 official	betterwithageofficial.com
 official	bettilt-official.vip
+official	betturkey-official.com
 official	betturkeyliveofficial.com
 official	betturkeyofficialcc.com
 official	betvibe-official-india.com
@@ -1396,8 +1398,6 @@ official	bitcoinpepeofficial.xyz
 official	black-sprut-official.com
 official	blackops-official.ink
 official	blacksprut02-official.com
-official	blacksprut03-official.com
-official	blacksprutdarknetofficial.com
 swap	0xswaps.xyz
 swap	1-swap.com
 swap	11amaswap.icu
@@ -2061,7 +2061,6 @@ kraken	34535-kraken.com
 kraken	352861kraken.com
 kraken	462847kraken.com
 kraken	464820kraken.com
-kraken	46xwgykrakenszt7ap3puwu358rdwbfyu5fcbt8y7z6zwuq7hbkzzjbc.com
 kraken	475123-krakenportal.com
 kraken	4827193-kraken.com
 kraken	493522-kraken.com
@@ -2130,6 +2129,7 @@ kraken	caseid-kraken.com
 kraken	caseportal-kraken.com
 kraken	cases-kraken.com
 kraken	cdnkraken.com
+kraken	consumer-kraken.com
 kraken	contact-kraken.com
 kraken	cover-kraken.com
 kraken	customersupport-kraken.com
@@ -2604,6 +2604,7 @@ connect	19928292pcstestconnect2919.com
 connect	1inchconnect.com
 connect	1inchconnect.net
 connect	2fascotia-connect.com
+connect	53-connect.com
 connect	acc-secureconnection.com
 connect	acces4paquetconnectbox.com
 connect	accesd-seconnecter.com
@@ -2796,8 +2797,7 @@ connect	connect-eesee.com
 connect	connect-ellipal.com
 connect	connect-elys.com
 connect	connect-ethenalabs.com
-connect	connect-fluent.xyz
-connect	connect-form.com
+connect	connect-eventtia.com
 trust	1-tdcanadatrust.com
 trust	1trusted.live
 trust	1win-trust2026.icu
@@ -3467,7 +3467,6 @@ verify	canada-post-verifybilling.com
 verify	casinomilyon-2026verify.com
 verify	casinoroyal-2026verify.com
 verify	challengermode-verify.com
-verify	chase-verify-activity.com
 verify	chasesverify.com
 verify	check-secure-verify.com
 verify	check-verify-secure.com
@@ -3598,6 +3597,7 @@ verify	matbetverify2026.live
 verify	matqet-verifylogin.com
 verify	matrica-verify.app
 verify	mica-update-verify.com
+verify	mica-verify-update.com
 vault	118924-cbvault.com
 vault	157206-cbvault.com
 vault	177253-cb-vault.com
@@ -3843,6 +3843,7 @@ solana	birisolana.xyz
 solana	blackbull-solana.com
 solana	blackbullonsolana.com
 solana	blackbullsolana.live
+solana	bobacoinsolana.xyz
 solana	bonkcoinsolana.com
 solana	bonksolana.com
 solana	bonksolana.xyz
@@ -3951,7 +3952,6 @@ solana	moltbooksolana.xyz
 solana	momocoinsolana.com
 solana	monadsolana.lat
 solana	monkephonesolanacoin.com
-solana	monkesolana.net
 solana	muradsolana.net
 solana	nokycsolana.exchange
 solana	normiesolanacoin.com
