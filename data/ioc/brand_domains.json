@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-27",
+  "generated": "2026-07-28",
   "keywords": {
     "coinbase": [
       "00-coinbase.com",
@@ -502,6 +502,7 @@
       "app-login-usuarios.com",
       "app-loginaviso.com",
       "app-logininfo.com",
+      "app-logininicio.com",
       "app-loginmovil.com",
       "app-loginsoporte.com",
       "app-loginweb.com",
@@ -604,8 +605,7 @@
       "betcio-logintekk2.vip",
       "betcio-teklogin1.vip",
       "betcio-teklogin3.vip",
-      "betcio-teklogin4.vip",
-      "betcio-trlogin.vip"
+      "betcio-teklogin4.vip"
     ],
     "secure": [
       "09025896-secure-chase.com",
@@ -889,6 +889,7 @@
       "app-shibatoken.org",
       "app-shibatokens.org",
       "app-shibtoken.org",
+      "app-tokenworks.com",
       "appxaitoken.com",
       "appxaitokens.com",
       "apy-shibatoken.com",
@@ -918,6 +919,7 @@
       "award-shibtoken.org",
       "awards-linktoken.net",
       "awards-shibatoken.com",
+      "awards-shibtoken.net",
       "awsaitoken.com",
       "awsaitoken.net",
       "awstokensale.com",
@@ -1007,9 +1009,7 @@
       "blockdagtoken.network",
       "bmoresettoken22.com",
       "bnb-testtoken.com",
-      "bnbcarnivaltoken.pro",
-      "bonktoken-drop.xyz",
-      "bootokensolana.xyz"
+      "bnbcarnivaltoken.pro"
     ],
     "wallet": [
       "1amwallet.com",
@@ -1384,6 +1384,7 @@
       "betparkofficial1.icu",
       "betparkofficial2.icu",
       "betparkofficial3.icu",
+      "betparkofficial4.icu",
       "betparkofficial5.icu",
       "betparkofficial6.icu",
       "betparkofficial7.icu",
@@ -1399,6 +1400,7 @@
       "betsmoveofficials.vip",
       "betterwithageofficial.com",
       "bettilt-official.vip",
+      "betturkey-official.com",
       "betturkeyliveofficial.com",
       "betturkeyofficialcc.com",
       "betvibe-official-india.com",
@@ -1411,9 +1413,7 @@
       "bitcoinpepeofficial.xyz",
       "black-sprut-official.com",
       "blackops-official.ink",
-      "blacksprut02-official.com",
-      "blacksprut03-official.com",
-      "blacksprutdarknetofficial.com"
+      "blacksprut02-official.com"
     ],
     "swap": [
       "0xswaps.xyz",
@@ -2085,7 +2085,6 @@
       "352861kraken.com",
       "462847kraken.com",
       "464820kraken.com",
-      "46xwgykrakenszt7ap3puwu358rdwbfyu5fcbt8y7z6zwuq7hbkzzjbc.com",
       "475123-krakenportal.com",
       "4827193-kraken.com",
       "493522-kraken.com",
@@ -2154,6 +2153,7 @@
       "caseportal-kraken.com",
       "cases-kraken.com",
       "cdnkraken.com",
+      "consumer-kraken.com",
       "contact-kraken.com",
       "cover-kraken.com",
       "customersupport-kraken.com",
@@ -2634,6 +2634,7 @@
       "1inchconnect.com",
       "1inchconnect.net",
       "2fascotia-connect.com",
+      "53-connect.com",
       "acc-secureconnection.com",
       "acces4paquetconnectbox.com",
       "accesd-seconnecter.com",
@@ -2826,8 +2827,7 @@
       "connect-ellipal.com",
       "connect-elys.com",
       "connect-ethenalabs.com",
-      "connect-fluent.xyz",
-      "connect-form.com"
+      "connect-eventtia.com"
     ],
     "trust": [
       "1-tdcanadatrust.com",
@@ -3505,7 +3505,6 @@
       "casinomilyon-2026verify.com",
       "casinoroyal-2026verify.com",
       "challengermode-verify.com",
-      "chase-verify-activity.com",
       "chasesverify.com",
       "check-secure-verify.com",
       "check-verify-secure.com",
@@ -3635,7 +3634,8 @@
       "matbetverify2026.live",
       "matqet-verifylogin.com",
       "matrica-verify.app",
-      "mica-update-verify.com"
+      "mica-update-verify.com",
+      "mica-verify-update.com"
     ],
     "vault": [
       "118924-cbvault.com",
@@ -3885,6 +3885,7 @@
       "blackbull-solana.com",
       "blackbullonsolana.com",
       "blackbullsolana.live",
+      "bobacoinsolana.xyz",
       "bonkcoinsolana.com",
       "bonksolana.com",
       "bonksolana.xyz",
@@ -3993,7 +3994,6 @@
       "momocoinsolana.com",
       "monadsolana.lat",
       "monkephonesolanacoin.com",
-      "monkesolana.net",
       "muradsolana.net",
       "nokycsolana.exchange",
       "normiesolanacoin.com",
