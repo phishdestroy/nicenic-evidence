@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-28",
+  "generated": "2026-07-29",
   "count": 50,
   "registrants": [
     {
@@ -191,7 +191,7 @@
     },
     {
       "email": "info@vuz.info",
-      "count": 64,
+      "count": 63,
       "domains": [
         "vuz-0q.info",
         "vuz-2.info",
@@ -220,7 +220,6 @@
         "vuz7o.info",
         "vuzb.info",
         "vuzcc.info",
-        "vuzdy.info",
         "vuzi.info",
         "vuzinfo0o.cfd",
         "vuzinfo4x.cfd",
@@ -525,10 +524,9 @@
     },
     {
       "email": "seu@email.com",
-      "count": 23,
+      "count": 22,
       "domains": [
         "agendavirtualfacil.com",
-        "agendefacilonline.com",
         "atendimentodigitalfacil.com",
         "autoatendimentoonline.com",
         "autodigitalfacil.com",
@@ -654,24 +652,6 @@
       ]
     },
     {
-      "email": "ornek@email.com",
-      "count": 15,
-      "domains": [
-        "bet-gunceli1.com",
-        "holiganbet-1tr.com",
-        "imeikayit.info",
-        "jojobet-1tr.com",
-        "jojobet-girisadresi1.com",
-        "jojobet-yeniadres1.com",
-        "jojobet1-tr.com",
-        "marsbahis-tr1.com",
-        "marsbahis1-tr.com",
-        "nakitbahis-adresi1.com",
-        "screambosstest.com",
-        "yuksekeczabilgi.vip"
-      ]
-    },
-    {
       "email": "witting.maya@hilpert.biz",
       "count": 15,
       "domains": [
@@ -690,6 +670,23 @@
         "fastsminingpro.net",
         "netget-bitsd.net",
         "trastbitprofk.net"
+      ]
+    },
+    {
+      "email": "ornek@email.com",
+      "count": 14,
+      "domains": [
+        "bet-gunceli1.com",
+        "holiganbet-1tr.com",
+        "jojobet-1tr.com",
+        "jojobet-girisadresi1.com",
+        "jojobet-yeniadres1.com",
+        "jojobet1-tr.com",
+        "marsbahis-tr1.com",
+        "marsbahis1-tr.com",
+        "nakitbahis-adresi1.com",
+        "screambosstest.com",
+        "yuksekeczabilgi.vip"
       ]
     },
     {
@@ -733,13 +730,12 @@
     },
     {
       "email": "ihre.email@beispiel.de",
-      "count": 12,
+      "count": 11,
       "domains": [
         "acfineg.com",
         "aroundroads.com",
         "asfi-vingette.com",
         "asfin-strasse.com",
-        "asitage.info",
         "mautroad.com",
         "osstreshroadmap.com",
         "roadmautguide.com",

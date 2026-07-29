@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-28",
+  "generated": "2026-07-29",
   "keywords": {
     "coinbase": [
       "00-coinbase.com",
@@ -249,7 +249,6 @@
       "aixcbclaims.live",
       "alchemistai-claim.com",
       "aleo-claim.com",
-      "alerts-claimables.com",
       "alienformtokenclaim.live",
       "alldomains-claim-foundation.pro",
       "allevmclaimsite.xyz",
@@ -403,7 +402,8 @@
       "bluaiclaims.com",
       "blub-claim.com",
       "blubclaims.xyz",
-      "blum-claims.com"
+      "blum-claims.com",
+      "bluzelleclaims.com"
     ],
     "login": [
       "0auth-login.digital",
@@ -501,7 +501,6 @@
       "app-login-servicios.com",
       "app-login-usuarios.com",
       "app-loginaviso.com",
-      "app-logininfo.com",
       "app-logininicio.com",
       "app-loginmovil.com",
       "app-loginsoporte.com",
@@ -605,7 +604,8 @@
       "betcio-logintekk2.vip",
       "betcio-teklogin1.vip",
       "betcio-teklogin3.vip",
-      "betcio-teklogin4.vip"
+      "betcio-teklogin4.vip",
+      "betcio-trlogin.vip"
     ],
     "secure": [
       "09025896-secure-chase.com",
@@ -981,6 +981,7 @@
       "besttokenwallet.live",
       "bestwalletoken.live",
       "bestwalletoken.pro",
+      "bestwalletokens.com",
       "bestwalletokens.live",
       "bestwallets-token.com",
       "bestwalletstokens.com",
@@ -1008,8 +1009,7 @@
       "blockdagtoken.live",
       "blockdagtoken.network",
       "bmoresettoken22.com",
-      "bnb-testtoken.com",
-      "bnbcarnivaltoken.pro"
+      "bnb-testtoken.com"
     ],
     "wallet": [
       "1amwallet.com",
@@ -1120,6 +1120,7 @@
       "bestwalletgames.xyz",
       "bestwalletoken.live",
       "bestwalletoken.pro",
+      "bestwalletokens.com",
       "bestwalletokens.live",
       "bestwalletportfolio.com",
       "bestwallets-token.com",
@@ -1210,8 +1211,7 @@
       "cbwalletportal.com",
       "cbwallets.com",
       "celiawallet.app",
-      "cenorawallets.com",
-      "chainxaiwallet.com"
+      "cenorawallets.com"
     ],
     "official": [
       "10cric-official-india.com",
@@ -1930,6 +1930,7 @@
       "barclayssupportchat.com",
       "base-supportpage.com",
       "bell-instantsupport.com",
+      "betwoon-support.icu",
       "bill-support-ie.com",
       "billing-support-invalid.com",
       "binance-customer-support-alerts.com",
@@ -2018,8 +2019,7 @@
       "centra-link-support.net",
       "centsupportau.com",
       "chainsupporthub.pro",
-      "chaseconnectsupport.com",
-      "chatingsupport.live"
+      "chaseconnectsupport.com"
     ],
     "kraken": [
       "076261-kraken.com",
@@ -3118,7 +3118,6 @@
       "account-securitycenter.com",
       "account-sendgrid.com",
       "account-sendgrld.com",
-      "account-services-help.com",
       "account-shopi.com",
       "account-signin.com",
       "account-signintoken2756124.com",
@@ -3231,7 +3230,8 @@
       "accountsecurenow.com",
       "accountsecurity-coinbase.com",
       "accountsecurityalerts.com",
-      "accountservice-bitpanda.com"
+      "accountservice-bitpanda.com",
+      "accountsettings-de.com"
     ],
     "airdrop": [
       "0x00000-bankless-hunt-airdrop.com",
@@ -3269,7 +3269,6 @@
       "airdrop-babydoge.xyz",
       "airdrop-babydogepaws.com",
       "airdrop-backpack.com",
-      "airdrop-basedevo.com",
       "airdrop-biofoundation.com",
       "airdrop-bitcoinhyper.com",
       "airdrop-bitlayer.xyz",
@@ -3433,7 +3432,8 @@
       "airdrop-nubcat.xyz",
       "airdrop-nyx.com",
       "airdrop-oether.com",
-      "airdrop-op.com"
+      "airdrop-op.com",
+      "airdrop-optimismtokens-gateway01a.com"
     ],
     "verify": [
       "05-25verifybnkaccess.info",
@@ -3994,6 +3994,7 @@
       "momocoinsolana.com",
       "monadsolana.lat",
       "monkephonesolanacoin.com",
+      "monkesolana.net",
       "muradsolana.net",
       "nokycsolana.exchange",
       "normiesolanacoin.com",
@@ -4038,8 +4039,7 @@
       "punchsolana.app",
       "punchsolana.fun",
       "purchsolana.com",
-      "rarecoinsolana.com",
-      "raydium-exchange-solana.live"
+      "rarecoinsolana.com"
     ]
   }
 }
