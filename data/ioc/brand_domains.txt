@@ -243,7 +243,6 @@ claim	aivoiceagents-claim.live
 claim	aixcbclaims.live
 claim	alchemistai-claim.com
 claim	aleo-claim.com
-claim	alerts-claimables.com
 claim	alienformtokenclaim.live
 claim	alldomains-claim-foundation.pro
 claim	allevmclaimsite.xyz
@@ -398,6 +397,7 @@ claim	bluaiclaims.com
 claim	blub-claim.com
 claim	blubclaims.xyz
 claim	blum-claims.com
+claim	bluzelleclaims.com
 login	0auth-login.digital
 login	101clublogin.net
 login	1bmologin-dsvl2k9mc.com
@@ -493,7 +493,6 @@ login	app-login-clientes.com
 login	app-login-servicios.com
 login	app-login-usuarios.com
 login	app-loginaviso.com
-login	app-logininfo.com
 login	app-logininicio.com
 login	app-loginmovil.com
 login	app-loginsoporte.com
@@ -598,6 +597,7 @@ login	betcio-logintekk2.vip
 login	betcio-teklogin1.vip
 login	betcio-teklogin3.vip
 login	betcio-teklogin4.vip
+login	betcio-trlogin.vip
 secure	09025896-secure-chase.com
 secure	19023-secure.com
 secure	1bmo-banking-secure.com
@@ -969,6 +969,7 @@ token	besttokenredeem.icu
 token	besttokenwallet.live
 token	bestwalletoken.live
 token	bestwalletoken.pro
+token	bestwalletokens.com
 token	bestwalletokens.live
 token	bestwallets-token.com
 token	bestwalletstokens.com
@@ -997,7 +998,6 @@ token	blockdagtoken.live
 token	blockdagtoken.network
 token	bmoresettoken22.com
 token	bnb-testtoken.com
-token	bnbcarnivaltoken.pro
 wallet	1amwallet.com
 wallet	1amwallet.xyz
 wallet	1gowallet-ar.com
@@ -1106,6 +1106,7 @@ wallet	bestwalletearlyusers.sbs
 wallet	bestwalletgames.xyz
 wallet	bestwalletoken.live
 wallet	bestwalletoken.pro
+wallet	bestwalletokens.com
 wallet	bestwalletokens.live
 wallet	bestwalletportfolio.com
 wallet	bestwallets-token.com
@@ -1197,7 +1198,6 @@ wallet	cbwalletportal.com
 wallet	cbwallets.com
 wallet	celiawallet.app
 wallet	cenorawallets.com
-wallet	chainxaiwallet.com
 official	10cric-official-india.com
 official	10official.vip
 official	1121-betebet-official.com
@@ -1908,6 +1908,7 @@ support	barclaysnet-livesupport.com
 support	barclayssupportchat.com
 support	base-supportpage.com
 support	bell-instantsupport.com
+support	betwoon-support.icu
 support	bill-support-ie.com
 support	billing-support-invalid.com
 support	binance-customer-support-alerts.com
@@ -1997,7 +1998,6 @@ support	centra-link-support.net
 support	centsupportau.com
 support	chainsupporthub.pro
 support	chaseconnectsupport.com
-support	chatingsupport.live
 kraken	076261-kraken.com
 kraken	1-kraken.com
 kraken	109281-kraken.com
@@ -3084,7 +3084,6 @@ account	account-security-coinbase.com
 account	account-securitycenter.com
 account	account-sendgrid.com
 account	account-sendgrld.com
-account	account-services-help.com
 account	account-shopi.com
 account	account-signin.com
 account	account-signintoken2756124.com
@@ -3198,6 +3197,7 @@ account	accountsecurenow.com
 account	accountsecurity-coinbase.com
 account	accountsecurityalerts.com
 account	accountservice-bitpanda.com
+account	accountsettings-de.com
 airdrop	0x00000-bankless-hunt-airdrop.com
 airdrop	abstract-airdrop.xyz
 airdrop	aeth-airdrop.net
@@ -3233,7 +3233,6 @@ airdrop	airdrop-babydoge.org
 airdrop	airdrop-babydoge.xyz
 airdrop	airdrop-babydogepaws.com
 airdrop	airdrop-backpack.com
-airdrop	airdrop-basedevo.com
 airdrop	airdrop-biofoundation.com
 airdrop	airdrop-bitcoinhyper.com
 airdrop	airdrop-bitlayer.xyz
@@ -3398,6 +3397,7 @@ airdrop	airdrop-nubcat.xyz
 airdrop	airdrop-nyx.com
 airdrop	airdrop-oether.com
 airdrop	airdrop-op.com
+airdrop	airdrop-optimismtokens-gateway01a.com
 verify	05-25verifybnkaccess.info
 verify	1bmo-banking-verify.com
 verify	1bmo-mobile-verify.com
@@ -3952,6 +3952,7 @@ solana	moltbooksolana.xyz
 solana	momocoinsolana.com
 solana	monadsolana.lat
 solana	monkephonesolanacoin.com
+solana	monkesolana.net
 solana	muradsolana.net
 solana	nokycsolana.exchange
 solana	normiesolanacoin.com
@@ -3997,4 +3998,3 @@ solana	punchsolana.app
 solana	punchsolana.fun
 solana	purchsolana.com
 solana	rarecoinsolana.com
-solana	raydium-exchange-solana.live
