@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-30",
+  "generated": "2026-07-31",
   "count": 50,
   "registrants": [
     {
@@ -260,16 +260,18 @@
     },
     {
       "email": "max@unternehmen.de",
-      "count": 41,
+      "count": 44,
       "domains": [
         "americanexpress-authentifizierung.com",
         "americanexpress-checks.com",
         "americanexpress-einrichtung.com",
         "americanexpress-helpdesk.com",
         "americanexpress-ident.com",
+        "americanexpress-insurance.com",
         "americanexpress-key.com",
         "americanexpress-keys.com",
         "americanexpress-kundenservice.com",
+        "americanexpress-partners.com",
         "americanexpress-recovery.com",
         "americanexpress-referenz.com",
         "americanexpress-safekeys.com",
@@ -279,6 +281,7 @@
         "americanexpress-services.com",
         "americanexpress-shield.com",
         "americanexpress-sicherheit.com",
+        "americanexpress-verification.com",
         "americanexpress-verifizierung.com",
         "americanexpress-versicherung.com",
         "americanexpress-vorgang.com",
@@ -850,7 +853,7 @@
     },
     {
       "email": "support@adguard.com",
-      "count": 9,
+      "count": 10,
       "domains": [
         "adguardclear.com",
         "adguardclear.net",
@@ -860,7 +863,8 @@
         "adguardscan.net",
         "adguardscan.org",
         "adguardtech.com",
-        "adguardtech.net"
+        "adguardtech.net",
+        "adguardtools.com"
       ]
     },
     {
@@ -964,6 +968,35 @@
       ]
     },
     {
+      "email": "support@jojobet.com",
+      "count": 8,
+      "domains": [
+        "betofice971.com",
+        "joiobet1785.com",
+        "jojobet11381.com",
+        "jojobet82532.com",
+        "jojobet89011.com",
+        "jojobett1120.com",
+        "jojolbet1113.com",
+        "ulltrabet1224.com"
+      ]
+    },
+    {
+      "email": "partners@jojobet.com",
+      "count": 8,
+      "domains": []
+    },
+    {
+      "email": "press@jojobet.com",
+      "count": 8,
+      "domains": []
+    },
+    {
+      "email": "sikayet@jojobet.com",
+      "count": 8,
+      "domains": []
+    },
+    {
       "email": "reklama@pokerdom.com",
       "count": 8,
       "domains": []
@@ -1045,49 +1078,6 @@
         "perabet1370.com",
         "perabet1375.com"
       ]
-    },
-    {
-      "email": "info@bowrivercapital.com",
-      "count": 7,
-      "domains": [
-        "bowrivercapital-partner.com",
-        "bowrivercapital-partner1.com",
-        "bowrivercapital-partners.com",
-        "bowrivercapitalgrp.com",
-        "bowrivercapitalir.com",
-        "bowrivercapitalpartner.com",
-        "bowrivercapitaltd.com"
-      ]
-    },
-    {
-      "email": "gvgalleryshop@gmail.com",
-      "count": 7,
-      "domains": [
-        "braveststudio.net",
-        "godspeedsco.com",
-        "mertraauk.com",
-        "thelabubuo.com",
-        "theraspberryshills.com",
-        "theraspberryshillsclothing.com"
-      ]
-    },
-    {
-      "email": "support@jojobet.com",
-      "count": 7,
-      "domains": [
-        "betofice971.com",
-        "joiobet1785.com",
-        "jojobet11381.com",
-        "jojobet89011.com",
-        "jojobett1120.com",
-        "jojolbet1113.com",
-        "ulltrabet1224.com"
-      ]
-    },
-    {
-      "email": "partners@jojobet.com",
-      "count": 7,
-      "domains": []
     }
   ]
 }

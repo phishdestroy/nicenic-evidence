@@ -25,43 +25,43 @@
 
 <!-- LIVE_STATS:START -->
 
-> 🔴 **LIVE INVESTIGATION FEED** &middot; Auto-updated &middot; Last fetch `2026-07-30`
+> 🔴 **LIVE INVESTIGATION FEED** &middot; Auto-updated &middot; Last fetch `2026-07-31`
 
 <table><tr>
-<td align="center"><b>📦 Domains tracked</b><br/><sub><code>373,119</code></sub></td>
-<td align="center"><b>💰 Est. revenue</b><br/><sub><code>$2,828,518</code></sub></td>
+<td align="center"><b>📦 Domains tracked</b><br/><sub><code>373,575</code></sub></td>
+<td align="center"><b>💰 Est. revenue</b><br/><sub><code>$2,830,423</code></sub></td>
 <td align="center"><b>📡 Deployed</b><br/><sub><code>51.8%</code></sub></td>
-<td align="center"><b>✅ Confirmed phishing</b><br/><sub><code>6.8%</code> (25,465)</sub></td>
-<td align="center"><b>⚡ Fresh (≤7d)</b><br/><sub><code>0.9%</code></sub></td>
-<td align="center"><b>🕵️ Serial regs</b><br/><sub><code>30</code></sub></td>
+<td align="center"><b>✅ Confirmed phishing</b><br/><sub><code>6.8%</code> (25,457)</sub></td>
+<td align="center"><b>⚡ Fresh (≤7d)</b><br/><sub><code>0.8%</code></sub></td>
+<td align="center"><b>🕵️ Serial regs</b><br/><sub><code>31</code></sub></td>
 </tr></table>
 
 ### 🏷️ Top TLD Zones
 
 | TLD | Count | Avg Reg Period | Est. Revenue |
 |:--|--:|--:|--:|
-| `.com` | 199,731 | 567d | $1,795,582 |
-| `.vip` | 28,721 | 371d | $143,318 |
-| `.icu` | 25,056 | 387d | $24,805 |
-| `.net` | 16,888 | 680d | $168,711 |
-| `.xyz` | 16,179 | 471d | $24,107 |
-| `.live` | 11,957 | 407d | $119,450 |
-| `.info` | 11,880 | 504d | $47,401 |
-| `.cfd` | 9,916 | 465d | $49,481 |
-| `.org` | 8,127 | 853d | $81,189 |
-| `.sbs` | 7,648 | 429d | $38,164 |
+| `.com` | 199,790 | 567d | $1,796,112 |
+| `.vip` | 28,754 | 371d | $143,482 |
+| `.icu` | 25,223 | 387d | $24,971 |
+| `.net` | 16,875 | 680d | $168,581 |
+| `.xyz` | 16,230 | 470d | $24,183 |
+| `.live` | 11,989 | 407d | $119,770 |
+| `.info` | 11,919 | 504d | $47,557 |
+| `.cfd` | 9,944 | 465d | $49,621 |
+| `.org` | 8,128 | 853d | $81,199 |
+| `.sbs` | 7,656 | 429d | $38,203 |
 
 ### 🌍 Top Hosting Countries
 
 ```
-US  ██████████████████     12,189 (34.9%)
-RU  ████░░░░░░░░░░░░░░      2,818 (8.1%)
-CA  ████░░░░░░░░░░░░░░      2,724 (7.8%)
-NL  ███░░░░░░░░░░░░░░░      2,507 (7.2%)
-GB  ███░░░░░░░░░░░░░░░      2,062 (5.9%)
+US  ██████████████████     12,157 (34.8%)
+RU  ████░░░░░░░░░░░░░░      2,810 (8.0%)
+CA  ████░░░░░░░░░░░░░░      2,723 (7.8%)
+NL  ███░░░░░░░░░░░░░░░      2,509 (7.2%)
+GB  ███░░░░░░░░░░░░░░░      2,058 (5.9%)
 DE  ██░░░░░░░░░░░░░░░░      1,996 (5.7%)
-BG  ██░░░░░░░░░░░░░░░░      1,634 (4.7%)
-SE  █░░░░░░░░░░░░░░░░░        806 (2.3%)
+BG  ██░░░░░░░░░░░░░░░░      1,635 (4.7%)
+SE  █░░░░░░░░░░░░░░░░░        808 (2.3%)
 ```
 
 ### 📈 Registration Burst Days
@@ -76,7 +76,7 @@ SE  █░░░░░░░░░░░░░░░░░        806 (2.3%)
 
 ### 🎯 Top Targeted Brands & Keywords
 
-`coinbase (3,840)` &middot; `claim (3,460)` &middot; `login (2,256)` &middot; `secure (1,714)` &middot; `token (1,603)` &middot; `wallet (1,538)` &middot; `official (1,446)` &middot; `ledger (1,360)` &middot; `swap (1,359)` &middot; `support (1,271)` &middot; `kraken (1,224)` &middot; `update (1,165)` &middot; `crypto (1,157)` &middot; `connect (1,108)` &middot; `trust (946)`
+`coinbase (3,846)` &middot; `claim (3,460)` &middot; `login (2,262)` &middot; `secure (1,715)` &middot; `token (1,610)` &middot; `wallet (1,539)` &middot; `official (1,450)` &middot; `ledger (1,360)` &middot; `swap (1,358)` &middot; `support (1,267)` &middot; `kraken (1,211)` &middot; `update (1,165)` &middot; `crypto (1,155)` &middot; `connect (1,103)` &middot; `trust (946)`
 
 ### 🕵️ Top Serial Registrants — 50 emails with ≥5 domains
 
@@ -85,7 +85,7 @@ SE  █░░░░░░░░░░░░░░░░░        806 (2.3%)
 | 1 | `inf***@credicentrocoop.com` | **97** |
 | 2 | `inf***@africaoil.com` | **78** |
 | 3 | `inf***@vuz.info` | **63** |
-| 4 | `m***@unternehmen.de` | **41** |
+| 4 | `m***@unternehmen.de` | **44** |
 | 5 | `sup***@easybit.com` | **35** |
 | 6 | `ang***@gmail.com` | **30** |
 | 7 | `pre***@ethereum.org` | **27** |
