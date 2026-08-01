@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-31",
+  "generated": "2026-08-01",
   "keywords": {
     "coinbase": [
       "00-coinbase.com",
@@ -29,6 +29,7 @@
       "061844-coinbase.com",
       "070900coinbase.com",
       "081293-coinbase.com",
+      "083116coinbase.com",
       "083924t-coinbase.com",
       "089166-coinbase.com",
       "089166coinbase.com",
@@ -200,8 +201,7 @@
       "132067-coinbase.com",
       "132193coinbase.com",
       "132493-coinbase.com",
-      "132535coinbase.com",
-      "132662coinbase.com"
+      "132535coinbase.com"
     ],
     "claim": [
       "0x-claim.xyz",
@@ -689,7 +689,6 @@
       "appsecure-login.info",
       "appsecure.live",
       "appsid-secure.info",
-      "apptresecure.com",
       "arbuthnotlathamsecure.com",
       "arcsecure1.com",
       "argenta-appsecure.com",
@@ -705,6 +704,7 @@
       "auservice-secureportal.com",
       "auth-secure-gate2.com",
       "auth-secure-gate5.com",
+      "authcc-secured.com",
       "authscotiabanksecure.com",
       "authsecure-cb.com",
       "aws-secure.com",
@@ -726,6 +726,7 @@
       "bitgetsecureapp.com",
       "bitgetsupportsecure.com",
       "bitgetteamsecure.com",
+      "bitpanda-secure.com",
       "blaze-secure.com",
       "blosomsecurepassageping.com",
       "bltstamp-secure.com",
@@ -806,8 +807,7 @@
       "chase-paymentech-secure.com",
       "chase-secured-help.com",
       "chasesecureportal.com",
-      "check-secure-service.com",
-      "check-secure-verify.com"
+      "check-secure-service.com"
     ],
     "token": [
       "1fueliotoken.life",
@@ -1829,6 +1829,7 @@
       "1scolinksupport.com",
       "2025aus-centrasupport.info",
       "2025contactsupportsession.com",
+      "21-supportdesk.com",
       "24-rx-support.com",
       "32424-support-ticket.com",
       "365bonussupportsection.com",
@@ -2018,8 +2019,7 @@
       "centra-link-support.net",
       "centsupportau.com",
       "chainsupporthub.pro",
-      "chaseconnectsupport.com",
-      "chatingsupport.live"
+      "chaseconnectsupport.com"
     ],
     "kraken": [
       "076261-kraken.com",
@@ -2158,6 +2158,7 @@
       "cover-kraken.com",
       "customersupport-kraken.com",
       "darkmarket-kraken.com",
+      "darknet--kraken.cc",
       "darknet-kraken.cc",
       "darknet-kraken.com",
       "darkraken-market.sbs",
@@ -2207,6 +2208,9 @@
       "kraken--24-at.com",
       "kraken--24at.com",
       "kraken--28at.com",
+      "kraken--darknet.cc",
+      "kraken--marketplace.cc",
+      "kraken--ssylka.cc",
       "kraken--ssylka.sbs",
       "kraken--tech.vip",
       "kraken-10-att.com",
@@ -2217,11 +2221,7 @@
       "kraken-11-att.com",
       "kraken-11-att.net",
       "kraken-11at.com",
-      "kraken-12-att.com",
-      "kraken-12at.com",
-      "kraken-12att.com",
-      "kraken-12att.net",
-      "kraken-13-at.com"
+      "kraken-12-att.com"
     ],
     "update": [
       "1337update.com",
@@ -2996,6 +2996,7 @@
       "dealstrust.vip",
       "defi-trustpad.net",
       "defi-trustpads.net",
+      "defi-trustpads.xyz",
       "desktop-itrustcapital.com",
       "digitaltrustnetworks.xyz",
       "directtrust.live",
@@ -3028,8 +3029,7 @@
       "frandsentrust.icu",
       "gameofbet-2026trust.vip",
       "gameofbet-trust2026.icu",
-      "gameofbet-trustworthy.vip",
-      "gate-trustpilot.com"
+      "gameofbet-trustworthy.vip"
     ],
     "account": [
       "1win-2026bestaccount.com",
@@ -3099,6 +3099,7 @@
       "account-portal-coinbase.com",
       "account-portal.live",
       "account-presaerch.app",
+      "account-protection-schwab.com",
       "account-reactivation-de.com",
       "account-recover-crypto.com",
       "account-recovery-case-number-0045463.support",
@@ -3148,7 +3149,6 @@
       "account-wealthsimple.com",
       "account-webhelp.com",
       "account-whitelist-coinbase.com",
-      "account-witix.com",
       "account-worldwide-electronicsnewlineomsigninidentifiercontinue.com",
       "account-yandex.net",
       "accountactivity-cb.com",
@@ -3158,6 +3158,7 @@
       "accountcheckcenter.com",
       "accountcr-canada.com",
       "accountcraportal.com",
+      "accountcrareminder.com",
       "accountcrcanada.com",
       "accountdaten-bitpanda.com",
       "accountdatenbestaetigung-bitpanda.com",
@@ -3230,8 +3231,7 @@
       "accountsecure.digital",
       "accountsecurebnc.com",
       "accountsecurenow.com",
-      "accountsecurity-coinbase.com",
-      "accountsecurityalerts.com"
+      "accountsecurity-coinbase.com"
     ],
     "airdrop": [
       "0x00000-bankless-hunt-airdrop.com",
@@ -3587,6 +3587,7 @@
       "holiganbetverify.com",
       "holiganbetverify2026.live",
       "ib-nab-verify.com",
+      "iccuverify.com",
       "icloud-verify-identity.com",
       "icloudverifyidentity.com",
       "id030955-quickverify-booking.com",
@@ -3634,8 +3635,7 @@
       "matbet-myverify.com",
       "matbetverify2026.live",
       "matqet-verifylogin.com",
-      "matrica-verify.app",
-      "mica-update-verify.com"
+      "matrica-verify.app"
     ],
     "vault": [
       "118924-cbvault.com",
@@ -3805,6 +3805,7 @@
       "help-vault-crypto.com",
       "hovaro-vaultix.com",
       "hovaro-vaultix.net",
+      "hulk-vault.cc",
       "hwsvault.com",
       "hwvault.net",
       "hype-vaults.xyz",
@@ -3836,8 +3837,7 @@
       "lightningvaults.pro",
       "liquidvaults.xyz",
       "lumivault.info",
-      "mantlevaults.pro",
-      "marketing-vault.xyz"
+      "mantlevaults.pro"
     ],
     "solana": [
       "1coinofsolana.com",
@@ -3969,6 +3969,7 @@
       "io-solana.org",
       "iqcoinonsolana.lol",
       "irlsolana.net",
+      "jimothysolana.xyz",
       "jupiter-solana.network",
       "jupsolana.com",
       "ketsolana.app",
@@ -4038,8 +4039,7 @@
       "punchonsolana.org",
       "punchonsolana.xyz",
       "punchsolana.app",
-      "punchsolana.fun",
-      "purchsolana.com"
+      "punchsolana.fun"
     ]
   }
 }
