@@ -535,6 +535,7 @@ kr3at.cc
 kr4at.cc
 kr5at.cc
 kr6at.cc
+kr7at.cc
 kr8at.cc
 kr9at.cc
 krd-ugpromt.com
@@ -924,6 +925,7 @@ slon6ato.cc
 slon7ato.cc
 slon8ato.cc
 slon9ato.cc
+slotn2.cc
 slotn3.cc
 slotn4.cc
 slotn5.cc

@@ -715,6 +715,7 @@ sdlon1.cc
 sdlon2.cc
 sdlon3.cc
 sdlon4.cc
+sdlon5.cc
 sdlon6.cc
 sdlon7.cc
 sdlon8.cc
