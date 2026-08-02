@@ -456,6 +456,7 @@ login	ads-microsoft-login.com
 login	ag-login.net
 login	aib-verifylogin.com
 login	airwallexlogin.com
+login	airwallexloginonline.com
 login	airwallexs-login.com
 login	alertas-loginweb.com
 login	allicabanklogin.com
@@ -597,7 +598,6 @@ login	betcio-logintekk2.vip
 login	betcio-teklogin1.vip
 login	betcio-teklogin3.vip
 login	betcio-teklogin4.vip
-login	betcio-trlogin.vip
 secure	09025896-secure-chase.com
 secure	19023-secure.com
 secure	1bmo-banking-secure.com
@@ -717,6 +717,7 @@ secure	bitgetsecureapp.com
 secure	bitgetsupportsecure.com
 secure	bitgetteamsecure.com
 secure	bitpanda-secure.com
+secure	bitpanda-secured.com
 secure	blaze-secure.com
 secure	blosomsecurepassageping.com
 secure	bltstamp-secure.com
@@ -797,7 +798,6 @@ secure	channel-secure-beamless.com
 secure	chase-paymentech-secure.com
 secure	chase-secured-help.com
 secure	chasesecureportal.com
-secure	check-secure-service.com
 token	1fueliotoken.life
 token	1fueltoken.cfd
 token	4bsctoken.com
@@ -939,7 +939,6 @@ token	beamtoken.org
 token	beartoken.info
 token	bebetoken.net
 token	beckerstokens.com
-token	beckertoken.live
 token	beckertokens.app
 token	beckertokens.com
 token	beckertokens.net
@@ -998,6 +997,7 @@ token	blockdagtoken.live
 token	blockdagtoken.network
 token	bmoresettoken22.com
 token	bnb-testtoken.com
+token	bnbcarnivaltoken.pro
 wallet	1amwallet.com
 wallet	1amwallet.xyz
 wallet	1gowallet-ar.com
@@ -1008,7 +1008,6 @@ wallet	2fa-coinbasewallet.com
 wallet	867180-wallet.app
 wallet	aaml-trustwallet.com
 wallet	aave-desktopwalletinstaller.com
-wallet	abradesktopwallet.com
 wallet	account-trust-wallet.com
 wallet	acewalletdrainer.com
 wallet	adalite-wallet.com
@@ -1125,6 +1124,7 @@ wallet	bestwallettokenst.site
 wallet	bestwalletxtension.com
 wallet	beta-smartwallet.com
 wallet	betawallet-releases.com
+wallet	bifrostdesktopswallets.app
 wallet	bifrostdesktopwallet.app
 wallet	bifrostdesktopwallet.store
 wallet	bifrostdesktopwallets.app
@@ -1157,7 +1157,6 @@ wallet	blocksolutionwalletlive.xyz
 wallet	blockstreamwallet.app
 wallet	blok-wallet.com
 wallet	blosolutionwalletlive.xyz
-wallet	bluewallet-desktop.com
 wallet	bluewallet.download
 wallet	bluewallet.vip
 wallet	bluewalletdesk.com
@@ -1198,6 +1197,7 @@ wallet	cbwallet.app
 wallet	cbwalletportal.com
 wallet	cbwallets.com
 wallet	celiawallet.app
+wallet	cenorawallets.com
 official	10cric-official-india.com
 official	10official.vip
 official	1121-betebet-official.com
@@ -1909,7 +1909,6 @@ support	barclayssupportchat.com
 support	base-supportpage.com
 support	bell-instantsupport.com
 support	betwoon-support.icu
-support	bill-support-ie.com
 support	billing-support-invalid.com
 support	binance-customer-support-alerts.com
 support	binance-livesupport.com
@@ -1998,6 +1997,7 @@ support	centra-link-support.net
 support	centsupportau.com
 support	chainsupporthub.pro
 support	chaseconnectsupport.com
+support	chatingsupport.live
 kraken	076261-kraken.com
 kraken	1-kraken.com
 kraken	109281-kraken.com
@@ -2695,6 +2695,7 @@ connect	cdn-connectionsource.com
 connect	cdn-connectionwebpage.com
 connect	cdn-js-connection.cfd
 connect	chaseconnectsupport.com
+connect	cibcconnect1.com
 connect	cisco-anyconnect-download.com
 connect	citasmdconnect.com
 connect	citiconnects.icu
@@ -2797,7 +2798,6 @@ connect	connect-ellipal.com
 connect	connect-elys.com
 connect	connect-ethenalabs.com
 connect	connect-eventtia.com
-connect	connect-fluent.xyz
 trust	1-tdcanadatrust.com
 trust	1trusted.live
 trust	1win-trust2026.icu
@@ -2832,6 +2832,7 @@ trust	amltrustservices.com
 trust	amltrxtrust.com
 trust	api-amltrust.com
 trust	app-trustalabs.com
+trust	app-trustepad.com
 trust	app-trustepad.net
 trust	app-trustepads.xyz
 trust	app-trustpad.biz
@@ -2968,6 +2969,7 @@ trust	defi-trustpads.xyz
 trust	desktop-itrustcapital.com
 trust	digitaltrustnetworks.xyz
 trust	directtrust.live
+trust	disable-northerntrust.com
 trust	dlztrustnik.info
 trust	dnmse-trust.com
 trust	dnmse-trust1.com
@@ -2996,8 +2998,6 @@ trust	frandsenbktrust.icu
 trust	frandsenbtrust.icu
 trust	frandsentrust.icu
 trust	gameofbet-2026trust.vip
-trust	gameofbet-trust2026.icu
-trust	gameofbet-trustworthy.vip
 account	1win-2026bestaccount.com
 account	1win-account2026.com
 account	1win-accountbeast2026.com
@@ -3115,6 +3115,7 @@ account	account-vopay.com
 account	account-wealthsimple.com
 account	account-webhelp.com
 account	account-whitelist-coinbase.com
+account	account-witix.com
 account	account-worldwide-electronicsnewlineomsigninidentifiercontinue.com
 account	account-yandex.net
 account	accountactivity-cb.com
@@ -3197,7 +3198,6 @@ account	accountsecure-coinbase.com
 account	accountsecure.digital
 account	accountsecurebnc.com
 account	accountsecurenow.com
-account	accountsecurity-coinbase.com
 airdrop	0x00000-bankless-hunt-airdrop.com
 airdrop	abstract-airdrop.xyz
 airdrop	aeth-airdrop.net
@@ -3227,6 +3227,7 @@ airdrop	airdrop-arc.fun
 airdrop	airdrop-arcfun.com
 airdrop	airdrop-asterdex.pro
 airdrop	airdrop-asterdex.xyz
+airdrop	airdrop-atleta.com
 airdrop	airdrop-avici.money
 airdrop	airdrop-axelar.com
 airdrop	airdrop-babydoge.org
@@ -3397,7 +3398,6 @@ airdrop	airdrop-nyx.com
 airdrop	airdrop-oether.com
 airdrop	airdrop-op.com
 airdrop	airdrop-optimismtokens-gateway01a.com
-airdrop	airdrop-orbiter.com
 verify	05-25verifybnkaccess.info
 verify	1bmo-banking-verify.com
 verify	1bmo-mobile-verify.com
