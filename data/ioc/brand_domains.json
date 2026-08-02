@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-01",
+  "generated": "2026-08-02",
   "keywords": {
     "coinbase": [
       "00-coinbase.com",
@@ -464,6 +464,7 @@
       "ag-login.net",
       "aib-verifylogin.com",
       "airwallexlogin.com",
+      "airwallexloginonline.com",
       "airwallexs-login.com",
       "alertas-loginweb.com",
       "allicabanklogin.com",
@@ -604,8 +605,7 @@
       "betcio-logintekk2.vip",
       "betcio-teklogin1.vip",
       "betcio-teklogin3.vip",
-      "betcio-teklogin4.vip",
-      "betcio-trlogin.vip"
+      "betcio-teklogin4.vip"
     ],
     "secure": [
       "09025896-secure-chase.com",
@@ -727,6 +727,7 @@
       "bitgetsupportsecure.com",
       "bitgetteamsecure.com",
       "bitpanda-secure.com",
+      "bitpanda-secured.com",
       "blaze-secure.com",
       "blosomsecurepassageping.com",
       "bltstamp-secure.com",
@@ -806,8 +807,7 @@
       "channel-secure-beamless.com",
       "chase-paymentech-secure.com",
       "chase-secured-help.com",
-      "chasesecureportal.com",
-      "check-secure-service.com"
+      "chasesecureportal.com"
     ],
     "token": [
       "1fueliotoken.life",
@@ -951,7 +951,6 @@
       "beartoken.info",
       "bebetoken.net",
       "beckerstokens.com",
-      "beckertoken.live",
       "beckertokens.app",
       "beckertokens.com",
       "beckertokens.net",
@@ -1009,7 +1008,8 @@
       "blockdagtoken.live",
       "blockdagtoken.network",
       "bmoresettoken22.com",
-      "bnb-testtoken.com"
+      "bnb-testtoken.com",
+      "bnbcarnivaltoken.pro"
     ],
     "wallet": [
       "1amwallet.com",
@@ -1022,7 +1022,6 @@
       "867180-wallet.app",
       "aaml-trustwallet.com",
       "aave-desktopwalletinstaller.com",
-      "abradesktopwallet.com",
       "account-trust-wallet.com",
       "acewalletdrainer.com",
       "adalite-wallet.com",
@@ -1139,6 +1138,7 @@
       "bestwalletxtension.com",
       "beta-smartwallet.com",
       "betawallet-releases.com",
+      "bifrostdesktopswallets.app",
       "bifrostdesktopwallet.app",
       "bifrostdesktopwallet.store",
       "bifrostdesktopwallets.app",
@@ -1171,7 +1171,6 @@
       "blockstreamwallet.app",
       "blok-wallet.com",
       "blosolutionwalletlive.xyz",
-      "bluewallet-desktop.com",
       "bluewallet.download",
       "bluewallet.vip",
       "bluewalletdesk.com",
@@ -1211,7 +1210,8 @@
       "cbwallet.app",
       "cbwalletportal.com",
       "cbwallets.com",
-      "celiawallet.app"
+      "celiawallet.app",
+      "cenorawallets.com"
     ],
     "official": [
       "10cric-official-india.com",
@@ -1931,7 +1931,6 @@
       "base-supportpage.com",
       "bell-instantsupport.com",
       "betwoon-support.icu",
-      "bill-support-ie.com",
       "billing-support-invalid.com",
       "binance-customer-support-alerts.com",
       "binance-livesupport.com",
@@ -2019,7 +2018,8 @@
       "centra-link-support.net",
       "centsupportau.com",
       "chainsupporthub.pro",
-      "chaseconnectsupport.com"
+      "chaseconnectsupport.com",
+      "chatingsupport.live"
     ],
     "kraken": [
       "076261-kraken.com",
@@ -2725,6 +2725,7 @@
       "cdn-connectionwebpage.com",
       "cdn-js-connection.cfd",
       "chaseconnectsupport.com",
+      "cibcconnect1.com",
       "cisco-anyconnect-download.com",
       "citasmdconnect.com",
       "citiconnects.icu",
@@ -2826,8 +2827,7 @@
       "connect-ellipal.com",
       "connect-elys.com",
       "connect-ethenalabs.com",
-      "connect-eventtia.com",
-      "connect-fluent.xyz"
+      "connect-eventtia.com"
     ],
     "trust": [
       "1-tdcanadatrust.com",
@@ -2864,6 +2864,7 @@
       "amltrxtrust.com",
       "api-amltrust.com",
       "app-trustalabs.com",
+      "app-trustepad.com",
       "app-trustepad.net",
       "app-trustepads.xyz",
       "app-trustpad.biz",
@@ -3000,6 +3001,7 @@
       "desktop-itrustcapital.com",
       "digitaltrustnetworks.xyz",
       "directtrust.live",
+      "disable-northerntrust.com",
       "dlztrustnik.info",
       "dnmse-trust.com",
       "dnmse-trust1.com",
@@ -3027,9 +3029,7 @@
       "frandsenbktrust.icu",
       "frandsenbtrust.icu",
       "frandsentrust.icu",
-      "gameofbet-2026trust.vip",
-      "gameofbet-trust2026.icu",
-      "gameofbet-trustworthy.vip"
+      "gameofbet-2026trust.vip"
     ],
     "account": [
       "1win-2026bestaccount.com",
@@ -3149,6 +3149,7 @@
       "account-wealthsimple.com",
       "account-webhelp.com",
       "account-whitelist-coinbase.com",
+      "account-witix.com",
       "account-worldwide-electronicsnewlineomsigninidentifiercontinue.com",
       "account-yandex.net",
       "accountactivity-cb.com",
@@ -3230,8 +3231,7 @@
       "accountsecure-coinbase.com",
       "accountsecure.digital",
       "accountsecurebnc.com",
-      "accountsecurenow.com",
-      "accountsecurity-coinbase.com"
+      "accountsecurenow.com"
     ],
     "airdrop": [
       "0x00000-bankless-hunt-airdrop.com",
@@ -3263,6 +3263,7 @@
       "airdrop-arcfun.com",
       "airdrop-asterdex.pro",
       "airdrop-asterdex.xyz",
+      "airdrop-atleta.com",
       "airdrop-avici.money",
       "airdrop-axelar.com",
       "airdrop-babydoge.org",
@@ -3432,8 +3433,7 @@
       "airdrop-nyx.com",
       "airdrop-oether.com",
       "airdrop-op.com",
-      "airdrop-optimismtokens-gateway01a.com",
-      "airdrop-orbiter.com"
+      "airdrop-optimismtokens-gateway01a.com"
     ],
     "verify": [
       "05-25verifybnkaccess.info",
