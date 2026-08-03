@@ -1,5 +1,5 @@
 """
-Converts enriched.csv → docs/data.json for GitHub Pages report (NICENIC investigation).
+Converts enriched.csv -> docs/data.json for GitHub Pages report (NICENIC investigation).
 
 Usage:
   python docs/build_datajson.py
@@ -142,7 +142,7 @@ def compress_raw(src: Path, dest: Path):
     with open(src, "rb") as f_in, open(dest, "wb") as raw_out:
         with gzip.GzipFile(filename="", mode="wb", fileobj=raw_out, mtime=0) as f_out:
             shutil.copyfileobj(f_in, f_out)
-    print(f"  compressed → {dest.name}  ({dest.stat().st_size//1024} KB)")
+    print(f"  compressed -> {dest.name}  ({dest.stat().st_size//1024} KB)")
 
 
 def generate_hashes(ss_dir: Path, out: Path):
@@ -153,7 +153,7 @@ def generate_hashes(ss_dir: Path, out: Path):
         h = sha256(f.read_bytes()).hexdigest()
         lines.append(f"{h}  {f.name}")
     out.write_text("\n".join(lines) + "\n", encoding="utf-8", newline="\n")
-    print(f"  hashes → {out.name}  ({len(lines)} files)")
+    print(f"  hashes -> {out.name}  ({len(lines)} files)")
 
 
 def main():
@@ -188,7 +188,7 @@ def main():
     with open(out_path, "w", encoding="utf-8") as f:
         json.dump(out, f, ensure_ascii=False, separators=(",",":"))
     size = out_path.stat().st_size
-    print(f"[+] data.json → {out_path}  ({size//1024} KB,  {len(slim)} domains)")
+    print(f"[+] data.json -> {out_path}  ({size//1024} KB,  {len(slim)} domains)")
 
     # compress raw data for download
     raw_dir = HERE / "pkg" / "raw_data"
