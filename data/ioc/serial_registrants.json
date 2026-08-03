@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-02",
+  "generated": "2026-08-03",
   "count": 50,
   "registrants": [
     {
@@ -465,37 +465,6 @@
       "domains": []
     },
     {
-      "email": "press@chain.link",
-      "count": 25,
-      "domains": [
-        "app-llnk.org",
-        "apyclink.com",
-        "apylink.com",
-        "awardlink.org",
-        "bonuslink.org",
-        "bounty-llnk.com",
-        "bountylink.org",
-        "gainlink.org",
-        "grablink.org",
-        "link-distribution.org",
-        "link-protocol.com",
-        "link-rewards.com",
-        "linkapy.com",
-        "linkcash.org",
-        "linkdefi.org",
-        "linkevent.net",
-        "linkextra.net",
-        "linkgrant.com",
-        "linkplatform.org",
-        "linkprotocol.org",
-        "linkstake.net",
-        "linktreasury.org",
-        "stacklink.org",
-        "token-link.net",
-        "token-link.org"
-      ]
-    },
-    {
       "email": "info@stroykatalog.ru",
       "count": 25,
       "domains": [
@@ -524,6 +493,37 @@
         "xn--krb12-sqa.cc",
         "xn--krb13-sqa.cc",
         "xn--krb14-sqa.cc"
+      ]
+    },
+    {
+      "email": "press@chain.link",
+      "count": 25,
+      "domains": [
+        "app-llnk.org",
+        "apyclink.com",
+        "apylink.com",
+        "awardlink.org",
+        "bonuslink.org",
+        "bounty-llnk.com",
+        "bountylink.org",
+        "gainlink.org",
+        "grablink.org",
+        "link-distribution.org",
+        "link-protocol.com",
+        "link-rewards.com",
+        "linkapy.com",
+        "linkcash.org",
+        "linkdefi.org",
+        "linkevent.net",
+        "linkextra.net",
+        "linkgrant.com",
+        "linkplatform.org",
+        "linkprotocol.org",
+        "linkstake.net",
+        "linktreasury.org",
+        "stacklink.org",
+        "token-link.net",
+        "token-link.org"
       ]
     },
     {
@@ -733,6 +733,25 @@
       ]
     },
     {
+      "email": "privacypolicyupdates@automattic.com",
+      "count": 13,
+      "domains": [
+        "accounts-wordpress.com",
+        "candidatexml.com",
+        "ctr-namespace.com",
+        "numpy-esbuild.com",
+        "perplexmaglev.com",
+        "rtree-neovim.com",
+        "socket-wordpress.com",
+        "socket-wordpress.net",
+        "socket-wp.com",
+        "uptime-notify.com",
+        "wordpressws.com",
+        "wsswp.com",
+        "wsswp.net"
+      ]
+    },
+    {
       "email": "ihre.email@beispiel.de",
       "count": 11,
       "domains": [
@@ -828,23 +847,6 @@
         "playgoldland.com",
         "streamonlinebest.com",
         "zjsfax.com"
-      ]
-    },
-    {
-      "email": "privacypolicyupdates@automattic.com",
-      "count": 11,
-      "domains": [
-        "accounts-wordpress.com",
-        "candidatexml.com",
-        "ctr-namespace.com",
-        "perplexmaglev.com",
-        "socket-wordpress.com",
-        "socket-wordpress.net",
-        "socket-wp.com",
-        "uptime-notify.com",
-        "wordpressws.com",
-        "wsswp.com",
-        "wsswp.net"
       ]
     },
     {

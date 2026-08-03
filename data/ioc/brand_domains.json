@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-02",
+  "generated": "2026-08-03",
   "keywords": {
     "coinbase": [
       "00-coinbase.com",
@@ -121,7 +121,6 @@
       "11627168-coinbase.com",
       "116287-coinbase.com",
       "1162891-coinbase.com",
-      "116791-coinbase.com",
       "117372-coinbase.com",
       "1178686-coinbase.com",
       "117949coinbase.com",
@@ -201,7 +200,8 @@
       "132067-coinbase.com",
       "132193coinbase.com",
       "132493-coinbase.com",
-      "132535coinbase.com"
+      "132535coinbase.com",
+      "132662coinbase.com"
     ],
     "claim": [
       "0x-claim.xyz",
@@ -542,6 +542,7 @@
       "aumyloginfo.com",
       "ausloginservice.com",
       "auth-login-gate4.com",
+      "auth-login-serviceaustragov.com",
       "auth-login.live",
       "auth-loginportal.com",
       "auth-msftlogin.com",
@@ -604,8 +605,7 @@
       "betcio-logintek3.vip",
       "betcio-logintekk2.vip",
       "betcio-teklogin1.vip",
-      "betcio-teklogin3.vip",
-      "betcio-teklogin4.vip"
+      "betcio-teklogin3.vip"
     ],
     "secure": [
       "09025896-secure-chase.com",
@@ -689,6 +689,7 @@
       "appsecure-login.info",
       "appsecure.live",
       "appsid-secure.info",
+      "apptresecure.com",
       "arbuthnotlathamsecure.com",
       "arcsecure1.com",
       "argenta-appsecure.com",
@@ -806,8 +807,7 @@
       "centrelink-secured.net",
       "channel-secure-beamless.com",
       "chase-paymentech-secure.com",
-      "chase-secured-help.com",
-      "chasesecureportal.com"
+      "chase-secured-help.com"
     ],
     "token": [
       "1fueliotoken.life",
@@ -1022,6 +1022,7 @@
       "867180-wallet.app",
       "aaml-trustwallet.com",
       "aave-desktopwalletinstaller.com",
+      "abradesktopwallet.com",
       "account-trust-wallet.com",
       "acewalletdrainer.com",
       "adalite-wallet.com",
@@ -1171,6 +1172,7 @@
       "blockstreamwallet.app",
       "blok-wallet.com",
       "blosolutionwalletlive.xyz",
+      "bluewallet-desktop.com",
       "bluewallet.download",
       "bluewallet.vip",
       "bluewalletdesk.com",
@@ -1209,9 +1211,7 @@
       "cbwallet-smartupgrade.com",
       "cbwallet.app",
       "cbwalletportal.com",
-      "cbwallets.com",
-      "celiawallet.app",
-      "cenorawallets.com"
+      "cbwallets.com"
     ],
     "official": [
       "10cric-official-india.com",
@@ -2083,6 +2083,7 @@
       "336470-kraken.com",
       "34535-kraken.com",
       "352861kraken.com",
+      "395821-kraken.com",
       "462847kraken.com",
       "464820kraken.com",
       "475123-krakenportal.com",
@@ -2220,8 +2221,7 @@
       "kraken-11-at.net",
       "kraken-11-att.com",
       "kraken-11-att.net",
-      "kraken-11at.com",
-      "kraken-12-att.com"
+      "kraken-11at.com"
     ],
     "update": [
       "1337update.com",
@@ -2303,6 +2303,7 @@
       "asscesdocuupdate.info",
       "astupdate.live",
       "atm-xupdate.live",
+      "atorecordupdate.info",
       "aupromptupdate.com",
       "aus-income-update.info",
       "australiaupdate.net",
@@ -2422,8 +2423,7 @@
       "craannualupdatereminder.com",
       "crainfoupdate-reminder.com",
       "criticalupdate.xyz",
-      "cryptodetailsupdaten.com",
-      "csc-updates.live"
+      "cryptodetailsupdaten.com"
     ],
     "crypto": [
       "094239-crypto.com",
@@ -2467,7 +2467,6 @@
       "19876-crypto.com",
       "19929120crypto.com",
       "2025crypto.site",
-      "221146-crypto.com",
       "223014-crypto.com",
       "224541-crypto.com",
       "224571-crypto.com",
@@ -2625,7 +2624,8 @@
       "apple-crypto.com",
       "applecrypto-event.com",
       "appleforcrypto.com",
-      "appllexcrypto.com"
+      "appllexcrypto.com",
+      "asdiahjfgaiungacrypto.run"
     ],
     "connect": [
       "0nline-2025at0connect.digital",
@@ -2788,7 +2788,6 @@
       "connect-airdrops-secure01a.icu",
       "connect-aitech.com",
       "connect-alchemy.com",
-      "connect-aleph.com",
       "connect-apello.app",
       "connect-api.net",
       "connect-app-aml.cfd",
@@ -2827,7 +2826,8 @@
       "connect-ellipal.com",
       "connect-elys.com",
       "connect-ethenalabs.com",
-      "connect-eventtia.com"
+      "connect-eventtia.com",
+      "connect-fluent.xyz"
     ],
     "trust": [
       "1-tdcanadatrust.com",
@@ -2996,6 +2996,7 @@
       "darknettrust.com",
       "dealstrust.vip",
       "defi-trustpad.net",
+      "defi-trustpads.biz",
       "defi-trustpads.net",
       "defi-trustpads.xyz",
       "desktop-itrustcapital.com",
@@ -3028,8 +3029,7 @@
       "fmtrust.icu",
       "frandsenbktrust.icu",
       "frandsenbtrust.icu",
-      "frandsentrust.icu",
-      "gameofbet-2026trust.vip"
+      "frandsentrust.icu"
     ],
     "account": [
       "1win-2026bestaccount.com",
@@ -3075,7 +3075,6 @@
       "account-digifinex.com",
       "account-dispute-portal.center",
       "account-etoro.com",
-      "account-ftxlimited.com",
       "account-gateway.com",
       "account-helpdesk-coinbase.com",
       "account-hubspot.com",
@@ -3231,7 +3230,8 @@
       "accountsecure-coinbase.com",
       "accountsecure.digital",
       "accountsecurebnc.com",
-      "accountsecurenow.com"
+      "accountsecurenow.com",
+      "accountsecurity-coinbase.com"
     ],
     "airdrop": [
       "0x00000-bankless-hunt-airdrop.com",
