@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-03",
+  "generated": "2026-08-04",
   "count": 50,
   "registrants": [
     {
@@ -419,6 +419,38 @@
       ]
     },
     {
+      "email": "press@chain.link",
+      "count": 26,
+      "domains": [
+        "app-llnk.org",
+        "apyclink.com",
+        "apylink.com",
+        "apylink.net",
+        "awardlink.org",
+        "bonuslink.org",
+        "bounty-llnk.com",
+        "bountylink.org",
+        "gainlink.org",
+        "grablink.org",
+        "link-distribution.org",
+        "link-protocol.com",
+        "link-rewards.com",
+        "linkapy.com",
+        "linkcash.org",
+        "linkdefi.org",
+        "linkevent.net",
+        "linkextra.net",
+        "linkgrant.com",
+        "linkplatform.org",
+        "linkprotocol.org",
+        "linkstake.net",
+        "linktreasury.org",
+        "stacklink.org",
+        "token-link.net",
+        "token-link.org"
+      ]
+    },
+    {
       "email": "submissions@shib.io",
       "count": 25,
       "domains": [
@@ -493,37 +525,6 @@
         "xn--krb12-sqa.cc",
         "xn--krb13-sqa.cc",
         "xn--krb14-sqa.cc"
-      ]
-    },
-    {
-      "email": "press@chain.link",
-      "count": 25,
-      "domains": [
-        "app-llnk.org",
-        "apyclink.com",
-        "apylink.com",
-        "awardlink.org",
-        "bonuslink.org",
-        "bounty-llnk.com",
-        "bountylink.org",
-        "gainlink.org",
-        "grablink.org",
-        "link-distribution.org",
-        "link-protocol.com",
-        "link-rewards.com",
-        "linkapy.com",
-        "linkcash.org",
-        "linkdefi.org",
-        "linkevent.net",
-        "linkextra.net",
-        "linkgrant.com",
-        "linkplatform.org",
-        "linkprotocol.org",
-        "linkstake.net",
-        "linktreasury.org",
-        "stacklink.org",
-        "token-link.net",
-        "token-link.org"
       ]
     },
     {
@@ -752,6 +753,23 @@
       ]
     },
     {
+      "email": "donate@opencart.com",
+      "count": 12,
+      "domains": [
+        "101spill.com",
+        "cheap-steroids.net",
+        "edpill.net",
+        "motoryxa.com",
+        "onlineroidshop.com",
+        "partnivo.com",
+        "pharmaquickbuy.com",
+        "steroids-au.com",
+        "urbanvico.com",
+        "urheilu-karki.com",
+        "zatempl.com"
+      ]
+    },
+    {
       "email": "ihre.email@beispiel.de",
       "count": 11,
       "domains": [
@@ -797,22 +815,6 @@
         "fliotcarb.com",
         "fllioatcarb.com",
         "flloamcarb.com"
-      ]
-    },
-    {
-      "email": "donate@opencart.com",
-      "count": 11,
-      "domains": [
-        "101spill.com",
-        "edpill.net",
-        "motoryxa.com",
-        "onlineroidshop.com",
-        "partnivo.com",
-        "pharmaquickbuy.com",
-        "steroids-au.com",
-        "urbanvico.com",
-        "urheilu-karki.com",
-        "zatempl.com"
       ]
     },
     {

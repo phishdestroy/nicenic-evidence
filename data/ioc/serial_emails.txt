@@ -5,12 +5,12 @@ max@unternehmen.de	44
 support@easybit.com	35
 angelgarcia.mail@gmail.com	30
 press@ethereum.org	27
+press@chain.link	26
 submissions@shib.io	25
 u003esubmissions@shib.io	25
 ads@shib.io	25
 u003eads@shib.io	25
 info@stroykatalog.ru	25
-press@chain.link	25
 seu@email.com	22
 ihre@email.de	22
 admin@webmaster.com	20
@@ -21,10 +21,10 @@ ornek@email.com	14
 help@valgorix.com	14
 support@stake.com	13
 privacypolicyupdates@automattic.com	13
+donate@opencart.com	12
 ihre.email@beispiel.de	11
 helpdesk@wingstop.com	11
 customerservice@thread.bank	11
-donate@opencart.com	11
 support@soberapartmentsofamerica.org	11
 support@dervalio.com	11
 support@stake.us	10
