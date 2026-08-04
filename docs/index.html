@@ -294,8 +294,8 @@ footer a{color:var(--cy)}
   <div class="bignums">
     <div class="b r"><div class="n">37,844</div>
   <div id="hero-live" style="display:flex;flex-wrap:wrap;gap:14px;margin-top:18px;padding-top:16px;border-top:1px solid rgba(255,255,255,.06)"></div><div class="l">Alive domains (11%)</div></div>
-    <div class="b r"><div class="n">18,305</div><div class="l">HIGH+CRITICAL (48.4% of alive)</div></div>
-    <div class="b o"><div class="n">622</div><div class="l">MEDIUM severity</div></div>
+    <div class="b r"><div class="n">64,105</div><div class="l">HIGH+CRITICAL IOC</div></div>
+    <div class="b o"><div class="n">126,723</div><div class="l">Total classified</div></div>
     <div class="b c"><div class="n">63,190</div><div class="l">Cloudflare-protected (83%)</div></div>
     <div class="b c"><div class="n">24,485</div><div class="l">Favicons captured</div></div>
     <div class="b g"><div class="n">343,107</div><div class="l">Total scanned</div></div>
@@ -308,14 +308,14 @@ footer a{color:var(--cy)}
 <div class="sec"><h2>Investigation Reports</h2><div class="ln"></div></div>
 <p class="sec-sub">Drill-down pages by abuse category. Each card links into the searchable domain table with the category filter pre-applied.</p>
 <div class="hub">
-  <a href="domains.html" class="hcard pri"><div class="hc-ico">🗂</div><div class="hc-tit">Full Domain List</div><div class="hc-dsc">All 343,107 domains. Searchable by category, severity, Cloudflare. AI descriptions, form analysis, favicon hashes, server fingerprints.</div><div class="hc-st r">76,117 classified · 18,305 HIGH+CRITICAL</div></a>
-  <a href="domains.html?cat=PHISHING_FINANCE" class="hcard dan"><div class="hc-ico">🏦</div><div class="hc-tit">Financial Phishing</div><div class="hc-dsc">Domains harvesting card numbers, CVV, banking credentials. Confirmed by browser form analysis.</div><div class="hc-st r">2,183 domains confirmed</div></a>
-  <a href="domains.html?cat=PHISHING_BRAND" class="hcard dan"><div class="hc-ico">🎣</div><div class="hc-tit">Brand Impersonation</div><div class="hc-dsc">Domains with login forms collecting passwords, OTP codes, account credentials. Detected via browser form field analysis.</div><div class="hc-st r">7,036 domains confirmed</div></a>
-  <a href="domains.html?cat=CRYPTO_DRAINER" class="hcard war"><div class="hc-ico">🪙</div><div class="hc-tit">Crypto Phishing &amp; Drains</div><div class="hc-dsc">Crypto wallet/exchange phishing pages. Drainers, seed phrase forms, fake DEX interfaces.</div><div class="hc-st o">227 drainers · 1,547 crypto exchange</div></a>
+  <a href="domains.html" class="hcard pri"><div class="hc-ico">🗂</div><div class="hc-tit">Full Domain List</div><div class="hc-dsc">All 375,586 domains. Searchable by category, severity, Cloudflare. Feed sources, brand detection, form analysis.</div><div class="hc-st r">126,723 classified · 64,105 HIGH+CRITICAL</div></a>
+  <a href="domains.html?cat=PHISHING_FINANCE" class="hcard dan"><div class="hc-ico">🏦</div><div class="hc-tit">Financial Phishing</div><div class="hc-dsc">Domains harvesting card numbers, CVV, banking credentials. Confirmed by browser form analysis.</div><div class="hc-st r">6,922 domains confirmed</div></a>
+  <a href="domains.html?cat=PHISHING_BRAND" class="hcard dan"><div class="hc-ico">🎣</div><div class="hc-tit">Brand Impersonation</div><div class="hc-dsc">Domains targeting Coinbase, Ledger, Kraken, MetaMask, PayPal, banking brands. Keyword + typosquat detection.</div><div class="hc-st r">16,914 domains confirmed</div></a>
+  <a href="domains.html?cat=PHISHING_CRYPTO" class="hcard war"><div class="hc-ico">🪙</div><div class="hc-tit">Crypto Phishing</div><div class="hc-dsc">Crypto wallet/exchange phishing pages. Drainers, seed phrase forms, fake DEX interfaces. MetaMask, Phantom, Trust Wallet.</div><div class="hc-st o">15,195 domains</div></a>
   <a href="domains.html?cat=CARDING" class="hcard dan"><div class="hc-ico">💳</div><div class="hc-tit">Carding Infrastructure</div><div class="hc-dsc">Clone card shops, dumps markets, money mule infrastructure, fraud tooling.</div><div class="hc-st r">544 domains confirmed</div></a>
-  <a href="domains.html?cat=MALWARE" class="hcard"><div class="hc-ico">☣</div><div class="hc-tit">Malware Distribution</div><div class="hc-dsc">RAT shops, crackware, fake software updaters, loader infrastructure.</div><div class="hc-st r">387 domains confirmed</div></a>
+  <a href="domains.html?cat=MALWARE" class="hcard"><div class="hc-ico">☣</div><div class="hc-tit">Malware Distribution</div><div class="hc-dsc">RAT shops, crackware, fake software updaters, loader infrastructure. Cross-referenced: Hagezi TIF, Maltrail, URLhaus, BlocklistProject.</div><div class="hc-st r">21,181 domains</div></a>
   <a href="domains.html?cat=GAMBLING" class="hcard"><div class="hc-ico">🎰</div><div class="hc-tit">Gambling Network</div><div class="hc-dsc">Unlicensed casino/betting domains. Multilingual registrations, shared server fingerprints.</div><div class="hc-st">6,177 domains confirmed</div></a>
-  <a href="../ioc/domains_high.txt" class="hcard"><div class="hc-ico">📋</div><div class="hc-tit">IOC Blocklist &amp; SIEM</div><div class="hc-dsc">Production blocklist. SIEM CSV: IP, server fingerprint SHA-256, favicon MurmurHash3 (Shodan), registration date, AI description.</div><div class="hc-st g">18,305 HIGH · 18,927 total · indicators.csv</div></a>
+  <a href="../ioc/domains_high.txt" class="hcard"><div class="hc-ico">📋</div><div class="hc-tit">IOC Blocklist &amp; SIEM</div><div class="hc-dsc">Production blocklist. Sources: Hagezi TIF, BlocklistProject, Maltrail, PhishDB, MetaMask, ScamBlock, CERT.pl, brand scan.</div><div class="hc-st g">64,105 HIGH · 82,577 indicators.csv</div></a>
 </div>
 
 
