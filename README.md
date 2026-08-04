@@ -517,3 +517,35 @@ Automated detection, classification, and public disclosure of domain abuse infra
 </div>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+## IOC Data — `2026-08-03`
+
+| Metric | Count |
+|:--|--:|
+| **Total IOC domains** | **82,577** |
+| HIGH severity | 35,902 |
+| MEDIUM severity | 36,298 |
+| Zone total | 375,586 |
+| Hit rate | 21.99% |
+
+### By Category
+
+| Category | Domains |
+|:--|--:|
+| `MALWARE` | 28,536 |
+| `PHISHING_CRYPTO` | 18,015 |
+| `PHISHING_FINANCE` | 7,297 |
+| `PHISHING_CONFIRMED` | 7,138 |
+| `PHISHING_BRAND` | 7,036 |
+
+### Download Threat Intelligence
+
+| File | Format | Description |
+|:--|:--:|:--|
+| [`ioc/indicators.csv`](ioc/indicators.csv) | CSV | Full IOC: domain, category, severity, date, sources |
+| [`ioc/domains_high.txt`](https://raw.githubusercontent.com/phishdestroy/nicenic-evidence/master/ioc/domains_high.txt) | TXT | HIGH severity domains only (35,902) |
+| [`ioc/domains_all_malicious.txt`](https://raw.githubusercontent.com/phishdestroy/nicenic-evidence/master/ioc/domains_all_malicious.txt) | TXT | All IOC domains (82,577) |
+
+**Sources used:** Hagezi TIF (2.1M), BlocklistProject Malware/Phishing (2.5M+120K), Maltrail (914K), mitchellkrogza PhishDB (385K), MetaMask, ScamBlock, CERT.pl, Phishing.Database, uBlock, Dandelion, firebog.net, brand keyword scan (BRAND_KEYWORDS from classify_brands).
+
+> Live report: [https://phishdestroy.github.io/nicenic-evidence](https://phishdestroy.github.io/nicenic-evidence)
