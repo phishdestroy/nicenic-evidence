@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-04",
+  "generated": "2026-08-05",
   "keywords": {
     "coinbase": [
       "00-coinbase.com",
@@ -381,7 +381,6 @@
       "blackbullsolclaim.pro",
       "blackholeclaim.xyz",
       "blastl2claim.com",
-      "blaze-claim.net",
       "blazpayclaim.live",
       "blendr-claims.com",
       "blockchainfx-claim.live",
@@ -403,7 +402,8 @@
       "blub-claim.com",
       "blubclaims.xyz",
       "blum-claims.com",
-      "bluzelleclaims.com"
+      "bluzelleclaims.com",
+      "bluzellerewardclaims.com"
     ],
     "login": [
       "0auth-login.digital",
@@ -1177,6 +1177,7 @@
       "bluewallet.download",
       "bluewallet.vip",
       "bluewalletdesk.com",
+      "bluewalletdesktop.com",
       "bonus-bestwallet.com",
       "bonus-trustwallet.com",
       "bouncebitwallet.com",
@@ -1210,8 +1211,7 @@
       "cbwallet-overview.com",
       "cbwallet-review.com",
       "cbwallet-smartupgrade.com",
-      "cbwallet.app",
-      "cbwalletportal.com"
+      "cbwallet.app"
     ],
     "official": [
       "10cric-official-india.com",
@@ -1589,6 +1589,7 @@
       "a-ledger.com",
       "access-ledger-live.com",
       "access-ledger.net",
+      "access-ledgerlive.com",
       "access-my-ledger.com",
       "account-ledger.com",
       "account-safety-ledger.com",
@@ -1605,6 +1606,7 @@
       "apiledgercheck.com",
       "apiledgerscan.com",
       "apisledger.com",
+      "app-download-ledger.com",
       "app-ledger-co.com",
       "app-ledger-com.live",
       "app-ledger-security.com",
@@ -1613,9 +1615,7 @@
       "app-legal-ledger.icu",
       "app-openledger.xyz",
       "app-wallet-ledger.live",
-      "approved-ledger.com",
-      "apps-ledger.com",
-      "assets-ledger.com"
+      "approved-ledger.com"
     ],
     "swap": [
       "0xswaps.xyz",
@@ -1638,6 +1638,7 @@
       "ad-uniswap.com",
       "adamswap.digital",
       "aerodromeswap.finance",
+      "ag-swap.icu",
       "ag-swap.ink",
       "ag-swap.net",
       "ag-swap.pro",
@@ -1816,8 +1817,7 @@
       "claim-ixswap.com",
       "claim-quickswap.com",
       "claim-quickswap.live",
-      "claim-swapx.com",
-      "claim-uniswap.app"
+      "claim-swapx.com"
     ],
     "support": [
       "029250-support.com",
@@ -1893,7 +1893,6 @@
       "anzhelpdesksupport.com",
       "anzhelpsupport.com",
       "anzonlinesupport.com",
-      "anzsupportchat.com",
       "anzsupportdesk.com",
       "anzsupporthub.com",
       "anzwebchatsupport.com",
@@ -1923,7 +1922,6 @@
       "bankofscotlandchatsupport.com",
       "bankofscotlandlivesupport.com",
       "barclaycardsupport.com",
-      "barclayschatsupport.com",
       "barclayscustomersupport.com",
       "barclaysfraudsupport.com",
       "barclaysnet-livesupport.com",
@@ -1957,7 +1955,6 @@
       "bitgetsupportsecure.com",
       "bitgetsupportset.com",
       "bitgetsupportteam.com",
-      "bitgetteamsupport.com",
       "bitgetverifysupport.com",
       "bitsosupport.org",
       "bitstampsupport.com",
@@ -2019,7 +2016,10 @@
       "chainsupporthub.pro",
       "chaseconnectsupport.com",
       "chatingsupport.live",
-      "cibc-accountsupport.com"
+      "chatsupportdesk.com",
+      "cibc-accountsupport.com",
+      "cibc-digitalbusiness-support.com",
+      "cibc-support.com"
     ],
     "kraken": [
       "076261-kraken.com",
@@ -2353,6 +2353,7 @@
       "cash-update.xyz",
       "casupdate.live",
       "cb-caseupdate.com",
+      "centeratoupdate.info",
       "centrelink-update.net",
       "ch-dsny-update.com",
       "ch-ntx-update.com",
@@ -2422,8 +2423,7 @@
       "cra-statusupdate.com",
       "craannualupdatereminder.com",
       "crainfoupdate-reminder.com",
-      "criticalupdate.xyz",
-      "cryptodetailsupdaten.com"
+      "criticalupdate.xyz"
     ],
     "crypto": [
       "094239-crypto.com",
@@ -2467,6 +2467,7 @@
       "19876-crypto.com",
       "19929120crypto.com",
       "2025crypto.site",
+      "221146-crypto.com",
       "223014-crypto.com",
       "224541-crypto.com",
       "224571-crypto.com",
@@ -2624,8 +2625,7 @@
       "anonymouscryptoexchange.com",
       "apple-crypto.com",
       "applecrypto-event.com",
-      "appleforcrypto.com",
-      "appllexcrypto.com"
+      "appleforcrypto.com"
     ],
     "connect": [
       "0nline-2025at0connect.digital",
@@ -2651,10 +2651,8 @@
       "anzchatconnect.com",
       "apelloconnect.app",
       "api-walletconnect.com",
-      "app-ag-connect.com",
       "app-connect-uniswap.org",
       "app-connect.cfd",
-      "app-fi-connect.com",
       "app-wallet-connect.network",
       "appconfig-connectuser.info",
       "appconnect-update.com",
@@ -2827,7 +2825,9 @@
       "connect-ellipal.com",
       "connect-elys.com",
       "connect-ethenalabs.com",
-      "connect-eventtia.com"
+      "connect-eventtia.com",
+      "connect-fluent.xyz",
+      "connect-form.com"
     ],
     "trust": [
       "1-tdcanadatrust.com",
@@ -2997,6 +2997,7 @@
       "dealstrust.vip",
       "defi-trustpad.net",
       "defi-trustpade.xyz",
+      "defi-trustpads.app",
       "defi-trustpads.biz",
       "defi-trustpads.net",
       "defi-trustpads.xyz",
@@ -3028,8 +3029,7 @@
       "firstadvisorytrust.com",
       "fix-trustwallet.com",
       "fmtrust.icu",
-      "frandsenbktrust.icu",
-      "frandsenbtrust.icu"
+      "frandsenbktrust.icu"
     ],
     "account": [
       "1win-2026bestaccount.com",
@@ -3728,7 +3728,6 @@
       "coinbase--vault.com",
       "coinbase-accessvault.com",
       "coinbase-accountvault.com",
-      "coinbase-secure-vault.com",
       "coinbase-securevault.com",
       "coinbase-uservault.com",
       "coinbase-vault.com",
@@ -3837,7 +3836,8 @@
       "lightningvaults.pro",
       "liquidvaults.xyz",
       "lumivault.info",
-      "mantlevaults.pro"
+      "mantlevaults.pro",
+      "marketing-vault.xyz"
     ],
     "solana": [
       "1coinofsolana.com",

@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-04",
+  "generated": "2026-08-05",
   "count": 50,
   "registrants": [
     {
@@ -350,42 +350,6 @@
       ]
     },
     {
-      "email": "angelgarcia.mail@gmail.com",
-      "count": 30,
-      "domains": [
-        "25musk.org",
-        "cbfund.info",
-        "elon-crypto.org",
-        "elon-finance.org",
-        "elon-promotion.org",
-        "elon-reward.net",
-        "elonvoucher.com",
-        "foundation-reward.net",
-        "musk-payment.org",
-        "musk-reward.net",
-        "musk1.info",
-        "promo-musk.net",
-        "reward-promotions.org",
-        "ripple-pomotion.net",
-        "ripple-pomotion.org",
-        "ripplefinace-promotion.net",
-        "ripplefinace-promotion.org",
-        "rippleoffical-event.org",
-        "rippleofficial-promo.net",
-        "rippleofficial-promo.org",
-        "rippleofficial-reward.net",
-        "rippleofficial-reward.org",
-        "ripplepromo-investing.net",
-        "saylorgo.info",
-        "tate2x.info",
-        "tesla-reward.org",
-        "xrpbonus-invest.org",
-        "xrpreward-event.net",
-        "xrpreward-event.org",
-        "xrpreward-promotion.net"
-      ]
-    },
-    {
       "email": "press@ethereum.org",
       "count": 27,
       "domains": [
@@ -416,6 +380,38 @@
         "stake-boosteth.com",
         "treasury-boosteth.com",
         "yield-boosteth.com"
+      ]
+    },
+    {
+      "email": "angelgarcia.mail@gmail.com",
+      "count": 26,
+      "domains": [
+        "25musk.org",
+        "cbfund.info",
+        "elon-crypto.org",
+        "elon-finance.org",
+        "elon-promotion.org",
+        "elon-reward.net",
+        "elonvoucher.com",
+        "foundation-reward.net",
+        "musk-payment.org",
+        "musk-reward.net",
+        "musk1.info",
+        "promo-musk.net",
+        "reward-promotions.org",
+        "ripple-pomotion.org",
+        "ripplefinace-promotion.net",
+        "ripplefinace-promotion.org",
+        "rippleoffical-event.org",
+        "rippleofficial-promo.net",
+        "rippleofficial-promo.org",
+        "rippleofficial-reward.org",
+        "ripplepromo-investing.net",
+        "saylorgo.info",
+        "tate2x.info",
+        "tesla-reward.org",
+        "xrpbonus-invest.org",
+        "xrpreward-event.org"
       ]
     },
     {
@@ -582,32 +578,6 @@
       ]
     },
     {
-      "email": "admin@webmaster.com",
-      "count": 20,
-      "domains": [
-        "ball2nitehappy.com",
-        "bitgetteamsupport.com",
-        "cbsecurityreview.com",
-        "fairwinds-authentication.com",
-        "gov-uk-dvlaservice.com",
-        "help-ledgersupport.com",
-        "ing-customerservice.com",
-        "ledger-diagnosis-id.com",
-        "ledger-helpdesk.com",
-        "mitelceli.com",
-        "myaccount-protective.com",
-        "mypayrollnoticesacademy.com",
-        "nw-reregistration.com",
-        "rbc-online-verify.com",
-        "restore-kraken.com",
-        "rpc-2.com",
-        "services-help469.com",
-        "trezor-diagnostic-app.com",
-        "ver-empowermyretirements.com",
-        "verify-mymandg.com"
-      ]
-    },
-    {
       "email": "termas@termas.com.br",
       "count": 20,
       "domains": [
@@ -634,6 +604,31 @@
       ]
     },
     {
+      "email": "admin@webmaster.com",
+      "count": 19,
+      "domains": [
+        "ball2nitehappy.com",
+        "cbsecurityreview.com",
+        "fairwinds-authentication.com",
+        "gov-uk-dvlaservice.com",
+        "help-ledgersupport.com",
+        "ing-customerservice.com",
+        "ledger-diagnosis-id.com",
+        "ledger-helpdesk.com",
+        "mitelceli.com",
+        "myaccount-protective.com",
+        "mypayrollnoticesacademy.com",
+        "nw-reregistration.com",
+        "rbc-online-verify.com",
+        "restore-kraken.com",
+        "rpc-2.com",
+        "services-help469.com",
+        "trezor-diagnostic-app.com",
+        "ver-empowermyretirements.com",
+        "verify-mymandg.com"
+      ]
+    },
+    {
       "email": "info@timeweb.ru",
       "count": 17,
       "domains": [
@@ -654,27 +649,6 @@
         "team-silenttitans.com",
         "tw-steam-auth.com",
         "vrach42.info"
-      ]
-    },
-    {
-      "email": "witting.maya@hilpert.biz",
-      "count": 15,
-      "domains": [
-        "airbitns-droping.net",
-        "basfast-bitc.net",
-        "bitco-projects.net",
-        "blokchains-bits.net",
-        "btltrango.net",
-        "crybase-platforn.net",
-        "crybaseplatforn.net",
-        "crybasepro.net",
-        "fastminingpro.net",
-        "fastmininrg.net",
-        "fastpromining.net",
-        "fasts-miningpro.net",
-        "fastsminingpro.net",
-        "netget-bitsd.net",
-        "trastbitprofk.net"
       ]
     },
     {
@@ -767,6 +741,24 @@
         "urbanvico.com",
         "urheilu-karki.com",
         "zatempl.com"
+      ]
+    },
+    {
+      "email": "witting.maya@hilpert.biz",
+      "count": 12,
+      "domains": [
+        "airbitns-droping.net",
+        "basfast-bitc.net",
+        "bitco-projects.net",
+        "blokchains-bits.net",
+        "btltrango.net",
+        "crybase-platforn.net",
+        "crybasepro.net",
+        "fastminingpro.net",
+        "fastmininrg.net",
+        "fasts-miningpro.net",
+        "fastsminingpro.net",
+        "trastbitprofk.net"
       ]
     },
     {
@@ -909,6 +901,36 @@
       ]
     },
     {
+      "email": "support@jojobet.com",
+      "count": 9,
+      "domains": [
+        "betofice971.com",
+        "joiobet1785.com",
+        "jojobet11381.com",
+        "jojobet8226.net",
+        "jojobet82532.com",
+        "jojobet89011.com",
+        "jojobett1120.com",
+        "jojolbet1113.com",
+        "ulltrabet1224.com"
+      ]
+    },
+    {
+      "email": "partners@jojobet.com",
+      "count": 9,
+      "domains": []
+    },
+    {
+      "email": "press@jojobet.com",
+      "count": 9,
+      "domains": []
+    },
+    {
+      "email": "sikayet@jojobet.com",
+      "count": 9,
+      "domains": []
+    },
+    {
       "email": "ex@abc.xyz",
       "count": 9,
       "domains": [
@@ -992,35 +1014,6 @@
         "asfmaut.com",
         "osterroutes.com"
       ]
-    },
-    {
-      "email": "support@jojobet.com",
-      "count": 8,
-      "domains": [
-        "betofice971.com",
-        "joiobet1785.com",
-        "jojobet11381.com",
-        "jojobet82532.com",
-        "jojobet89011.com",
-        "jojobett1120.com",
-        "jojolbet1113.com",
-        "ulltrabet1224.com"
-      ]
-    },
-    {
-      "email": "partners@jojobet.com",
-      "count": 8,
-      "domains": []
-    },
-    {
-      "email": "press@jojobet.com",
-      "count": 8,
-      "domains": []
-    },
-    {
-      "email": "sikayet@jojobet.com",
-      "count": 8,
-      "domains": []
     },
     {
       "email": "reklama@pokerdom.com",
