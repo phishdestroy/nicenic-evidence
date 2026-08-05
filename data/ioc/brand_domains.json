@@ -445,7 +445,6 @@
       "898832-fedinsurance-login.live",
       "abacuslogin.com",
       "acc-unauthorized-login.live",
-      "accesdlogin.com",
       "accesoclientes-login.com",
       "accesos-login.com",
       "accesosweb-login.com",
@@ -605,7 +604,8 @@
       "betcio-logintek1.vip",
       "betcio-logintek2.vip",
       "betcio-logintek3.vip",
-      "betcio-logintekk2.vip"
+      "betcio-logintekk2.vip",
+      "betcio-teklogin1.vip"
     ],
     "secure": [
       "09025896-secure-chase.com",
@@ -729,7 +729,6 @@
       "bitgetteamsecure.com",
       "bitpanda-secure.com",
       "bitpanda-secured.com",
-      "blaze-secure.com",
       "blosomsecurepassageping.com",
       "bltstamp-secure.com",
       "bmo-banking-secure.com",
@@ -807,7 +806,8 @@
       "centrelink-secured.net",
       "channel-secure-beamless.com",
       "chase-paymentech-secure.com",
-      "chase-secured-help.com"
+      "chase-secured-help.com",
+      "chasesecureportal.com"
     ],
     "token": [
       "1fueliotoken.life",
@@ -1012,6 +1012,7 @@
       "bnbcarnivaltoken.pro"
     ],
     "wallet": [
+      "114229-wallet.com",
       "1amwallet.com",
       "1amwallet.xyz",
       "1gowallet-ar.com",
@@ -1193,6 +1194,7 @@
       "cake-wallet.vip",
       "cake-wallet.world",
       "cakedesktopwallet.com",
+      "cakeswallet.com",
       "cakewallet.vip",
       "cakewalletdesktop.app",
       "cakewalletdesktop.com",
@@ -1209,9 +1211,7 @@
       "casadektopwallet.app",
       "casinowalletindia.com",
       "cbwallet-overview.com",
-      "cbwallet-review.com",
-      "cbwallet-smartupgrade.com",
-      "cbwallet.app"
+      "cbwallet-review.com"
     ],
     "official": [
       "10cric-official-india.com",
@@ -1333,6 +1333,7 @@
       "bet-officialgiris2025.com",
       "bet-yeniofficial2025.com",
       "bet1-official2026.com",
+      "betasus-officials.icu",
       "betasusguncelofficial.vip",
       "betasusofficialadresi.vip",
       "betasusofficialgiris.icu",
@@ -1412,8 +1413,7 @@
       "bitcoinpepeofficial.xyz",
       "black-sprut-official.com",
       "blackops-official.ink",
-      "blacksprut02-official.com",
-      "blacksprut03-official.com"
+      "blacksprut02-official.com"
     ],
     "ledger": [
       "01-ledger.com",
@@ -1491,7 +1491,6 @@
       "3410055-ledger.com",
       "345698-ledger.com",
       "3592393-ledger.com",
-      "371757-ledger.com",
       "378446-ledger.com",
       "3819345-ledger.com",
       "382381-ledger.com",
@@ -1499,7 +1498,6 @@
       "389092ledger.com",
       "3924912-ledger.com",
       "4191384-ledger.com",
-      "419931-ledger.com",
       "435221-ledger.com",
       "435221ledger.com",
       "4359328-ledger.com",
@@ -1615,7 +1613,9 @@
       "app-legal-ledger.icu",
       "app-openledger.xyz",
       "app-wallet-ledger.live",
-      "approved-ledger.com"
+      "approved-ledger.com",
+      "apps-ledger.com",
+      "assets-ledger.com"
     ],
     "swap": [
       "0xswaps.xyz",
@@ -2651,8 +2651,10 @@
       "anzchatconnect.com",
       "apelloconnect.app",
       "api-walletconnect.com",
+      "app-ag-connect.com",
       "app-connect-uniswap.org",
       "app-connect.cfd",
+      "app-fi-connect.com",
       "app-wallet-connect.network",
       "appconfig-connectuser.info",
       "appconnect-update.com",
@@ -2685,7 +2687,6 @@
       "bitpanda-connect.com",
       "bitpandaconnect.com",
       "blackopsconnect.live",
-      "bmoconnect.com",
       "bmoconnectsecure.com",
       "bnc-seconnecter.com",
       "bouygues-telecom-connect.live",
@@ -2786,7 +2787,6 @@
       "connect-airdrops-online.icu",
       "connect-airdrops-secure01a.icu",
       "connect-aitech.com",
-      "connect-alchemy.com",
       "connect-apello.app",
       "connect-api.net",
       "connect-app-aml.cfd",
@@ -2999,6 +2999,7 @@
       "defi-trustpade.xyz",
       "defi-trustpads.app",
       "defi-trustpads.biz",
+      "defi-trustpads.com",
       "defi-trustpads.net",
       "defi-trustpads.xyz",
       "desktop-itrustcapital.com",
@@ -3028,8 +3029,7 @@
       "firelight-trusted.live",
       "firstadvisorytrust.com",
       "fix-trustwallet.com",
-      "fmtrust.icu",
-      "frandsenbktrust.icu"
+      "fmtrust.icu"
     ],
     "account": [
       "1win-2026bestaccount.com",
@@ -3728,6 +3728,7 @@
       "coinbase--vault.com",
       "coinbase-accessvault.com",
       "coinbase-accountvault.com",
+      "coinbase-secure-vault.com",
       "coinbase-securevault.com",
       "coinbase-uservault.com",
       "coinbase-vault.com",
@@ -3827,7 +3828,6 @@
       "layervaultchain.xyz",
       "leadvaultorbit.com",
       "leanrelaynode-vault.sbs",
-      "leapvault.info",
       "ledger-vault.com",
       "letsvault-coinbase.com",
       "lido-vault.app",

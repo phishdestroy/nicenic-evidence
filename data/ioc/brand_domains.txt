@@ -437,7 +437,6 @@ login	88854356-fedinsurance-login.live
 login	898832-fedinsurance-login.live
 login	abacuslogin.com
 login	acc-unauthorized-login.live
-login	accesdlogin.com
 login	accesoclientes-login.com
 login	accesos-login.com
 login	accesosweb-login.com
@@ -598,6 +597,7 @@ login	betcio-logintek1.vip
 login	betcio-logintek2.vip
 login	betcio-logintek3.vip
 login	betcio-logintekk2.vip
+login	betcio-teklogin1.vip
 secure	09025896-secure-chase.com
 secure	19023-secure.com
 secure	1bmo-banking-secure.com
@@ -719,7 +719,6 @@ secure	bitgetsupportsecure.com
 secure	bitgetteamsecure.com
 secure	bitpanda-secure.com
 secure	bitpanda-secured.com
-secure	blaze-secure.com
 secure	blosomsecurepassageping.com
 secure	bltstamp-secure.com
 secure	bmo-banking-secure.com
@@ -798,6 +797,7 @@ secure	centrelink-secured.net
 secure	channel-secure-beamless.com
 secure	chase-paymentech-secure.com
 secure	chase-secured-help.com
+secure	chasesecureportal.com
 token	1fueliotoken.life
 token	1fueltoken.cfd
 token	4bsctoken.com
@@ -998,6 +998,7 @@ token	blockdagtoken.network
 token	bmoresettoken22.com
 token	bnb-testtoken.com
 token	bnbcarnivaltoken.pro
+wallet	114229-wallet.com
 wallet	1amwallet.com
 wallet	1amwallet.xyz
 wallet	1gowallet-ar.com
@@ -1179,6 +1180,7 @@ wallet	cake-wallet.live
 wallet	cake-wallet.vip
 wallet	cake-wallet.world
 wallet	cakedesktopwallet.com
+wallet	cakeswallet.com
 wallet	cakewallet.vip
 wallet	cakewalletdesktop.app
 wallet	cakewalletdesktop.com
@@ -1196,8 +1198,6 @@ wallet	casadektopwallet.app
 wallet	casinowalletindia.com
 wallet	cbwallet-overview.com
 wallet	cbwallet-review.com
-wallet	cbwallet-smartupgrade.com
-wallet	cbwallet.app
 official	10cric-official-india.com
 official	10official.vip
 official	1121-betebet-official.com
@@ -1317,6 +1317,7 @@ official	bet-official2026.com
 official	bet-officialgiris2025.com
 official	bet-yeniofficial2025.com
 official	bet1-official2026.com
+official	betasus-officials.icu
 official	betasusguncelofficial.vip
 official	betasusofficialadresi.vip
 official	betasusofficialgiris.icu
@@ -1397,7 +1398,6 @@ official	bitcoinpepeofficial.xyz
 official	black-sprut-official.com
 official	blackops-official.ink
 official	blacksprut02-official.com
-official	blacksprut03-official.com
 ledger	01-ledger.com
 ledger	0182778-ledger.com
 ledger	02-ledger.com
@@ -1473,7 +1473,6 @@ ledger	3409263-ledger.com
 ledger	3410055-ledger.com
 ledger	345698-ledger.com
 ledger	3592393-ledger.com
-ledger	371757-ledger.com
 ledger	378446-ledger.com
 ledger	3819345-ledger.com
 ledger	382381-ledger.com
@@ -1481,7 +1480,6 @@ ledger	382959-ledger.com
 ledger	389092ledger.com
 ledger	3924912-ledger.com
 ledger	4191384-ledger.com
-ledger	419931-ledger.com
 ledger	435221-ledger.com
 ledger	435221ledger.com
 ledger	4359328-ledger.com
@@ -1598,6 +1596,8 @@ ledger	app-legal-ledger.icu
 ledger	app-openledger.xyz
 ledger	app-wallet-ledger.live
 ledger	approved-ledger.com
+ledger	apps-ledger.com
+ledger	assets-ledger.com
 swap	0xswaps.xyz
 swap	1-swap.com
 swap	11amaswap.icu
@@ -2621,8 +2621,10 @@ connect	amex-connect.com
 connect	anzchatconnect.com
 connect	apelloconnect.app
 connect	api-walletconnect.com
+connect	app-ag-connect.com
 connect	app-connect-uniswap.org
 connect	app-connect.cfd
+connect	app-fi-connect.com
 connect	app-wallet-connect.network
 connect	appconfig-connectuser.info
 connect	appconnect-update.com
@@ -2655,7 +2657,6 @@ connect	bingxconnect.com
 connect	bitpanda-connect.com
 connect	bitpandaconnect.com
 connect	blackopsconnect.live
-connect	bmoconnect.com
 connect	bmoconnectsecure.com
 connect	bnc-seconnecter.com
 connect	bouygues-telecom-connect.live
@@ -2756,7 +2757,6 @@ connect	connect-airdrop.com
 connect	connect-airdrops-online.icu
 connect	connect-airdrops-secure01a.icu
 connect	connect-aitech.com
-connect	connect-alchemy.com
 connect	connect-apello.app
 connect	connect-api.net
 connect	connect-app-aml.cfd
@@ -2967,6 +2967,7 @@ trust	defi-trustpad.net
 trust	defi-trustpade.xyz
 trust	defi-trustpads.app
 trust	defi-trustpads.biz
+trust	defi-trustpads.com
 trust	defi-trustpads.net
 trust	defi-trustpads.xyz
 trust	desktop-itrustcapital.com
@@ -2997,7 +2998,6 @@ trust	firelight-trusted.live
 trust	firstadvisorytrust.com
 trust	fix-trustwallet.com
 trust	fmtrust.icu
-trust	frandsenbktrust.icu
 account	1win-2026bestaccount.com
 account	1win-account2026.com
 account	1win-accountbeast2026.com
@@ -3688,6 +3688,7 @@ vault	codevaultcredix.com
 vault	coinbase--vault.com
 vault	coinbase-accessvault.com
 vault	coinbase-accountvault.com
+vault	coinbase-secure-vault.com
 vault	coinbase-securevault.com
 vault	coinbase-uservault.com
 vault	coinbase-vault.com
@@ -3787,7 +3788,6 @@ vault	kiichainvaults.xyz
 vault	layervaultchain.xyz
 vault	leadvaultorbit.com
 vault	leanrelaynode-vault.sbs
-vault	leapvault.info
 vault	ledger-vault.com
 vault	letsvault-coinbase.com
 vault	lido-vault.app
