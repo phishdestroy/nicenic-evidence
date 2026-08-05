@@ -22,6 +22,19 @@
 </div>
 
 ---
+---
+
+## ⚖️ ICANN Compliance Complaints
+
+> Formal abuse complaints submitted to ICANN Contractual Compliance (RAA §3.18 · DNS Abuse Advisory 2024).
+
+| Date | Target | IANA ID | Reported Domains | Active Today | Days Ignored |
+|---|---|---|---|---|---|
+| [2026-08-05](complaints/2026-08-05-nicenic-icann/) | NiceNIC International Group Co., Limited | 3765 | 13,104 | 4,430 | 158 median / 215 max |
+
+📁 Full evidence: [`complaints/`](complaints/)
+
+
 
 <!-- LIVE_STATS:START -->
 
