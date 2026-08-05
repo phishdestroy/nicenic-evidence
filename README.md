@@ -97,6 +97,7 @@ SE  █░░░░░░░░░░░░░░░░░        816 (2.3%)
 
 | File | Format | Description |
 |:--|:--:|:--|
+| [feed-ioc.html](https://phishdestroy.github.io/nicenic-evidence/feed-ioc.html) | HTML | Searchable IOC browser — 82,581 indicators, severity + feed source badges, urlscan/VT/OTX lookups |
 | [`data/all.txt`](data/all.txt) | TXT | All tracked domains |
 | [`data/index.json`](data/index.json) | JSON | Full analytics snapshot |
 | [`data/ioc/serial_registrants.json`](data/ioc/serial_registrants.json) | JSON | Repeat registrants + their domains |
@@ -309,9 +310,9 @@ Full cluster data: [`data/clusters.json`](data/clusters.json) — includes favic
 | `data/high_severity.csv` | 20,480 | CRITICAL+HIGH filtered subset |
 | `data/dead_domains.csv` | — | Dead / parked / error domain enumeration |
 | `data/clusters.json` | 2,939 | Operator cluster map — favicon hash + server fingerprint groupings |
-| `ioc/domains_high.txt` | 18,305 | Production blocklist — CRITICAL+HIGH domains |
-| `ioc/domains_all_malicious.txt` | 18,927 | Production blocklist — CRITICAL+HIGH+MEDIUM |
-| `ioc/indicators.csv` | 18,927 | SIEM-ready: domain, ip, server_fp, favicon_mmh3, category, severity |
+| `ioc/domains_high.txt` | 35,902 | Production blocklist — CRITICAL+HIGH domains |
+| `ioc/domains_all_malicious.txt` | 82,576 | Production blocklist — CRITICAL+HIGH+MEDIUM |
+| `ioc/indicators.csv` | 82,582 | SIEM-ready: domain, ip, server_fp, favicon_mmh3, category, severity |
 | `docs/data.json` | — | Slim per-domain dataset for the live report |
 | `pkg/raw_data/lambda_results.jsonl.gz` | — | Phase 1 raw HTTP fingerprint output (compressed) |
 | `pkg/raw_data/enriched.csv.gz` | — | Compressed enriched dataset |
