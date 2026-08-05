@@ -2783,6 +2783,7 @@ de-ledger.com
 de-metamask.com
 de-paypal.info
 de-prime-capitals.com
+de-primecapitals.com
 de-secureplus.app
 de-signin.app
 de-signin.com
@@ -4785,6 +4786,7 @@ gunsid.com
 guvenilir-adresler.com
 guvenilir-girisadresi.com
 guvenilir-giristry.com
+guvenilirgirisleri.com
 guvenilirresmi-giris.com
 guvenli-adres.com
 guvenli-yatirim.com
@@ -7896,6 +7898,7 @@ revisedcontnt.icu
 revocacionseguroplanmovil.com
 revoke-webapp.com
 revokeaccess-app.com
+revolut-eu.net
 reward-eclipse.xyz
 reward-musk.com
 reward-stake.live
