@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-06",
+  "generated": "2026-08-07",
   "keywords": {
     "coinbase": [
       "00-coinbase.com",
@@ -121,7 +121,6 @@
       "11627168-coinbase.com",
       "116287-coinbase.com",
       "1162891-coinbase.com",
-      "117372-coinbase.com",
       "1178686-coinbase.com",
       "117949coinbase.com",
       "118241-coinbase.com",
@@ -201,7 +200,8 @@
       "132193coinbase.com",
       "132493-coinbase.com",
       "132535coinbase.com",
-      "132662coinbase.com"
+      "132662coinbase.com",
+      "1328271-coinbase.com"
     ],
     "claim": [
       "0x-claim.xyz",
@@ -381,6 +381,7 @@
       "blackbullsolclaim.pro",
       "blackholeclaim.xyz",
       "blastl2claim.com",
+      "blaze-claim.net",
       "blazpayclaim.live",
       "blendr-claims.com",
       "blockchainfx-claim.live",
@@ -402,8 +403,7 @@
       "blub-claim.com",
       "blubclaims.xyz",
       "blum-claims.com",
-      "bluzelleclaims.com",
-      "bluzellerewardclaims.com"
+      "bluzelleclaims.com"
     ],
     "login": [
       "0auth-login.digital",
@@ -445,6 +445,7 @@
       "898832-fedinsurance-login.live",
       "abacuslogin.com",
       "acc-unauthorized-login.live",
+      "accesdlogin.com",
       "accesoclientes-login.com",
       "accesos-login.com",
       "accesosweb-login.com",
@@ -604,8 +605,7 @@
       "betcio-logintek1.vip",
       "betcio-logintek2.vip",
       "betcio-logintek3.vip",
-      "betcio-logintekk2.vip",
-      "betcio-teklogin1.vip"
+      "betcio-logintekk2.vip"
     ],
     "secure": [
       "09025896-secure-chase.com",
@@ -729,6 +729,7 @@
       "bitgetteamsecure.com",
       "bitpanda-secure.com",
       "bitpanda-secured.com",
+      "blaze-secure.com",
       "blosomsecurepassageping.com",
       "bltstamp-secure.com",
       "bmo-banking-secure.com",
@@ -806,8 +807,7 @@
       "centrelink-secured.net",
       "channel-secure-beamless.com",
       "chase-paymentech-secure.com",
-      "chase-secured-help.com",
-      "chasesecureportal.com"
+      "chase-secured-help.com"
     ],
     "token": [
       "1fueliotoken.life",
@@ -1001,12 +1001,12 @@
       "blaze-token.org",
       "blazedistribution-token.net",
       "blazenetwork-token.com",
-      "blazetoken.net",
       "blaztoken.live",
       "block-token.org",
       "block-token.xyz",
       "blockdagtoken.live",
       "blockdagtoken.network",
+      "blooket-tokens.live",
       "bmoresettoken22.com",
       "bnb-testtoken.com",
       "bnbcarnivaltoken.pro"
@@ -1498,6 +1498,7 @@
       "389092ledger.com",
       "3924912-ledger.com",
       "4191384-ledger.com",
+      "419931-ledger.com",
       "435221-ledger.com",
       "435221ledger.com",
       "4359328-ledger.com",
@@ -1520,7 +1521,6 @@
       "5829391-ledger.com",
       "582949-ledger.com",
       "5829492-ledger.com",
-      "587273-ledger.com",
       "587295-ledger.com",
       "5882345-ledger.com",
       "5892841-ledger.com",
@@ -1552,7 +1552,6 @@
       "7171735-ledger.com",
       "7718991-ledger.com",
       "772813-ledger.com",
-      "774828-ledger.com",
       "78281-ledger.com",
       "79351-ledger.com",
       "793526-ledger.com",
@@ -1615,7 +1614,8 @@
       "app-wallet-ledger.live",
       "approved-ledger.com",
       "apps-ledger.com",
-      "assets-ledger.com"
+      "assets-ledger.com",
+      "assistledger.com"
     ],
     "swap": [
       "0xswaps.xyz",
@@ -1708,7 +1708,6 @@
       "apt-swap.pro",
       "arbswap.cash",
       "arbswap.gold",
-      "arbswap.guru",
       "arbswap.team",
       "arbswaps.app",
       "arbswaps.info",
@@ -1740,7 +1739,6 @@
       "biasterswap.xyz",
       "bisoswap.com",
       "biswaplabs.com",
-      "bitcoin-exchange-swap.com",
       "bitcoin-swap.exchange",
       "bitcoinswap.live",
       "bitcoinswap.pro",
@@ -1817,7 +1815,9 @@
       "claim-ixswap.com",
       "claim-quickswap.com",
       "claim-quickswap.live",
-      "claim-swapx.com"
+      "claim-swapx.com",
+      "claim-uniswap.app",
+      "claim-uniswapstoken-gateway01a.org"
     ],
     "support": [
       "029250-support.com",
@@ -2469,7 +2469,6 @@
       "2025crypto.site",
       "221146-crypto.com",
       "223014-crypto.com",
-      "224541-crypto.com",
       "224571-crypto.com",
       "235625crypto.com",
       "238192-crypto.com",
@@ -2625,7 +2624,8 @@
       "anonymouscryptoexchange.com",
       "apple-crypto.com",
       "applecrypto-event.com",
-      "appleforcrypto.com"
+      "appleforcrypto.com",
+      "appllexcrypto.com"
     ],
     "connect": [
       "0nline-2025at0connect.digital",
@@ -2795,12 +2795,10 @@
       "connect-app.pub",
       "connect-asterdex.com",
       "connect-astra.com",
-      "connect-athene.com",
       "connect-auth.net",
       "connect-avalon.com",
       "connect-avive.com",
       "connect-bananagun.com",
-      "connect-beefy.com",
       "connect-bitstamq.com",
       "connect-blastoff.com",
       "connect-brevis.network",
@@ -2827,7 +2825,9 @@
       "connect-ethenalabs.com",
       "connect-eventtia.com",
       "connect-fluent.xyz",
-      "connect-form.com"
+      "connect-form.com",
+      "connect-galexe.com",
+      "connect-gemini.com"
     ],
     "trust": [
       "1-tdcanadatrust.com",
@@ -3486,7 +3486,6 @@
       "binance-verifying.com",
       "bitgetverify.com",
       "bitgetverifysupport.com",
-      "bitgetverifyteam.com",
       "blockchain-verify.com",
       "blockscanverify.com",
       "bmo-banking-verify.com",
@@ -3547,6 +3546,7 @@
       "depop-verify-order.info",
       "device-verifyboa-help.com",
       "direct-verify.com",
+      "discordverify.net",
       "dkb-verify.com",
       "dnm-verify.com",
       "docverifyemail.com",
@@ -3652,7 +3652,6 @@
       "762559-cbvault.com",
       "81914-vault-gemini.com",
       "84913-vault-gemini.com",
-      "935151-cbvault.com",
       "accessvault-coinbase.com",
       "accountsvaultcrypto.com",
       "acecasinovault.com",
@@ -3828,6 +3827,7 @@
       "layervaultchain.xyz",
       "leadvaultorbit.com",
       "leanrelaynode-vault.sbs",
+      "leapvault.info",
       "ledger-vault.com",
       "letsvault-coinbase.com",
       "lido-vault.app",
