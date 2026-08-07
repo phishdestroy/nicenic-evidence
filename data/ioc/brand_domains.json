@@ -121,6 +121,7 @@
       "11627168-coinbase.com",
       "116287-coinbase.com",
       "1162891-coinbase.com",
+      "117372-coinbase.com",
       "1178686-coinbase.com",
       "117949coinbase.com",
       "118241-coinbase.com",
@@ -200,8 +201,7 @@
       "132193coinbase.com",
       "132493-coinbase.com",
       "132535coinbase.com",
-      "132662coinbase.com",
-      "1328271-coinbase.com"
+      "132662coinbase.com"
     ],
     "claim": [
       "0x-claim.xyz",
@@ -1001,6 +1001,7 @@
       "blaze-token.org",
       "blazedistribution-token.net",
       "blazenetwork-token.com",
+      "blazetoken.net",
       "blaztoken.live",
       "block-token.org",
       "block-token.xyz",
@@ -1008,8 +1009,7 @@
       "blockdagtoken.network",
       "blooket-tokens.live",
       "bmoresettoken22.com",
-      "bnb-testtoken.com",
-      "bnbcarnivaltoken.pro"
+      "bnb-testtoken.com"
     ],
     "wallet": [
       "114229-wallet.com",
@@ -1238,7 +1238,6 @@
       "4rabet-official-india.com",
       "7slostofficial.vip",
       "9kboss-official-india.com",
-      "abacus-official-link.com",
       "abacus01-official.com",
       "abacus02-official.com",
       "abacus03-official.com",
@@ -1413,7 +1412,8 @@
       "bitcoinpepeofficial.xyz",
       "black-sprut-official.com",
       "blackops-official.ink",
-      "blacksprut02-official.com"
+      "blacksprut02-official.com",
+      "blacksprut03-official.com"
     ],
     "ledger": [
       "01-ledger.com",
@@ -1518,9 +1518,9 @@
       "5819913-ledger.com",
       "5823942-ledger.com",
       "582855-ledger.com",
-      "5829391-ledger.com",
       "582949-ledger.com",
       "5829492-ledger.com",
+      "587273-ledger.com",
       "587295-ledger.com",
       "5882345-ledger.com",
       "5892841-ledger.com",
@@ -1552,6 +1552,7 @@
       "7171735-ledger.com",
       "7718991-ledger.com",
       "772813-ledger.com",
+      "774828-ledger.com",
       "78281-ledger.com",
       "79351-ledger.com",
       "793526-ledger.com",
@@ -1604,6 +1605,8 @@
       "apiledgerscan.com",
       "apisledger.com",
       "app-download-ledger.com",
+      "app-install-ledger.com",
+      "app-installer-ledger.com",
       "app-ledger-co.com",
       "app-ledger-com.live",
       "app-ledger-security.com",
@@ -1612,10 +1615,7 @@
       "app-legal-ledger.icu",
       "app-openledger.xyz",
       "app-wallet-ledger.live",
-      "approved-ledger.com",
-      "apps-ledger.com",
-      "assets-ledger.com",
-      "assistledger.com"
+      "approved-ledger.com"
     ],
     "swap": [
       "0xswaps.xyz",
@@ -1708,6 +1708,7 @@
       "apt-swap.pro",
       "arbswap.cash",
       "arbswap.gold",
+      "arbswap.guru",
       "arbswap.team",
       "arbswaps.app",
       "arbswaps.info",
@@ -1739,6 +1740,7 @@
       "biasterswap.xyz",
       "bisoswap.com",
       "biswaplabs.com",
+      "bitcoin-exchange-swap.com",
       "bitcoin-swap.exchange",
       "bitcoinswap.live",
       "bitcoinswap.pro",
@@ -1815,9 +1817,7 @@
       "claim-ixswap.com",
       "claim-quickswap.com",
       "claim-quickswap.live",
-      "claim-swapx.com",
-      "claim-uniswap.app",
-      "claim-uniswapstoken-gateway01a.org"
+      "claim-swapx.com"
     ],
     "support": [
       "029250-support.com",
@@ -1865,6 +1865,7 @@
       "agent-support-coinbase.com",
       "aib-support-service.com",
       "aibsupportchat.com",
+      "airwallexdesksupport.com",
       "airwallexhelpsupport.com",
       "airwallexlivesupport.com",
       "airwallexsecuresupport.com",
@@ -1955,7 +1956,6 @@
       "bitgetsupportsecure.com",
       "bitgetsupportset.com",
       "bitgetsupportteam.com",
-      "bitgetverifysupport.com",
       "bitsosupport.org",
       "bitstampsupport.com",
       "blaze-support.cfd",
@@ -2469,7 +2469,7 @@
       "2025crypto.site",
       "221146-crypto.com",
       "223014-crypto.com",
-      "224571-crypto.com",
+      "224541-crypto.com",
       "235625crypto.com",
       "238192-crypto.com",
       "242423-crypto.com",
@@ -2721,6 +2721,7 @@
       "cbcbusinessconnectmanagement.icu",
       "cbcbusinesstreasuryconnect.icu",
       "cco-connected-devices.com",
+      "cdn-connection-googl.sbs",
       "cdn-connectionsource.com",
       "cdn-connectionwebpage.com",
       "cdn-js-connection.cfd",
@@ -2824,10 +2825,9 @@
       "connect-elys.com",
       "connect-ethenalabs.com",
       "connect-eventtia.com",
+      "connect-flareecosystem.xyz",
       "connect-fluent.xyz",
-      "connect-form.com",
-      "connect-galexe.com",
-      "connect-gemini.com"
+      "connect-form.com"
     ],
     "trust": [
       "1-tdcanadatrust.com",
@@ -3287,6 +3287,7 @@
       "airdrop-bullish.xyz",
       "airdrop-butthole.com",
       "airdrop-cashcat.com",
+      "airdrop-cate.com",
       "airdrop-catwifmask.vip",
       "airdrop-chainlink.xyz",
       "airdrop-chainopera.com",
@@ -3432,8 +3433,7 @@
       "airdrop-neur.com",
       "airdrop-niggaliquid.fun",
       "airdrop-nubcat.xyz",
-      "airdrop-nyx.com",
-      "airdrop-oether.com"
+      "airdrop-nyx.com"
     ],
     "verify": [
       "05-25verifybnkaccess.info",
@@ -3485,7 +3485,6 @@
       "betgit-2026verify.com",
       "binance-verifying.com",
       "bitgetverify.com",
-      "bitgetverifysupport.com",
       "blockchain-verify.com",
       "blockscanverify.com",
       "bmo-banking-verify.com",
@@ -3501,6 +3500,7 @@
       "btp-verify.com",
       "bunq-verify.com",
       "canada-post-verifybilling.com",
+      "captcha-verify.com",
       "casinomilyon-2026verify.com",
       "casinoroyal-2026verify.com",
       "challengermode-verify.com",
@@ -3562,7 +3562,6 @@
       "faceit-discordverifynow.com",
       "faceit-status-verify.com",
       "faceitmverify.com",
-      "five-verify.com",
       "flarefndn-verify.live",
       "flow-scalar-bridge-verify.com",
       "frostverify.com",
@@ -3635,7 +3634,8 @@
       "matbet-myverify.com",
       "matbetverify2026.live",
       "matqet-verifylogin.com",
-      "matrica-verify.app"
+      "matrica-verify.app",
+      "mediaverify-x.com"
     ],
     "vault": [
       "118924-cbvault.com",
@@ -3652,6 +3652,7 @@
       "762559-cbvault.com",
       "81914-vault-gemini.com",
       "84913-vault-gemini.com",
+      "935151-cbvault.com",
       "accessvault-coinbase.com",
       "accountsvaultcrypto.com",
       "acecasinovault.com",
@@ -3669,6 +3670,7 @@
       "af-vaultsystems-2077.cyou",
       "allvaultclaims-blockchaindisbursal.live",
       "apac01-dropbox-safelinks-protection-privatevault.pro",
+      "assets-vault.com",
       "assetsvault-coinbase.com",
       "asterdex-vault.com",
       "astrovault.ltd",
@@ -3835,9 +3837,7 @@
       "lido-vault.xyz",
       "lightningvaults.pro",
       "liquidvaults.xyz",
-      "lumivault.info",
-      "mantlevaults.pro",
-      "marketing-vault.xyz"
+      "lumivault.info"
     ],
     "solana": [
       "1coinofsolana.com",
