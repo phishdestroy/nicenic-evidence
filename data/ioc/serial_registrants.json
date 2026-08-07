@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-06",
+  "generated": "2026-08-07",
   "count": 50,
   "registrants": [
     {
@@ -107,12 +107,11 @@
     },
     {
       "email": "info@africaoil.com",
-      "count": 78,
+      "count": 71,
       "domains": [
         "centr24.info",
         "client-support24.info",
         "dom-com.info",
-        "dom-gocuclugi.info",
         "dom-gosuslugi-gov.info",
         "dom-gosuslugi.com",
         "dom-gosuslugi.net",
@@ -120,7 +119,6 @@
         "dom-oplata.info",
         "dom-ru-gosuslugi.info",
         "dom-ru-gosuslugl.info",
-        "dom-service.info",
         "dom-services.info",
         "dom-vodokanal.info",
         "domgosuslugi.info",
@@ -148,14 +146,11 @@
         "kvartplata-service.info",
         "me-status.info",
         "nalogi-gosuslugi.info",
-        "nalogi-gov.info",
         "naologi-gosuslugi.info",
         "online24-portal.info",
         "oplata-energiya.info",
         "oplata-energo.info",
         "oplata-gkh.info",
-        "oplata-gosuslugi-gov.info",
-        "oplata-gosuslugl-gov.info",
         "oplata-gov.info",
         "oplata-portal.info",
         "pay-gosuslugi.info",
@@ -168,8 +163,6 @@
         "post-gov.info",
         "post-inform.info",
         "ru-energiya.info",
-        "rudom-gosuslugi.info",
-        "rudom-service.info",
         "ruonline.info",
         "rupost.info",
         "service-client24.info",
@@ -752,6 +745,23 @@
       ]
     },
     {
+      "email": "support@adguard.com",
+      "count": 11,
+      "domains": [
+        "adguardclear.com",
+        "adguardclear.net",
+        "adguardfocus.com",
+        "adguardfree.com",
+        "adguardpro.net",
+        "adguardscan.com",
+        "adguardscan.net",
+        "adguardscan.org",
+        "adguardtech.com",
+        "adguardtech.net",
+        "adguardtools.com"
+      ]
+    },
+    {
       "email": "helpdesk@wingstop.com",
       "count": 11,
       "domains": [
@@ -823,22 +833,6 @@
       "email": "support@stake.us",
       "count": 10,
       "domains": []
-    },
-    {
-      "email": "support@adguard.com",
-      "count": 10,
-      "domains": [
-        "adguardclear.com",
-        "adguardclear.net",
-        "adguardfocus.com",
-        "adguardfree.com",
-        "adguardscan.com",
-        "adguardscan.net",
-        "adguardscan.org",
-        "adguardtech.com",
-        "adguardtech.net",
-        "adguardtools.com"
-      ]
     },
     {
       "email": "support@jojobet.com",
@@ -920,21 +914,6 @@
         "rainbet-casino-au.com",
         "rainbet-casino-canada.com",
         "truefortuneuk.com"
-      ]
-    },
-    {
-      "email": "witting.maya@hilpert.biz",
-      "count": 9,
-      "domains": [
-        "airbitns-droping.net",
-        "basfast-bitc.net",
-        "bitco-projects.net",
-        "blokchains-bits.net",
-        "crybase-platforn.net",
-        "fastminingpro.net",
-        "fastmininrg.net",
-        "fasts-miningpro.net",
-        "fastsminingpro.net"
       ]
     },
     {
@@ -1068,6 +1047,18 @@
         "bowrivercapitalir.com",
         "bowrivercapitalpartner.com",
         "bowrivercapitaltd.com"
+      ]
+    },
+    {
+      "email": "gvgalleryshop@gmail.com",
+      "count": 7,
+      "domains": [
+        "braveststudio.net",
+        "godspeedsco.com",
+        "mertraauk.com",
+        "thelabubuo.com",
+        "theraspberryshills.com",
+        "theraspberryshillsclothing.com"
       ]
     }
   ]

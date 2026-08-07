@@ -117,7 +117,6 @@ coinbase	115604coinbase.com
 coinbase	11627168-coinbase.com
 coinbase	116287-coinbase.com
 coinbase	1162891-coinbase.com
-coinbase	117372-coinbase.com
 coinbase	1178686-coinbase.com
 coinbase	117949coinbase.com
 coinbase	118241-coinbase.com
@@ -198,6 +197,7 @@ coinbase	132193coinbase.com
 coinbase	132493-coinbase.com
 coinbase	132535coinbase.com
 coinbase	132662coinbase.com
+coinbase	1328271-coinbase.com
 claim	0x-claim.xyz
 claim	0x00-claimables.xyz
 claim	0x000-claimables.xyz
@@ -375,6 +375,7 @@ claim	bitlayer-claim.xyz
 claim	blackbullsolclaim.pro
 claim	blackholeclaim.xyz
 claim	blastl2claim.com
+claim	blaze-claim.net
 claim	blazpayclaim.live
 claim	blendr-claims.com
 claim	blockchainfx-claim.live
@@ -397,7 +398,6 @@ claim	blub-claim.com
 claim	blubclaims.xyz
 claim	blum-claims.com
 claim	bluzelleclaims.com
-claim	bluzellerewardclaims.com
 login	0auth-login.digital
 login	101clublogin.net
 login	1bmologin-dsvl2k9mc.com
@@ -437,6 +437,7 @@ login	88854356-fedinsurance-login.live
 login	898832-fedinsurance-login.live
 login	abacuslogin.com
 login	acc-unauthorized-login.live
+login	accesdlogin.com
 login	accesoclientes-login.com
 login	accesos-login.com
 login	accesosweb-login.com
@@ -597,7 +598,6 @@ login	betcio-logintek1.vip
 login	betcio-logintek2.vip
 login	betcio-logintek3.vip
 login	betcio-logintekk2.vip
-login	betcio-teklogin1.vip
 secure	09025896-secure-chase.com
 secure	19023-secure.com
 secure	1bmo-banking-secure.com
@@ -719,6 +719,7 @@ secure	bitgetsupportsecure.com
 secure	bitgetteamsecure.com
 secure	bitpanda-secure.com
 secure	bitpanda-secured.com
+secure	blaze-secure.com
 secure	blosomsecurepassageping.com
 secure	bltstamp-secure.com
 secure	bmo-banking-secure.com
@@ -797,7 +798,6 @@ secure	centrelink-secured.net
 secure	channel-secure-beamless.com
 secure	chase-paymentech-secure.com
 secure	chase-secured-help.com
-secure	chasesecureportal.com
 token	1fueliotoken.life
 token	1fueltoken.cfd
 token	4bsctoken.com
@@ -989,12 +989,12 @@ token	blackrocktokengift.com
 token	blaze-token.org
 token	blazedistribution-token.net
 token	blazenetwork-token.com
-token	blazetoken.net
 token	blaztoken.live
 token	block-token.org
 token	block-token.xyz
 token	blockdagtoken.live
 token	blockdagtoken.network
+token	blooket-tokens.live
 token	bmoresettoken22.com
 token	bnb-testtoken.com
 token	bnbcarnivaltoken.pro
@@ -1480,6 +1480,7 @@ ledger	382959-ledger.com
 ledger	389092ledger.com
 ledger	3924912-ledger.com
 ledger	4191384-ledger.com
+ledger	419931-ledger.com
 ledger	435221-ledger.com
 ledger	435221ledger.com
 ledger	4359328-ledger.com
@@ -1502,7 +1503,6 @@ ledger	582855-ledger.com
 ledger	5829391-ledger.com
 ledger	582949-ledger.com
 ledger	5829492-ledger.com
-ledger	587273-ledger.com
 ledger	587295-ledger.com
 ledger	5882345-ledger.com
 ledger	5892841-ledger.com
@@ -1534,7 +1534,6 @@ ledger	69437-ledger.com
 ledger	7171735-ledger.com
 ledger	7718991-ledger.com
 ledger	772813-ledger.com
-ledger	774828-ledger.com
 ledger	78281-ledger.com
 ledger	79351-ledger.com
 ledger	793526-ledger.com
@@ -1598,6 +1597,7 @@ ledger	app-wallet-ledger.live
 ledger	approved-ledger.com
 ledger	apps-ledger.com
 ledger	assets-ledger.com
+ledger	assistledger.com
 swap	0xswaps.xyz
 swap	1-swap.com
 swap	11amaswap.icu
@@ -1688,7 +1688,6 @@ swap	apt-swap.com
 swap	apt-swap.pro
 swap	arbswap.cash
 swap	arbswap.gold
-swap	arbswap.guru
 swap	arbswap.team
 swap	arbswaps.app
 swap	arbswaps.info
@@ -1720,7 +1719,6 @@ swap	basedswap.exchange
 swap	biasterswap.xyz
 swap	bisoswap.com
 swap	biswaplabs.com
-swap	bitcoin-exchange-swap.com
 swap	bitcoin-swap.exchange
 swap	bitcoinswap.live
 swap	bitcoinswap.pro
@@ -1798,6 +1796,8 @@ swap	claim-ixswap.com
 swap	claim-quickswap.com
 swap	claim-quickswap.live
 swap	claim-swapx.com
+swap	claim-uniswap.app
+swap	claim-uniswapstoken-gateway01a.org
 support	029250-support.com
 support	0myidsupportdesk.live
 support	1-online-support.com
@@ -2441,7 +2441,6 @@ crypto	19929120crypto.com
 crypto	2025crypto.site
 crypto	221146-crypto.com
 crypto	223014-crypto.com
-crypto	224541-crypto.com
 crypto	224571-crypto.com
 crypto	235625crypto.com
 crypto	238192-crypto.com
@@ -2598,6 +2597,7 @@ crypto	anonymouscryptoexchange.com
 crypto	apple-crypto.com
 crypto	applecrypto-event.com
 crypto	appleforcrypto.com
+crypto	appllexcrypto.com
 connect	0nline-2025at0connect.digital
 connect	0xmetaconnect-rpc.xyz
 connect	19928292pcstestconnect2919.com
@@ -2765,12 +2765,10 @@ connect	connect-app.live
 connect	connect-app.pub
 connect	connect-asterdex.com
 connect	connect-astra.com
-connect	connect-athene.com
 connect	connect-auth.net
 connect	connect-avalon.com
 connect	connect-avive.com
 connect	connect-bananagun.com
-connect	connect-beefy.com
 connect	connect-bitstamq.com
 connect	connect-blastoff.com
 connect	connect-brevis.network
@@ -2798,6 +2796,8 @@ connect	connect-ethenalabs.com
 connect	connect-eventtia.com
 connect	connect-fluent.xyz
 connect	connect-form.com
+connect	connect-galexe.com
+connect	connect-gemini.com
 trust	1-tdcanadatrust.com
 trust	1trusted.live
 trust	1win-trust2026.icu
@@ -3448,7 +3448,6 @@ verify	betgit-2026verify.com
 verify	binance-verifying.com
 verify	bitgetverify.com
 verify	bitgetverifysupport.com
-verify	bitgetverifyteam.com
 verify	blockchain-verify.com
 verify	blockscanverify.com
 verify	bmo-banking-verify.com
@@ -3509,6 +3508,7 @@ verify	decubateverify.com
 verify	depop-verify-order.info
 verify	device-verifyboa-help.com
 verify	direct-verify.com
+verify	discordverify.net
 verify	dkb-verify.com
 verify	dnm-verify.com
 verify	docverifyemail.com
@@ -3612,7 +3612,6 @@ vault	587642-cbvault.com
 vault	762559-cbvault.com
 vault	81914-vault-gemini.com
 vault	84913-vault-gemini.com
-vault	935151-cbvault.com
 vault	accessvault-coinbase.com
 vault	accountsvaultcrypto.com
 vault	acecasinovault.com
@@ -3788,6 +3787,7 @@ vault	kiichainvaults.xyz
 vault	layervaultchain.xyz
 vault	leadvaultorbit.com
 vault	leanrelaynode-vault.sbs
+vault	leapvault.info
 vault	ledger-vault.com
 vault	letsvault-coinbase.com
 vault	lido-vault.app
