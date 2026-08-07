@@ -107,7 +107,7 @@
     },
     {
       "email": "info@africaoil.com",
-      "count": 71,
+      "count": 66,
       "domains": [
         "centr24.info",
         "client-support24.info",
@@ -124,8 +124,6 @@
         "domgosuslugi.info",
         "energiya-gosuslugi.info",
         "energiya-gov.info",
-        "gkh-oplata.info",
-        "gkh-service.info",
         "gosuslugi-oplata.info",
         "help24-service.info",
         "help24-services.info",
@@ -150,19 +148,16 @@
         "online24-portal.info",
         "oplata-energiya.info",
         "oplata-energo.info",
-        "oplata-gkh.info",
         "oplata-gov.info",
         "oplata-portal.info",
         "pay-gosuslugi.info",
         "pay-gosuslugl.info",
-        "portal-dom.info",
         "portal-gkh.info",
         "portal-stat24.info",
         "portal24-stat.info",
         "portal24-static.info",
         "post-gov.info",
         "post-inform.info",
-        "ru-energiya.info",
         "ruonline.info",
         "rupost.info",
         "service-client24.info",
@@ -184,7 +179,7 @@
     },
     {
       "email": "info@vuz.info",
-      "count": 63,
+      "count": 61,
       "domains": [
         "vuz-0q.info",
         "vuz-2.info",
@@ -204,11 +199,9 @@
         "vuz.info",
         "vuz0a.info",
         "vuz0d.info",
-        "vuz1.info",
         "vuz1v.info",
         "vuz2m.info",
         "vuz4m.info",
-        "vuz6c.info",
         "vuz6n.info",
         "vuz7o.info",
         "vuzb.info",
@@ -344,7 +337,7 @@
     },
     {
       "email": "press@ethereum.org",
-      "count": 27,
+      "count": 26,
       "domains": [
         "award-boosteth.com",
         "bonus-boosteth.com",
@@ -369,7 +362,6 @@
         "protocol-boosteth.com",
         "protocol-boosteth.org",
         "reward-boosteth.com",
-        "reward-boosteth.net",
         "stake-boosteth.com",
         "treasury-boosteth.com",
         "yield-boosteth.com"
@@ -440,14 +432,15 @@
     },
     {
       "email": "submissions@shib.io",
-      "count": 23,
+      "count": 24,
       "domains": [
         "apyshib.com",
         "award-shibinu.com",
         "bounty-shibinu.com",
         "collect-shibinu.com",
+        "collectshib.com",
         "daoshib.com",
-        "earn-shibinu.net",
+        "gainshib.com",
         "giftshiba.com",
         "launch-shibinu.com",
         "prize-shibinu.com",
@@ -469,17 +462,17 @@
     },
     {
       "email": "u003esubmissions@shib.io",
-      "count": 23,
+      "count": 24,
       "domains": []
     },
     {
       "email": "ads@shib.io",
-      "count": 23,
+      "count": 24,
       "domains": []
     },
     {
       "email": "u003eads@shib.io",
-      "count": 23,
+      "count": 24,
       "domains": []
     },
     {
@@ -538,7 +531,7 @@
     },
     {
       "email": "angelgarcia.mail@gmail.com",
-      "count": 22,
+      "count": 21,
       "domains": [
         "25musk.org",
         "cbfund.info",
@@ -549,7 +542,6 @@
         "foundation-reward.net",
         "musk-payment.org",
         "musk1.info",
-        "promo-musk.net",
         "reward-promotions.org",
         "ripple-pomotion.org",
         "ripplefinace-promotion.org",
@@ -1011,6 +1003,20 @@
       ]
     },
     {
+      "email": "technology@tropicalsmoothie.com",
+      "count": 8,
+      "domains": [
+        "caffetr0pical.delivery",
+        "h0me-tropicalcaffe.delivery",
+        "order-tropicalismoothecaffe.com",
+        "tr00pical-order.delivery",
+        "tr00ppicalcaffee.delivery",
+        "tr0pica-caffe.delivery",
+        "tr0ppicalcaffee.delivery",
+        "tropicalcaf3e.com"
+      ]
+    },
+    {
       "email": "support@casibom.com",
       "count": 7,
       "domains": [
@@ -1047,18 +1053,6 @@
         "bowrivercapitalir.com",
         "bowrivercapitalpartner.com",
         "bowrivercapitaltd.com"
-      ]
-    },
-    {
-      "email": "gvgalleryshop@gmail.com",
-      "count": 7,
-      "domains": [
-        "braveststudio.net",
-        "godspeedsco.com",
-        "mertraauk.com",
-        "thelabubuo.com",
-        "theraspberryshills.com",
-        "theraspberryshillsclothing.com"
       ]
     }
   ]
