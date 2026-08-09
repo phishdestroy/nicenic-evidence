@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-08",
+  "generated": "2026-08-09",
   "keywords": {
     "coinbase": [
       "00-coinbase.com",
@@ -46,7 +46,6 @@
       "102925-coinbase.com",
       "10340-coinbase.com",
       "10382-coinbase.com",
-      "103828-coinbase.com",
       "103829-coinbase.com",
       "1039292-coinbase.com",
       "1039295-coinbase.com",
@@ -201,7 +200,8 @@
       "132193coinbase.com",
       "132493-coinbase.com",
       "132535coinbase.com",
-      "132662coinbase.com"
+      "132662coinbase.com",
+      "1328271-coinbase.com"
     ],
     "claim": [
       "0x-claim.xyz",
@@ -652,7 +652,6 @@
       "adguardsecure.net",
       "adguardsecure.org",
       "admin-secure.info",
-      "afp-secureonline.com",
       "ag-acbsecure.com",
       "aib-mobile-secure.com",
       "aibmobile-onlinesecure.com",
@@ -789,7 +788,6 @@
       "canadianimperialsecured.com",
       "cansecuredepgsthst.com",
       "cansecuregstdeposit.com",
-      "carrierssecure.com",
       "casecurecradeposit.com",
       "casecuredci.com",
       "casecuredeposit.com",
@@ -807,7 +805,9 @@
       "centrelink-secured.net",
       "channel-secure-beamless.com",
       "chase-paymentech-secure.com",
-      "chase-secured-help.com"
+      "chase-secured-help.com",
+      "chasesecureportal.com",
+      "check-secure-service.com"
     ],
     "token": [
       "1fueliotoken.life",
@@ -1076,7 +1076,6 @@
       "atomiciwallet.xyz",
       "atomicwallet.cfd",
       "atomicwallet.sbs",
-      "atomicwallet.win",
       "atomicwalletapp.net",
       "atomicwalletdesktop.store",
       "atomicwalletscan.sbs",
@@ -1211,7 +1210,8 @@
       "casadektopwallet.app",
       "casinowalletindia.com",
       "cbwallet-overview.com",
-      "cbwallet-review.com"
+      "cbwallet-review.com",
+      "cbwallet-smartupgrade.com"
     ],
     "official": [
       "10cric-official-india.com",
@@ -1390,6 +1390,8 @@
       "betparkofficial8.icu",
       "betparkofficialadresi.com",
       "betpas-officialgirisadresi.icu",
+      "betpasofficial.vip",
+      "betperofficial.vip",
       "betplayofficial.vip",
       "betpuanglobalofficial.vip",
       "bets10-giris-official.com",
@@ -1411,9 +1413,7 @@
       "binariumofficial.com",
       "bitcoinpepeofficial.xyz",
       "black-sprut-official.com",
-      "blackops-official.ink",
-      "blacksprut02-official.com",
-      "blacksprut03-official.com"
+      "blackops-official.ink"
     ],
     "ledger": [
       "01-ledger.com",
@@ -1491,6 +1491,7 @@
       "3410055-ledger.com",
       "345698-ledger.com",
       "3592393-ledger.com",
+      "371757-ledger.com",
       "378446-ledger.com",
       "3819345-ledger.com",
       "382381-ledger.com",
@@ -1614,8 +1615,7 @@
       "app-ledgerwallet.com",
       "app-legal-ledger.icu",
       "app-openledger.xyz",
-      "app-wallet-ledger.live",
-      "approved-ledger.com"
+      "app-wallet-ledger.live"
     ],
     "swap": [
       "0xswaps.xyz",
@@ -2249,7 +2249,6 @@
       "accountportalupdate.com",
       "accountpulserupdate.com",
       "acess-docupdate.info",
-      "acrobat-pdfupdate.com",
       "acrobat-set-up-update.live",
       "acrobatupdatetool.com",
       "adbpdf-viewupdate2026.cfd",
@@ -2367,7 +2366,6 @@
       "claim-g0update0311.info",
       "claimsupdate.net",
       "clayerupdate.live",
-      "cloud-updatereserve.com",
       "clubx-updates.live",
       "cm-update.icu",
       "cnu8-windowsupdate.com",
@@ -2395,7 +2393,6 @@
       "comdi-sicherheitupdateerneuern.app",
       "comdi-tanupdate.info",
       "comdi-update2025.com",
-      "comdirec-update.com",
       "comditanupdate.info",
       "commerz-reupdateqr.info",
       "commerz-update.info",
@@ -2423,7 +2420,10 @@
       "cra-statusupdate.com",
       "craannualupdatereminder.com",
       "crainfoupdate-reminder.com",
-      "criticalupdate.xyz"
+      "criticalupdate.xyz",
+      "cryptodetailsupdaten.com",
+      "csc-updates.live",
+      "csr-update.info"
     ],
     "crypto": [
       "094239-crypto.com",
@@ -2470,6 +2470,7 @@
       "221146-crypto.com",
       "223014-crypto.com",
       "224541-crypto.com",
+      "224571-crypto.com",
       "235625crypto.com",
       "238192-crypto.com",
       "242423-crypto.com",
@@ -2624,8 +2625,7 @@
       "anonymouscryptoexchange.com",
       "apple-crypto.com",
       "applecrypto-event.com",
-      "appleforcrypto.com",
-      "appllexcrypto.com"
+      "appleforcrypto.com"
     ],
     "connect": [
       "0nline-2025at0connect.digital",
@@ -2647,6 +2647,7 @@
       "allchainconnectsolver.live",
       "amegy-bank-connect.com",
       "amegyconnect.icu",
+      "americanexpress-connect.com",
       "amex-connect.com",
       "anzchatconnect.com",
       "apelloconnect.app",
@@ -2826,8 +2827,7 @@
       "connect-ethenalabs.com",
       "connect-eventtia.com",
       "connect-flareecosystem.xyz",
-      "connect-fluent.xyz",
-      "connect-form.com"
+      "connect-fluent.xyz"
     ],
     "trust": [
       "1-tdcanadatrust.com",
@@ -3446,7 +3446,6 @@
       "access-verifyidentity.com",
       "accessverify.pro",
       "account-verify-etsy.com",
-      "accountverifyemail.com",
       "accountverifyvzw.com",
       "accverify75-booking.com",
       "accverifyaifdic.digital",
@@ -3549,7 +3548,6 @@
       "discordverify.net",
       "dkb-verify.com",
       "dnm-verify.com",
-      "docverifyemail.com",
       "dota2-verify.com",
       "dynobotverifys.com",
       "e-authverify.com",
@@ -3635,7 +3633,9 @@
       "matbetverify2026.live",
       "matqet-verifylogin.com",
       "matrica-verify.app",
-      "mediaverify-x.com"
+      "mediaverify-x.com",
+      "mica-update-verify.com",
+      "mica-verify-update.com"
     ],
     "vault": [
       "118924-cbvault.com",
