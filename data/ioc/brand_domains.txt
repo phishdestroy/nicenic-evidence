@@ -42,7 +42,6 @@ coinbase	101861-coinbase.com
 coinbase	102925-coinbase.com
 coinbase	10340-coinbase.com
 coinbase	10382-coinbase.com
-coinbase	103828-coinbase.com
 coinbase	103829-coinbase.com
 coinbase	1039292-coinbase.com
 coinbase	1039295-coinbase.com
@@ -198,6 +197,7 @@ coinbase	132193coinbase.com
 coinbase	132493-coinbase.com
 coinbase	132535coinbase.com
 coinbase	132662coinbase.com
+coinbase	1328271-coinbase.com
 claim	0x-claim.xyz
 claim	0x00-claimables.xyz
 claim	0x000-claimables.xyz
@@ -642,7 +642,6 @@ secure	activity-secure.com
 secure	adguardsecure.net
 secure	adguardsecure.org
 secure	admin-secure.info
-secure	afp-secureonline.com
 secure	ag-acbsecure.com
 secure	aib-mobile-secure.com
 secure	aibmobile-onlinesecure.com
@@ -779,7 +778,6 @@ secure	canadaimperialsecured.com
 secure	canadianimperialsecured.com
 secure	cansecuredepgsthst.com
 secure	cansecuregstdeposit.com
-secure	carrierssecure.com
 secure	casecurecradeposit.com
 secure	casecuredci.com
 secure	casecuredeposit.com
@@ -798,6 +796,8 @@ secure	centrelink-secured.net
 secure	channel-secure-beamless.com
 secure	chase-paymentech-secure.com
 secure	chase-secured-help.com
+secure	chasesecureportal.com
+secure	check-secure-service.com
 token	1fueliotoken.life
 token	1fueltoken.cfd
 token	4bsctoken.com
@@ -1062,7 +1062,6 @@ wallet	atomiciwallet.com
 wallet	atomiciwallet.xyz
 wallet	atomicwallet.cfd
 wallet	atomicwallet.sbs
-wallet	atomicwallet.win
 wallet	atomicwalletapp.net
 wallet	atomicwalletdesktop.store
 wallet	atomicwalletscan.sbs
@@ -1198,6 +1197,7 @@ wallet	casadektopwallet.app
 wallet	casinowalletindia.com
 wallet	cbwallet-overview.com
 wallet	cbwallet-review.com
+wallet	cbwallet-smartupgrade.com
 official	10cric-official-india.com
 official	10official.vip
 official	1121-betebet-official.com
@@ -1374,6 +1374,8 @@ official	betparkofficial7.icu
 official	betparkofficial8.icu
 official	betparkofficialadresi.com
 official	betpas-officialgirisadresi.icu
+official	betpasofficial.vip
+official	betperofficial.vip
 official	betplayofficial.vip
 official	betpuanglobalofficial.vip
 official	bets10-giris-official.com
@@ -1396,8 +1398,6 @@ official	binariumofficial.com
 official	bitcoinpepeofficial.xyz
 official	black-sprut-official.com
 official	blackops-official.ink
-official	blacksprut02-official.com
-official	blacksprut03-official.com
 ledger	01-ledger.com
 ledger	0182778-ledger.com
 ledger	02-ledger.com
@@ -1473,6 +1473,7 @@ ledger	3409263-ledger.com
 ledger	3410055-ledger.com
 ledger	345698-ledger.com
 ledger	3592393-ledger.com
+ledger	371757-ledger.com
 ledger	378446-ledger.com
 ledger	3819345-ledger.com
 ledger	382381-ledger.com
@@ -1597,7 +1598,6 @@ ledger	app-ledgerwallet.com
 ledger	app-legal-ledger.icu
 ledger	app-openledger.xyz
 ledger	app-wallet-ledger.live
-ledger	approved-ledger.com
 swap	0xswaps.xyz
 swap	1-swap.com
 swap	11amaswap.icu
@@ -2223,7 +2223,6 @@ update	accounthelp-update.com
 update	accountportalupdate.com
 update	accountpulserupdate.com
 update	acess-docupdate.info
-update	acrobat-pdfupdate.com
 update	acrobat-set-up-update.live
 update	acrobatupdatetool.com
 update	adbpdf-viewupdate2026.cfd
@@ -2341,7 +2340,6 @@ update	cibcdeviceupdate.com
 update	claim-g0update0311.info
 update	claimsupdate.net
 update	clayerupdate.live
-update	cloud-updatereserve.com
 update	clubx-updates.live
 update	cm-update.icu
 update	cnu8-windowsupdate.com
@@ -2369,7 +2367,6 @@ update	comdi-sicherheitshilfeupdate.app
 update	comdi-sicherheitupdateerneuern.app
 update	comdi-tanupdate.info
 update	comdi-update2025.com
-update	comdirec-update.com
 update	comditanupdate.info
 update	commerz-reupdateqr.info
 update	commerz-update.info
@@ -2398,6 +2395,9 @@ update	cra-statusupdate.com
 update	craannualupdatereminder.com
 update	crainfoupdate-reminder.com
 update	criticalupdate.xyz
+update	cryptodetailsupdaten.com
+update	csc-updates.live
+update	csr-update.info
 crypto	094239-crypto.com
 crypto	109074-crypto.com
 crypto	1124crypto.com
@@ -2442,6 +2442,7 @@ crypto	2025crypto.site
 crypto	221146-crypto.com
 crypto	223014-crypto.com
 crypto	224541-crypto.com
+crypto	224571-crypto.com
 crypto	235625crypto.com
 crypto	238192-crypto.com
 crypto	242423-crypto.com
@@ -2597,7 +2598,6 @@ crypto	anonymouscryptoexchange.com
 crypto	apple-crypto.com
 crypto	applecrypto-event.com
 crypto	appleforcrypto.com
-crypto	appllexcrypto.com
 connect	0nline-2025at0connect.digital
 connect	0xmetaconnect-rpc.xyz
 connect	19928292pcstestconnect2919.com
@@ -2617,6 +2617,7 @@ connect	aisaconnect.com
 connect	allchainconnectsolver.live
 connect	amegy-bank-connect.com
 connect	amegyconnect.icu
+connect	americanexpress-connect.com
 connect	amex-connect.com
 connect	anzchatconnect.com
 connect	apelloconnect.app
@@ -2797,7 +2798,6 @@ connect	connect-ethenalabs.com
 connect	connect-eventtia.com
 connect	connect-flareecosystem.xyz
 connect	connect-fluent.xyz
-connect	connect-form.com
 trust	1-tdcanadatrust.com
 trust	1trusted.live
 trust	1win-trust2026.icu
@@ -3408,7 +3408,6 @@ verify	365-verify.com
 verify	access-verifyidentity.com
 verify	accessverify.pro
 verify	account-verify-etsy.com
-verify	accountverifyemail.com
 verify	accountverifyvzw.com
 verify	accverify75-booking.com
 verify	accverifyaifdic.digital
@@ -3511,7 +3510,6 @@ verify	direct-verify.com
 verify	discordverify.net
 verify	dkb-verify.com
 verify	dnm-verify.com
-verify	docverifyemail.com
 verify	dota2-verify.com
 verify	dynobotverifys.com
 verify	e-authverify.com
@@ -3598,6 +3596,8 @@ verify	matbetverify2026.live
 verify	matqet-verifylogin.com
 verify	matrica-verify.app
 verify	mediaverify-x.com
+verify	mica-update-verify.com
+verify	mica-verify-update.com
 vault	118924-cbvault.com
 vault	157206-cbvault.com
 vault	177253-cb-vault.com
