@@ -42,6 +42,7 @@ coinbase	101861-coinbase.com
 coinbase	102925-coinbase.com
 coinbase	10340-coinbase.com
 coinbase	10382-coinbase.com
+coinbase	103828-coinbase.com
 coinbase	103829-coinbase.com
 coinbase	1039292-coinbase.com
 coinbase	1039295-coinbase.com
@@ -148,8 +149,6 @@ coinbase	1231129-coinbase.com
 coinbase	123446-coinbase.com
 coinbase	123456-coinbase.com
 coinbase	12346-coinbase.com
-coinbase	123818-coinbase.com
-coinbase	123819-coinbase.com
 coinbase	123902-coinbase.com
 coinbase	12398-coinbase.com
 coinbase	12402-coinbase.com
@@ -198,6 +197,7 @@ coinbase	132493-coinbase.com
 coinbase	132535coinbase.com
 coinbase	132662coinbase.com
 coinbase	1328271-coinbase.com
+coinbase	133750-coinbase.com
 claim	0x-claim.xyz
 claim	0x00-claimables.xyz
 claim	0x000-claimables.xyz
@@ -439,7 +439,6 @@ login	abacuslogin.com
 login	acc-unauthorized-login.live
 login	accesdlogin.com
 login	accesoclientes-login.com
-login	accesos-login.com
 login	accesosweb-login.com
 login	accesoweb-login.com
 login	accesss-my-login-portal.com
@@ -598,6 +597,7 @@ login	betcio-logintek1.vip
 login	betcio-logintek2.vip
 login	betcio-logintek3.vip
 login	betcio-logintekk2.vip
+login	betcio-teklogin1.vip
 secure	09025896-secure-chase.com
 secure	19023-secure.com
 secure	1bmo-banking-secure.com
@@ -778,6 +778,7 @@ secure	canadaimperialsecured.com
 secure	canadianimperialsecured.com
 secure	cansecuredepgsthst.com
 secure	cansecuregstdeposit.com
+secure	carrierssecure.com
 secure	casecurecradeposit.com
 secure	casecuredci.com
 secure	casecuredeposit.com
@@ -797,7 +798,6 @@ secure	channel-secure-beamless.com
 secure	chase-paymentech-secure.com
 secure	chase-secured-help.com
 secure	chasesecureportal.com
-secure	check-secure-service.com
 token	1fueliotoken.life
 token	1fueltoken.cfd
 token	4bsctoken.com
@@ -1501,6 +1501,7 @@ ledger	581294-ledger.com
 ledger	5819913-ledger.com
 ledger	5823942-ledger.com
 ledger	582855-ledger.com
+ledger	5829391-ledger.com
 ledger	582949-ledger.com
 ledger	5829492-ledger.com
 ledger	587273-ledger.com
@@ -1597,7 +1598,6 @@ ledger	app-ledger.org
 ledger	app-ledgerwallet.com
 ledger	app-legal-ledger.icu
 ledger	app-openledger.xyz
-ledger	app-wallet-ledger.live
 swap	0xswaps.xyz
 swap	1-swap.com
 swap	11amaswap.icu
@@ -1933,7 +1933,6 @@ support	bitgetsupportcontact.com
 support	bitgetsupporthub.com
 support	bitgetsupportsecure.com
 support	bitgetsupportset.com
-support	bitgetsupportteam.com
 support	bitsosupport.org
 support	bitstampsupport.com
 support	blaze-support.cfd
@@ -1998,6 +1997,7 @@ support	chatsupportdesk.com
 support	cibc-accountsupport.com
 support	cibc-digitalbusiness-support.com
 support	cibc-support.com
+support	cibcsupport.com
 kraken	076261-kraken.com
 kraken	1-kraken.com
 kraken	109281-kraken.com
@@ -2223,6 +2223,7 @@ update	accounthelp-update.com
 update	accountportalupdate.com
 update	accountpulserupdate.com
 update	acess-docupdate.info
+update	acrobat-pdfupdate.com
 update	acrobat-set-up-update.live
 update	acrobatupdatetool.com
 update	adbpdf-viewupdate2026.cfd
@@ -2340,6 +2341,7 @@ update	cibcdeviceupdate.com
 update	claim-g0update0311.info
 update	claimsupdate.net
 update	clayerupdate.live
+update	cloud-updatereserve.com
 update	clubx-updates.live
 update	cm-update.icu
 update	cnu8-windowsupdate.com
@@ -2396,8 +2398,6 @@ update	craannualupdatereminder.com
 update	crainfoupdate-reminder.com
 update	criticalupdate.xyz
 update	cryptodetailsupdaten.com
-update	csc-updates.live
-update	csr-update.info
 crypto	094239-crypto.com
 crypto	109074-crypto.com
 crypto	1124crypto.com
@@ -2807,7 +2807,6 @@ trust	24x7genericworldtrust.com
 trust	24x7genericworldtrust.org
 trust	365guarantytrustpoint.com
 trust	aaml-trustwallet.com
-trust	accesstrusted.com
 trust	account-trust-wallet.com
 trust	adamsbktrust.icu
 trust	aetrusts.icu
@@ -2998,6 +2997,7 @@ trust	firelight-trusted.live
 trust	firstadvisorytrust.com
 trust	fix-trustwallet.com
 trust	fmtrust.icu
+trust	frandsenbktrust.icu
 account	1win-2026bestaccount.com
 account	1win-account2026.com
 account	1win-accountbeast2026.com
@@ -3486,7 +3486,6 @@ verify	collabs-verifys.xyz
 verify	com-verify-trustwallet.com
 verify	com-verify.net
 verify	com-verify.report
-verify	comm-bankverify.com
 verify	commbank-reverify.com
 verify	compliance-clarity-verify.com
 verify	connect-scotiaverifyclient.com
@@ -3522,6 +3521,7 @@ verify	faceit-discord-verifynow.com
 verify	faceit-discordverifynow.com
 verify	faceit-status-verify.com
 verify	faceitmverify.com
+verify	five-verify.com
 verify	flarefndn-verify.live
 verify	flow-scalar-bridge-verify.com
 verify	frostverify.com
