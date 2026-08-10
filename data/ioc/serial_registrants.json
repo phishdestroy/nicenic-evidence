@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-09",
+  "generated": "2026-08-10",
   "count": 50,
   "registrants": [
     {
@@ -225,7 +225,7 @@
     },
     {
       "email": "info@africaoil.com",
-      "count": 45,
+      "count": 39,
       "domains": [
         "centr24.info",
         "client-support24.info",
@@ -244,14 +244,8 @@
         "inform24-state.info",
         "informator-post.info",
         "informer-post.info",
-        "komunalnay-oplata.info",
-        "kvartplata-pay.info",
-        "kvartplata-service.info",
         "me-status.info",
         "online24-portal.info",
-        "oplata-energo.info",
-        "oplata-portal.info",
-        "portal-gkh.info",
         "portal-stat24.info",
         "portal24-stat.info",
         "portal24-static.info",
@@ -410,51 +404,6 @@
       ]
     },
     {
-      "email": "submissions@shib.io",
-      "count": 24,
-      "domains": [
-        "apyshib.com",
-        "award-shibinu.com",
-        "bounty-shibinu.com",
-        "collect-shibinu.com",
-        "collectshib.com",
-        "daoshib.com",
-        "gainshib.com",
-        "giftshiba.com",
-        "launch-shibinu.com",
-        "prize-shibinu.com",
-        "shib-bounty.net",
-        "shib-launch.com",
-        "shib-obtain.com",
-        "shib-yield.com",
-        "shibagrant.com",
-        "shibfarm.com",
-        "shibgift.com",
-        "shibinu-dashboard.com",
-        "shibinu-prize.com",
-        "shibinu-protocol.org",
-        "shibinu-win.com",
-        "shibprotocol.com",
-        "stakeshib.com",
-        "stakeshiba.com"
-      ]
-    },
-    {
-      "email": "u003esubmissions@shib.io",
-      "count": 24,
-      "domains": []
-    },
-    {
-      "email": "ads@shib.io",
-      "count": 24,
-      "domains": []
-    },
-    {
-      "email": "u003eads@shib.io",
-      "count": 24,
-      "domains": []
-    },
-    {
       "email": "seu@email.com",
       "count": 22,
       "domains": [
@@ -507,6 +456,48 @@
         "safetycheck-kraken.com",
         "securitycheck-kraken.com"
       ]
+    },
+    {
+      "email": "submissions@shib.io",
+      "count": 21,
+      "domains": [
+        "apyshib.com",
+        "award-shibinu.com",
+        "bounty-shibinu.com",
+        "collectshib.com",
+        "daoshib.com",
+        "gainshib.com",
+        "giftshiba.com",
+        "shib-bounty.net",
+        "shib-launch.com",
+        "shib-obtain.com",
+        "shib-yield.com",
+        "shibagrant.com",
+        "shibfarm.com",
+        "shibgift.com",
+        "shibinu-dashboard.com",
+        "shibinu-prize.com",
+        "shibinu-protocol.org",
+        "shibinu-win.com",
+        "shibprotocol.com",
+        "stakeshib.com",
+        "stakeshiba.com"
+      ]
+    },
+    {
+      "email": "u003esubmissions@shib.io",
+      "count": 21,
+      "domains": []
+    },
+    {
+      "email": "ads@shib.io",
+      "count": 21,
+      "domains": []
+    },
+    {
+      "email": "u003eads@shib.io",
+      "count": 21,
+      "domains": []
     },
     {
       "email": "angelgarcia.mail@gmail.com",

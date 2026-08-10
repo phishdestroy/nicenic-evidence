@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-09",
+  "generated": "2026-08-10",
   "keywords": {
     "coinbase": [
       "00-coinbase.com",
@@ -46,6 +46,7 @@
       "102925-coinbase.com",
       "10340-coinbase.com",
       "10382-coinbase.com",
+      "103828-coinbase.com",
       "103829-coinbase.com",
       "1039292-coinbase.com",
       "1039295-coinbase.com",
@@ -152,8 +153,6 @@
       "123446-coinbase.com",
       "123456-coinbase.com",
       "12346-coinbase.com",
-      "123818-coinbase.com",
-      "123819-coinbase.com",
       "123902-coinbase.com",
       "12398-coinbase.com",
       "12402-coinbase.com",
@@ -201,7 +200,8 @@
       "132493-coinbase.com",
       "132535coinbase.com",
       "132662coinbase.com",
-      "1328271-coinbase.com"
+      "1328271-coinbase.com",
+      "133750-coinbase.com"
     ],
     "claim": [
       "0x-claim.xyz",
@@ -447,7 +447,6 @@
       "acc-unauthorized-login.live",
       "accesdlogin.com",
       "accesoclientes-login.com",
-      "accesos-login.com",
       "accesosweb-login.com",
       "accesoweb-login.com",
       "accesss-my-login-portal.com",
@@ -605,7 +604,8 @@
       "betcio-logintek1.vip",
       "betcio-logintek2.vip",
       "betcio-logintek3.vip",
-      "betcio-logintekk2.vip"
+      "betcio-logintekk2.vip",
+      "betcio-teklogin1.vip"
     ],
     "secure": [
       "09025896-secure-chase.com",
@@ -788,6 +788,7 @@
       "canadianimperialsecured.com",
       "cansecuredepgsthst.com",
       "cansecuregstdeposit.com",
+      "carrierssecure.com",
       "casecurecradeposit.com",
       "casecuredci.com",
       "casecuredeposit.com",
@@ -806,8 +807,7 @@
       "channel-secure-beamless.com",
       "chase-paymentech-secure.com",
       "chase-secured-help.com",
-      "chasesecureportal.com",
-      "check-secure-service.com"
+      "chasesecureportal.com"
     ],
     "token": [
       "1fueliotoken.life",
@@ -1519,6 +1519,7 @@
       "5819913-ledger.com",
       "5823942-ledger.com",
       "582855-ledger.com",
+      "5829391-ledger.com",
       "582949-ledger.com",
       "5829492-ledger.com",
       "587273-ledger.com",
@@ -1614,8 +1615,7 @@
       "app-ledger.org",
       "app-ledgerwallet.com",
       "app-legal-ledger.icu",
-      "app-openledger.xyz",
-      "app-wallet-ledger.live"
+      "app-openledger.xyz"
     ],
     "swap": [
       "0xswaps.xyz",
@@ -1955,7 +1955,6 @@
       "bitgetsupporthub.com",
       "bitgetsupportsecure.com",
       "bitgetsupportset.com",
-      "bitgetsupportteam.com",
       "bitsosupport.org",
       "bitstampsupport.com",
       "blaze-support.cfd",
@@ -2019,7 +2018,8 @@
       "chatsupportdesk.com",
       "cibc-accountsupport.com",
       "cibc-digitalbusiness-support.com",
-      "cibc-support.com"
+      "cibc-support.com",
+      "cibcsupport.com"
     ],
     "kraken": [
       "076261-kraken.com",
@@ -2249,6 +2249,7 @@
       "accountportalupdate.com",
       "accountpulserupdate.com",
       "acess-docupdate.info",
+      "acrobat-pdfupdate.com",
       "acrobat-set-up-update.live",
       "acrobatupdatetool.com",
       "adbpdf-viewupdate2026.cfd",
@@ -2366,6 +2367,7 @@
       "claim-g0update0311.info",
       "claimsupdate.net",
       "clayerupdate.live",
+      "cloud-updatereserve.com",
       "clubx-updates.live",
       "cm-update.icu",
       "cnu8-windowsupdate.com",
@@ -2421,9 +2423,7 @@
       "craannualupdatereminder.com",
       "crainfoupdate-reminder.com",
       "criticalupdate.xyz",
-      "cryptodetailsupdaten.com",
-      "csc-updates.live",
-      "csr-update.info"
+      "cryptodetailsupdaten.com"
     ],
     "crypto": [
       "094239-crypto.com",
@@ -2839,7 +2839,6 @@
       "24x7genericworldtrust.org",
       "365guarantytrustpoint.com",
       "aaml-trustwallet.com",
-      "accesstrusted.com",
       "account-trust-wallet.com",
       "adamsbktrust.icu",
       "aetrusts.icu",
@@ -3029,7 +3028,8 @@
       "firelight-trusted.live",
       "firstadvisorytrust.com",
       "fix-trustwallet.com",
-      "fmtrust.icu"
+      "fmtrust.icu",
+      "frandsenbktrust.icu"
     ],
     "account": [
       "1win-2026bestaccount.com",
@@ -3524,7 +3524,6 @@
       "com-verify-trustwallet.com",
       "com-verify.net",
       "com-verify.report",
-      "comm-bankverify.com",
       "commbank-reverify.com",
       "compliance-clarity-verify.com",
       "connect-scotiaverifyclient.com",
@@ -3560,6 +3559,7 @@
       "faceit-discordverifynow.com",
       "faceit-status-verify.com",
       "faceitmverify.com",
+      "five-verify.com",
       "flarefndn-verify.live",
       "flow-scalar-bridge-verify.com",
       "frostverify.com",

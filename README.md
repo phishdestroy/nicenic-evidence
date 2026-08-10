@@ -38,14 +38,14 @@
 
 <!-- LIVE_STATS:START -->
 
-> 🔴 **LIVE INVESTIGATION FEED** &middot; Auto-updated &middot; Last fetch `2026-08-09`
+> 🔴 **LIVE INVESTIGATION FEED** &middot; Auto-updated &middot; Last fetch `2026-08-10`
 
 <table><tr>
-<td align="center"><b>📦 Domains tracked</b><br/><sub><code>378,715</code></sub></td>
-<td align="center"><b>💰 Est. revenue</b><br/><sub><code>$2,853,626</code></sub></td>
+<td align="center"><b>📦 Domains tracked</b><br/><sub><code>378,917</code></sub></td>
+<td align="center"><b>💰 Est. revenue</b><br/><sub><code>$2,853,508</code></sub></td>
 <td align="center"><b>📡 Deployed</b><br/><sub><code>50.7%</code></sub></td>
 <td align="center"><b>✅ IOC classified</b><br/><sub><code>82,576</code> (35,902 HIGH)</sub></td>
-<td align="center"><b>⚡ Fresh (≤7d)</b><br/><sub><code>0.9%</code></sub></td>
+<td align="center"><b>⚡ Fresh (≤7d)</b><br/><sub><code>0.8%</code></sub></td>
 <td align="center"><b>🕵️ Serial regs</b><br/><sub><code>36</code></sub></td>
 </tr></table>
 
@@ -53,28 +53,28 @@
 
 | TLD | Count | Avg Reg Period | Est. Revenue |
 |:--|--:|--:|--:|
-| `.com` | 200,740 | 567d | $1,804,653 |
-| `.vip` | 29,028 | 371d | $144,850 |
-| `.icu` | 27,256 | 387d | $26,983 |
-| `.net` | 16,869 | 681d | $168,521 |
-| `.xyz` | 16,580 | 468d | $24,704 |
-| `.live` | 12,200 | 408d | $121,878 |
-| `.info` | 12,093 | 506d | $48,251 |
-| `.cfd` | 10,031 | 460d | $50,055 |
-| `.org` | 8,126 | 856d | $81,179 |
-| `.sbs` | 8,092 | 425d | $40,379 |
+| `.com` | 200,606 | 568d | $1,803,448 |
+| `.vip` | 29,056 | 371d | $144,989 |
+| `.icu` | 27,437 | 387d | $27,163 |
+| `.net` | 16,863 | 682d | $168,461 |
+| `.xyz` | 16,579 | 467d | $24,703 |
+| `.live` | 12,214 | 408d | $122,018 |
+| `.info` | 12,127 | 506d | $48,387 |
+| `.cfd` | 10,044 | 459d | $50,120 |
+| `.org` | 8,127 | 856d | $81,189 |
+| `.sbs` | 8,114 | 424d | $40,489 |
 
 ### 🌍 Top Hosting Countries
 
 ```
-US  ██████████████████     11,666 (34.4%)
-RU  ████░░░░░░░░░░░░░░      2,689 (7.9%)
-CA  ████░░░░░░░░░░░░░░      2,659 (7.8%)
-NL  ███░░░░░░░░░░░░░░░      2,529 (7.4%)
-GB  ███░░░░░░░░░░░░░░░      1,974 (5.8%)
-DE  ███░░░░░░░░░░░░░░░      1,974 (5.8%)
-BG  ██░░░░░░░░░░░░░░░░      1,581 (4.7%)
-SE  █░░░░░░░░░░░░░░░░░        830 (2.4%)
+US  ██████████████████     11,623 (34.3%)
+RU  ████░░░░░░░░░░░░░░      2,677 (7.9%)
+CA  ████░░░░░░░░░░░░░░      2,654 (7.8%)
+NL  ███░░░░░░░░░░░░░░░      2,536 (7.5%)
+DE  ███░░░░░░░░░░░░░░░      1,971 (5.8%)
+GB  ███░░░░░░░░░░░░░░░      1,954 (5.8%)
+BG  ██░░░░░░░░░░░░░░░░      1,573 (4.6%)
+SE  █░░░░░░░░░░░░░░░░░        832 (2.5%)
 ```
 
 ### 📈 Registration Burst Days
@@ -89,7 +89,7 @@ SE  █░░░░░░░░░░░░░░░░░        830 (2.4%)
 
 ### 🎯 Top Targeted Brands & Keywords
 
-`coinbase (3,840)` &middot; `claim (3,484)` &middot; `login (2,281)` &middot; `secure (1,714)` &middot; `token (1,636)` &middot; `wallet (1,539)` &middot; `official (1,475)` &middot; `ledger (1,376)` &middot; `swap (1,361)` &middot; `support (1,268)` &middot; `kraken (1,231)` &middot; `update (1,166)` &middot; `crypto (1,165)` &middot; `connect (1,110)` &middot; `trust (966)`
+`coinbase (3,840)` &middot; `claim (3,483)` &middot; `login (2,281)` &middot; `secure (1,714)` &middot; `token (1,635)` &middot; `wallet (1,540)` &middot; `official (1,474)` &middot; `ledger (1,377)` &middot; `swap (1,360)` &middot; `support (1,266)` &middot; `kraken (1,208)` &middot; `update (1,165)` &middot; `crypto (1,162)` &middot; `connect (1,110)` &middot; `trust (967)`
 
 ### 🕵️ Top Serial Registrants — 50 emails with ≥5 domains
 
@@ -98,13 +98,13 @@ SE  █░░░░░░░░░░░░░░░░░        830 (2.4%)
 | 1 | `inf***@credicentrocoop.com` | **97** |
 | 2 | `inf***@vuz.info` | **60** |
 | 3 | `m***@unternehmen.de` | **46** |
-| 4 | `inf***@africaoil.com` | **45** |
+| 4 | `inf***@africaoil.com` | **39** |
 | 5 | `sup***@easybit.com` | **35** |
 | 6 | `pre***@ethereum.org` | **26** |
 | 7 | `inf***@stroykatalog.ru` | **25** |
 | 8 | `pre***@chain.link` | **25** |
-| 9 | `sub***@shib.io` | **24** |
-| 10 | `u00***@shib.io` | **24** |
+| 9 | `s***@email.com` | **22** |
+| 10 | `ihr***@email.de` | **22** |
 
 ### 📥 Download Threat Intelligence
 
