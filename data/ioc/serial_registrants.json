@@ -1,10 +1,10 @@
 {
-  "generated": "2026-08-10",
+  "generated": "2026-08-11",
   "count": 50,
   "registrants": [
     {
       "email": "info@credicentrocoop.com",
-      "count": 97,
+      "count": 98,
       "domains": [
         "acceso-particularesweb.com",
         "accesoclientes-webapp.com",
@@ -31,6 +31,7 @@
         "app-soporte-clientesweb.com",
         "app-soporte-onlineweb.com",
         "app-soporteweb-cliente.com",
+        "appclientes-web.com",
         "carrefour-clientesdigital.com",
         "carrefour-webapp.com",
         "clientesappweb-acceso.com",
@@ -173,7 +174,7 @@
     },
     {
       "email": "max@unternehmen.de",
-      "count": 46,
+      "count": 48,
       "domains": [
         "americanexpress-authentifizierung.com",
         "americanexpress-checks.com",
@@ -185,6 +186,7 @@
         "americanexpress-insurance.com",
         "americanexpress-key.com",
         "americanexpress-keys.com",
+        "americanexpress-kundenhilfe.com",
         "americanexpress-kundenservice.com",
         "americanexpress-partners.com",
         "americanexpress-recovery.com",
@@ -193,6 +195,7 @@
         "americanexpress-safety.com",
         "americanexpress-safetykey.com",
         "americanexpress-schutz.com",
+        "americanexpress-servicehilfe.com",
         "americanexpress-services.com",
         "americanexpress-shield.com",
         "americanexpress-sicherheit.com",
@@ -311,7 +314,7 @@
     },
     {
       "email": "press@ethereum.org",
-      "count": 26,
+      "count": 25,
       "domains": [
         "award-boosteth.com",
         "bonus-boosteth.com",
@@ -321,7 +324,6 @@
         "boosteth-protocol.com",
         "bounty-boosteth.com",
         "bounty-boosteth.org",
-        "collect-boosteth.net",
         "distribution-boosteth.com",
         "distribution-boosteth.net",
         "earn-boosteth.com",
@@ -374,7 +376,7 @@
     },
     {
       "email": "press@chain.link",
-      "count": 25,
+      "count": 24,
       "domains": [
         "app-llnk.org",
         "apyclink.com",
@@ -393,7 +395,6 @@
         "linkcash.org",
         "linkdefi.org",
         "linkevent.net",
-        "linkextra.net",
         "linkgrant.com",
         "linkplatform.org",
         "linkprotocol.org",
@@ -402,6 +403,50 @@
         "token-link.net",
         "token-link.org"
       ]
+    },
+    {
+      "email": "submissions@shib.io",
+      "count": 23,
+      "domains": [
+        "apyshib.com",
+        "award-shibinu.com",
+        "bounty-shibinu.com",
+        "collect-shibinu.com",
+        "collectshib.com",
+        "daoshib.com",
+        "gainshib.com",
+        "giftshiba.com",
+        "prize-shibinu.com",
+        "shib-bounty.net",
+        "shib-launch.com",
+        "shib-obtain.com",
+        "shib-yield.com",
+        "shibagrant.com",
+        "shibfarm.com",
+        "shibgift.com",
+        "shibinu-dashboard.com",
+        "shibinu-prize.com",
+        "shibinu-protocol.org",
+        "shibinu-win.com",
+        "shibprotocol.com",
+        "stakeshib.com",
+        "stakeshiba.com"
+      ]
+    },
+    {
+      "email": "u003esubmissions@shib.io",
+      "count": 23,
+      "domains": []
+    },
+    {
+      "email": "ads@shib.io",
+      "count": 23,
+      "domains": []
+    },
+    {
+      "email": "u003eads@shib.io",
+      "count": 23,
+      "domains": []
     },
     {
       "email": "seu@email.com",
@@ -456,48 +501,6 @@
         "safetycheck-kraken.com",
         "securitycheck-kraken.com"
       ]
-    },
-    {
-      "email": "submissions@shib.io",
-      "count": 21,
-      "domains": [
-        "apyshib.com",
-        "award-shibinu.com",
-        "bounty-shibinu.com",
-        "collectshib.com",
-        "daoshib.com",
-        "gainshib.com",
-        "giftshiba.com",
-        "shib-bounty.net",
-        "shib-launch.com",
-        "shib-obtain.com",
-        "shib-yield.com",
-        "shibagrant.com",
-        "shibfarm.com",
-        "shibgift.com",
-        "shibinu-dashboard.com",
-        "shibinu-prize.com",
-        "shibinu-protocol.org",
-        "shibinu-win.com",
-        "shibprotocol.com",
-        "stakeshib.com",
-        "stakeshiba.com"
-      ]
-    },
-    {
-      "email": "u003esubmissions@shib.io",
-      "count": 21,
-      "domains": []
-    },
-    {
-      "email": "ads@shib.io",
-      "count": 21,
-      "domains": []
-    },
-    {
-      "email": "u003eads@shib.io",
-      "count": 21,
-      "domains": []
     },
     {
       "email": "angelgarcia.mail@gmail.com",
@@ -676,23 +679,6 @@
       ]
     },
     {
-      "email": "donate@opencart.com",
-      "count": 12,
-      "domains": [
-        "101spill.com",
-        "cheap-steroids.net",
-        "edpill.net",
-        "motoryxa.com",
-        "onlineroidshop.com",
-        "partnivo.com",
-        "pharmaquickbuy.com",
-        "steroids-au.com",
-        "urbanvico.com",
-        "urheilu-karki.com",
-        "zatempl.com"
-      ]
-    },
-    {
       "email": "ihre.email@beispiel.de",
       "count": 11,
       "domains": [
@@ -826,6 +812,21 @@
       "email": "sikayet@jojobet.com",
       "count": 10,
       "domains": []
+    },
+    {
+      "email": "donate@opencart.com",
+      "count": 10,
+      "domains": [
+        "cheap-steroids.net",
+        "motoryxa.com",
+        "onlineroidshop.com",
+        "partnivo.com",
+        "pharmaquickbuy.com",
+        "steroids-au.com",
+        "urbanvico.com",
+        "urheilu-karki.com",
+        "zatempl.com"
+      ]
     },
     {
       "email": "amanda@mattwilsonco.com",
