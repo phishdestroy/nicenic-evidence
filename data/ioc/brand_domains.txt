@@ -336,6 +336,7 @@ claim	bancusclaimsportal.com
 claim	bankless-claimables-0x000.com
 claim	bankless-claimables-0x001.com
 claim	banklessclaimables.com
+claim	banklessclaimbadge.com
 claim	bankr-claim.com
 claim	bankr-claims.com
 claim	basedbrett-claims.com
@@ -397,7 +398,6 @@ claim	bluaiclaims.com
 claim	blub-claim.com
 claim	blubclaims.xyz
 claim	blum-claims.com
-claim	bluzelleclaims.com
 login	0auth-login.digital
 login	101clublogin.net
 login	1bmologin-dsvl2k9mc.com
@@ -439,6 +439,7 @@ login	abacuslogin.com
 login	acc-unauthorized-login.live
 login	accesdlogin.com
 login	accesoclientes-login.com
+login	accesos-login.com
 login	accesosweb-login.com
 login	accesoweb-login.com
 login	accesss-my-login-portal.com
@@ -528,13 +529,13 @@ login	atlasbetlogin.vip
 login	atologin-manage.com
 login	atologin-manage.info
 login	attica-login.com
-login	au-info-login.com
 login	au-login.digital
 login	au-service-login.com
 login	aumyloginfo.com
 login	ausloginservice.com
 login	auth-login-gate4.com
 login	auth-login-onlinegov.com
+login	auth-login-service-govonline.com
 login	auth-login-serviceaustragov.com
 login	auth-login.live
 login	auth-loginportal.com
@@ -597,7 +598,6 @@ login	betcio-logintek1.vip
 login	betcio-logintek2.vip
 login	betcio-logintek3.vip
 login	betcio-logintekk2.vip
-login	betcio-teklogin1.vip
 secure	09025896-secure-chase.com
 secure	19023-secure.com
 secure	1bmo-banking-secure.com
@@ -652,6 +652,7 @@ secure	aibsecure-auth.com
 secure	aibsecure-payments-review.com
 secure	airdrop-arbitrumtoken-secure01a.com
 secure	airwallexsecurehelp.com
+secure	airwallexsecureonline.com
 secure	airwallexsecuresupport.com
 secure	alertcibcwebsecure.com
 secure	allicasecurelogin.com
@@ -753,7 +754,6 @@ secure	boasecure-line.com
 secure	boasecurehelp.com
 secure	boasecureportal.com
 secure	bofa-secureapp.com
-secure	bofa-secured-dispute.com
 secure	bofasecured.com
 secure	bov-3dsecure.com
 secure	breadsecure1ref.com
@@ -930,7 +930,6 @@ token	bbva-token-app-net.cash
 token	bbva-token-movil-net.cash
 token	bckerstoken.com
 token	bckrstoken.com
-token	bckrtoken.live
 token	bckrtoken.xyz
 token	bckrtokens.net
 token	bckrtokens.xyz
@@ -998,6 +997,7 @@ token	blockdagtoken.network
 token	blooket-tokens.live
 token	bmoresettoken22.com
 token	bnb-testtoken.com
+token	bnbcarnivaltoken.pro
 wallet	114229-wallet.com
 wallet	1amwallet.com
 wallet	1amwallet.xyz
@@ -1030,6 +1030,7 @@ wallet	allocate-trustwallet.com
 wallet	allocation-trustwallet.com
 wallet	am1-trustwallet.com
 wallet	ambiredesktopwallet.com
+wallet	ambirewallet.app
 wallet	aml-cryptowallet.com
 wallet	aml-wallet.digital
 wallet	aml-walletchecking.com
@@ -1157,7 +1158,6 @@ wallet	blockchainwalletinsure.com
 wallet	blockdag-desktopwalletinstaller.network
 wallet	blocksolutionwalletlive.xyz
 wallet	blockstreamwallet.app
-wallet	blok-wallet.com
 wallet	blosolutionwalletlive.xyz
 wallet	bluewallet-desktop.com
 wallet	bluewallet.download
@@ -1296,6 +1296,7 @@ official	avvabetofficialsite.icu
 official	awsaiofficial.com
 official	bahiscasino-official2025.com
 official	bahisfairofficial2026.vip
+official	bahsegel-officialgirisadresi.com
 official	bahsine-official.com
 official	bakebagsofficial.com
 official	balkanpharmaceuticals-official.com
@@ -1397,7 +1398,6 @@ official	billionairestudiosofficial.com
 official	binariumofficial.com
 official	bitcoinpepeofficial.xyz
 official	black-sprut-official.com
-official	blackops-official.ink
 ledger	01-ledger.com
 ledger	0182778-ledger.com
 ledger	02-ledger.com
@@ -1694,6 +1694,7 @@ swap	arbswaps.app
 swap	arbswaps.info
 swap	arbswaps.live
 swap	arbtirum-swap.com
+swap	arcoss-swap.trade
 swap	ash-swap.com
 swap	ashswap.xyz
 swap	aswap-alphaofsol.com
@@ -1721,7 +1722,6 @@ swap	biasterswap.xyz
 swap	bisoswap.com
 swap	biswaplabs.com
 swap	bitcoin-exchange-swap.com
-swap	bitcoin-swap.exchange
 swap	bitcoinswap.live
 swap	bitcoinswap.pro
 swap	bitcoinswap.world
@@ -1731,6 +1731,8 @@ swap	blasterswap.buzz
 swap	blasterswap.icu
 swap	blaze-swaps.com
 swap	blazeswaper.com
+swap	blncr-swap.pro
+swap	blncr-swap.trade
 swap	bloqswap.pro
 swap	blswap.net
 swap	blswap.org
@@ -1796,8 +1798,6 @@ swap	cialm-hyperswap.xyz
 swap	claim-hyperswap.com
 swap	claim-ixswap.com
 swap	claim-quickswap.com
-swap	claim-quickswap.live
-swap	claim-swapx.com
 support	029250-support.com
 support	0myidsupportdesk.live
 support	1-online-support.com
@@ -2405,7 +2405,6 @@ crypto	11340598crypto.com
 crypto	113884-crypto.com
 crypto	113982crypto.com
 crypto	114538-crypto.com
-crypto	114557-crypto.com
 crypto	114558-crypto.com
 crypto	114587-crypto.com
 crypto	114588-crypto.com
@@ -2598,6 +2597,7 @@ crypto	anonymouscryptoexchange.com
 crypto	apple-crypto.com
 crypto	applecrypto-event.com
 crypto	appleforcrypto.com
+crypto	appllexcrypto.com
 connect	0nline-2025at0connect.digital
 connect	0xmetaconnect-rpc.xyz
 connect	19928292pcstestconnect2919.com
@@ -2734,7 +2734,6 @@ connect	collabs-connections.xyz
 connect	collabs-connector.icu
 connect	collabs-connector.info
 connect	collabs-connector.xyz
-connect	collabs-connects.xyz
 connect	collabstartconnect.com
 connect	collabstr-connect.com
 connect	collabteamconnect.com
@@ -2798,6 +2797,7 @@ connect	connect-ethenalabs.com
 connect	connect-eventtia.com
 connect	connect-flareecosystem.xyz
 connect	connect-fluent.xyz
+connect	connect-form.com
 trust	1-tdcanadatrust.com
 trust	1trusted.live
 trust	1win-trust2026.icu
@@ -3237,6 +3237,7 @@ airdrop	airdrop-backpack.com
 airdrop	airdrop-biofoundation.com
 airdrop	airdrop-bitcoinhyper.com
 airdrop	airdrop-bitlayer.xyz
+airdrop	airdrop-blast.icu
 airdrop	airdrop-blastroyale.com
 airdrop	airdrop-blaze.com
 airdrop	airdrop-blaze.net
@@ -3397,7 +3398,6 @@ airdrop	airdrop-neptune.cash
 airdrop	airdrop-neur.com
 airdrop	airdrop-niggaliquid.fun
 airdrop	airdrop-nubcat.xyz
-airdrop	airdrop-nyx.com
 verify	05-25verifybnkaccess.info
 verify	1bmo-banking-verify.com
 verify	1bmo-mobile-verify.com
@@ -3543,6 +3543,7 @@ verify	guildverify.net
 verify	helpverify-mygov.com
 verify	hmrc-gov-verify.com
 verify	hmrverify.com
+verify	holiganbet-verify-giris.live
 verify	holiganbetverify.com
 verify	holiganbetverify2026.live
 verify	ib-nab-verify.com
@@ -3569,6 +3570,7 @@ verify	imajbtverify.com
 verify	info-ledger-verify.com
 verify	ing-securebanking-verify.com
 verify	ing-verify.info
+verify	jojobet-verify-giris.vip
 verify	kennigaming-verify.com
 verify	kycauthverify.com
 verify	land-verify.net
@@ -3596,8 +3598,6 @@ verify	matbetverify2026.live
 verify	matqet-verifylogin.com
 verify	matrica-verify.app
 verify	mediaverify-x.com
-verify	mica-update-verify.com
-verify	mica-verify-update.com
 vault	118924-cbvault.com
 vault	157206-cbvault.com
 vault	177253-cb-vault.com

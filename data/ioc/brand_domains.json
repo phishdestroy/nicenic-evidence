@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-10",
+  "generated": "2026-08-11",
   "keywords": {
     "coinbase": [
       "00-coinbase.com",
@@ -342,6 +342,7 @@
       "bankless-claimables-0x000.com",
       "bankless-claimables-0x001.com",
       "banklessclaimables.com",
+      "banklessclaimbadge.com",
       "bankr-claim.com",
       "bankr-claims.com",
       "basedbrett-claims.com",
@@ -402,8 +403,7 @@
       "bluaiclaims.com",
       "blub-claim.com",
       "blubclaims.xyz",
-      "blum-claims.com",
-      "bluzelleclaims.com"
+      "blum-claims.com"
     ],
     "login": [
       "0auth-login.digital",
@@ -447,6 +447,7 @@
       "acc-unauthorized-login.live",
       "accesdlogin.com",
       "accesoclientes-login.com",
+      "accesos-login.com",
       "accesosweb-login.com",
       "accesoweb-login.com",
       "accesss-my-login-portal.com",
@@ -536,13 +537,13 @@
       "atologin-manage.com",
       "atologin-manage.info",
       "attica-login.com",
-      "au-info-login.com",
       "au-login.digital",
       "au-service-login.com",
       "aumyloginfo.com",
       "ausloginservice.com",
       "auth-login-gate4.com",
       "auth-login-onlinegov.com",
+      "auth-login-service-govonline.com",
       "auth-login-serviceaustragov.com",
       "auth-login.live",
       "auth-loginportal.com",
@@ -604,8 +605,7 @@
       "betcio-logintek1.vip",
       "betcio-logintek2.vip",
       "betcio-logintek3.vip",
-      "betcio-logintekk2.vip",
-      "betcio-teklogin1.vip"
+      "betcio-logintekk2.vip"
     ],
     "secure": [
       "09025896-secure-chase.com",
@@ -662,6 +662,7 @@
       "aibsecure-payments-review.com",
       "airdrop-arbitrumtoken-secure01a.com",
       "airwallexsecurehelp.com",
+      "airwallexsecureonline.com",
       "airwallexsecuresupport.com",
       "alertcibcwebsecure.com",
       "allicasecurelogin.com",
@@ -763,7 +764,6 @@
       "boasecurehelp.com",
       "boasecureportal.com",
       "bofa-secureapp.com",
-      "bofa-secured-dispute.com",
       "bofasecured.com",
       "bov-3dsecure.com",
       "breadsecure1ref.com",
@@ -942,7 +942,6 @@
       "bbva-token-movil-net.cash",
       "bckerstoken.com",
       "bckrstoken.com",
-      "bckrtoken.live",
       "bckrtoken.xyz",
       "bckrtokens.net",
       "bckrtokens.xyz",
@@ -1009,7 +1008,8 @@
       "blockdagtoken.network",
       "blooket-tokens.live",
       "bmoresettoken22.com",
-      "bnb-testtoken.com"
+      "bnb-testtoken.com",
+      "bnbcarnivaltoken.pro"
     ],
     "wallet": [
       "114229-wallet.com",
@@ -1044,6 +1044,7 @@
       "allocation-trustwallet.com",
       "am1-trustwallet.com",
       "ambiredesktopwallet.com",
+      "ambirewallet.app",
       "aml-cryptowallet.com",
       "aml-wallet.digital",
       "aml-walletchecking.com",
@@ -1171,7 +1172,6 @@
       "blockdag-desktopwalletinstaller.network",
       "blocksolutionwalletlive.xyz",
       "blockstreamwallet.app",
-      "blok-wallet.com",
       "blosolutionwalletlive.xyz",
       "bluewallet-desktop.com",
       "bluewallet.download",
@@ -1312,6 +1312,7 @@
       "awsaiofficial.com",
       "bahiscasino-official2025.com",
       "bahisfairofficial2026.vip",
+      "bahsegel-officialgirisadresi.com",
       "bahsine-official.com",
       "bakebagsofficial.com",
       "balkanpharmaceuticals-official.com",
@@ -1412,8 +1413,7 @@
       "billionairestudiosofficial.com",
       "binariumofficial.com",
       "bitcoinpepeofficial.xyz",
-      "black-sprut-official.com",
-      "blackops-official.ink"
+      "black-sprut-official.com"
     ],
     "ledger": [
       "01-ledger.com",
@@ -1714,6 +1714,7 @@
       "arbswaps.info",
       "arbswaps.live",
       "arbtirum-swap.com",
+      "arcoss-swap.trade",
       "ash-swap.com",
       "ashswap.xyz",
       "aswap-alphaofsol.com",
@@ -1741,7 +1742,6 @@
       "bisoswap.com",
       "biswaplabs.com",
       "bitcoin-exchange-swap.com",
-      "bitcoin-swap.exchange",
       "bitcoinswap.live",
       "bitcoinswap.pro",
       "bitcoinswap.world",
@@ -1751,6 +1751,8 @@
       "blasterswap.icu",
       "blaze-swaps.com",
       "blazeswaper.com",
+      "blncr-swap.pro",
+      "blncr-swap.trade",
       "bloqswap.pro",
       "blswap.net",
       "blswap.org",
@@ -1815,9 +1817,7 @@
       "cialm-hyperswap.xyz",
       "claim-hyperswap.com",
       "claim-ixswap.com",
-      "claim-quickswap.com",
-      "claim-quickswap.live",
-      "claim-swapx.com"
+      "claim-quickswap.com"
     ],
     "support": [
       "029250-support.com",
@@ -2433,7 +2433,6 @@
       "113884-crypto.com",
       "113982crypto.com",
       "114538-crypto.com",
-      "114557-crypto.com",
       "114558-crypto.com",
       "114587-crypto.com",
       "114588-crypto.com",
@@ -2625,7 +2624,8 @@
       "anonymouscryptoexchange.com",
       "apple-crypto.com",
       "applecrypto-event.com",
-      "appleforcrypto.com"
+      "appleforcrypto.com",
+      "appllexcrypto.com"
     ],
     "connect": [
       "0nline-2025at0connect.digital",
@@ -2764,7 +2764,6 @@
       "collabs-connector.icu",
       "collabs-connector.info",
       "collabs-connector.xyz",
-      "collabs-connects.xyz",
       "collabstartconnect.com",
       "collabstr-connect.com",
       "collabteamconnect.com",
@@ -2827,7 +2826,8 @@
       "connect-ethenalabs.com",
       "connect-eventtia.com",
       "connect-flareecosystem.xyz",
-      "connect-fluent.xyz"
+      "connect-fluent.xyz",
+      "connect-form.com"
     ],
     "trust": [
       "1-tdcanadatrust.com",
@@ -3273,6 +3273,7 @@
       "airdrop-biofoundation.com",
       "airdrop-bitcoinhyper.com",
       "airdrop-bitlayer.xyz",
+      "airdrop-blast.icu",
       "airdrop-blastroyale.com",
       "airdrop-blaze.com",
       "airdrop-blaze.net",
@@ -3432,8 +3433,7 @@
       "airdrop-neptune.cash",
       "airdrop-neur.com",
       "airdrop-niggaliquid.fun",
-      "airdrop-nubcat.xyz",
-      "airdrop-nyx.com"
+      "airdrop-nubcat.xyz"
     ],
     "verify": [
       "05-25verifybnkaccess.info",
@@ -3581,6 +3581,7 @@
       "helpverify-mygov.com",
       "hmrc-gov-verify.com",
       "hmrverify.com",
+      "holiganbet-verify-giris.live",
       "holiganbetverify.com",
       "holiganbetverify2026.live",
       "ib-nab-verify.com",
@@ -3607,6 +3608,7 @@
       "info-ledger-verify.com",
       "ing-securebanking-verify.com",
       "ing-verify.info",
+      "jojobet-verify-giris.vip",
       "kennigaming-verify.com",
       "kycauthverify.com",
       "land-verify.net",
@@ -3633,9 +3635,7 @@
       "matbetverify2026.live",
       "matqet-verifylogin.com",
       "matrica-verify.app",
-      "mediaverify-x.com",
-      "mica-update-verify.com",
-      "mica-verify-update.com"
+      "mediaverify-x.com"
     ],
     "vault": [
       "118924-cbvault.com",
