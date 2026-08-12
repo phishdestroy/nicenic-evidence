@@ -145,7 +145,6 @@ coinbase	1217317-coinbase.com
 coinbase	1221650-coinbase.com
 coinbase	122795coinbase.com
 coinbase	122904coinbase.com
-coinbase	1231129-coinbase.com
 coinbase	123446-coinbase.com
 coinbase	123456-coinbase.com
 coinbase	12346-coinbase.com
@@ -198,6 +197,7 @@ coinbase	132535coinbase.com
 coinbase	132662coinbase.com
 coinbase	1328271-coinbase.com
 coinbase	133750-coinbase.com
+coinbase	133781coinbase.com
 claim	0x-claim.xyz
 claim	0x00-claimables.xyz
 claim	0x000-claimables.xyz
@@ -447,7 +447,6 @@ login	accntnefilx-login-registe.com
 login	accntneftilx-login-registe.com
 login	account-login-id.app
 login	account-sso-login.com
-login	accountlogin-bitpanda.com
 login	accountlogin-coinbase.com
 login	accounts-msftlogin.com
 login	accountslogingoolge.com
@@ -529,6 +528,7 @@ login	atlasbetlogin.vip
 login	atologin-manage.com
 login	atologin-manage.info
 login	attica-login.com
+login	au-info-login.com
 login	au-login.digital
 login	au-service-login.com
 login	aumyloginfo.com
@@ -986,7 +986,6 @@ token	bithypertoken.live
 token	bittorrenttoken.info
 token	blackrocktokengift.com
 token	blaze-token.org
-token	blazedistribution-token.net
 token	blazenetwork-token.com
 token	blazetoken.net
 token	blaztoken.live
@@ -998,6 +997,7 @@ token	blooket-tokens.live
 token	bmoresettoken22.com
 token	bnb-testtoken.com
 token	bnbcarnivaltoken.pro
+token	bonktoken-drop.xyz
 wallet	114229-wallet.com
 wallet	1amwallet.com
 wallet	1amwallet.xyz
@@ -1722,6 +1722,7 @@ swap	biasterswap.xyz
 swap	bisoswap.com
 swap	biswaplabs.com
 swap	bitcoin-exchange-swap.com
+swap	bitcoin-swap.exchange
 swap	bitcoinswap.live
 swap	bitcoinswap.pro
 swap	bitcoinswap.world
@@ -1731,12 +1732,14 @@ swap	blasterswap.buzz
 swap	blasterswap.icu
 swap	blaze-swaps.com
 swap	blazeswaper.com
+swap	blncr-swap.com
 swap	blncr-swap.pro
 swap	blncr-swap.trade
 swap	bloqswap.pro
 swap	blswap.net
 swap	blswap.org
 swap	bnb-pancakeswap.finance
+swap	bnz-swap.com
 swap	boltswapfi.net
 swap	boxswap.net
 swap	bridgerswap.com
@@ -1795,9 +1798,6 @@ swap	changelly-swap.com
 swap	checker-syncswap.com
 swap	choudiniswap.com
 swap	cialm-hyperswap.xyz
-swap	claim-hyperswap.com
-swap	claim-ixswap.com
-swap	claim-quickswap.com
 support	029250-support.com
 support	0myidsupportdesk.live
 support	1-online-support.com
@@ -1831,6 +1831,7 @@ support	accountsupport-bill.com
 support	accountsupport-coinbase.com
 support	accountsupport-td.com
 support	accountsupports-td.com
+support	accts-support.com
 support	acs-24-support.com
 support	activatecustomerduesupportdillegence.com
 support	activity-claimssupportinfo.icu
@@ -1997,7 +1998,6 @@ support	chatsupportdesk.com
 support	cibc-accountsupport.com
 support	cibc-digitalbusiness-support.com
 support	cibc-support.com
-support	cibcsupport.com
 kraken	076261-kraken.com
 kraken	1-kraken.com
 kraken	109281-kraken.com
@@ -2396,8 +2396,8 @@ update	cra-serviceupdate.com
 update	cra-statusupdate.com
 update	craannualupdatereminder.com
 update	crainfoupdate-reminder.com
+update	crataxaccountupdate.com
 update	criticalupdate.xyz
-update	cryptodetailsupdaten.com
 crypto	094239-crypto.com
 crypto	109074-crypto.com
 crypto	1124crypto.com
@@ -3053,7 +3053,6 @@ account	account-login-id.app
 account	account-mailgun.com
 account	account-memberservices.com
 account	account-mooncard.com
-account	account-ms.com
 account	account-mycanal.com
 account	account-mygovid.com
 account	account-myrogers.com
@@ -3142,7 +3141,6 @@ account	accountinghelpintuit.com
 account	accountingproposal.biz
 account	accountings-expert.com
 account	accountkundendatenbestaetigung-coinbase.com
-account	accountlogin-bitpanda.com
 account	accountlogin-coinbase.com
 account	accountmailbox.com
 account	accountmainproperty.com
@@ -3198,6 +3196,8 @@ account	accountsecure-coinbase.com
 account	accountsecure.digital
 account	accountsecurebnc.com
 account	accountsecurenow.com
+account	accountsecurity-coinbase.com
+account	accountsecurityalerts.com
 airdrop	0x00000-bankless-hunt-airdrop.com
 airdrop	abstract-airdrop.xyz
 airdrop	aeth-airdrop.net
