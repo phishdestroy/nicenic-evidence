@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-11",
+  "generated": "2026-08-12",
   "count": 50,
   "registrants": [
     {
@@ -174,8 +174,9 @@
     },
     {
       "email": "max@unternehmen.de",
-      "count": 48,
+      "count": 50,
       "domains": [
+        "americanexpress-aktivierung.com",
         "americanexpress-authentifizierung.com",
         "americanexpress-checks.com",
         "americanexpress-connect.com",
@@ -187,6 +188,7 @@
         "americanexpress-key.com",
         "americanexpress-keys.com",
         "americanexpress-kundenhilfe.com",
+        "americanexpress-kundeninfo.com",
         "americanexpress-kundenservice.com",
         "americanexpress-partners.com",
         "americanexpress-recovery.com",
@@ -228,12 +230,11 @@
     },
     {
       "email": "info@africaoil.com",
-      "count": 39,
+      "count": 38,
       "domains": [
         "centr24.info",
         "client-support24.info",
         "dom-gosuslugi.com",
-        "dom-gosuslugi.net",
         "help24-service.info",
         "help24-services.info",
         "info-centr.info",
@@ -375,6 +376,51 @@
       ]
     },
     {
+      "email": "submissions@shib.io",
+      "count": 24,
+      "domains": [
+        "apyshib.com",
+        "award-shibinu.com",
+        "bounty-shibinu.com",
+        "collect-shibinu.com",
+        "collectshib.com",
+        "daoshib.com",
+        "gainshib.com",
+        "giftshiba.com",
+        "launch-shibinu.com",
+        "prize-shibinu.com",
+        "shib-bounty.net",
+        "shib-launch.com",
+        "shib-obtain.com",
+        "shib-yield.com",
+        "shibagrant.com",
+        "shibfarm.com",
+        "shibgift.com",
+        "shibinu-dashboard.com",
+        "shibinu-prize.com",
+        "shibinu-protocol.org",
+        "shibinu-win.com",
+        "shibprotocol.com",
+        "stakeshib.com",
+        "stakeshiba.com"
+      ]
+    },
+    {
+      "email": "u003esubmissions@shib.io",
+      "count": 24,
+      "domains": []
+    },
+    {
+      "email": "ads@shib.io",
+      "count": 24,
+      "domains": []
+    },
+    {
+      "email": "u003eads@shib.io",
+      "count": 24,
+      "domains": []
+    },
+    {
       "email": "press@chain.link",
       "count": 24,
       "domains": [
@@ -403,50 +449,6 @@
         "token-link.net",
         "token-link.org"
       ]
-    },
-    {
-      "email": "submissions@shib.io",
-      "count": 23,
-      "domains": [
-        "apyshib.com",
-        "award-shibinu.com",
-        "bounty-shibinu.com",
-        "collect-shibinu.com",
-        "collectshib.com",
-        "daoshib.com",
-        "gainshib.com",
-        "giftshiba.com",
-        "prize-shibinu.com",
-        "shib-bounty.net",
-        "shib-launch.com",
-        "shib-obtain.com",
-        "shib-yield.com",
-        "shibagrant.com",
-        "shibfarm.com",
-        "shibgift.com",
-        "shibinu-dashboard.com",
-        "shibinu-prize.com",
-        "shibinu-protocol.org",
-        "shibinu-win.com",
-        "shibprotocol.com",
-        "stakeshib.com",
-        "stakeshiba.com"
-      ]
-    },
-    {
-      "email": "u003esubmissions@shib.io",
-      "count": 23,
-      "domains": []
-    },
-    {
-      "email": "ads@shib.io",
-      "count": 23,
-      "domains": []
-    },
-    {
-      "email": "u003eads@shib.io",
-      "count": 23,
-      "domains": []
     },
     {
       "email": "seu@email.com",
@@ -679,6 +681,23 @@
       ]
     },
     {
+      "email": "donate@opencart.com",
+      "count": 12,
+      "domains": [
+        "101spill.com",
+        "cheap-steroids.net",
+        "edpill.net",
+        "motoryxa.com",
+        "onlineroidshop.com",
+        "partnivo.com",
+        "pharmaquickbuy.com",
+        "steroids-au.com",
+        "urbanvico.com",
+        "urheilu-karki.com",
+        "zatempl.com"
+      ]
+    },
+    {
       "email": "ihre.email@beispiel.de",
       "count": 11,
       "domains": [
@@ -812,21 +831,6 @@
       "email": "sikayet@jojobet.com",
       "count": 10,
       "domains": []
-    },
-    {
-      "email": "donate@opencart.com",
-      "count": 10,
-      "domains": [
-        "cheap-steroids.net",
-        "motoryxa.com",
-        "onlineroidshop.com",
-        "partnivo.com",
-        "pharmaquickbuy.com",
-        "steroids-au.com",
-        "urbanvico.com",
-        "urheilu-karki.com",
-        "zatempl.com"
-      ]
     },
     {
       "email": "amanda@mattwilsonco.com",
