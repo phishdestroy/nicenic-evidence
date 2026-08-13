@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-12",
+  "generated": "2026-08-13",
   "count": 50,
   "registrants": [
     {
@@ -174,7 +174,7 @@
     },
     {
       "email": "max@unternehmen.de",
-      "count": 50,
+      "count": 53,
       "domains": [
         "americanexpress-aktivierung.com",
         "americanexpress-authentifizierung.com",
@@ -204,6 +204,7 @@
         "americanexpress-verification.com",
         "americanexpress-verifizierung.com",
         "americanexpress-versicherung.com",
+        "americanexpress-versicherungen.com",
         "americanexpress-vorgang.com",
         "amex-access.com",
         "amex-connect.com",
@@ -212,6 +213,7 @@
         "amex-desk.com",
         "amex-hilfe.com",
         "amex-key.com",
+        "amex-kundenhilfe.com",
         "amex-partner.com",
         "amex-partners.com",
         "amex-safekey.com",
@@ -225,7 +227,8 @@
         "amex-status.com",
         "amex-system.com",
         "amex-verifizierung.com",
-        "amex-versicherung.com"
+        "amex-versicherung.com",
+        "amex-versicherungen.com"
       ]
     },
     {
@@ -505,33 +508,6 @@
       ]
     },
     {
-      "email": "angelgarcia.mail@gmail.com",
-      "count": 21,
-      "domains": [
-        "25musk.org",
-        "cbfund.info",
-        "elon-crypto.org",
-        "elon-finance.org",
-        "elon-promotion.org",
-        "elonvoucher.com",
-        "foundation-reward.net",
-        "musk-payment.org",
-        "musk1.info",
-        "reward-promotions.org",
-        "ripple-pomotion.org",
-        "ripplefinace-promotion.org",
-        "rippleoffical-event.org",
-        "rippleofficial-promo.org",
-        "rippleofficial-reward.org",
-        "ripplepromo-investing.net",
-        "saylorgo.info",
-        "tate2x.info",
-        "tesla-reward.org",
-        "xrpbonus-invest.org",
-        "xrpreward-event.org"
-      ]
-    },
-    {
       "email": "termas@termas.com.br",
       "count": 20,
       "domains": [
@@ -580,6 +556,31 @@
         "trezor-diagnostic-app.com",
         "ver-empowermyretirements.com",
         "verify-mymandg.com"
+      ]
+    },
+    {
+      "email": "angelgarcia.mail@gmail.com",
+      "count": 19,
+      "domains": [
+        "25musk.org",
+        "cbfund.info",
+        "elon-crypto.org",
+        "elon-finance.org",
+        "elon-promotion.org",
+        "elonvoucher.com",
+        "foundation-reward.net",
+        "musk-payment.org",
+        "musk1.info",
+        "reward-promotions.org",
+        "ripple-pomotion.org",
+        "ripplefinace-promotion.org",
+        "rippleofficial-reward.org",
+        "ripplepromo-investing.net",
+        "saylorgo.info",
+        "tate2x.info",
+        "tesla-reward.org",
+        "xrpbonus-invest.org",
+        "xrpreward-event.org"
       ]
     },
     {

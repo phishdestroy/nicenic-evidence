@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-12",
+  "generated": "2026-08-13",
   "keywords": {
     "coinbase": [
       "00-coinbase.com",
@@ -455,6 +455,7 @@
       "accntneftilx-login-registe.com",
       "account-login-id.app",
       "account-sso-login.com",
+      "accountlogin-bitpanda.com",
       "accountlogin-coinbase.com",
       "accounts-msftlogin.com",
       "accountslogingoolge.com",
@@ -529,7 +530,6 @@
       "ascendex-login.net",
       "ascendex-login.org",
       "atb-businesslogin.com",
-      "atb-login-business.com",
       "atbbusinesslogin.org",
       "atlas-gaming-login.vip",
       "atlasbetlogin.vip",
@@ -998,6 +998,7 @@
       "bittorrenttoken.info",
       "blackrocktokengift.com",
       "blaze-token.org",
+      "blazedistribution-token.net",
       "blazenetwork-token.com",
       "blazetoken.net",
       "blaztoken.live",
@@ -1008,8 +1009,7 @@
       "blooket-tokens.live",
       "bmoresettoken22.com",
       "bnb-testtoken.com",
-      "bnbcarnivaltoken.pro",
-      "bonktoken-drop.xyz"
+      "bnbcarnivaltoken.pro"
     ],
     "wallet": [
       "114229-wallet.com",
@@ -1912,6 +1912,7 @@
       "asbonlinesupporthub.com",
       "asbonlinesupportnz.com",
       "asbsupportservice.com",
+      "ascendexsupportsession.live",
       "at0mic-support.org",
       "atomic-support.app",
       "atosupportau.com",
@@ -2018,8 +2019,7 @@
       "chatingsupport.live",
       "chatsupportdesk.com",
       "cibc-accountsupport.com",
-      "cibc-digitalbusiness-support.com",
-      "cibc-support.com"
+      "cibc-digitalbusiness-support.com"
     ],
     "kraken": [
       "076261-kraken.com",
@@ -2290,7 +2290,6 @@
       "app-updater.app",
       "app-updater1.app",
       "app-updater2.app",
-      "app-updates.store",
       "app-usdupdate.live",
       "appconnect-update.com",
       "apple-update-info.com",
@@ -2423,7 +2422,8 @@
       "craannualupdatereminder.com",
       "crainfoupdate-reminder.com",
       "crataxaccountupdate.com",
-      "criticalupdate.xyz"
+      "criticalupdate.xyz",
+      "cryptodetailsupdaten.com"
     ],
     "crypto": [
       "094239-crypto.com",
@@ -2433,6 +2433,7 @@
       "113884-crypto.com",
       "113982crypto.com",
       "114538-crypto.com",
+      "114557-crypto.com",
       "114558-crypto.com",
       "114587-crypto.com",
       "114588-crypto.com",
@@ -2447,7 +2448,6 @@
       "128433-crypto.com",
       "131849-crypto.com",
       "133781crypto.com",
-      "1382912-crypto.com",
       "140874-crypto.com",
       "14135-crypto.com",
       "16815-crypto.com",
@@ -3087,6 +3087,7 @@
       "account-mailgun.com",
       "account-memberservices.com",
       "account-mooncard.com",
+      "account-ms.com",
       "account-mycanal.com",
       "account-mygovid.com",
       "account-myrogers.com",
@@ -3094,6 +3095,7 @@
       "account-ndax.com",
       "account-nexo.com",
       "account-paxful.com",
+      "account-polymarket.com",
       "account-portal-coinbase.com",
       "account-portal.live",
       "account-presaerch.app",
@@ -3175,6 +3177,7 @@
       "accountingproposal.biz",
       "accountings-expert.com",
       "accountkundendatenbestaetigung-coinbase.com",
+      "accountlogin-bitpanda.com",
       "accountlogin-coinbase.com",
       "accountmailbox.com",
       "accountmainproperty.com",
@@ -3228,10 +3231,7 @@
       "accountsa360.live",
       "accountsecure-coinbase.com",
       "accountsecure.digital",
-      "accountsecurebnc.com",
-      "accountsecurenow.com",
-      "accountsecurity-coinbase.com",
-      "accountsecurityalerts.com"
+      "accountsecurebnc.com"
     ],
     "airdrop": [
       "0x00000-bankless-hunt-airdrop.com",
@@ -3716,7 +3716,6 @@
       "casevaultreview.com",
       "casinogamevault.com",
       "casinoplayvault.com",
-      "casinovaulted.com",
       "cb-vault.com",
       "cbtestvault.com",
       "cdn-vault.com",
@@ -3807,6 +3806,7 @@
       "hovaro-vaultix.com",
       "hovaro-vaultix.net",
       "hulk-vault.cc",
+      "hulkvault.vip",
       "hwsvault.com",
       "hwvault.net",
       "hype-vaults.xyz",

@@ -447,6 +447,7 @@ login	accntnefilx-login-registe.com
 login	accntneftilx-login-registe.com
 login	account-login-id.app
 login	account-sso-login.com
+login	accountlogin-bitpanda.com
 login	accountlogin-coinbase.com
 login	accounts-msftlogin.com
 login	accountslogingoolge.com
@@ -521,7 +522,6 @@ login	ascendex-login.com
 login	ascendex-login.net
 login	ascendex-login.org
 login	atb-businesslogin.com
-login	atb-login-business.com
 login	atbbusinesslogin.org
 login	atlas-gaming-login.vip
 login	atlasbetlogin.vip
@@ -986,6 +986,7 @@ token	bithypertoken.live
 token	bittorrenttoken.info
 token	blackrocktokengift.com
 token	blaze-token.org
+token	blazedistribution-token.net
 token	blazenetwork-token.com
 token	blazetoken.net
 token	blaztoken.live
@@ -997,7 +998,6 @@ token	blooket-tokens.live
 token	bmoresettoken22.com
 token	bnb-testtoken.com
 token	bnbcarnivaltoken.pro
-token	bonktoken-drop.xyz
 wallet	114229-wallet.com
 wallet	1amwallet.com
 wallet	1amwallet.xyz
@@ -1890,6 +1890,7 @@ support	asblivesupport.com
 support	asbonlinesupporthub.com
 support	asbonlinesupportnz.com
 support	asbsupportservice.com
+support	ascendexsupportsession.live
 support	at0mic-support.org
 support	atomic-support.app
 support	atosupportau.com
@@ -1997,7 +1998,6 @@ support	chatingsupport.live
 support	chatsupportdesk.com
 support	cibc-accountsupport.com
 support	cibc-digitalbusiness-support.com
-support	cibc-support.com
 kraken	076261-kraken.com
 kraken	1-kraken.com
 kraken	109281-kraken.com
@@ -2264,7 +2264,6 @@ update	app-titnupdate.live
 update	app-updater.app
 update	app-updater1.app
 update	app-updater2.app
-update	app-updates.store
 update	app-usdupdate.live
 update	appconnect-update.com
 update	apple-update-info.com
@@ -2398,6 +2397,7 @@ update	craannualupdatereminder.com
 update	crainfoupdate-reminder.com
 update	crataxaccountupdate.com
 update	criticalupdate.xyz
+update	cryptodetailsupdaten.com
 crypto	094239-crypto.com
 crypto	109074-crypto.com
 crypto	1124crypto.com
@@ -2405,6 +2405,7 @@ crypto	11340598crypto.com
 crypto	113884-crypto.com
 crypto	113982crypto.com
 crypto	114538-crypto.com
+crypto	114557-crypto.com
 crypto	114558-crypto.com
 crypto	114587-crypto.com
 crypto	114588-crypto.com
@@ -2419,7 +2420,6 @@ crypto	118924-crypto.com
 crypto	128433-crypto.com
 crypto	131849-crypto.com
 crypto	133781crypto.com
-crypto	1382912-crypto.com
 crypto	140874-crypto.com
 crypto	14135-crypto.com
 crypto	16815-crypto.com
@@ -3053,6 +3053,7 @@ account	account-login-id.app
 account	account-mailgun.com
 account	account-memberservices.com
 account	account-mooncard.com
+account	account-ms.com
 account	account-mycanal.com
 account	account-mygovid.com
 account	account-myrogers.com
@@ -3060,6 +3061,7 @@ account	account-mywealthsimple.com
 account	account-ndax.com
 account	account-nexo.com
 account	account-paxful.com
+account	account-polymarket.com
 account	account-portal-coinbase.com
 account	account-portal.live
 account	account-presaerch.app
@@ -3141,6 +3143,7 @@ account	accountinghelpintuit.com
 account	accountingproposal.biz
 account	accountings-expert.com
 account	accountkundendatenbestaetigung-coinbase.com
+account	accountlogin-bitpanda.com
 account	accountlogin-coinbase.com
 account	accountmailbox.com
 account	accountmainproperty.com
@@ -3195,9 +3198,6 @@ account	accountsa360.live
 account	accountsecure-coinbase.com
 account	accountsecure.digital
 account	accountsecurebnc.com
-account	accountsecurenow.com
-account	accountsecurity-coinbase.com
-account	accountsecurityalerts.com
 airdrop	0x00000-bankless-hunt-airdrop.com
 airdrop	abstract-airdrop.xyz
 airdrop	aeth-airdrop.net
@@ -3676,7 +3676,6 @@ vault	case-vaults-coinbase.com
 vault	casevaultreview.com
 vault	casinogamevault.com
 vault	casinoplayvault.com
-vault	casinovaulted.com
 vault	cb-vault.com
 vault	cbtestvault.com
 vault	cdn-vault.com
@@ -3767,6 +3766,7 @@ vault	help-vault-crypto.com
 vault	hovaro-vaultix.com
 vault	hovaro-vaultix.net
 vault	hulk-vault.cc
+vault	hulkvault.vip
 vault	hwsvault.com
 vault	hwvault.net
 vault	hype-vaults.xyz
