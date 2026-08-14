@@ -14,7 +14,7 @@ seu@email.com	22
 ihre@email.de	22
 termas@termas.com.br	20
 admin@webmaster.com	19
-angelgarcia.mail@gmail.com	19
+angelgarcia.mail@gmail.com	17
 info@timeweb.ru	17
 ornek@email.com	14
 help@valgorix.com	14
@@ -22,12 +22,12 @@ support@stake.com	13
 privacypolicyupdates@automattic.com	13
 donate@opencart.com	12
 ihre.email@beispiel.de	11
-support@adguard.com	11
 helpdesk@wingstop.com	11
 customerservice@thread.bank	11
 support@soberapartmentsofamerica.org	11
 support@dervalio.com	11
 support@stake.us	10
+support@adguard.com	10
 support@jojobet.com	10
 partners@jojobet.com	10
 press@jojobet.com	10
