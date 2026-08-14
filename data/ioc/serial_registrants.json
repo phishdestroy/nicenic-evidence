@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-13",
+  "generated": "2026-08-14",
   "count": 50,
   "registrants": [
     {
@@ -560,7 +560,7 @@
     },
     {
       "email": "angelgarcia.mail@gmail.com",
-      "count": 19,
+      "count": 17,
       "domains": [
         "25musk.org",
         "cbfund.info",
@@ -568,14 +568,12 @@
         "elon-finance.org",
         "elon-promotion.org",
         "elonvoucher.com",
-        "foundation-reward.net",
         "musk-payment.org",
         "musk1.info",
         "reward-promotions.org",
         "ripple-pomotion.org",
         "ripplefinace-promotion.org",
         "rippleofficial-reward.org",
-        "ripplepromo-investing.net",
         "saylorgo.info",
         "tate2x.info",
         "tesla-reward.org",
@@ -713,23 +711,6 @@
       ]
     },
     {
-      "email": "support@adguard.com",
-      "count": 11,
-      "domains": [
-        "adguardclear.com",
-        "adguardclear.net",
-        "adguardfocus.com",
-        "adguardfree.com",
-        "adguardpro.net",
-        "adguardscan.com",
-        "adguardscan.net",
-        "adguardscan.org",
-        "adguardtech.com",
-        "adguardtech.net",
-        "adguardtools.com"
-      ]
-    },
-    {
       "email": "helpdesk@wingstop.com",
       "count": 11,
       "domains": [
@@ -801,6 +782,22 @@
       "email": "support@stake.us",
       "count": 10,
       "domains": []
+    },
+    {
+      "email": "support@adguard.com",
+      "count": 10,
+      "domains": [
+        "adguardclear.com",
+        "adguardclear.net",
+        "adguardfocus.com",
+        "adguardfree.com",
+        "adguardscan.com",
+        "adguardscan.net",
+        "adguardscan.org",
+        "adguardtech.com",
+        "adguardtech.net",
+        "adguardtools.com"
+      ]
     },
     {
       "email": "support@jojobet.com",
