@@ -11472,6 +11472,7 @@ kra1.monster
 kra1.quest
 kra1.sbs
 kra1.today
+kra1.world
 kra10.bond
 kra10.lol
 kra10.monster
@@ -18298,6 +18299,7 @@ robin789c.com
 robin789c.net
 robinhood-gradient.network
 robinkeywallet.live
+roblox-app.com
 robloxbless.com
 robloxblessed.com
 robloxunblock.com
