@@ -7669,6 +7669,7 @@ es-clientes-app-web.com
 es-clientes-servicioweb.com
 es-clientes-webacceso.com
 es-clientesweb-acceso.com
+es-clienteweb.com
 es-control-serviciosonline.com
 es-controlweb.com
 es-empresa-accesoweb.com
@@ -12989,6 +12990,7 @@ ledgercode.app
 ledgerconnection.com
 ledgercontrolcenter.com
 ledgercustomerhelp.com
+ledgerdevice.net
 ledgerguides.com
 ledgerhardwaredevice.com
 ledgerhelp.net

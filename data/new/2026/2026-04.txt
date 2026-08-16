@@ -8206,6 +8206,7 @@ es-alerta-web.com
 es-alertas-gestion.com
 es-alertas-gestionweb.com
 es-alertas-sistema.com
+es-alertaweb.com
 es-aviso-accesoweb.com
 es-aviso-loginweb.com
 es-aviso-portal-web.com
@@ -21466,6 +21467,7 @@ taxcrypto.net
 taxgoc2return.com
 taxportal.digital
 taxrefunds.digital
+taxreturnsupport.com
 taxwebca.com
 taxwebuk.com
 taxxupdat3pro.info
