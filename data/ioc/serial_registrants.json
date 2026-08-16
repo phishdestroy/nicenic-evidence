@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-15",
+  "generated": "2026-08-16",
   "count": 50,
   "registrants": [
     {
@@ -233,7 +233,7 @@
     },
     {
       "email": "info@africaoil.com",
-      "count": 37,
+      "count": 35,
       "domains": [
         "centr24.info",
         "client-support24.info",
@@ -245,8 +245,6 @@
         "info24-post.info",
         "inform-centr.info",
         "inform-portal2026.info",
-        "inform-state.info",
-        "inform-status.info",
         "inform24-centr.info",
         "inform24-state.info",
         "informator-post.info",
@@ -276,7 +274,7 @@
     },
     {
       "email": "support@easybit.com",
-      "count": 31,
+      "count": 30,
       "domains": [
         "asybit.com",
         "dasybit.com",
@@ -300,7 +298,6 @@
         "eawybit.com",
         "eaxybit.com",
         "eaysbit.com",
-        "eeasybit.com",
         "eqsybit.com",
         "esaybit.com",
         "ewsybit.com",
@@ -417,10 +414,35 @@
       "domains": []
     },
     {
-      "email": "seu@email.com",
+      "email": "ihre@email.de",
       "count": 22,
       "domains": [
-        "agendavirtualfacil.com",
+        "asf-digitalvigette.com",
+        "asf-vingete.com",
+        "asf-vingete.org",
+        "asf-vingetes.com",
+        "asfi-auto.com",
+        "asfibahne.org",
+        "asfig-online.com",
+        "asfig-strabe.com",
+        "asfig-strasse.com",
+        "asfig-vigette.org",
+        "asfigroads.org",
+        "asfimautlearn.org",
+        "asfin-roads.com",
+        "asfline.com",
+        "asfvigette.com",
+        "autobahn-vignete.com",
+        "autobahnvignete.com",
+        "mautkasse.digital",
+        "safetycheck-kraken.com",
+        "securitycheck-kraken.com"
+      ]
+    },
+    {
+      "email": "seu@email.com",
+      "count": 21,
+      "domains": [
         "atendimentodigitalfacil.com",
         "autoatendimentoonline.com",
         "autodigitalfacil.com",
@@ -446,7 +468,7 @@
     },
     {
       "email": "press@ethereum.org",
-      "count": 22,
+      "count": 21,
       "domains": [
         "award-boosteth.com",
         "bonus-boosteth.com",
@@ -456,7 +478,6 @@
         "boosteth-protocol.com",
         "bounty-boosteth.com",
         "bounty-boosteth.org",
-        "distribution-boosteth.net",
         "earn-boosteth.com",
         "ether-boost.org",
         "gain-boosteth.com",
@@ -470,32 +491,6 @@
         "stake-boosteth.com",
         "treasury-boosteth.com",
         "yield-boosteth.com"
-      ]
-    },
-    {
-      "email": "ihre@email.de",
-      "count": 22,
-      "domains": [
-        "asf-digitalvigette.com",
-        "asf-vingete.com",
-        "asf-vingete.org",
-        "asf-vingetes.com",
-        "asfi-auto.com",
-        "asfibahne.org",
-        "asfig-online.com",
-        "asfig-strabe.com",
-        "asfig-strasse.com",
-        "asfig-vigette.org",
-        "asfigroads.org",
-        "asfimautlearn.org",
-        "asfin-roads.com",
-        "asfline.com",
-        "asfvigette.com",
-        "autobahn-vignete.com",
-        "autobahnvignete.com",
-        "mautkasse.digital",
-        "safetycheck-kraken.com",
-        "securitycheck-kraken.com"
       ]
     },
     {
@@ -573,27 +568,6 @@
       ]
     },
     {
-      "email": "angelgarcia.mail@gmail.com",
-      "count": 15,
-      "domains": [
-        "25musk.org",
-        "cbfund.info",
-        "elon-crypto.org",
-        "elon-finance.org",
-        "elon-promotion.org",
-        "elonvoucher.com",
-        "musk-payment.org",
-        "musk1.info",
-        "reward-promotions.org",
-        "ripple-pomotion.org",
-        "saylorgo.info",
-        "tate2x.info",
-        "tesla-reward.org",
-        "xrpbonus-invest.org",
-        "xrpreward-event.org"
-      ]
-    },
-    {
       "email": "help@valgorix.com",
       "count": 14,
       "domains": [
@@ -611,6 +585,26 @@
         "ntfscehcknow.com",
         "startcleanbow.com",
         "xcotikmaichi.com"
+      ]
+    },
+    {
+      "email": "angelgarcia.mail@gmail.com",
+      "count": 14,
+      "domains": [
+        "25musk.org",
+        "cbfund.info",
+        "elon-crypto.org",
+        "elon-finance.org",
+        "elon-promotion.org",
+        "elonvoucher.com",
+        "musk-payment.org",
+        "musk1.info",
+        "reward-promotions.org",
+        "ripple-pomotion.org",
+        "saylorgo.info",
+        "tate2x.info",
+        "tesla-reward.org",
+        "xrpreward-event.org"
       ]
     },
     {
@@ -774,22 +768,6 @@
       "domains": []
     },
     {
-      "email": "support@adguard.com",
-      "count": 10,
-      "domains": [
-        "adguardclear.com",
-        "adguardclear.net",
-        "adguardfocus.com",
-        "adguardfree.com",
-        "adguardpro.net",
-        "adguardscan.com",
-        "adguardscan.net",
-        "adguardscan.org",
-        "adguardtech.com",
-        "adguardtools.com"
-      ]
-    },
-    {
       "email": "support@jojobet.com",
       "count": 10,
       "domains": [
@@ -840,6 +818,21 @@
       "email": "info@mattwilsonco.com",
       "count": 10,
       "domains": []
+    },
+    {
+      "email": "support@adguard.com",
+      "count": 9,
+      "domains": [
+        "adguardclear.com",
+        "adguardfocus.com",
+        "adguardfree.com",
+        "adguardpro.net",
+        "adguardscan.com",
+        "adguardscan.net",
+        "adguardscan.org",
+        "adguardtech.com",
+        "adguardtools.com"
+      ]
     },
     {
       "email": "info@ilbet.com",
