@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-16",
+  "generated": "2026-08-17",
   "count": 50,
   "registrants": [
     {
@@ -233,7 +233,7 @@
     },
     {
       "email": "info@africaoil.com",
-      "count": 35,
+      "count": 33,
       "domains": [
         "centr24.info",
         "client-support24.info",
@@ -247,8 +247,6 @@
         "inform-portal2026.info",
         "inform24-centr.info",
         "inform24-state.info",
-        "informator-post.info",
-        "informer-post.info",
         "me-status.info",
         "online24-portal.info",
         "portal-stat24.info",
@@ -340,36 +338,6 @@
       ]
     },
     {
-      "email": "press@chain.link",
-      "count": 24,
-      "domains": [
-        "app-llnk.org",
-        "apyclink.com",
-        "apylink.com",
-        "apylink.net",
-        "awardlink.org",
-        "bonuslink.org",
-        "bounty-llnk.com",
-        "bountylink.org",
-        "gainlink.org",
-        "grablink.org",
-        "link-distribution.org",
-        "link-protocol.com",
-        "link-rewards.com",
-        "linkapy.com",
-        "linkcash.org",
-        "linkdefi.org",
-        "linkevent.net",
-        "linkgrant.com",
-        "linkplatform.org",
-        "linkprotocol.org",
-        "linktreasury.org",
-        "stacklink.org",
-        "token-link.net",
-        "token-link.org"
-      ]
-    },
-    {
       "email": "submissions@shib.io",
       "count": 23,
       "domains": [
@@ -437,6 +405,34 @@
         "mautkasse.digital",
         "safetycheck-kraken.com",
         "securitycheck-kraken.com"
+      ]
+    },
+    {
+      "email": "press@chain.link",
+      "count": 22,
+      "domains": [
+        "app-llnk.org",
+        "apyclink.com",
+        "apylink.com",
+        "apylink.net",
+        "awardlink.org",
+        "bonuslink.org",
+        "bounty-llnk.com",
+        "bountylink.org",
+        "gainlink.org",
+        "grablink.org",
+        "link-distribution.org",
+        "link-protocol.com",
+        "link-rewards.com",
+        "linkapy.com",
+        "linkdefi.org",
+        "linkevent.net",
+        "linkgrant.com",
+        "linkplatform.org",
+        "linkprotocol.org",
+        "linktreasury.org",
+        "token-link.net",
+        "token-link.org"
       ]
     },
     {
@@ -588,26 +584,6 @@
       ]
     },
     {
-      "email": "angelgarcia.mail@gmail.com",
-      "count": 14,
-      "domains": [
-        "25musk.org",
-        "cbfund.info",
-        "elon-crypto.org",
-        "elon-finance.org",
-        "elon-promotion.org",
-        "elonvoucher.com",
-        "musk-payment.org",
-        "musk1.info",
-        "reward-promotions.org",
-        "ripple-pomotion.org",
-        "saylorgo.info",
-        "tate2x.info",
-        "tesla-reward.org",
-        "xrpreward-event.org"
-      ]
-    },
-    {
       "email": "support@stake.com",
       "count": 13,
       "domains": [
@@ -678,6 +654,24 @@
         "wordpressws.com",
         "wsswp.com",
         "wsswp.net"
+      ]
+    },
+    {
+      "email": "angelgarcia.mail@gmail.com",
+      "count": 12,
+      "domains": [
+        "25musk.org",
+        "cbfund.info",
+        "elon-crypto.org",
+        "elon-promotion.org",
+        "elonvoucher.com",
+        "musk-payment.org",
+        "musk1.info",
+        "reward-promotions.org",
+        "saylorgo.info",
+        "tate2x.info",
+        "tesla-reward.org",
+        "xrpreward-event.org"
       ]
     },
     {
