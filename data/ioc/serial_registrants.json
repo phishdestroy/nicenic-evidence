@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-17",
+  "generated": "2026-08-18",
   "count": 50,
   "registrants": [
     {
@@ -174,7 +174,7 @@
     },
     {
       "email": "max@unternehmen.de",
-      "count": 53,
+      "count": 54,
       "domains": [
         "americanexpress-aktivierung.com",
         "americanexpress-authentifizierung.com",
@@ -205,6 +205,7 @@
         "americanexpress-verifizierung.com",
         "americanexpress-versicherung.com",
         "americanexpress-versicherungen.com",
+        "americanexpress-versicherungshilfe.com",
         "americanexpress-vorgang.com",
         "amex-access.com",
         "amex-connect.com",
@@ -233,7 +234,7 @@
     },
     {
       "email": "info@africaoil.com",
-      "count": 33,
+      "count": 31,
       "domains": [
         "centr24.info",
         "client-support24.info",
@@ -244,7 +245,6 @@
         "info24-centr.info",
         "info24-post.info",
         "inform-centr.info",
-        "inform-portal2026.info",
         "inform24-centr.info",
         "inform24-state.info",
         "me-status.info",
@@ -253,7 +253,6 @@
         "portal24-stat.info",
         "portal24-static.info",
         "post-gov.info",
-        "post-inform.info",
         "rupost.info",
         "service-client24.info",
         "service-portal-gkh.info",
@@ -382,32 +381,6 @@
       "domains": []
     },
     {
-      "email": "ihre@email.de",
-      "count": 22,
-      "domains": [
-        "asf-digitalvigette.com",
-        "asf-vingete.com",
-        "asf-vingete.org",
-        "asf-vingetes.com",
-        "asfi-auto.com",
-        "asfibahne.org",
-        "asfig-online.com",
-        "asfig-strabe.com",
-        "asfig-strasse.com",
-        "asfig-vigette.org",
-        "asfigroads.org",
-        "asfimautlearn.org",
-        "asfin-roads.com",
-        "asfline.com",
-        "asfvigette.com",
-        "autobahn-vignete.com",
-        "autobahnvignete.com",
-        "mautkasse.digital",
-        "safetycheck-kraken.com",
-        "securitycheck-kraken.com"
-      ]
-    },
-    {
       "email": "press@chain.link",
       "count": 22,
       "domains": [
@@ -487,6 +460,30 @@
         "stake-boosteth.com",
         "treasury-boosteth.com",
         "yield-boosteth.com"
+      ]
+    },
+    {
+      "email": "ihre@email.de",
+      "count": 20,
+      "domains": [
+        "asf-digitalvigette.com",
+        "asf-vingete.com",
+        "asf-vingetes.com",
+        "asfi-auto.com",
+        "asfibahne.org",
+        "asfig-online.com",
+        "asfig-strabe.com",
+        "asfig-strasse.com",
+        "asfig-vigette.org",
+        "asfigroads.org",
+        "asfin-roads.com",
+        "asfline.com",
+        "asfvigette.com",
+        "autobahn-vignete.com",
+        "autobahnvignete.com",
+        "mautkasse.digital",
+        "safetycheck-kraken.com",
+        "securitycheck-kraken.com"
       ]
     },
     {
@@ -657,21 +654,22 @@
       ]
     },
     {
-      "email": "angelgarcia.mail@gmail.com",
-      "count": 12,
+      "email": "technology@tropicalsmoothie.com",
+      "count": 13,
       "domains": [
-        "25musk.org",
-        "cbfund.info",
-        "elon-crypto.org",
-        "elon-promotion.org",
-        "elonvoucher.com",
-        "musk-payment.org",
-        "musk1.info",
-        "reward-promotions.org",
-        "saylorgo.info",
-        "tate2x.info",
-        "tesla-reward.org",
-        "xrpreward-event.org"
+        "caffe-sm0thtropicca.delivery",
+        "caffes-tropicl.delivery",
+        "caffes-trropicl.delivery",
+        "caffesm0thtropicl.delivery",
+        "caffetr0pical.delivery",
+        "cafffe-sm0thtropic.delivery",
+        "h0me-tropicalcaffe.delivery",
+        "order-tropicalismoothecaffe.com",
+        "tr00pical-order.delivery",
+        "tr00ppicalcaffee.delivery",
+        "tr0pica-caffe.delivery",
+        "tr0ppicalcaffee.delivery",
+        "tropicalcaf3e.com"
       ]
     },
     {
@@ -757,6 +755,23 @@
       ]
     },
     {
+      "email": "haklar@grandpashabetmobiltr.vip",
+      "count": 11,
+      "domains": [
+        "girisadresi10.icu",
+        "girisadresi11.icu",
+        "girisadresi12.icu",
+        "girisadresi3.icu",
+        "girisadresi4.icu",
+        "girisadresi5.icu",
+        "girisadresi6.icu",
+        "girisadresiburadan.vip",
+        "girisguncel1.icu",
+        "girisguncel2.icu",
+        "girisinizaktif.vip"
+      ]
+    },
+    {
       "email": "support@stake.us",
       "count": 10,
       "domains": []
@@ -812,6 +827,22 @@
       "email": "info@mattwilsonco.com",
       "count": 10,
       "domains": []
+    },
+    {
+      "email": "angelgarcia.mail@gmail.com",
+      "count": 10,
+      "domains": [
+        "25musk.org",
+        "cbfund.info",
+        "elonvoucher.com",
+        "musk-payment.org",
+        "musk1.info",
+        "reward-promotions.org",
+        "saylorgo.info",
+        "tate2x.info",
+        "tesla-reward.org",
+        "xrpreward-event.org"
+      ]
     },
     {
       "email": "support@adguard.com",
@@ -953,20 +984,6 @@
       ]
     },
     {
-      "email": "technology@tropicalsmoothie.com",
-      "count": 8,
-      "domains": [
-        "caffetr0pical.delivery",
-        "h0me-tropicalcaffe.delivery",
-        "order-tropicalismoothecaffe.com",
-        "tr00pical-order.delivery",
-        "tr00ppicalcaffee.delivery",
-        "tr0pica-caffe.delivery",
-        "tr0ppicalcaffee.delivery",
-        "tropicalcaf3e.com"
-      ]
-    },
-    {
       "email": "support@casibom.com",
       "count": 7,
       "domains": [
@@ -990,19 +1007,6 @@
         "perabet1369.com",
         "perabet1370.com",
         "perabet1375.com"
-      ]
-    },
-    {
-      "email": "info@bowrivercapital.com",
-      "count": 7,
-      "domains": [
-        "bowrivercapital-partner.com",
-        "bowrivercapital-partner1.com",
-        "bowrivercapital-partners.com",
-        "bowrivercapitalgrp.com",
-        "bowrivercapitalir.com",
-        "bowrivercapitalpartner.com",
-        "bowrivercapitaltd.com"
       ]
     }
   ]
