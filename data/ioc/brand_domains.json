@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-18",
+  "generated": "2026-08-19",
   "keywords": {
     "coinbase": [
       "00-coinbase.com",
@@ -819,6 +819,7 @@
       "account-signintoken2756124.com",
       "acolytai-tokenclaim.sbs",
       "aerotoken.live",
+      "aethirtoken.com",
       "aethirtokens.com",
       "aevotoken.live",
       "aevotokenclaim.xyz",
@@ -871,7 +872,6 @@
       "ansemtoken.net",
       "ansemtoken.org",
       "antixclaimtoken.info",
-      "anyinutoken.net",
       "apecointoken.net",
       "apecointoken.org",
       "apetokenclaim.live",
@@ -1346,6 +1346,7 @@
       "betebet-officiall.com",
       "betebet-officiall.vip",
       "betgit-official.com",
+      "betgitt-officialtr2026.icu",
       "betine-official.com",
       "betingoofficial.vip",
       "betkanyon-liveofficial.icu",
@@ -1412,8 +1413,7 @@
       "betturkeyofficialcc.com",
       "betvibe-official-india.com",
       "betzula-liveofficial.icu",
-      "betzulaofficial.icu",
-      "betzulaofficial.vip"
+      "betzulaofficial.icu"
     ],
     "swap": [
       "0xswaps.xyz",
@@ -2064,6 +2064,7 @@
       "258913-kraken.com",
       "267483kraken.com",
       "272462kraken.com",
+      "273145kraken.com",
       "274117kraken.com",
       "276592-kraken.com",
       "279423kraken.com",
@@ -2220,8 +2221,7 @@
       "kraken-10at.com",
       "kraken-10at.net",
       "kraken-11-at.net",
-      "kraken-11-att.com",
-      "kraken-11-att.net"
+      "kraken-11-att.com"
     ],
     "update": [
       "1337update.com",
@@ -2304,6 +2304,7 @@
       "atm-xupdate.live",
       "atorecordupdate.info",
       "atorecordupdate.live",
+      "atorecordxxupdate.live",
       "aupromptupdate.com",
       "aus-income-update.info",
       "australiaupdate.net",
@@ -2352,6 +2353,7 @@
       "casupdate.live",
       "cb-caseupdate.com",
       "centeratoupdate.info",
+      "centeratoupdatexxx.live",
       "centrelink-update.net",
       "ch-dsny-update.com",
       "ch-ntx-update.com",
@@ -2421,9 +2423,7 @@
       "craannualupdatereminder.com",
       "crainfoupdate-reminder.com",
       "crataxaccountupdate.com",
-      "criticalupdate.xyz",
-      "cryptodetailsupdaten.com",
-      "csc-updates.live"
+      "criticalupdate.xyz"
     ],
     "crypto": [
       "033431-crypto.com",
@@ -2709,11 +2709,7 @@
       "cards-connects.com",
       "careerconnectionocuvr.com",
       "careerconnective.com",
-      "careersconnect-careerpath.com",
-      "careersconnect-hire.com",
       "careersconnect-talenthubs.com",
-      "careersconnectemploy.com",
-      "careersconnecthire.com",
       "casconnecter.com",
       "casibom-connect.icu",
       "cbcbuisnesconnect.icu",
@@ -2827,7 +2823,11 @@
       "connect-eventtia.com",
       "connect-flareecosystem.xyz",
       "connect-fluent.xyz",
-      "connect-form.com"
+      "connect-form.com",
+      "connect-galexe.com",
+      "connect-gemini.com",
+      "connect-googlemeet.com",
+      "connect-gradient.network"
     ],
     "trust": [
       "1-tdcanadatrust.com",
@@ -3500,6 +3500,7 @@
       "btb-verify.com",
       "btp-verify.com",
       "bunq-verify.com",
+      "cachet-verify.app",
       "cachet-verify.com",
       "canada-post-verifybilling.com",
       "captcha-verify.com",
@@ -3634,8 +3635,7 @@
       "marsbahs-verifylogin.com",
       "mat-verify.app",
       "matbet-myverify.com",
-      "matbetverify2026.live",
-      "matqet-verifylogin.com"
+      "matbetverify2026.live"
     ],
     "vault": [
       "118924-cbvault.com",
@@ -3708,6 +3708,7 @@
       "btc-vaultron202.live",
       "btc-vaultronv721.live",
       "btcvaulton.live",
+      "btcvaultrend-ai.com",
       "byzanvaults.com",
       "byzanvaults.pro",
       "byzanvaults.xyz",
@@ -3836,8 +3837,7 @@
       "letsvault-coinbase.com",
       "lido-vault.app",
       "lido-vault.network",
-      "lido-vault.xyz",
-      "lightningvaults.pro"
+      "lido-vault.xyz"
     ],
     "solana": [
       "1coinofsolana.com",

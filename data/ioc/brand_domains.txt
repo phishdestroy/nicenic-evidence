@@ -807,6 +807,7 @@ token	aavetoken.net
 token	account-signintoken2756124.com
 token	acolytai-tokenclaim.sbs
 token	aerotoken.live
+token	aethirtoken.com
 token	aethirtokens.com
 token	aevotoken.live
 token	aevotokenclaim.xyz
@@ -859,7 +860,6 @@ token	ansemtoken.app
 token	ansemtoken.net
 token	ansemtoken.org
 token	antixclaimtoken.info
-token	anyinutoken.net
 token	apecointoken.net
 token	apecointoken.org
 token	apetokenclaim.live
@@ -1330,6 +1330,7 @@ official	betebet-official2026.com
 official	betebet-officiall.com
 official	betebet-officiall.vip
 official	betgit-official.com
+official	betgitt-officialtr2026.icu
 official	betine-official.com
 official	betingoofficial.vip
 official	betkanyon-liveofficial.icu
@@ -1397,7 +1398,6 @@ official	betturkeyofficialcc.com
 official	betvibe-official-india.com
 official	betzula-liveofficial.icu
 official	betzulaofficial.icu
-official	betzulaofficial.vip
 swap	0xswaps.xyz
 swap	1-swap.com
 swap	11amaswap.icu
@@ -2040,6 +2040,7 @@ kraken	251892kraken.com
 kraken	258913-kraken.com
 kraken	267483kraken.com
 kraken	272462kraken.com
+kraken	273145kraken.com
 kraken	274117kraken.com
 kraken	276592-kraken.com
 kraken	279423kraken.com
@@ -2197,7 +2198,6 @@ kraken	kraken-10at.com
 kraken	kraken-10at.net
 kraken	kraken-11-at.net
 kraken	kraken-11-att.com
-kraken	kraken-11-att.net
 update	1337update.com
 update	1822direkt-update.com
 update	1822tanupdate.info
@@ -2278,6 +2278,7 @@ update	astupdate.live
 update	atm-xupdate.live
 update	atorecordupdate.info
 update	atorecordupdate.live
+update	atorecordxxupdate.live
 update	aupromptupdate.com
 update	aus-income-update.info
 update	australiaupdate.net
@@ -2326,6 +2327,7 @@ update	cash-update.xyz
 update	casupdate.live
 update	cb-caseupdate.com
 update	centeratoupdate.info
+update	centeratoupdatexxx.live
 update	centrelink-update.net
 update	ch-dsny-update.com
 update	ch-ntx-update.com
@@ -2396,8 +2398,6 @@ update	craannualupdatereminder.com
 update	crainfoupdate-reminder.com
 update	crataxaccountupdate.com
 update	criticalupdate.xyz
-update	cryptodetailsupdaten.com
-update	csc-updates.live
 crypto	033431-crypto.com
 crypto	094239-crypto.com
 crypto	109074-crypto.com
@@ -2679,11 +2679,7 @@ connect	captital-connection.cyou
 connect	cards-connects.com
 connect	careerconnectionocuvr.com
 connect	careerconnective.com
-connect	careersconnect-careerpath.com
-connect	careersconnect-hire.com
 connect	careersconnect-talenthubs.com
-connect	careersconnectemploy.com
-connect	careersconnecthire.com
 connect	casconnecter.com
 connect	casibom-connect.icu
 connect	cbcbuisnesconnect.icu
@@ -2798,6 +2794,10 @@ connect	connect-eventtia.com
 connect	connect-flareecosystem.xyz
 connect	connect-fluent.xyz
 connect	connect-form.com
+connect	connect-galexe.com
+connect	connect-gemini.com
+connect	connect-googlemeet.com
+connect	connect-gradient.network
 trust	1-tdcanadatrust.com
 trust	1trusted.live
 trust	1win-trust2026.icu
@@ -3462,6 +3462,7 @@ verify	brandleystudio-verify.com
 verify	btb-verify.com
 verify	btp-verify.com
 verify	bunq-verify.com
+verify	cachet-verify.app
 verify	cachet-verify.com
 verify	canada-post-verifybilling.com
 verify	captcha-verify.com
@@ -3597,7 +3598,6 @@ verify	marsbahs-verifylogin.com
 verify	mat-verify.app
 verify	matbet-myverify.com
 verify	matbetverify2026.live
-verify	matqet-verifylogin.com
 vault	118924-cbvault.com
 vault	157206-cbvault.com
 vault	177253-cb-vault.com
@@ -3668,6 +3668,7 @@ vault	btc-vaultron.live
 vault	btc-vaultron202.live
 vault	btc-vaultronv721.live
 vault	btcvaulton.live
+vault	btcvaultrend-ai.com
 vault	byzanvaults.com
 vault	byzanvaults.pro
 vault	byzanvaults.xyz
@@ -3797,7 +3798,6 @@ vault	letsvault-coinbase.com
 vault	lido-vault.app
 vault	lido-vault.network
 vault	lido-vault.xyz
-vault	lightningvaults.pro
 solana	1coinofsolana.com
 solana	1coinsolana.com
 solana	1coinsolana.net
