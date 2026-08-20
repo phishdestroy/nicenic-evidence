@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-19",
+  "generated": "2026-08-20",
   "keywords": {
     "coinbase": [
       "00-coinbase.com",
@@ -820,7 +820,6 @@
       "acolytai-tokenclaim.sbs",
       "aerotoken.live",
       "aethirtoken.com",
-      "aethirtokens.com",
       "aevotoken.live",
       "aevotokenclaim.xyz",
       "ag-token-swap-jupiter-exchange.xyz",
@@ -1009,7 +1008,8 @@
       "bnb-testtoken.com",
       "bnbcarnivaltoken.pro",
       "bonktoken-drop.xyz",
-      "bootokensolana.xyz"
+      "bootokensolana.xyz",
+      "bp-token.live"
     ],
     "wallet": [
       "114229-wallet.com",
@@ -1150,6 +1150,7 @@
       "bifrostdesktopwallets.store",
       "bifrostdeskwallet.com",
       "bifrostpcwallet.com",
+      "bifrostwallet-releases.com",
       "bifrostwallet.site",
       "bifrostwalletapps.com",
       "bifrostwalletdesktop.app",
@@ -1210,8 +1211,7 @@
       "card-trustwallet.com",
       "cardstrustwallet.com",
       "cardstrustwallet.info",
-      "cardtrustwallet.app",
-      "casadektopwallet.app"
+      "cardtrustwallet.app"
     ],
     "official": [
       "10cric-official-india.com",
@@ -1458,7 +1458,6 @@
       "allocation-kittenswap.xyz",
       "allocation-tapswapai.com",
       "allocation-tapswaps.com",
-      "allocations-syncswap.app",
       "alrswap.com",
       "alrswap.ink",
       "annswap.com",
@@ -1615,7 +1614,8 @@
       "changelly-swap.com",
       "checker-syncswap.com",
       "choudiniswap.com",
-      "cialm-hyperswap.xyz"
+      "cialm-hyperswap.xyz",
+      "claim-hyperswap.com"
     ],
     "ledger": [
       "01-ledger.com",
@@ -1992,6 +1992,7 @@
       "boacashprolivesupport.com",
       "boachatsupport.com",
       "boasupport.live",
+      "boh-support.com",
       "booking-support.cards",
       "booking-support.live",
       "booking-support.today",
@@ -2018,8 +2019,7 @@
       "centra-link-support.net",
       "centsupportau.com",
       "chainsupporthub.pro",
-      "chaseconnectsupport.com",
-      "chasesupportdesk.com"
+      "chaseconnectsupport.com"
     ],
     "kraken": [
       "076261-kraken.com",
@@ -2441,7 +2441,6 @@
       "114599-crypto.com",
       "115067-crypto.com",
       "115224-crypto.com",
-      "115274-crypto.com",
       "115501-crypto.com",
       "115502-crypto.com",
       "117390-crypto.com",
@@ -2625,7 +2624,8 @@
       "aml-cryptowallet.com",
       "amlcrypto.cfd",
       "amlcrypto.sbs",
-      "amlcrypto.xyz"
+      "amlcrypto.xyz",
+      "analyze-crypto.com"
     ],
     "connect": [
       "0nline-2025at0connect.digital",
@@ -2709,7 +2709,11 @@
       "cards-connects.com",
       "careerconnectionocuvr.com",
       "careerconnective.com",
+      "careersconnect-careerpath.com",
+      "careersconnect-hire.com",
       "careersconnect-talenthubs.com",
+      "careersconnectemploy.com",
+      "careersconnecthire.com",
       "casconnecter.com",
       "casibom-connect.icu",
       "cbcbuisnesconnect.icu",
@@ -2823,11 +2827,7 @@
       "connect-eventtia.com",
       "connect-flareecosystem.xyz",
       "connect-fluent.xyz",
-      "connect-form.com",
-      "connect-galexe.com",
-      "connect-gemini.com",
-      "connect-googlemeet.com",
-      "connect-gradient.network"
+      "connect-form.com"
     ],
     "trust": [
       "1-tdcanadatrust.com",
@@ -2939,6 +2939,7 @@
       "cardstrustwallet.info",
       "cardtrusts.com",
       "cardtrustwallet.app",
+      "cardtrustwalllet.app",
       "care-itrustcapital.com",
       "cars-trusted.com",
       "casibom-2026trust.vip",
@@ -3028,8 +3029,7 @@
       "finltrust.digital",
       "firelight-trusted.live",
       "firstadvisorytrust.com",
-      "fix-trustwallet.com",
-      "fmtrust.icu"
+      "fix-trustwallet.com"
     ],
     "account": [
       "1win-2026bestaccount.com",
@@ -3171,7 +3171,6 @@
       "accounthelth0.com",
       "accounting-department.company",
       "accounting-departments.com",
-      "accountingescrowservices.com",
       "accountinghelpintuit.com",
       "accountingproposal.biz",
       "accountings-expert.com",
@@ -3231,7 +3230,8 @@
       "accountsecure.digital",
       "accountsecurebnc.com",
       "accountsecurenow.com",
-      "accountsecurity-coinbase.com"
+      "accountsecurity-coinbase.com",
+      "accountsecurityalerts.com"
     ],
     "airdrop": [
       "0x00000-bankless-hunt-airdrop.com",

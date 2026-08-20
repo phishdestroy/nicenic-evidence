@@ -808,7 +808,6 @@ token	account-signintoken2756124.com
 token	acolytai-tokenclaim.sbs
 token	aerotoken.live
 token	aethirtoken.com
-token	aethirtokens.com
 token	aevotoken.live
 token	aevotokenclaim.xyz
 token	ag-token-swap-jupiter-exchange.xyz
@@ -998,6 +997,7 @@ token	bnb-testtoken.com
 token	bnbcarnivaltoken.pro
 token	bonktoken-drop.xyz
 token	bootokensolana.xyz
+token	bp-token.live
 wallet	114229-wallet.com
 wallet	1amwallet.com
 wallet	1amwallet.xyz
@@ -1136,6 +1136,7 @@ wallet	bifrostdesktopwallets.app
 wallet	bifrostdesktopwallets.store
 wallet	bifrostdeskwallet.com
 wallet	bifrostpcwallet.com
+wallet	bifrostwallet-releases.com
 wallet	bifrostwallet.site
 wallet	bifrostwalletapps.com
 wallet	bifrostwalletdesktop.app
@@ -1197,7 +1198,6 @@ wallet	card-trustwallet.com
 wallet	cardstrustwallet.com
 wallet	cardstrustwallet.info
 wallet	cardtrustwallet.app
-wallet	casadektopwallet.app
 official	10cric-official-india.com
 official	10official.vip
 official	1121-betebet-official.com
@@ -1440,7 +1440,6 @@ swap	akeswap.com
 swap	allocation-kittenswap.xyz
 swap	allocation-tapswapai.com
 swap	allocation-tapswaps.com
-swap	allocations-syncswap.app
 swap	alrswap.com
 swap	alrswap.ink
 swap	annswap.com
@@ -1598,6 +1597,7 @@ swap	changelly-swap.com
 swap	checker-syncswap.com
 swap	choudiniswap.com
 swap	cialm-hyperswap.xyz
+swap	claim-hyperswap.com
 ledger	01-ledger.com
 ledger	0182778-ledger.com
 ledger	02-ledger.com
@@ -1970,6 +1970,7 @@ support	bnzwebsupport.com
 support	boacashprolivesupport.com
 support	boachatsupport.com
 support	boasupport.live
+support	boh-support.com
 support	booking-support.cards
 support	booking-support.live
 support	booking-support.today
@@ -1997,7 +1998,6 @@ support	centra-link-support.net
 support	centsupportau.com
 support	chainsupporthub.pro
 support	chaseconnectsupport.com
-support	chasesupportdesk.com
 kraken	076261-kraken.com
 kraken	1-kraken.com
 kraken	109281-kraken.com
@@ -2413,7 +2413,6 @@ crypto	114588-crypto.com
 crypto	114599-crypto.com
 crypto	115067-crypto.com
 crypto	115224-crypto.com
-crypto	115274-crypto.com
 crypto	115501-crypto.com
 crypto	115502-crypto.com
 crypto	117390-crypto.com
@@ -2598,6 +2597,7 @@ crypto	aml-cryptowallet.com
 crypto	amlcrypto.cfd
 crypto	amlcrypto.sbs
 crypto	amlcrypto.xyz
+crypto	analyze-crypto.com
 connect	0nline-2025at0connect.digital
 connect	0xmetaconnect-rpc.xyz
 connect	19928292pcstestconnect2919.com
@@ -2679,7 +2679,11 @@ connect	captital-connection.cyou
 connect	cards-connects.com
 connect	careerconnectionocuvr.com
 connect	careerconnective.com
+connect	careersconnect-careerpath.com
+connect	careersconnect-hire.com
 connect	careersconnect-talenthubs.com
+connect	careersconnectemploy.com
+connect	careersconnecthire.com
 connect	casconnecter.com
 connect	casibom-connect.icu
 connect	cbcbuisnesconnect.icu
@@ -2794,10 +2798,6 @@ connect	connect-eventtia.com
 connect	connect-flareecosystem.xyz
 connect	connect-fluent.xyz
 connect	connect-form.com
-connect	connect-galexe.com
-connect	connect-gemini.com
-connect	connect-googlemeet.com
-connect	connect-gradient.network
 trust	1-tdcanadatrust.com
 trust	1trusted.live
 trust	1win-trust2026.icu
@@ -2907,6 +2907,7 @@ trust	cardstrustwallet.com
 trust	cardstrustwallet.info
 trust	cardtrusts.com
 trust	cardtrustwallet.app
+trust	cardtrustwalllet.app
 trust	care-itrustcapital.com
 trust	cars-trusted.com
 trust	casibom-2026trust.vip
@@ -2997,7 +2998,6 @@ trust	finltrust.digital
 trust	firelight-trusted.live
 trust	firstadvisorytrust.com
 trust	fix-trustwallet.com
-trust	fmtrust.icu
 account	1win-2026bestaccount.com
 account	1win-account2026.com
 account	1win-accountbeast2026.com
@@ -3137,7 +3137,6 @@ account	accounthelp-x.com
 account	accounthelth0.com
 account	accounting-department.company
 account	accounting-departments.com
-account	accountingescrowservices.com
 account	accountinghelpintuit.com
 account	accountingproposal.biz
 account	accountings-expert.com
@@ -3198,6 +3197,7 @@ account	accountsecure.digital
 account	accountsecurebnc.com
 account	accountsecurenow.com
 account	accountsecurity-coinbase.com
+account	accountsecurityalerts.com
 airdrop	0x00000-bankless-hunt-airdrop.com
 airdrop	abstract-airdrop.xyz
 airdrop	aeth-airdrop.net

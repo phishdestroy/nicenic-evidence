@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-19",
+  "generated": "2026-08-20",
   "count": 50,
   "registrants": [
     {
@@ -340,7 +340,7 @@
     },
     {
       "email": "submissions@shib.io",
-      "count": 23,
+      "count": 22,
       "domains": [
         "apyshib.com",
         "award-shibinu.com",
@@ -360,7 +360,6 @@
         "shibgift.com",
         "shibinu-dashboard.com",
         "shibinu-prize.com",
-        "shibinu-protocol.org",
         "shibinu-win.com",
         "shibprotocol.com",
         "stakeshib.com",
@@ -369,17 +368,17 @@
     },
     {
       "email": "u003esubmissions@shib.io",
-      "count": 23,
+      "count": 22,
       "domains": []
     },
     {
       "email": "ads@shib.io",
-      "count": 23,
+      "count": 22,
       "domains": []
     },
     {
       "email": "u003eads@shib.io",
-      "count": 23,
+      "count": 22,
       "domains": []
     },
     {
@@ -460,29 +459,6 @@
       ]
     },
     {
-      "email": "ihre@email.de",
-      "count": 19,
-      "domains": [
-        "asf-digitalvigette.com",
-        "asf-vingete.com",
-        "asf-vingetes.com",
-        "asfi-auto.com",
-        "asfibahne.org",
-        "asfig-online.com",
-        "asfig-strabe.com",
-        "asfig-strasse.com",
-        "asfig-vigette.org",
-        "asfin-roads.com",
-        "asfline.com",
-        "asfvigette.com",
-        "autobahn-vignete.com",
-        "autobahnvignete.com",
-        "mautkasse.digital",
-        "safetycheck-kraken.com",
-        "securitycheck-kraken.com"
-      ]
-    },
-    {
       "email": "admin@webmaster.com",
       "count": 19,
       "domains": [
@@ -505,6 +481,28 @@
         "trezor-diagnostic-app.com",
         "ver-empowermyretirements.com",
         "verify-mymandg.com"
+      ]
+    },
+    {
+      "email": "ihre@email.de",
+      "count": 18,
+      "domains": [
+        "asf-digitalvigette.com",
+        "asf-vingete.com",
+        "asf-vingetes.com",
+        "asfi-auto.com",
+        "asfig-online.com",
+        "asfig-strabe.com",
+        "asfig-strasse.com",
+        "asfig-vigette.org",
+        "asfin-roads.com",
+        "asfline.com",
+        "asfvigette.com",
+        "autobahn-vignete.com",
+        "autobahnvignete.com",
+        "mautkasse.digital",
+        "safetycheck-kraken.com",
+        "securitycheck-kraken.com"
       ]
     },
     {
@@ -555,6 +553,45 @@
       ]
     },
     {
+      "email": "support@stake.com",
+      "count": 14,
+      "domains": [
+        "droptheboss.org",
+        "stake-casino-kz.com",
+        "stake013.com",
+        "stake1108.com",
+        "stake1118.com",
+        "stake1119.com",
+        "stake1120.com",
+        "stake1150.com",
+        "stake1309.com",
+        "stakebonus350.com",
+        "stakebonus500code.com",
+        "stakeref.com",
+        "stakexe.com",
+        "stakexplay.com"
+      ]
+    },
+    {
+      "email": "donate@opencart.com",
+      "count": 14,
+      "domains": [
+        "101spill.com",
+        "cheap-steroids.net",
+        "edpill.net",
+        "motoryxa.com",
+        "onlineroidshop.com",
+        "partnivo.com",
+        "pharmaquickbuy.com",
+        "pokisupply.com",
+        "safesteroids.org",
+        "steroids-au.com",
+        "urbanvico.com",
+        "urheilu-karki.com",
+        "zatempl.com"
+      ]
+    },
+    {
       "email": "technology@tropicalsmoothie.com",
       "count": 14,
       "domains": [
@@ -572,25 +609,6 @@
         "tr0pica-caffe.delivery",
         "tr0ppicalcaffee.delivery",
         "tropicalcaf3e.com"
-      ]
-    },
-    {
-      "email": "support@stake.com",
-      "count": 13,
-      "domains": [
-        "stake-casino-kz.com",
-        "stake013.com",
-        "stake1108.com",
-        "stake1118.com",
-        "stake1119.com",
-        "stake1120.com",
-        "stake1150.com",
-        "stake1309.com",
-        "stakebonus350.com",
-        "stakebonus500code.com",
-        "stakeref.com",
-        "stakexe.com",
-        "stakexplay.com"
       ]
     },
     {
@@ -627,24 +645,6 @@
         "nakitbahis-adresi1.com",
         "screambosstest.com",
         "yuksekeczabilgi.vip"
-      ]
-    },
-    {
-      "email": "donate@opencart.com",
-      "count": 13,
-      "domains": [
-        "101spill.com",
-        "cheap-steroids.net",
-        "edpill.net",
-        "motoryxa.com",
-        "onlineroidshop.com",
-        "partnivo.com",
-        "pharmaquickbuy.com",
-        "safesteroids.org",
-        "steroids-au.com",
-        "urbanvico.com",
-        "urheilu-karki.com",
-        "zatempl.com"
       ]
     },
     {
@@ -825,21 +825,6 @@
       "domains": []
     },
     {
-      "email": "support@adguard.com",
-      "count": 9,
-      "domains": [
-        "adguardclear.com",
-        "adguardfocus.com",
-        "adguardfree.com",
-        "adguardpro.net",
-        "adguardscan.com",
-        "adguardscan.net",
-        "adguardscan.org",
-        "adguardtech.com",
-        "adguardtools.com"
-      ]
-    },
-    {
       "email": "info@ilbet.com",
       "count": 9,
       "domains": [
@@ -867,21 +852,6 @@
         "rainbet-casino-au.com",
         "rainbet-casino-canada.com",
         "truefortuneuk.com"
-      ]
-    },
-    {
-      "email": "angelgarcia.mail@gmail.com",
-      "count": 9,
-      "domains": [
-        "cbfund.info",
-        "elonvoucher.com",
-        "musk-payment.org",
-        "musk1.info",
-        "reward-promotions.org",
-        "saylorgo.info",
-        "tate2x.info",
-        "tesla-reward.org",
-        "xrpreward-event.org"
       ]
     },
     {
@@ -1002,6 +972,32 @@
         "perabet1369.com",
         "perabet1370.com",
         "perabet1375.com"
+      ]
+    },
+    {
+      "email": "info@bowrivercapital.com",
+      "count": 7,
+      "domains": [
+        "bowrivercapital-partner.com",
+        "bowrivercapital-partner1.com",
+        "bowrivercapital-partners.com",
+        "bowrivercapitalgrp.com",
+        "bowrivercapitalir.com",
+        "bowrivercapitalpartner.com",
+        "bowrivercapitaltd.com"
+      ]
+    },
+    {
+      "email": "help@aiti.email",
+      "count": 7,
+      "domains": [
+        "aitimart.cc",
+        "aitimart.com",
+        "aitimart.info",
+        "aitimart.live",
+        "aitimart.site",
+        "aitistart.com",
+        "aitiusers.com"
       ]
     }
   ]
