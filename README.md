@@ -38,14 +38,14 @@
 
 <!-- LIVE_STATS:START -->
 
-> 🔴 **LIVE INVESTIGATION FEED** &middot; Auto-updated &middot; Last fetch `2026-08-20`
+> 🔴 **LIVE INVESTIGATION FEED** &middot; Auto-updated &middot; Last fetch `2026-08-21`
 
 <table><tr>
-<td align="center"><b>📦 Domains tracked</b><br/><sub><code>384,852</code></sub></td>
-<td align="center"><b>💰 Est. revenue</b><br/><sub><code>$2,881,660</code></sub></td>
-<td align="center"><b>📡 Deployed</b><br/><sub><code>49.4%</code></sub></td>
+<td align="center"><b>📦 Domains tracked</b><br/><sub><code>385,495</code></sub></td>
+<td align="center"><b>💰 Est. revenue</b><br/><sub><code>$2,884,783</code></sub></td>
+<td align="center"><b>📡 Deployed</b><br/><sub><code>49.3%</code></sub></td>
 <td align="center"><b>✅ IOC classified</b><br/><sub><code>82,576</code> (35,902 HIGH)</sub></td>
-<td align="center"><b>⚡ Fresh (≤7d)</b><br/><sub><code>0.9%</code></sub></td>
+<td align="center"><b>⚡ Fresh (≤7d)</b><br/><sub><code>1.0%</code></sub></td>
 <td align="center"><b>🕵️ Serial regs</b><br/><sub><code>36</code></sub></td>
 </tr></table>
 
@@ -53,28 +53,28 @@
 
 | TLD | Count | Avg Reg Period | Est. Revenue |
 |:--|--:|--:|--:|
-| `.com` | 201,931 | 568d | $1,815,360 |
-| `.icu` | 30,002 | 386d | $29,702 |
-| `.vip` | 29,301 | 371d | $146,212 |
-| `.net` | 16,972 | 682d | $169,550 |
-| `.xyz` | 16,705 | 467d | $24,890 |
-| `.info` | 12,420 | 506d | $49,556 |
-| `.live` | 12,348 | 410d | $123,357 |
-| `.cfd` | 10,171 | 455d | $50,753 |
-| `.sbs` | 8,418 | 421d | $42,006 |
-| `.org` | 8,122 | 860d | $81,139 |
+| `.com` | 202,076 | 568d | $1,816,663 |
+| `.icu` | 30,223 | 386d | $29,921 |
+| `.vip` | 29,332 | 371d | $146,367 |
+| `.net` | 16,974 | 681d | $169,570 |
+| `.xyz` | 16,726 | 468d | $24,922 |
+| `.info` | 12,461 | 506d | $49,719 |
+| `.live` | 12,379 | 410d | $123,666 |
+| `.cfd` | 10,178 | 455d | $50,788 |
+| `.sbs` | 8,469 | 421d | $42,260 |
+| `.org` | 8,118 | 860d | $81,099 |
 
 ### 🌍 Top Hosting Countries
 
 ```
-US  ██████████████████     10,824 (33.6%)
-NL  ████░░░░░░░░░░░░░░      2,584 (8.0%)
-CA  ████░░░░░░░░░░░░░░      2,571 (8.0%)
-RU  ████░░░░░░░░░░░░░░      2,509 (7.8%)
-DE  ███░░░░░░░░░░░░░░░      1,926 (6.0%)
-GB  ██░░░░░░░░░░░░░░░░      1,737 (5.4%)
-BG  ██░░░░░░░░░░░░░░░░      1,499 (4.6%)
-SE  █░░░░░░░░░░░░░░░░░        860 (2.7%)
+US  ██████████████████     10,762 (33.5%)
+NL  ████░░░░░░░░░░░░░░      2,598 (8.1%)
+CA  ████░░░░░░░░░░░░░░      2,563 (8.0%)
+RU  ████░░░░░░░░░░░░░░      2,498 (7.8%)
+DE  ███░░░░░░░░░░░░░░░      1,923 (6.0%)
+GB  ██░░░░░░░░░░░░░░░░      1,730 (5.4%)
+BG  ██░░░░░░░░░░░░░░░░      1,495 (4.6%)
+SE  █░░░░░░░░░░░░░░░░░        865 (2.7%)
 ```
 
 ### 📈 Registration Burst Days
@@ -85,21 +85,21 @@ SE  █░░░░░░░░░░░░░░░░░        860 (2.7%)
 | `2026-06-08` | 1,252 | **12.5×** 🚨 |
 | `2026-03-06` | 1,245 | **12.4×** 🚨 |
 | `2025-12-04` | 1,221 | **12.2×** 🚨 |
-| `2026-03-05` | 1,207 | **12.1×** 🚨 |
+| `2026-03-05` | 1,209 | **12.1×** 🚨 |
 
 ### 🎯 Top Targeted Brands & Keywords
 
-`coinbase (3,818)` &middot; `claim (3,499)` &middot; `login (2,292)` &middot; `secure (1,702)` &middot; `token (1,633)` &middot; `wallet (1,548)` &middot; `official (1,492)` &middot; `swap (1,373)` &middot; `ledger (1,369)` &middot; `support (1,271)` &middot; `kraken (1,203)` &middot; `update (1,172)` &middot; `crypto (1,166)` &middot; `connect (1,109)` &middot; `trust (992)`
+`coinbase (3,813)` &middot; `claim (3,497)` &middot; `login (2,300)` &middot; `secure (1,702)` &middot; `token (1,638)` &middot; `wallet (1,548)` &middot; `official (1,499)` &middot; `swap (1,372)` &middot; `ledger (1,370)` &middot; `support (1,269)` &middot; `kraken (1,203)` &middot; `update (1,174)` &middot; `crypto (1,172)` &middot; `connect (1,107)` &middot; `trust (1,002)`
 
 ### 🕵️ Top Serial Registrants — 50 emails with ≥5 domains
 
 | # | Registrant Email (redacted) | Domains |
 |--:|:--|--:|
 | 1 | `inf***@credicentrocoop.com` | **98** |
-| 2 | `inf***@vuz.info` | **60** |
+| 2 | `inf***@vuz.info` | **59** |
 | 3 | `m***@unternehmen.de` | **56** |
-| 4 | `inf***@africaoil.com` | **31** |
-| 5 | `sup***@easybit.com` | **30** |
+| 4 | `sup***@easybit.com` | **30** |
+| 5 | `inf***@africaoil.com` | **27** |
 | 6 | `inf***@stroykatalog.ru` | **25** |
 | 7 | `sub***@shib.io` | **22** |
 | 8 | `u00***@shib.io` | **22** |
