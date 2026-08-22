@@ -38,7 +38,6 @@ coinbase	095110coinbase.com
 coinbase	100051coinbase.com
 coinbase	100150coinbase.com
 coinbase	101493-coinbase.com
-coinbase	101861-coinbase.com
 coinbase	102925-coinbase.com
 coinbase	10340-coinbase.com
 coinbase	10382-coinbase.com
@@ -198,6 +197,7 @@ coinbase	1328271-coinbase.com
 coinbase	133750-coinbase.com
 coinbase	133781coinbase.com
 coinbase	133830-coinbase.com
+coinbase	1340254-coinbase.com
 claim	0x-claim.xyz
 claim	0x00-claimables.xyz
 claim	0x000-claimables.xyz
@@ -401,6 +401,7 @@ claim	bluzelleclaims.com
 login	0auth-login.digital
 login	101clublogin.net
 login	1bmologin-dsvl2k9mc.com
+login	1login.digital
 login	1win-login-bonus-az.com
 login	1win-login-site.org
 login	1win-login2026site.com
@@ -597,7 +598,6 @@ login	betcio-directlogin.vip
 login	betcio-directloginv1.vip
 login	betcio-directloginv2.vip
 login	betcio-loginntekk2.vip
-login	betcio-logintek1.vip
 secure	09025896-secure-chase.com
 secure	19023-secure.com
 secure	1bmo-banking-secure.com
@@ -1228,6 +1228,7 @@ official	abacus03-official.com
 official	abacus06-official.com
 official	abacusmarketofficial.com
 official	abacusofficial.com
+official	abudhabigpofficial.com
 official	adres-official2025.com
 official	adresi-official.live
 official	adresimlofficial.vip
@@ -1391,13 +1392,12 @@ official	bets10-official.vip
 official	bets10-officialtr.com
 official	betsilin-liveofficial.icu
 official	betsmoveofficials.vip
+official	betterwithageofficial.com
 official	bettilt-official.vip
 official	betturkey-official.com
 official	betturkeyliveofficial.com
 official	betturkeyofficialcc.com
 official	betvibe-official-india.com
-official	betzula-liveofficial.icu
-official	betzulaofficial.icu
 swap	0xswaps.xyz
 swap	1-swap.com
 swap	11amaswap.icu
@@ -1652,7 +1652,6 @@ ledger	1949129-ledger.com
 ledger	195826ledger.com
 ledger	197302-ledger.com
 ledger	1985915-ledger.com
-ledger	199425-ledger.com
 ledger	1m50ku-ledger.com
 ledger	229499-ledger.com
 ledger	24929311-ledger.com
@@ -1798,6 +1797,7 @@ ledger	app-ledger-static-v2.com
 ledger	app-ledger.org
 ledger	app-ledgerwallet.com
 ledger	app-legal-ledger.icu
+ledger	app-openledger.xyz
 support	029250-support.com
 support	0myidsupportdesk.live
 support	1-online-support.com
@@ -2122,6 +2122,7 @@ kraken	activity-kraken.com
 kraken	aid-kraken.com
 kraken	apps-kraken.com
 kraken	aristokraken.com
+kraken	at-kraken.com
 kraken	au-kraken.com
 kraken	audit-kraken.com
 kraken	authorization-kraken.com
@@ -2197,7 +2198,6 @@ kraken	kraken-10-att.net
 kraken	kraken-10at.com
 kraken	kraken-10at.net
 kraken	kraken-11-at.net
-kraken	kraken-11-att.com
 update	1337update.com
 update	1822direkt-update.com
 update	1822tanupdate.info
@@ -2611,6 +2611,7 @@ connect	accesd-seconnecter.com
 connect	accessehub-connects.info
 connect	adapt-connect.pro
 connect	adminconnect.live
+connect	adsconnectionsflow.com
 connect	agentconnect-coinbase.com
 connect	airdrop-walletconnect.com
 connect	aisaconnect.com
@@ -2686,6 +2687,7 @@ connect	careersconnectemploy.com
 connect	careersconnecthire.com
 connect	casconnecter.com
 connect	casibom-connect.icu
+connect	cbc-businessconnect.com
 connect	cbcbuisnesconnect.icu
 connect	cbcbuisnessconnect.icu
 connect	cbcbuisnessconnectreasury.icu
@@ -2796,8 +2798,6 @@ connect	connect-eventtia.com
 connect	connect-flareecosystem.xyz
 connect	connect-fluent.xyz
 connect	connect-form.com
-connect	connect-galexe.com
-connect	connect-gemini.com
 trust	1-tdcanadatrust.com
 trust	1trusted.live
 trust	1win-trust2026.icu
@@ -2967,6 +2967,7 @@ trust	dapp-trustpads.xyz
 trust	darknet-trust.com
 trust	darknettrust.com
 trust	dealstrust.vip
+trust	defi-trustpad.app
 trust	defi-trustpad.biz
 trust	defi-trustpad.net
 trust	defi-trustpade.xyz
@@ -2986,7 +2987,6 @@ trust	domain-trustpilot.com
 trust	dontrustwallet.com
 trust	eligibility-trustwallet.com
 trust	emrtrustpharm.com
-trust	equitrustassetsltd.com
 trust	eu-qualitytrust.com
 trust	eu-trust-meds.com
 trust	eu-trustexpress.com
@@ -3108,7 +3108,6 @@ account	account-unlock.com
 account	account-update-o2.com
 account	account-updating.com
 account	account-uphold.com
-account	account-verificarion.com
 account	account-verification-required-pdf.today
 account	account-verify-etsy.com
 account	account-vopay.com
@@ -3198,6 +3197,7 @@ account	accountsecure.digital
 account	accountsecurebnc.com
 account	accountsecurenow.com
 account	accountsecurity-coinbase.com
+account	accountsecurityalerts.com
 airdrop	0x00000-bankless-hunt-airdrop.com
 airdrop	abstract-airdrop.xyz
 airdrop	ag-airdrop.app
@@ -3608,7 +3608,6 @@ vault	26491-vault-coinbase.com
 vault	284109us-coinbasevault.com
 vault	382741-coinbasevault.com
 vault	49512-vault-coinbase.com
-vault	587642-cbvault.com
 vault	762559-cbvault.com
 vault	81914-vault-gemini.com
 vault	84913-vault-gemini.com
@@ -3794,6 +3793,7 @@ vault	leadvaultorbit.com
 vault	leanrelaynode-vault.sbs
 vault	leapvault.info
 vault	ledger-vault.com
+vault	letsvault-coinbase.com
 vault	lido-vault.app
 vault	lido-vault.network
 vault	lido-vault.xyz
@@ -3826,6 +3826,7 @@ solana	aparth-lasolana.com
 solana	apedsolana.com
 solana	asolanaz.xyz
 solana	assonsolana.xyz
+solana	auracoinsolana.com
 solana	babbysolana.xyz
 solana	bagworksolana.com
 solana	bagworksolana.net
@@ -3997,4 +3998,3 @@ solana	punchofsolana.com
 solana	punchonsolana.org
 solana	punchonsolana.xyz
 solana	punchsolana.app
-solana	punchsolana.fun

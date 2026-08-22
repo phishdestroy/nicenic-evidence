@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-21",
+  "generated": "2026-08-22",
   "count": 50,
   "registrants": [
     {
@@ -270,39 +270,6 @@
       ]
     },
     {
-      "email": "info@africaoil.com",
-      "count": 27,
-      "domains": [
-        "centr24.info",
-        "client-support24.info",
-        "dom-gosuslugi.com",
-        "help24-service.info",
-        "help24-services.info",
-        "info-centr.info",
-        "info24-centr.info",
-        "inform-centr.info",
-        "inform24-centr.info",
-        "me-status.info",
-        "portal-stat24.info",
-        "portal24-stat.info",
-        "portal24-static.info",
-        "post-gov.info",
-        "service-client24.info",
-        "service-portal-gkh.info",
-        "services-portal.info",
-        "services-portal24.info",
-        "services24-portal-gkh.info",
-        "services24-portal.info",
-        "stat-portal24.info",
-        "stat-service24.info",
-        "stat24-service.info",
-        "stat24-services.info",
-        "status-service.info",
-        "status24-service.info",
-        "wildberries-box.info"
-      ]
-    },
-    {
       "email": "info@stroykatalog.ru",
       "count": 25,
       "domains": [
@@ -331,6 +298,35 @@
         "xn--krb12-sqa.cc",
         "xn--krb13-sqa.cc",
         "xn--krb14-sqa.cc"
+      ]
+    },
+    {
+      "email": "info@africaoil.com",
+      "count": 23,
+      "domains": [
+        "client-support24.info",
+        "dom-gosuslugi.com",
+        "help24-service.info",
+        "help24-services.info",
+        "info24-centr.info",
+        "inform24-centr.info",
+        "me-status.info",
+        "portal-stat24.info",
+        "portal24-stat.info",
+        "portal24-static.info",
+        "service-client24.info",
+        "service-portal-gkh.info",
+        "services-portal.info",
+        "services-portal24.info",
+        "services24-portal-gkh.info",
+        "services24-portal.info",
+        "stat-portal24.info",
+        "stat-service24.info",
+        "stat24-service.info",
+        "stat24-services.info",
+        "status-service.info",
+        "status24-service.info",
+        "wildberries-box.info"
       ]
     },
     {
@@ -404,7 +400,7 @@
     },
     {
       "email": "seu@email.com",
-      "count": 19,
+      "count": 18,
       "domains": [
         "atendimentodigitalfacil.com",
         "autoatendimentoonline.com",
@@ -423,13 +419,12 @@
         "pizzarialabellaoficial.cfd",
         "portalautomotividigital.com",
         "portalcarroonline.com",
-        "servicoautoinicio.com",
-        "solucaodigitalfacil.com"
+        "servicoautoinicio.com"
       ]
     },
     {
       "email": "admin@webmaster.com",
-      "count": 19,
+      "count": 18,
       "domains": [
         "ball2nitehappy.com",
         "cbsecurityreview.com",
@@ -446,7 +441,6 @@
         "rbc-online-verify.com",
         "restore-kraken.com",
         "rpc-2.com",
-        "services-help469.com",
         "trezor-diagnostic-app.com",
         "ver-empowermyretirements.com",
         "verify-mymandg.com"
@@ -718,6 +712,38 @@
       ]
     },
     {
+      "email": "support@jojobet.com",
+      "count": 11,
+      "domains": [
+        "8472ojobet.com",
+        "betofice971.com",
+        "joiobet1785.com",
+        "jojobet11381.com",
+        "jojobet8226.net",
+        "jojobet82532.com",
+        "jojobet84712.com",
+        "jojobet89011.com",
+        "jojobett1120.com",
+        "jojolbet1113.com",
+        "ulltrabet1224.com"
+      ]
+    },
+    {
+      "email": "partners@jojobet.com",
+      "count": 11,
+      "domains": []
+    },
+    {
+      "email": "press@jojobet.com",
+      "count": 11,
+      "domains": []
+    },
+    {
+      "email": "sikayet@jojobet.com",
+      "count": 11,
+      "domains": []
+    },
+    {
       "email": "customerservice@thread.bank",
       "count": 11,
       "domains": [
@@ -753,37 +779,6 @@
     },
     {
       "email": "support@stake.us",
-      "count": 10,
-      "domains": []
-    },
-    {
-      "email": "support@jojobet.com",
-      "count": 10,
-      "domains": [
-        "8472ojobet.com",
-        "betofice971.com",
-        "joiobet1785.com",
-        "jojobet11381.com",
-        "jojobet8226.net",
-        "jojobet82532.com",
-        "jojobet89011.com",
-        "jojobett1120.com",
-        "jojolbet1113.com",
-        "ulltrabet1224.com"
-      ]
-    },
-    {
-      "email": "partners@jojobet.com",
-      "count": 10,
-      "domains": []
-    },
-    {
-      "email": "press@jojobet.com",
-      "count": 10,
-      "domains": []
-    },
-    {
-      "email": "sikayet@jojobet.com",
       "count": 10,
       "domains": []
     },
