@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-23",
+  "generated": "2026-08-24",
   "count": 50,
   "registrants": [
     {
@@ -302,14 +302,12 @@
     },
     {
       "email": "info@africaoil.com",
-      "count": 23,
+      "count": 20,
       "domains": [
         "client-support24.info",
         "dom-gosuslugi.com",
         "help24-service.info",
         "help24-services.info",
-        "info24-centr.info",
-        "inform24-centr.info",
         "me-status.info",
         "portal-stat24.info",
         "portal24-stat.info",
@@ -325,52 +323,8 @@
         "stat24-service.info",
         "stat24-services.info",
         "status-service.info",
-        "status24-service.info",
-        "wildberries-box.info"
+        "status24-service.info"
       ]
-    },
-    {
-      "email": "submissions@shib.io",
-      "count": 22,
-      "domains": [
-        "apyshib.com",
-        "award-shibinu.com",
-        "bounty-shibinu.com",
-        "collect-shibinu.com",
-        "collectshib.com",
-        "daoshib.com",
-        "gainshib.com",
-        "giftshiba.com",
-        "launch-shibinu.com",
-        "prize-shibinu.com",
-        "shib-launch.com",
-        "shib-obtain.com",
-        "shib-yield.com",
-        "shibagrant.com",
-        "shibfarm.com",
-        "shibgift.com",
-        "shibinu-dashboard.com",
-        "shibinu-prize.com",
-        "shibinu-win.com",
-        "shibprotocol.com",
-        "stakeshib.com",
-        "stakeshiba.com"
-      ]
-    },
-    {
-      "email": "u003esubmissions@shib.io",
-      "count": 22,
-      "domains": []
-    },
-    {
-      "email": "ads@shib.io",
-      "count": 22,
-      "domains": []
-    },
-    {
-      "email": "u003eads@shib.io",
-      "count": 22,
-      "domains": []
     },
     {
       "email": "termas@termas.com.br",
@@ -399,27 +353,67 @@
       ]
     },
     {
-      "email": "admin@webmaster.com",
+      "email": "submissions@shib.io",
+      "count": 19,
+      "domains": [
+        "award-shibinu.com",
+        "bounty-shibinu.com",
+        "collect-shibinu.com",
+        "collectshib.com",
+        "gainshib.com",
+        "giftshiba.com",
+        "launch-shibinu.com",
+        "prize-shibinu.com",
+        "shib-launch.com",
+        "shib-obtain.com",
+        "shib-yield.com",
+        "shibagrant.com",
+        "shibfarm.com",
+        "shibgift.com",
+        "shibinu-dashboard.com",
+        "shibinu-prize.com",
+        "shibinu-win.com",
+        "stakeshib.com",
+        "stakeshiba.com"
+      ]
+    },
+    {
+      "email": "u003esubmissions@shib.io",
+      "count": 19,
+      "domains": []
+    },
+    {
+      "email": "ads@shib.io",
+      "count": 19,
+      "domains": []
+    },
+    {
+      "email": "u003eads@shib.io",
+      "count": 19,
+      "domains": []
+    },
+    {
+      "email": "info@timeweb.ru",
       "count": 18,
       "domains": [
-        "ball2nitehappy.com",
-        "cbsecurityreview.com",
-        "fairwinds-authentication.com",
-        "gov-uk-dvlaservice.com",
-        "help-ledgersupport.com",
-        "ing-customerservice.com",
-        "ledger-diagnosis-id.com",
-        "ledger-helpdesk.com",
-        "mitelceli.com",
-        "myaccount-protective.com",
-        "mypayrollnoticesacademy.com",
-        "nw-reregistration.com",
-        "rbc-online-verify.com",
-        "restore-kraken.com",
-        "rpc-2.com",
-        "trezor-diagnostic-app.com",
-        "ver-empowermyretirements.com",
-        "verify-mymandg.com"
+        "allpsdtemplates.cc",
+        "auth-vexarena.com",
+        "en-victory-hub.com",
+        "en-victoryhub.com",
+        "eng-vertex-club.com",
+        "eng-victory-hub.com",
+        "engvertex-clubgg.com",
+        "gorzdrav-spb.online",
+        "join-berserk-order.com",
+        "pinterestt.run",
+        "silenttitans-join.com",
+        "silenttitans-team.com",
+        "steam-join.com",
+        "stm-auth.com",
+        "team-ggluckycrew.com",
+        "team-silenttitans.com",
+        "tw-steam-auth.com",
+        "vrach42.info"
       ]
     },
     {
@@ -467,26 +461,26 @@
       ]
     },
     {
-      "email": "info@timeweb.ru",
+      "email": "admin@webmaster.com",
       "count": 17,
       "domains": [
-        "allpsdtemplates.cc",
-        "auth-vexarena.com",
-        "en-victory-hub.com",
-        "en-victoryhub.com",
-        "eng-vertex-club.com",
-        "eng-victory-hub.com",
-        "engvertex-clubgg.com",
-        "gorzdrav-spb.online",
-        "join-berserk-order.com",
-        "silenttitans-join.com",
-        "silenttitans-team.com",
-        "steam-join.com",
-        "stm-auth.com",
-        "team-ggluckycrew.com",
-        "team-silenttitans.com",
-        "tw-steam-auth.com",
-        "vrach42.info"
+        "ball2nitehappy.com",
+        "cbsecurityreview.com",
+        "fairwinds-authentication.com",
+        "gov-uk-dvlaservice.com",
+        "help-ledgersupport.com",
+        "ing-customerservice.com",
+        "ledger-diagnosis-id.com",
+        "ledger-helpdesk.com",
+        "mitelceli.com",
+        "myaccount-protective.com",
+        "mypayrollnoticesacademy.com",
+        "nw-reregistration.com",
+        "rbc-online-verify.com",
+        "rpc-2.com",
+        "trezor-diagnostic-app.com",
+        "ver-empowermyretirements.com",
+        "verify-mymandg.com"
       ]
     },
     {
@@ -644,6 +638,57 @@
       ]
     },
     {
+      "email": "helpdesk@wingstop.com",
+      "count": 12,
+      "domains": [
+        "vvingsttop.com",
+        "w1ngsstop.today",
+        "wingstop.today",
+        "wingstops.today",
+        "wingsttops.digital",
+        "winngstop.digital",
+        "wlngstoop.today",
+        "wlngstop.info",
+        "wlngstopp.today",
+        "wlngstops.cloud",
+        "wlngstops.digital",
+        "wlngstops.today"
+      ]
+    },
+    {
+      "email": "support@jojobet.com",
+      "count": 12,
+      "domains": [
+        "8472ojobet.com",
+        "betofice971.com",
+        "joiobet1785.com",
+        "jojobet11381.com",
+        "jojobet8226.net",
+        "jojobet82532.com",
+        "jojobet84712.com",
+        "jojobet89011.com",
+        "jojobett1120.com",
+        "jojolbet1113.com",
+        "ulltrabet1224.com",
+        "www-jojobet8345.com"
+      ]
+    },
+    {
+      "email": "partners@jojobet.com",
+      "count": 12,
+      "domains": []
+    },
+    {
+      "email": "press@jojobet.com",
+      "count": 12,
+      "domains": []
+    },
+    {
+      "email": "sikayet@jojobet.com",
+      "count": 12,
+      "domains": []
+    },
+    {
       "email": "support@dervalio.com",
       "count": 12,
       "domains": [
@@ -674,55 +719,6 @@
         "roadmautguide.com",
         "vignettemautinfo.com"
       ]
-    },
-    {
-      "email": "helpdesk@wingstop.com",
-      "count": 11,
-      "domains": [
-        "vvingsttop.com",
-        "wingstop.today",
-        "wingstops.today",
-        "wingsttops.digital",
-        "winngstop.digital",
-        "wlngstoop.today",
-        "wlngstop.info",
-        "wlngstopp.today",
-        "wlngstops.cloud",
-        "wlngstops.digital",
-        "wlngstops.today"
-      ]
-    },
-    {
-      "email": "support@jojobet.com",
-      "count": 11,
-      "domains": [
-        "8472ojobet.com",
-        "betofice971.com",
-        "joiobet1785.com",
-        "jojobet11381.com",
-        "jojobet8226.net",
-        "jojobet82532.com",
-        "jojobet84712.com",
-        "jojobet89011.com",
-        "jojobett1120.com",
-        "jojolbet1113.com",
-        "ulltrabet1224.com"
-      ]
-    },
-    {
-      "email": "partners@jojobet.com",
-      "count": 11,
-      "domains": []
-    },
-    {
-      "email": "press@jojobet.com",
-      "count": 11,
-      "domains": []
-    },
-    {
-      "email": "sikayet@jojobet.com",
-      "count": 11,
-      "domains": []
     },
     {
       "email": "customerservice@thread.bank",
@@ -756,23 +752,6 @@
         "sekagirisi-tr.com",
         "xn--extrbet994-v4a.com",
         "xn--extrbet995-v4a.com"
-      ]
-    },
-    {
-      "email": "press@chain.link",
-      "count": 11,
-      "domains": [
-        "apyclink.com",
-        "apylink.com",
-        "apylink.net",
-        "bounty-llnk.com",
-        "link-rewards.com",
-        "linkapy.com",
-        "linkevent.net",
-        "linkgrant.com",
-        "linkprotocol.org",
-        "token-link.net",
-        "token-link.org"
       ]
     },
     {
@@ -909,6 +888,20 @@
       "email": "support@pokerdom.com",
       "count": 8,
       "domains": []
+    },
+    {
+      "email": "press@chain.link",
+      "count": 8,
+      "domains": [
+        "bounty-llnk.com",
+        "link-rewards.com",
+        "linkapy.com",
+        "linkevent.net",
+        "linkgrant.com",
+        "linkprotocol.org",
+        "token-link.net",
+        "token-link.org"
+      ]
     },
     {
       "email": "xraypub@tutamail.com",
