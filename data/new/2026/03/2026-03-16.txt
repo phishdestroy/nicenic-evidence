@@ -105,6 +105,7 @@ bc2.games
 bcgame-ng.casino
 bcgame.video
 bcgame2.casino
+bcgames.fan
 bcgames.news
 belgionex.digital
 benimbahis-resmii.com
