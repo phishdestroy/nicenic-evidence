@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-25",
+  "generated": "2026-08-26",
   "count": 50,
   "registrants": [
     {
@@ -298,13 +298,14 @@
     },
     {
       "email": "submissions@shib.io",
-      "count": 20,
+      "count": 22,
       "domains": [
         "apyshib.com",
         "award-shibinu.com",
         "bounty-shibinu.com",
         "collect-shibinu.com",
         "collectshib.com",
+        "daoshib.com",
         "gainshib.com",
         "giftshiba.com",
         "launch-shibinu.com",
@@ -318,23 +319,24 @@
         "shibinu-dashboard.com",
         "shibinu-prize.com",
         "shibinu-win.com",
+        "shibprotocol.com",
         "stakeshib.com",
         "stakeshiba.com"
       ]
     },
     {
       "email": "u003esubmissions@shib.io",
-      "count": 20,
+      "count": 22,
       "domains": []
     },
     {
       "email": "ads@shib.io",
-      "count": 20,
+      "count": 22,
       "domains": []
     },
     {
       "email": "u003eads@shib.io",
-      "count": 20,
+      "count": 22,
       "domains": []
     },
     {
@@ -578,6 +580,40 @@
       ]
     },
     {
+      "email": "support@jojobet.com",
+      "count": 13,
+      "domains": [
+        "8385jojobet.com",
+        "8472ojobet.com",
+        "betofice971.com",
+        "joiobet1785.com",
+        "jojobet11381.com",
+        "jojobet8226.net",
+        "jojobet82532.com",
+        "jojobet84712.com",
+        "jojobet89011.com",
+        "jojobett1120.com",
+        "jojolbet1113.com",
+        "ulltrabet1224.com",
+        "www-jojobet8345.com"
+      ]
+    },
+    {
+      "email": "partners@jojobet.com",
+      "count": 13,
+      "domains": []
+    },
+    {
+      "email": "press@jojobet.com",
+      "count": 13,
+      "domains": []
+    },
+    {
+      "email": "sikayet@jojobet.com",
+      "count": 13,
+      "domains": []
+    },
+    {
       "email": "privacypolicyupdates@automattic.com",
       "count": 13,
       "domains": [
@@ -652,39 +688,6 @@
       ]
     },
     {
-      "email": "support@jojobet.com",
-      "count": 12,
-      "domains": [
-        "8472ojobet.com",
-        "betofice971.com",
-        "joiobet1785.com",
-        "jojobet11381.com",
-        "jojobet8226.net",
-        "jojobet82532.com",
-        "jojobet84712.com",
-        "jojobet89011.com",
-        "jojobett1120.com",
-        "jojolbet1113.com",
-        "ulltrabet1224.com",
-        "www-jojobet8345.com"
-      ]
-    },
-    {
-      "email": "partners@jojobet.com",
-      "count": 12,
-      "domains": []
-    },
-    {
-      "email": "press@jojobet.com",
-      "count": 12,
-      "domains": []
-    },
-    {
-      "email": "sikayet@jojobet.com",
-      "count": 12,
-      "domains": []
-    },
-    {
       "email": "support@dervalio.com",
       "count": 12,
       "domains": [
@@ -751,6 +754,23 @@
       ]
     },
     {
+      "email": "press@chain.link",
+      "count": 11,
+      "domains": [
+        "apyclink.com",
+        "apylink.com",
+        "apylink.net",
+        "bounty-llnk.com",
+        "link-rewards.com",
+        "linkapy.com",
+        "linkevent.net",
+        "linkgrant.com",
+        "linkprotocol.org",
+        "token-link.net",
+        "token-link.org"
+      ]
+    },
+    {
       "email": "support@stake.us",
       "count": 10,
       "domains": []
@@ -775,22 +795,6 @@
       "email": "info@mattwilsonco.com",
       "count": 10,
       "domains": []
-    },
-    {
-      "email": "press@chain.link",
-      "count": 10,
-      "domains": [
-        "apyclink.com",
-        "apylink.com",
-        "bounty-llnk.com",
-        "link-rewards.com",
-        "linkapy.com",
-        "linkevent.net",
-        "linkgrant.com",
-        "linkprotocol.org",
-        "token-link.net",
-        "token-link.org"
-      ]
     },
     {
       "email": "info@ilbet.com",
