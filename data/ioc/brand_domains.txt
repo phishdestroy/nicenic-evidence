@@ -996,8 +996,8 @@ token	blooket-tokens.live
 token	bmoresettoken22.com
 token	bnb-testtoken.com
 token	bnbcarnivaltoken.pro
-token	bonktoken-drop.xyz
 token	bootokensolana.xyz
+token	bp-token.live
 wallet	114229-wallet.com
 wallet	1amwallet.com
 wallet	1amwallet.xyz
@@ -1824,7 +1824,6 @@ support	abudhabigp-support.email
 support	abudhabigpsupport.email
 support	acc0untbeta-supportt01processs.icu
 support	accesd-desjardinsupport.com
-support	accesssupport.center
 support	account-support-info.com
 support	account-support-robinhood.com
 support	account-support.email
@@ -1897,7 +1896,6 @@ support	at0mic-support.org
 support	atomic-support.app
 support	atosupportau.com
 support	atosupportonline.com
-support	ausupportaccess.net
 support	authentication-support.com
 support	b-supporto.com
 support	bankofireland-support.com
@@ -1998,6 +1996,8 @@ support	cbfraudsupport.pro
 support	cdc-support.info
 support	centra-link-support.net
 support	centsupportau.com
+support	chainsupporthub.pro
+support	chaseconnectsupport.com
 kraken	076261-kraken.com
 kraken	1-kraken.com
 kraken	109281-kraken.com
@@ -2565,7 +2565,6 @@ update	commerz-update.info
 update	commerz-update2025.com
 update	commerzbank-push-update.info
 update	commerzbank-tan-update.app
-update	commerzbank-update.info
 update	commerzupdate.info
 update	commerzupdate.live
 update	communityupdate.xyz
@@ -2598,6 +2597,7 @@ update	dagupdate.live
 update	dappupdate.live
 update	darkwebupdates.net
 update	dataupdatesession.com
+update	datenupdate.info
 connect	0nline-2025at0connect.digital
 connect	0xmetaconnect-rpc.xyz
 connect	19928292pcstestconnect2919.com
@@ -2760,7 +2760,6 @@ connect	connect-airdrop.com
 connect	connect-airdrops-online.icu
 connect	connect-airdrops-secure01a.icu
 connect	connect-aitech.com
-connect	connect-apello.app
 connect	connect-api.net
 connect	connect-app-aml.cfd
 connect	connect-app.center
@@ -2770,7 +2769,6 @@ connect	connect-asterdex.com
 connect	connect-auth.net
 connect	connect-avalon.com
 connect	connect-avive.com
-connect	connect-bananagun.com
 connect	connect-bestbuy.com
 connect	connect-bitstamq.com
 connect	connect-brevis.network
@@ -2798,6 +2796,8 @@ connect	connect-form.com
 connect	connect-galexe.com
 connect	connect-gemini.com
 connect	connect-googlemeet.com
+connect	connect-gradient.network
+connect	connect-grass.xyz
 trust	1-tdcanadatrust.com
 trust	1trusted.live
 trust	1win-trust2026.icu
@@ -3242,7 +3242,6 @@ airdrop	airdrop-blaze.com
 airdrop	airdrop-blaze.net
 airdrop	airdrop-blaze.org
 airdrop	airdrop-blockstreet.xyz
-airdrop	airdrop-boredtopia.xyz
 airdrop	airdrop-boundless.app
 airdrop	airdrop-boundless.online
 airdrop	airdrop-boundless.xyz
@@ -3319,7 +3318,6 @@ airdrop	airdrop-hedera.com
 airdrop	airdrop-holo.com
 airdrop	airdrop-humafinance.xyz
 airdrop	airdrop-humidifi.app
-airdrop	airdrop-hunterz.fun
 airdrop	airdrop-hype.fun
 airdrop	airdrop-hypefoundation.app
 airdrop	airdrop-hyperbitcoin.app
@@ -3384,7 +3382,6 @@ airdrop	airdrop-mobyagent.com
 airdrop	airdrop-moodengsol.com
 airdrop	airdrop-moonbirds.com
 airdrop	airdrop-morpho.app
-airdrop	airdrop-multiplenetwork.xyz
 airdrop	airdrop-myrothedog.com
 airdrop	airdrop-near.com
 airdrop	airdrop-nearmobile.xyz
@@ -3398,6 +3395,9 @@ airdrop	airdrop-oether.com
 airdrop	airdrop-op.com
 airdrop	airdrop-optimismtokens-gateway01a.com
 airdrop	airdrop-orbiter.com
+airdrop	airdrop-orbiter.net
+airdrop	airdrop-orbiter.org
+airdrop	airdrop-orbiterfinance.com
 verify	05-25verifybnkaccess.info
 verify	1bmo-banking-verify.com
 verify	1bmo-mobile-verify.com
@@ -3417,7 +3417,6 @@ verify	affinityfcuverify.com
 verify	aib-verifylogin.com
 verify	airwallexverifyme.com
 verify	altverify.info
-verify	altverify.live
 verify	altverify.pro
 verify	americanexpressverify.support
 verify	aml-verifying.com
@@ -3450,6 +3449,7 @@ verify	betgit-2026verify.com
 verify	binance-verifying.com
 verify	bitgetverify.com
 verify	blockchain-verify.com
+verify	blockscanverify.com
 verify	bmo-banking-verify.com
 verify	bmo-client-verify.com
 verify	bmo-mobile-verify.com
@@ -3652,6 +3652,7 @@ vault	basewithvault.com
 vault	bearvault.biz
 vault	bearvaults.com
 vault	bertvault.com
+vault	bidarenavault.com
 vault	binancesecurevault.com
 vault	blackholevault.xyz
 vault	blessvault.com
@@ -3797,7 +3798,6 @@ vault	lido-vault.app
 vault	lido-vault.network
 vault	lido-vault.xyz
 vault	lightningvaults.pro
-vault	liquidvaults.xyz
 solana	1coinofsolana.com
 solana	1coinsolana.com
 solana	1coinsolana.net
@@ -3856,7 +3856,6 @@ solana	bruvsolana.com
 solana	bullishdegensolana.com
 solana	bullishdegensolana.net
 solana	bullsolana.app
-solana	buttplugsolana.net
 solana	buy-trumpsonsolana.com
 solana	cancersolana.com
 solana	capbetsolana.com
@@ -3876,7 +3875,6 @@ solana	claimsolana.sbs
 solana	claimtrojanonsolana.com
 solana	claimtrojanonsolana.live
 solana	cloveronsolana.xyz
-solana	colourssolana.com
 solana	coolcatssolana.com
 solana	copeonsolana.com
 solana	cr7solana.com
@@ -3898,7 +3896,6 @@ solana	eaglesolana.net
 solana	elizabethsolana.com
 solana	etbcoinsolana.lol
 solana	faithsolana.com
-solana	fapguysolana.com
 solana	fartcatsolana.com
 solana	fihsolana.com
 solana	fihsolana.net
@@ -3923,7 +3920,6 @@ solana	green-solana.com
 solana	grok-solanas.xyz
 solana	hantaofsolana.com
 solana	hantavirussolana.com
-solana	heavenofsolana.com
 solana	hub-solanamobile.xyz
 solana	io-solana.org
 solana	iqcoinonsolana.lol
@@ -3998,3 +3994,7 @@ solana	punchofsolana.com
 solana	punchonsolana.org
 solana	punchonsolana.xyz
 solana	punchsolana.app
+solana	punchsolana.fun
+solana	purchsolana.com
+solana	rarecoinsolana.com
+solana	raydium-exchange-solana.live

@@ -9062,6 +9062,7 @@ ledgerliveupdate.center
 ledgermalware-check.com
 ledgermalware-scan.com
 ledgerrequesthelp.com
+ledgerrestore.com
 ledgerscan-malware.com
 ledgersecurity-check.com
 ledgerwallet.world
