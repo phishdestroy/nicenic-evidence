@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-27",
+  "generated": "2026-08-28",
   "keywords": {
     "coinbase": [
       "00-coinbase.com",
@@ -1054,8 +1054,8 @@
       "anchor-wallet.com",
       "anchorwallet-update.com",
       "aparrowwallet.com",
-      "api-walletconnect.com",
       "app-bestwallet.com",
+      "app-bestwallet.finance",
       "app-dcentwallet.com",
       "app-ledgerwallet.com",
       "app-rnetarnask-wallet.pro",
@@ -1245,7 +1245,6 @@
       "abacusmarketofficial.com",
       "abacusofficial.com",
       "abudhabigpofficial.com",
-      "adres-official2025.com",
       "adresi-official.live",
       "adresimlofficial.vip",
       "aelfricedenofficial.org",
@@ -1413,7 +1412,8 @@
       "bettilt-official.vip",
       "betturkey-official.com",
       "betturkeyliveofficial.com",
-      "betturkeyofficialcc.com"
+      "betturkeyofficialcc.com",
+      "betvibe-official-india.com"
     ],
     "swap": [
       "0xswaps.xyz",
@@ -1503,7 +1503,6 @@
       "appv4uniswap.org",
       "apt-swap.com",
       "apt-swap.pro",
-      "arbswap.cash",
       "arbswap.gold",
       "arbswap.guru",
       "arbswap.team",
@@ -1615,7 +1614,8 @@
       "checker-syncswap.com",
       "choudiniswap.com",
       "cialm-hyperswap.xyz",
-      "claim-hyperswap.com"
+      "claim-hyperswap.com",
+      "claim-ixswap.com"
     ],
     "ledger": [
       "01-ledger.com",
@@ -1846,6 +1846,7 @@
       "abudhabigpsupport.email",
       "acc0untbeta-supportt01processs.icu",
       "accesd-desjardinsupport.com",
+      "accesssupport.center",
       "account-support-info.com",
       "account-support-robinhood.com",
       "account-support.email",
@@ -2018,8 +2019,7 @@
       "cdc-support.info",
       "centra-link-support.net",
       "centsupportau.com",
-      "chainsupporthub.pro",
-      "chaseconnectsupport.com"
+      "chainsupporthub.pro"
     ],
     "kraken": [
       "076261-kraken.com",
@@ -2652,7 +2652,6 @@
       "amex-connect.com",
       "amlconnect.app",
       "apelloconnect.app",
-      "api-walletconnect.com",
       "app-ag-connect.com",
       "app-connect-uniswap.org",
       "app-connect.cfd",
@@ -2827,7 +2826,8 @@
       "connect-gemini.com",
       "connect-googlemeet.com",
       "connect-gradient.network",
-      "connect-grass.xyz"
+      "connect-grass.xyz",
+      "connect-helpdesk.com"
     ],
     "trust": [
       "1-tdcanadatrust.com",
@@ -2858,6 +2858,7 @@
       "aml-trusts.com",
       "amlcheckstrust.com",
       "amltrust.live",
+      "amltrustanalyser.sbs",
       "amltrustchecker.icu",
       "amltrustchecker.sbs",
       "amltrustcompany.com",
@@ -3028,8 +3029,7 @@
       "exclusive-trustwallet.com",
       "exploit-trust.com",
       "extension-trustwallet.com",
-      "familytrust-de.com",
-      "farmerstrustbk.icu"
+      "familytrust-de.com"
     ],
     "account": [
       "1win-2026bestaccount.com",
@@ -3104,7 +3104,6 @@
       "account-recover-crypto.com",
       "account-recovery-crypto.com",
       "account-recovery-portal.com",
-      "account-reportaus.com",
       "account-review-coinbase.com",
       "account-river.com",
       "account-safety-cb.com",
@@ -3231,7 +3230,8 @@
       "accountsecure.digital",
       "accountsecurebnc.com",
       "accountsecurenow.com",
-      "accountsecurity-coinbase.com"
+      "accountsecurity-coinbase.com",
+      "accountsecurityalerts.com"
     ],
     "airdrop": [
       "0x00000-bankless-hunt-airdrop.com",
@@ -3271,7 +3271,6 @@
       "airdrop-backpack.com",
       "airdrop-biofoundation.com",
       "airdrop-bitcoinhyper.com",
-      "airdrop-bitlayer.xyz",
       "airdrop-blast.icu",
       "airdrop-blastroyale.com",
       "airdrop-blaze.com",
@@ -3433,7 +3432,8 @@
       "airdrop-orbiter.com",
       "airdrop-orbiter.net",
       "airdrop-orbiter.org",
-      "airdrop-orbiterfinance.com"
+      "airdrop-orbiterfinance.com",
+      "airdrop-orbitfinance.com"
     ],
     "verify": [
       "05-25verifybnkaccess.info",
@@ -3671,7 +3671,6 @@
       "allvaultclaims-blockchaindisbursal.live",
       "apac01-dropbox-safelinks-protection-privatevault.pro",
       "assets-vault.com",
-      "assetsvault-coinbase.com",
       "asterdex-vault.com",
       "astrovault.ltd",
       "astrovault.pro",
@@ -3791,7 +3790,6 @@
       "finance-vaults.company",
       "finance-vaults.digital",
       "firewallvault.com",
-      "flarevault.network",
       "fuelvaults.xyz",
       "garnetvaultmark.live",
       "gasless-suite-vault.sbs",
@@ -3837,7 +3835,9 @@
       "lido-vault.app",
       "lido-vault.network",
       "lido-vault.xyz",
-      "lightningvaults.pro"
+      "lightningvaults.pro",
+      "liquidvaults.xyz",
+      "lumivault.info"
     ],
     "solana": [
       "1coinofsolana.com",
@@ -3903,7 +3903,6 @@
       "capbetsolana.com",
       "cashtags-solana.com",
       "charlieonsolana.net",
-      "chopped-solana.com",
       "citizenssolana.xyz",
       "claim-michisolana.com",
       "claim-popcatsolana.com",
@@ -3955,7 +3954,6 @@
       "gigaschadsolana.com",
       "givemeyoursolana.icu",
       "gmgnsolana.xyz",
-      "goatcoinsolana.com",
       "goatcoinsolana.net",
       "governance-solana.com",
       "green-solana.com",
@@ -4039,7 +4037,9 @@
       "punchsolana.fun",
       "purchsolana.com",
       "rarecoinsolana.com",
-      "raydium-exchange-solana.live"
+      "raydium-exchange-solana.live",
+      "raydium-solana.com",
+      "raydium-solana.net"
     ]
   }
 }

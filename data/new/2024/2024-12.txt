@@ -892,7 +892,6 @@ austriabonus.com
 aut-govpt.com
 autenticacao-cmdpt.com
 autenticacaogov-cmd.com
-autenticacaogov-pt.com
 autgov-pt.com
 auth-captchabot.com
 auth-device.com
