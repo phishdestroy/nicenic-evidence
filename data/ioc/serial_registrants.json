@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-27",
+  "generated": "2026-08-28",
   "count": 50,
   "registrants": [
     {
@@ -108,7 +108,7 @@
     },
     {
       "email": "info@vuz.info",
-      "count": 60,
+      "count": 59,
       "domains": [
         "vuz-0q.info",
         "vuz-1e.info",
@@ -121,7 +121,6 @@
         "vuz-jv.info",
         "vuz-t.info",
         "vuz-t0.info",
-        "vuz-u3.info",
         "vuz-v.info",
         "vuz-vf.info",
         "vuz-x1.info",
@@ -368,30 +367,6 @@
       ]
     },
     {
-      "email": "info@africaoil.com",
-      "count": 18,
-      "domains": [
-        "client-support24.info",
-        "dom-gosuslugi.com",
-        "help24-service.info",
-        "help24-services.info",
-        "me-status.info",
-        "portal24-stat.info",
-        "portal24-static.info",
-        "service-client24.info",
-        "service-portal-gkh.info",
-        "services-portal.info",
-        "services-portal24.info",
-        "services24-portal-gkh.info",
-        "services24-portal.info",
-        "stat-service24.info",
-        "stat24-service.info",
-        "stat24-services.info",
-        "status-service.info",
-        "status24-service.info"
-      ]
-    },
-    {
       "email": "info@timeweb.ru",
       "count": 18,
       "domains": [
@@ -479,6 +454,28 @@
         "portalautomotividigital.com",
         "portalcarroonline.com",
         "servicoautoinicio.com"
+      ]
+    },
+    {
+      "email": "info@africaoil.com",
+      "count": 16,
+      "domains": [
+        "client-support24.info",
+        "dom-gosuslugi.com",
+        "help24-service.info",
+        "help24-services.info",
+        "me-status.info",
+        "service-client24.info",
+        "service-portal-gkh.info",
+        "services-portal.info",
+        "services-portal24.info",
+        "services24-portal-gkh.info",
+        "services24-portal.info",
+        "stat-service24.info",
+        "stat24-service.info",
+        "stat24-services.info",
+        "status-service.info",
+        "status24-service.info"
       ]
     },
     {
@@ -752,23 +749,6 @@
       ]
     },
     {
-      "email": "press@chain.link",
-      "count": 11,
-      "domains": [
-        "apyclink.com",
-        "apylink.com",
-        "apylink.net",
-        "bounty-llnk.com",
-        "link-rewards.com",
-        "linkapy.com",
-        "linkevent.net",
-        "linkgrant.com",
-        "linkprotocol.org",
-        "token-link.net",
-        "token-link.org"
-      ]
-    },
-    {
       "email": "support@stake.us",
       "count": 10,
       "domains": []
@@ -793,6 +773,22 @@
       "email": "info@mattwilsonco.com",
       "count": 10,
       "domains": []
+    },
+    {
+      "email": "press@chain.link",
+      "count": 10,
+      "domains": [
+        "apyclink.com",
+        "apylink.com",
+        "apylink.net",
+        "bounty-llnk.com",
+        "link-rewards.com",
+        "linkapy.com",
+        "linkevent.net",
+        "linkgrant.com",
+        "token-link.net",
+        "token-link.org"
+      ]
     },
     {
       "email": "info@ilbet.com",
