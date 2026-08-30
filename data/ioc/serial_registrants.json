@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-29",
+  "generated": "2026-08-30",
   "count": 50,
   "registrants": [
     {
@@ -235,12 +235,14 @@
     },
     {
       "email": "info@stroykatalog.ru",
-      "count": 26,
+      "count": 28,
       "domains": [
         "kraken7jmgt7yhhe2c4iyilthnhcugfylcztsdhh7otrr6jgd.com",
         "mega2o2nde2gzktxse2fesqpyfeoma72qmvk3fcip2l3uv3tbn5mad.com",
         "mega2olipdgn3zpmm6fjcl2jfeweyy7gjuzrs3mja7nkdu7lfyd.com",
         "sdlon1.cc",
+        "sdlon11.cc",
+        "sdlon15.cc",
         "sdlon16.cc",
         "sdlon2.cc",
         "sdlon3.cc",
@@ -267,7 +269,7 @@
     },
     {
       "email": "support@easybit.com",
-      "count": 26,
+      "count": 25,
       "domains": [
         "dasybit.com",
         "eaaybit.com",
@@ -280,7 +282,6 @@
         "easybif.com",
         "easybih.com",
         "easybir.com",
-        "easybitt.com",
         "easybiy.com",
         "easybjt.com",
         "easybkt.com",
@@ -412,29 +413,6 @@
       ]
     },
     {
-      "email": "admin@webmaster.com",
-      "count": 17,
-      "domains": [
-        "ball2nitehappy.com",
-        "cbsecurityreview.com",
-        "fairwinds-authentication.com",
-        "gov-uk-dvlaservice.com",
-        "help-ledgersupport.com",
-        "ing-customerservice.com",
-        "ledger-diagnosis-id.com",
-        "ledger-helpdesk.com",
-        "mitelceli.com",
-        "myaccount-protective.com",
-        "mypayrollnoticesacademy.com",
-        "nw-reregistration.com",
-        "rbc-online-verify.com",
-        "rpc-2.com",
-        "trezor-diagnostic-app.com",
-        "ver-empowermyretirements.com",
-        "verify-mymandg.com"
-      ]
-    },
-    {
       "email": "seu@email.com",
       "count": 16,
       "domains": [
@@ -457,8 +435,30 @@
       ]
     },
     {
-      "email": "info@africaoil.com",
+      "email": "admin@webmaster.com",
       "count": 16,
+      "domains": [
+        "ball2nitehappy.com",
+        "cbsecurityreview.com",
+        "fairwinds-authentication.com",
+        "gov-uk-dvlaservice.com",
+        "help-ledgersupport.com",
+        "ing-customerservice.com",
+        "ledger-diagnosis-id.com",
+        "mitelceli.com",
+        "myaccount-protective.com",
+        "mypayrollnoticesacademy.com",
+        "nw-reregistration.com",
+        "rbc-online-verify.com",
+        "rpc-2.com",
+        "trezor-diagnostic-app.com",
+        "ver-empowermyretirements.com",
+        "verify-mymandg.com"
+      ]
+    },
+    {
+      "email": "info@africaoil.com",
+      "count": 15,
       "domains": [
         "client-support24.info",
         "dom-gosuslugi.com",
@@ -469,7 +469,6 @@
         "service-portal-gkh.info",
         "services-portal.info",
         "services-portal24.info",
-        "services24-portal-gkh.info",
         "services24-portal.info",
         "stat-service24.info",
         "stat24-service.info",
@@ -480,7 +479,7 @@
     },
     {
       "email": "press@ethereum.org",
-      "count": 15,
+      "count": 14,
       "domains": [
         "award-boosteth.com",
         "bonus-boosteth.com",
@@ -490,7 +489,6 @@
         "earn-boosteth.com",
         "gain-boosteth.com",
         "gift-boosteth.com",
-        "hub-boosteth.com",
         "obtain-boosteth.com",
         "protocol-boosteth.com",
         "reward-boosteth.com",
