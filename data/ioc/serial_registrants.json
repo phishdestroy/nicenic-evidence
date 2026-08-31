@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-30",
+  "generated": "2026-08-31",
   "count": 50,
   "registrants": [
     {
@@ -108,7 +108,7 @@
     },
     {
       "email": "info@vuz.info",
-      "count": 59,
+      "count": 58,
       "domains": [
         "vuz-0q.info",
         "vuz-1e.info",
@@ -123,7 +123,6 @@
         "vuz-t0.info",
         "vuz-v.info",
         "vuz-vf.info",
-        "vuz-x1.info",
         "vuz.info",
         "vuz0a.info",
         "vuz0d.info",
@@ -457,27 +456,6 @@
       ]
     },
     {
-      "email": "info@africaoil.com",
-      "count": 15,
-      "domains": [
-        "client-support24.info",
-        "dom-gosuslugi.com",
-        "help24-service.info",
-        "help24-services.info",
-        "me-status.info",
-        "service-client24.info",
-        "service-portal-gkh.info",
-        "services-portal.info",
-        "services-portal24.info",
-        "services24-portal.info",
-        "stat-service24.info",
-        "stat24-service.info",
-        "stat24-services.info",
-        "status-service.info",
-        "status24-service.info"
-      ]
-    },
-    {
       "email": "press@ethereum.org",
       "count": 14,
       "domains": [
@@ -678,6 +656,24 @@
         "wlngstops.cloud",
         "wlngstops.digital",
         "wlngstops.today"
+      ]
+    },
+    {
+      "email": "info@africaoil.com",
+      "count": 12,
+      "domains": [
+        "client-support24.info",
+        "dom-gosuslugi.com",
+        "help24-service.info",
+        "help24-services.info",
+        "me-status.info",
+        "service-client24.info",
+        "service-portal-gkh.info",
+        "stat-service24.info",
+        "stat24-service.info",
+        "stat24-services.info",
+        "status-service.info",
+        "status24-service.info"
       ]
     },
     {

@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-30",
+  "generated": "2026-08-31",
   "keywords": {
     "coinbase": [
       "00-coinbase.com",
@@ -374,7 +374,6 @@
       "bitcoinhyper-claims.com",
       "bitcoinhyperclaim.info",
       "bitcoinpenguins-claim.com",
-      "bitlayer-claim.xyz",
       "blackbullsolclaim.pro",
       "blackholeclaim.xyz",
       "blastl2claim.com",
@@ -403,7 +402,8 @@
       "bluzelleclaims.com",
       "bluzellerewardclaims.com",
       "bmoclaimsonline.com",
-      "bmoclaimsupport.com"
+      "bmoclaimsupport.com",
+      "bnb-claiming.com"
     ],
     "login": [
       "0auth-login.digital",
@@ -463,7 +463,6 @@
       "acess-loginssi.com",
       "ads-google-login.com",
       "ads-microsoft-login.com",
-      "aib-verifylogin.com",
       "airwallexlogin.com",
       "airwallexloginonline.com",
       "airwallexs-login.com",
@@ -562,7 +561,6 @@
       "authweblogin.com",
       "autorisation-login.com",
       "aviso-loginapp.com",
-      "aviso-loginweb.com",
       "avisos-loginapp.com",
       "avisos-loginweb.com",
       "avva-bet-tr-logining.vip",
@@ -605,7 +603,9 @@
       "betcio-directlogin.vip",
       "betcio-directloginv1.vip",
       "betcio-directloginv2.vip",
-      "betcio-loginntekk2.vip"
+      "betcio-loginntekk2.vip",
+      "betcio-logintek1.vip",
+      "betcio-logintek2.vip"
     ],
     "secure": [
       "09025896-secure-chase.com",
@@ -849,7 +849,6 @@
       "airdrop-uniswaptokens-gateway01a.org",
       "akitatoken.xyz",
       "alexbeckertoken.com",
-      "alexbeckertoken.net",
       "aliabdaaltoken.lol",
       "alienformtokenclaim.live",
       "alientoken.app",
@@ -1009,7 +1008,8 @@
       "bnb-testtoken.com",
       "bnbcarnivaltoken.pro",
       "bootokensolana.xyz",
-      "bp-token.live"
+      "bp-token.live",
+      "brezetokenicofixdegen.xyz"
     ],
     "wallet": [
       "114229-wallet.com",
@@ -1526,7 +1526,6 @@
       "bakery-swap.org",
       "bakeryswap-anyone.org",
       "bakeryswap-deai.org",
-      "base-swapvoucher.xyz",
       "base-uniswap.com",
       "base1-swapvoucher.xyz",
       "base2-swapvoucher.xyz",
@@ -1615,7 +1614,8 @@
       "cialm-hyperswap.xyz",
       "claim-hyperswap.com",
       "claim-ixswap.com",
-      "claim-quickswap.com"
+      "claim-quickswap.com",
+      "claim-quickswap.exchange"
     ],
     "ledger": [
       "01-ledger.com",
@@ -2761,7 +2761,6 @@
       "collabixconnect.services",
       "collabixconnection.live",
       "collabland-newconnect.xyz",
-      "collabs-connecting.xyz",
       "collabs-connectings.info",
       "collabs-connector.icu",
       "collabs-connector.info",
@@ -2803,7 +2802,6 @@
       "connect-brevis.network",
       "connect-bungee.com",
       "connect-cdn.com",
-      "connect-celestia.com",
       "connect-cetus.com",
       "connect-chain.com",
       "connect-claim.app",
@@ -2827,7 +2825,9 @@
       "connect-googlemeet.com",
       "connect-gradient.network",
       "connect-grass.xyz",
-      "connect-helpdesk.com"
+      "connect-helpdesk.com",
+      "connect-huma.com",
+      "connect-jediswap.com"
     ],
     "trust": [
       "1-tdcanadatrust.com",
@@ -3002,7 +3002,6 @@
       "darknet-trust.com",
       "darknettrust.com",
       "dealstrust.vip",
-      "defi-trustpad.app",
       "defi-trustpad.biz",
       "defi-trustpad.net",
       "defi-trustpade.xyz",
@@ -3029,7 +3028,8 @@
       "event-trustwallet.com",
       "exclusive-trustwallet.com",
       "exploit-trust.com",
-      "extension-trustwallet.com"
+      "extension-trustwallet.com",
+      "familytrust-de.com"
     ],
     "account": [
       "1win-2026bestaccount.com",
@@ -3063,7 +3063,6 @@
       "account-capitalontaps.com",
       "account-capitlontap.com",
       "account-capltal-ontap.com",
-      "account-center.net",
       "account-checkpoint.com",
       "account-coindcx.com",
       "account-coinspot.com",
@@ -3168,6 +3167,7 @@
       "accounthelp-update.com",
       "accounthelp-x.com",
       "accounthelth0.com",
+      "accountholding.com",
       "accounting-department.company",
       "accounting-departments.com",
       "accountingescrowservices.com",
@@ -3218,7 +3218,6 @@
       "accounts-roblox.org",
       "accounts-secure.live",
       "accounts-sendgrid.com",
-      "accounts-service.com",
       "accounts-serviceau.com",
       "accounts-support-google.com",
       "accounts-team.live",
@@ -3231,7 +3230,8 @@
       "accountsecurebnc.com",
       "accountsecurenow.com",
       "accountsecurity-coinbase.com",
-      "accountsecurityalerts.com"
+      "accountsecurityalerts.com",
+      "accountservice-bitpanda.com"
     ],
     "airdrop": [
       "0x00000-bankless-hunt-airdrop.com",
@@ -3452,7 +3452,6 @@
       "accverifyaifdic.digital",
       "afcu-verify.com",
       "affinityfcuverify.com",
-      "aib-verifylogin.com",
       "airwallexverifyme.com",
       "altverify.info",
       "altverify.pro",
@@ -3473,6 +3472,7 @@
       "astersverify.pro",
       "atoverify.com",
       "au-verify.com",
+      "auth-verify-7231.com",
       "auth-verify.live",
       "auth2faverify.com",
       "auth2faverifynow.com",
@@ -3545,7 +3545,6 @@
       "de-secureverify.com",
       "decubateverify.com",
       "depop-verify-order.info",
-      "device-verifyboa-help.com",
       "direct-verify.com",
       "discordverify.net",
       "dkb-verify.com",
@@ -3635,7 +3634,8 @@
       "matbet-myverify.com",
       "matbetverify2026.live",
       "matqet-verifylogin.com",
-      "matrica-verify.app"
+      "matrica-verify.app",
+      "mediaverify-x.com"
     ],
     "vault": [
       "118924-cbvault.com",
@@ -3765,6 +3765,7 @@
       "customer-vault.com",
       "dashboard-vaulta.xyz",
       "datavault-net.com",
+      "dexvault.site",
       "digitalvaultresolve.live",
       "docsignvault.com",
       "docvaultportal.com",
@@ -3836,8 +3837,7 @@
       "lido-vault.network",
       "lido-vault.xyz",
       "lightningvaults.pro",
-      "liquidvaults.xyz",
-      "lumivault.info"
+      "liquidvaults.xyz"
     ],
     "trezor": [
       "0182778-trezor.com",
@@ -3871,7 +3871,6 @@
       "190612trezor.com",
       "1929391-trezor.com",
       "193938-trezor.com",
-      "19842-trezor.com",
       "21904-trezor.com",
       "2259-trezor.com",
       "310570-trezor.com",
@@ -4039,7 +4038,8 @@
       "suiteconnect-trezor.com",
       "suitedashboard-trezor.com",
       "suitedevice-trezor.com",
-      "suitedirectory-trezor.com"
+      "suitedirectory-trezor.com",
+      "suiteportal-trezor.com"
     ]
   }
 }
