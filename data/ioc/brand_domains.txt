@@ -445,7 +445,6 @@ login	accesosweb-login.com
 login	accesoweb-login.com
 login	accesss-my-login-portal.com
 login	accntnefilx-login-registe.com
-login	accntneftilx-login-registe.com
 login	account-login-id.app
 login	account-sso-login.com
 login	accountlogin-bitpanda.com
@@ -598,6 +597,7 @@ login	betcio-directloginv2.vip
 login	betcio-loginntekk2.vip
 login	betcio-logintek1.vip
 login	betcio-logintek2.vip
+login	betcio-logintek3.vip
 secure	09025896-secure-chase.com
 secure	19023-secure.com
 secure	1bmo-banking-secure.com
@@ -686,6 +686,7 @@ secure	asbfastnetsecure.com
 secure	ascentrmissecure.com
 secure	asia-fastsecure.com
 secure	asia-securepath.com
+secure	assetsecure.net
 secure	atbfinancialsecuredlink.com
 secure	atbusiness-secure.com
 secure	att-secure-carrier.com
@@ -797,7 +798,6 @@ secure	check-secure-service.com
 secure	check-secure-verify.com
 secure	check-verify-secure.com
 secure	check2secure.com
-secure	check4secure.com
 token	1fueliotoken.life
 token	1fueltoken.cfd
 token	4bsctoken.com
@@ -1510,7 +1510,6 @@ swap	bakeryswap-anyone.org
 swap	bakeryswap-deai.org
 swap	base-uniswap.com
 swap	base1-swapvoucher.xyz
-swap	base2-swapvoucher.xyz
 swap	base3-swapvoucher.xyz
 swap	base4-swapvoucher.xyz
 swap	basedswap.exchange
@@ -1578,6 +1577,7 @@ swap	calvinswaps.com
 swap	camelot-swap.com
 swap	camelot-swap.net
 swap	camelot-swap.org
+swap	carbswap.app
 swap	cardtoswap.app
 swap	carrotswap.org
 swap	cartelswap.com
@@ -1808,7 +1808,6 @@ support	1scolinksupport.com
 support	2025aus-centrasupport.info
 support	2025contactsupportsession.com
 support	21-supportdesk.com
-support	24-rx-support.com
 support	32424-support-ticket.com
 support	365bonussupportsection.com
 support	4183-support.com
@@ -1998,6 +1997,7 @@ support	cdc-support.info
 support	centra-link-support.net
 support	centsupportau.com
 support	chainsupporthub.pro
+support	chaseconnectsupport.com
 kraken	076261-kraken.com
 kraken	1-kraken.com
 kraken	109281-kraken.com
@@ -2758,6 +2758,7 @@ connect	connect-airdrop.com
 connect	connect-airdrops-online.icu
 connect	connect-airdrops-secure01a.icu
 connect	connect-aitech.com
+connect	connect-apello.app
 connect	connect-api.net
 connect	connect-app-aml.cfd
 connect	connect-app.center
@@ -2797,7 +2798,6 @@ connect	connect-gradient.network
 connect	connect-grass.xyz
 connect	connect-helpdesk.com
 connect	connect-huma.com
-connect	connect-jediswap.com
 trust	1-tdcanadatrust.com
 trust	1trusted.live
 trust	1win-trust2026.icu
@@ -3235,12 +3235,14 @@ airdrop	airdrop-babydogepaws.com
 airdrop	airdrop-backpack.com
 airdrop	airdrop-biofoundation.com
 airdrop	airdrop-bitcoinhyper.com
+airdrop	airdrop-bitlayer.xyz
 airdrop	airdrop-blast.icu
 airdrop	airdrop-blastroyale.com
 airdrop	airdrop-blaze.com
 airdrop	airdrop-blaze.net
 airdrop	airdrop-blaze.org
 airdrop	airdrop-blockstreet.xyz
+airdrop	airdrop-boredtopia.xyz
 airdrop	airdrop-boundless.app
 airdrop	airdrop-boundless.online
 airdrop	airdrop-boundless.xyz
@@ -3396,8 +3398,6 @@ airdrop	airdrop-orbiter.com
 airdrop	airdrop-orbiter.net
 airdrop	airdrop-orbiter.org
 airdrop	airdrop-orbiterfinance.com
-airdrop	airdrop-orbitfinance.com
-airdrop	airdrop-ore.app
 verify	05-25verifybnkaccess.info
 verify	1bmo-banking-verify.com
 verify	1bmo-mobile-verify.com

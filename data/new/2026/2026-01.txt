@@ -505,6 +505,7 @@
 1wild.casino
 1win-app-official-in.com
 1win-fra.com
+1win-hu.com
 1win1canada.com
 1winall.com
 1windeu.com
@@ -793,7 +794,6 @@
 4007betturkey.com
 4008betturkey.com
 410casinoroyal.com
-411baywin.com
 412732-coinbaseportal.com
 412732-gemini.com
 412739-coinbaseportal.com
@@ -5872,6 +5872,7 @@ com-2f3hrw.info
 com-2h5frw.info
 com-3h5frw.com
 com-3n2frw.info
+com-4n2frw.info
 com-5n2frw.info
 com-6n9frw.info
 com-7f3hrw.info

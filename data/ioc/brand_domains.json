@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-31",
+  "generated": "2026-09-01",
   "keywords": {
     "coinbase": [
       "00-coinbase.com",
@@ -453,7 +453,6 @@
       "accesoweb-login.com",
       "accesss-my-login-portal.com",
       "accntnefilx-login-registe.com",
-      "accntneftilx-login-registe.com",
       "account-login-id.app",
       "account-sso-login.com",
       "accountlogin-bitpanda.com",
@@ -605,7 +604,8 @@
       "betcio-directloginv2.vip",
       "betcio-loginntekk2.vip",
       "betcio-logintek1.vip",
-      "betcio-logintek2.vip"
+      "betcio-logintek2.vip",
+      "betcio-logintek3.vip"
     ],
     "secure": [
       "09025896-secure-chase.com",
@@ -696,6 +696,7 @@
       "ascentrmissecure.com",
       "asia-fastsecure.com",
       "asia-securepath.com",
+      "assetsecure.net",
       "atbfinancialsecuredlink.com",
       "atbusiness-secure.com",
       "att-secure-carrier.com",
@@ -806,8 +807,7 @@
       "check-secure-service.com",
       "check-secure-verify.com",
       "check-verify-secure.com",
-      "check2secure.com",
-      "check4secure.com"
+      "check2secure.com"
     ],
     "token": [
       "1fueliotoken.life",
@@ -1528,7 +1528,6 @@
       "bakeryswap-deai.org",
       "base-uniswap.com",
       "base1-swapvoucher.xyz",
-      "base2-swapvoucher.xyz",
       "base3-swapvoucher.xyz",
       "base4-swapvoucher.xyz",
       "basedswap.exchange",
@@ -1596,6 +1595,7 @@
       "camelot-swap.com",
       "camelot-swap.net",
       "camelot-swap.org",
+      "carbswap.app",
       "cardtoswap.app",
       "carrotswap.org",
       "cartelswap.com",
@@ -1830,7 +1830,6 @@
       "2025aus-centrasupport.info",
       "2025contactsupportsession.com",
       "21-supportdesk.com",
-      "24-rx-support.com",
       "32424-support-ticket.com",
       "365bonussupportsection.com",
       "4183-support.com",
@@ -2019,7 +2018,8 @@
       "cdc-support.info",
       "centra-link-support.net",
       "centsupportau.com",
-      "chainsupporthub.pro"
+      "chainsupporthub.pro",
+      "chaseconnectsupport.com"
     ],
     "kraken": [
       "076261-kraken.com",
@@ -2788,6 +2788,7 @@
       "connect-airdrops-online.icu",
       "connect-airdrops-secure01a.icu",
       "connect-aitech.com",
+      "connect-apello.app",
       "connect-api.net",
       "connect-app-aml.cfd",
       "connect-app.center",
@@ -2826,8 +2827,7 @@
       "connect-gradient.network",
       "connect-grass.xyz",
       "connect-helpdesk.com",
-      "connect-huma.com",
-      "connect-jediswap.com"
+      "connect-huma.com"
     ],
     "trust": [
       "1-tdcanadatrust.com",
@@ -3271,12 +3271,14 @@
       "airdrop-backpack.com",
       "airdrop-biofoundation.com",
       "airdrop-bitcoinhyper.com",
+      "airdrop-bitlayer.xyz",
       "airdrop-blast.icu",
       "airdrop-blastroyale.com",
       "airdrop-blaze.com",
       "airdrop-blaze.net",
       "airdrop-blaze.org",
       "airdrop-blockstreet.xyz",
+      "airdrop-boredtopia.xyz",
       "airdrop-boundless.app",
       "airdrop-boundless.online",
       "airdrop-boundless.xyz",
@@ -3431,9 +3433,7 @@
       "airdrop-orbiter.com",
       "airdrop-orbiter.net",
       "airdrop-orbiter.org",
-      "airdrop-orbiterfinance.com",
-      "airdrop-orbitfinance.com",
-      "airdrop-ore.app"
+      "airdrop-orbiterfinance.com"
     ],
     "verify": [
       "05-25verifybnkaccess.info",
