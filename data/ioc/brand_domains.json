@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-01",
+  "generated": "2026-09-02",
   "keywords": {
     "coinbase": [
       "00-coinbase.com",
@@ -673,7 +673,6 @@
       "amlbotsecure.com",
       "analytics-secure.com",
       "anualassessissuedsecure26.info",
-      "anzausecure.com",
       "anzsecurechat.com",
       "anzsecurehelp.com",
       "anzsecurereset.com",
@@ -807,7 +806,8 @@
       "check-secure-service.com",
       "check-secure-verify.com",
       "check-verify-secure.com",
-      "check2secure.com"
+      "check2secure.com",
+      "check4secure.com"
     ],
     "token": [
       "1fueliotoken.life",
@@ -1527,7 +1527,6 @@
       "bakeryswap-anyone.org",
       "bakeryswap-deai.org",
       "base-uniswap.com",
-      "base1-swapvoucher.xyz",
       "base3-swapvoucher.xyz",
       "base4-swapvoucher.xyz",
       "basedswap.exchange",
@@ -1615,7 +1614,8 @@
       "claim-hyperswap.com",
       "claim-ixswap.com",
       "claim-quickswap.com",
-      "claim-quickswap.exchange"
+      "claim-quickswap.exchange",
+      "claim-quickswap.live"
     ],
     "ledger": [
       "01-ledger.com",
@@ -2787,7 +2787,6 @@
       "connect-airdrop.com",
       "connect-airdrops-online.icu",
       "connect-airdrops-secure01a.icu",
-      "connect-aitech.com",
       "connect-apello.app",
       "connect-api.net",
       "connect-app-aml.cfd",
@@ -2797,7 +2796,6 @@
       "connect-asterdex.com",
       "connect-auth.net",
       "connect-avalon.com",
-      "connect-avive.com",
       "connect-bestbuy.com",
       "connect-bitstamq.com",
       "connect-brevis.network",
@@ -2827,7 +2825,9 @@
       "connect-gradient.network",
       "connect-grass.xyz",
       "connect-helpdesk.com",
-      "connect-huma.com"
+      "connect-huma.com",
+      "connect-jediswap.com",
+      "connect-jup.xyz"
     ],
     "trust": [
       "1-tdcanadatrust.com",
@@ -3277,7 +3277,6 @@
       "airdrop-blaze.com",
       "airdrop-blaze.net",
       "airdrop-blaze.org",
-      "airdrop-blockstreet.xyz",
       "airdrop-boredtopia.xyz",
       "airdrop-boundless.app",
       "airdrop-boundless.online",
@@ -3433,7 +3432,8 @@
       "airdrop-orbiter.com",
       "airdrop-orbiter.net",
       "airdrop-orbiter.org",
-      "airdrop-orbiterfinance.com"
+      "airdrop-orbiterfinance.com",
+      "airdrop-orbitfinance.com"
     ],
     "verify": [
       "05-25verifybnkaccess.info",

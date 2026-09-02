@@ -663,7 +663,6 @@ secure	aml2secure.org
 secure	amlbotsecure.com
 secure	analytics-secure.com
 secure	anualassessissuedsecure26.info
-secure	anzausecure.com
 secure	anzsecurechat.com
 secure	anzsecurehelp.com
 secure	anzsecurereset.com
@@ -798,6 +797,7 @@ secure	check-secure-service.com
 secure	check-secure-verify.com
 secure	check-verify-secure.com
 secure	check2secure.com
+secure	check4secure.com
 token	1fueliotoken.life
 token	1fueltoken.cfd
 token	4bsctoken.com
@@ -1509,7 +1509,6 @@ swap	bakery-swap.org
 swap	bakeryswap-anyone.org
 swap	bakeryswap-deai.org
 swap	base-uniswap.com
-swap	base1-swapvoucher.xyz
 swap	base3-swapvoucher.xyz
 swap	base4-swapvoucher.xyz
 swap	basedswap.exchange
@@ -1598,6 +1597,7 @@ swap	claim-hyperswap.com
 swap	claim-ixswap.com
 swap	claim-quickswap.com
 swap	claim-quickswap.exchange
+swap	claim-quickswap.live
 ledger	01-ledger.com
 ledger	0182778-ledger.com
 ledger	02-ledger.com
@@ -2757,7 +2757,6 @@ connect	connect-airdrop.app
 connect	connect-airdrop.com
 connect	connect-airdrops-online.icu
 connect	connect-airdrops-secure01a.icu
-connect	connect-aitech.com
 connect	connect-apello.app
 connect	connect-api.net
 connect	connect-app-aml.cfd
@@ -2767,7 +2766,6 @@ connect	connect-app.pub
 connect	connect-asterdex.com
 connect	connect-auth.net
 connect	connect-avalon.com
-connect	connect-avive.com
 connect	connect-bestbuy.com
 connect	connect-bitstamq.com
 connect	connect-brevis.network
@@ -2798,6 +2796,8 @@ connect	connect-gradient.network
 connect	connect-grass.xyz
 connect	connect-helpdesk.com
 connect	connect-huma.com
+connect	connect-jediswap.com
+connect	connect-jup.xyz
 trust	1-tdcanadatrust.com
 trust	1trusted.live
 trust	1win-trust2026.icu
@@ -3241,7 +3241,6 @@ airdrop	airdrop-blastroyale.com
 airdrop	airdrop-blaze.com
 airdrop	airdrop-blaze.net
 airdrop	airdrop-blaze.org
-airdrop	airdrop-blockstreet.xyz
 airdrop	airdrop-boredtopia.xyz
 airdrop	airdrop-boundless.app
 airdrop	airdrop-boundless.online
@@ -3398,6 +3397,7 @@ airdrop	airdrop-orbiter.com
 airdrop	airdrop-orbiter.net
 airdrop	airdrop-orbiter.org
 airdrop	airdrop-orbiterfinance.com
+airdrop	airdrop-orbitfinance.com
 verify	05-25verifybnkaccess.info
 verify	1bmo-banking-verify.com
 verify	1bmo-mobile-verify.com

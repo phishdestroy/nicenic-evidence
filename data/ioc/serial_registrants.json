@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-01",
+  "generated": "2026-09-02",
   "count": 50,
   "registrants": [
     {
@@ -659,24 +659,6 @@
       ]
     },
     {
-      "email": "info@africaoil.com",
-      "count": 12,
-      "domains": [
-        "client-support24.info",
-        "dom-gosuslugi.com",
-        "help24-service.info",
-        "help24-services.info",
-        "me-status.info",
-        "service-client24.info",
-        "service-portal-gkh.info",
-        "stat-service24.info",
-        "stat24-service.info",
-        "stat24-services.info",
-        "status-service.info",
-        "status24-service.info"
-      ]
-    },
-    {
       "email": "support@dervalio.com",
       "count": 12,
       "domains": [
@@ -706,6 +688,23 @@
         "osstreshroadmap.com",
         "roadmautguide.com",
         "vignettemautinfo.com"
+      ]
+    },
+    {
+      "email": "info@africaoil.com",
+      "count": 11,
+      "domains": [
+        "client-support24.info",
+        "dom-gosuslugi.com",
+        "help24-service.info",
+        "help24-services.info",
+        "me-status.info",
+        "service-client24.info",
+        "stat-service24.info",
+        "stat24-service.info",
+        "stat24-services.info",
+        "status-service.info",
+        "status24-service.info"
       ]
     },
     {
