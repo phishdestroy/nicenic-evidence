@@ -195,9 +195,9 @@ coinbase	133750-coinbase.com
 coinbase	133781coinbase.com
 coinbase	133830-coinbase.com
 coinbase	1340254-coinbase.com
-coinbase	13424coinbase.com
 coinbase	13473coinbase.com
 coinbase	13592-coinbase.com
+coinbase	13592037-coinbase.com
 claim	0x-claim.xyz
 claim	0x000-claimables.xyz
 claim	0x001-claimables.xyz
@@ -366,7 +366,6 @@ claim	bitcoinhyper-claim.info
 claim	bitcoinhyper-claim.live
 claim	bitcoinhyper-claims.com
 claim	bitcoinhyperclaim.info
-claim	bitcoinpenguins-claim.com
 claim	blackbullsolclaim.pro
 claim	blackholeclaim.xyz
 claim	blastl2claim.com
@@ -398,6 +397,7 @@ claim	bmoclaimsonline.com
 claim	bmoclaimsupport.com
 claim	bnb-claiming.com
 claim	boaclaimsonline.com
+claim	bobclaim.boats
 login	0auth-login.digital
 login	101clublogin.net
 login	1bmologin-dsvl2k9mc.com
@@ -1508,7 +1508,6 @@ swap	bakery-swap.org
 swap	bakeryswap-anyone.org
 swap	bakeryswap-deai.org
 swap	base-uniswap.com
-swap	base3-swapvoucher.xyz
 swap	base4-swapvoucher.xyz
 swap	basedswap.exchange
 swap	biasterswap.xyz
@@ -1598,6 +1597,7 @@ swap	claim-quickswap.com
 swap	claim-quickswap.exchange
 swap	claim-quickswap.live
 swap	claim-swapx.com
+swap	claim-uniswap.app
 ledger	01-ledger.com
 ledger	0182778-ledger.com
 ledger	02-ledger.com
@@ -1875,7 +1875,6 @@ support	anzhelpsupport.com
 support	anzonlinesupport.com
 support	anzsupportdesk.com
 support	anzsupporthub.com
-support	anzwebchatsupport.com
 support	anzwebsupport.com
 support	aok-support.com
 support	app-binancesupport.com
@@ -1895,8 +1894,6 @@ support	ascendexsupportsession.live
 support	at0mic-support.org
 support	atomic-support.app
 support	atosupportau.com
-support	atosupportonline.com
-support	authentication-support.com
 support	b-supporto.com
 support	bankofireland-support.com
 support	bankofirelandsupportchat.com
@@ -1930,7 +1927,6 @@ support	bitgetsupport.org
 support	bitgetsupportbot.com
 support	bitgetsupportchat.com
 support	bitgetsupportcontact.com
-support	bitgetsupporthub.com
 support	bitmartsupportsession.live
 support	bitsosupport.org
 support	bitstampsupport.com
@@ -1970,7 +1966,6 @@ support	boh-support.com
 support	booking-support.cards
 support	booking-support.live
 support	booking-support.today
-support	booktradeentrysupport.org
 support	borgersupportinfo.com
 support	branchxsupports.live
 support	brownlinesupport.com
@@ -1998,6 +1993,11 @@ support	centsupportau.com
 support	chainsupporthub.pro
 support	chaseconnectsupport.com
 support	chasesupportdesk.com
+support	chatingsupport.live
+support	chatsupportdesk.com
+support	cibc-accountsupport.com
+support	cibc-digitalbusiness-support.com
+support	cibc-support.com
 kraken	076261-kraken.com
 kraken	1-kraken.com
 kraken	109281-kraken.com
@@ -2745,7 +2745,6 @@ connect	communitypartnersconnect.com
 connect	confirm-walletconnect.com
 connect	confirmation-walletconnect.com
 connect	confirmation-walletsconnect.com
-connect	connect-accenture.com
 connect	connect-administracion-login.com
 connect	connect-administracionfirma-login.com
 connect	connect-administracionfirma-login.net
@@ -2798,6 +2797,7 @@ connect	connect-helpdesk.com
 connect	connect-huma.com
 connect	connect-jediswap.com
 connect	connect-jup.xyz
+connect	connect-krraken.com
 trust	1-tdcanadatrust.com
 trust	1trusted.live
 trust	1win-trust2026.icu
@@ -2827,6 +2827,7 @@ trust	aml-trusts.com
 trust	amlcheckstrust.com
 trust	amltrust.live
 trust	amltrustanalyser.sbs
+trust	amltrustcheck.icu
 trust	amltrustchecker.icu
 trust	amltrustchecker.sbs
 trust	amltrustcompany.com
@@ -2997,7 +2998,6 @@ trust	event-trustwallet.com
 trust	exclusive-trustwallet.com
 trust	exploit-trust.com
 trust	extension-trustwallet.com
-trust	familytrust-de.com
 account	1win-2026bestaccount.com
 account	1win-account2026.com
 account	1win-accountbeast2026.com
@@ -3442,7 +3442,6 @@ verify	auverify.com
 verify	bahiscasino-2026verify.com
 verify	banksyd-verify.com
 verify	barclaysverifycall.com
-verify	beamless-gridwork-verify.com
 verify	becu-verify.com
 verify	betgit-2026verify.com
 verify	binance-verifying.com
@@ -3598,6 +3597,7 @@ verify	matbetverify2026.live
 verify	matqet-verifylogin.com
 verify	matrica-verify.app
 verify	mediaverify-x.com
+verify	mica-update-verify.com
 vault	118924-cbvault.com
 vault	157206-cbvault.com
 vault	177253-cb-vault.com
@@ -3749,6 +3749,7 @@ vault	finance-vaults.com
 vault	finance-vaults.company
 vault	finance-vaults.digital
 vault	firewallvault.com
+vault	firstlvault.info
 vault	fuelvaults.xyz
 vault	garnetvaultmark.live
 vault	gasless-suite-vault.sbs
@@ -3797,7 +3798,6 @@ vault	lido-vault.xyz
 vault	lightningvaults.pro
 vault	liquidvaults.xyz
 vault	lumivault.info
-vault	mantlevaults.pro
 trezor	0182778-trezor.com
 trezor	1217941-trezor.com
 trezor	1239291-trezor.com
@@ -3944,7 +3944,6 @@ trezor	mytrezor-diagnostic.com
 trezor	mytrezor-diagnostics.com
 trezor	mytrezor-recovery.com
 trezor	mytrezor-webapp.com
-trezor	mytrezordevice.com
 trezor	mytrezordiagnostic.com
 trezor	mytrezordiagnostics.com
 trezor	mytrezorhelpdesk.com
@@ -3998,3 +3997,4 @@ trezor	suiteconnect-trezor.com
 trezor	suitedashboard-trezor.com
 trezor	suitedevice-trezor.com
 trezor	suitedirectory-trezor.com
+trezor	suiteportal-trezor.com

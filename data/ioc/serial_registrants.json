@@ -456,6 +456,26 @@
       ]
     },
     {
+      "email": "donate@opencart.com",
+      "count": 15,
+      "domains": [
+        "101spill.com",
+        "cheap-steroids.net",
+        "edpill.net",
+        "motoryxa.com",
+        "newmanchic.com",
+        "onlineroidshop.com",
+        "partnivo.com",
+        "pharmaquickbuy.com",
+        "pokisupply.com",
+        "safesteroids.org",
+        "steroids-au.com",
+        "urbanvico.com",
+        "urheilu-karki.com",
+        "zatempl.com"
+      ]
+    },
+    {
       "email": "press@ethereum.org",
       "count": 14,
       "domains": [
@@ -476,23 +496,39 @@
       ]
     },
     {
-      "email": "donate@opencart.com",
+      "email": "support@jojobet.com",
       "count": 14,
       "domains": [
-        "101spill.com",
-        "cheap-steroids.net",
-        "edpill.net",
-        "motoryxa.com",
-        "onlineroidshop.com",
-        "partnivo.com",
-        "pharmaquickbuy.com",
-        "pokisupply.com",
-        "safesteroids.org",
-        "steroids-au.com",
-        "urbanvico.com",
-        "urheilu-karki.com",
-        "zatempl.com"
+        "8295jojobet.com",
+        "8385jojobet.com",
+        "8472ojobet.com",
+        "betofice971.com",
+        "joiobet1785.com",
+        "jojobet11381.com",
+        "jojobet8226.net",
+        "jojobet82532.com",
+        "jojobet84712.com",
+        "jojobet89011.com",
+        "jojobett1120.com",
+        "jojolbet1113.com",
+        "ulltrabet1224.com",
+        "www-jojobet8345.com"
       ]
+    },
+    {
+      "email": "partners@jojobet.com",
+      "count": 14,
+      "domains": []
+    },
+    {
+      "email": "press@jojobet.com",
+      "count": 14,
+      "domains": []
+    },
+    {
+      "email": "sikayet@jojobet.com",
+      "count": 14,
+      "domains": []
     },
     {
       "email": "technology@tropicalsmoothie.com",
@@ -549,40 +585,6 @@
         "screambosstest.com",
         "yuksekeczabilgi.vip"
       ]
-    },
-    {
-      "email": "support@jojobet.com",
-      "count": 13,
-      "domains": [
-        "8385jojobet.com",
-        "8472ojobet.com",
-        "betofice971.com",
-        "joiobet1785.com",
-        "jojobet11381.com",
-        "jojobet8226.net",
-        "jojobet82532.com",
-        "jojobet84712.com",
-        "jojobet89011.com",
-        "jojobett1120.com",
-        "jojolbet1113.com",
-        "ulltrabet1224.com",
-        "www-jojobet8345.com"
-      ]
-    },
-    {
-      "email": "partners@jojobet.com",
-      "count": 13,
-      "domains": []
-    },
-    {
-      "email": "press@jojobet.com",
-      "count": 13,
-      "domains": []
-    },
-    {
-      "email": "sikayet@jojobet.com",
-      "count": 13,
-      "domains": []
     },
     {
       "email": "privacypolicyupdates@automattic.com",
@@ -907,19 +909,6 @@
       ]
     },
     {
-      "email": "support@casibom.com",
-      "count": 7,
-      "domains": [
-        "9025casibom.com",
-        "9085casibom.com",
-        "9088casibom.com",
-        "9096casibom.com",
-        "9113casibom.com",
-        "9213casibom.com",
-        "casibom7085.com"
-      ]
-    },
-    {
       "email": "destek@perabet.com",
       "count": 7,
       "domains": [
@@ -947,6 +936,11 @@
     },
     {
       "email": "partners@holiganbet.com",
+      "count": 7,
+      "domains": []
+    },
+    {
+      "email": "press@holiganbet.com",
       "count": 7,
       "domains": []
     }
