@@ -460,6 +460,7 @@ kr-link.sbs
 kr-link24.sbs
 kra-23.sbs
 krak-2.icu
+krak-2.pw
 krak-3.live
 krak-4.icu
 krak-4.live
