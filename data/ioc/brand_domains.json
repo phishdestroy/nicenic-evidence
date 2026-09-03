@@ -199,9 +199,9 @@
       "133781coinbase.com",
       "133830-coinbase.com",
       "1340254-coinbase.com",
-      "13424coinbase.com",
       "13473coinbase.com",
-      "13592-coinbase.com"
+      "13592-coinbase.com",
+      "13592037-coinbase.com"
     ],
     "claim": [
       "0x-claim.xyz",
@@ -372,7 +372,6 @@
       "bitcoinhyper-claim.live",
       "bitcoinhyper-claims.com",
       "bitcoinhyperclaim.info",
-      "bitcoinpenguins-claim.com",
       "blackbullsolclaim.pro",
       "blackholeclaim.xyz",
       "blastl2claim.com",
@@ -403,7 +402,8 @@
       "bmoclaimsonline.com",
       "bmoclaimsupport.com",
       "bnb-claiming.com",
-      "boaclaimsonline.com"
+      "boaclaimsonline.com",
+      "bobclaim.boats"
     ],
     "login": [
       "0auth-login.digital",
@@ -1526,7 +1526,6 @@
       "bakeryswap-anyone.org",
       "bakeryswap-deai.org",
       "base-uniswap.com",
-      "base3-swapvoucher.xyz",
       "base4-swapvoucher.xyz",
       "basedswap.exchange",
       "biasterswap.xyz",
@@ -1615,7 +1614,8 @@
       "claim-quickswap.com",
       "claim-quickswap.exchange",
       "claim-quickswap.live",
-      "claim-swapx.com"
+      "claim-swapx.com",
+      "claim-uniswap.app"
     ],
     "ledger": [
       "01-ledger.com",
@@ -1897,7 +1897,6 @@
       "anzonlinesupport.com",
       "anzsupportdesk.com",
       "anzsupporthub.com",
-      "anzwebchatsupport.com",
       "anzwebsupport.com",
       "aok-support.com",
       "app-binancesupport.com",
@@ -1917,8 +1916,6 @@
       "at0mic-support.org",
       "atomic-support.app",
       "atosupportau.com",
-      "atosupportonline.com",
-      "authentication-support.com",
       "b-supporto.com",
       "bankofireland-support.com",
       "bankofirelandsupportchat.com",
@@ -1952,7 +1949,6 @@
       "bitgetsupportbot.com",
       "bitgetsupportchat.com",
       "bitgetsupportcontact.com",
-      "bitgetsupporthub.com",
       "bitmartsupportsession.live",
       "bitsosupport.org",
       "bitstampsupport.com",
@@ -1992,7 +1988,6 @@
       "booking-support.cards",
       "booking-support.live",
       "booking-support.today",
-      "booktradeentrysupport.org",
       "borgersupportinfo.com",
       "branchxsupports.live",
       "brownlinesupport.com",
@@ -2019,7 +2014,12 @@
       "centsupportau.com",
       "chainsupporthub.pro",
       "chaseconnectsupport.com",
-      "chasesupportdesk.com"
+      "chasesupportdesk.com",
+      "chatingsupport.live",
+      "chatsupportdesk.com",
+      "cibc-accountsupport.com",
+      "cibc-digitalbusiness-support.com",
+      "cibc-support.com"
     ],
     "kraken": [
       "076261-kraken.com",
@@ -2775,7 +2775,6 @@
       "confirm-walletconnect.com",
       "confirmation-walletconnect.com",
       "confirmation-walletsconnect.com",
-      "connect-accenture.com",
       "connect-administracion-login.com",
       "connect-administracionfirma-login.com",
       "connect-administracionfirma-login.net",
@@ -2827,7 +2826,8 @@
       "connect-helpdesk.com",
       "connect-huma.com",
       "connect-jediswap.com",
-      "connect-jup.xyz"
+      "connect-jup.xyz",
+      "connect-krraken.com"
     ],
     "trust": [
       "1-tdcanadatrust.com",
@@ -2859,6 +2859,7 @@
       "amlcheckstrust.com",
       "amltrust.live",
       "amltrustanalyser.sbs",
+      "amltrustcheck.icu",
       "amltrustchecker.icu",
       "amltrustchecker.sbs",
       "amltrustcompany.com",
@@ -3028,8 +3029,7 @@
       "event-trustwallet.com",
       "exclusive-trustwallet.com",
       "exploit-trust.com",
-      "extension-trustwallet.com",
-      "familytrust-de.com"
+      "extension-trustwallet.com"
     ],
     "account": [
       "1win-2026bestaccount.com",
@@ -3480,7 +3480,6 @@
       "bahiscasino-2026verify.com",
       "banksyd-verify.com",
       "barclaysverifycall.com",
-      "beamless-gridwork-verify.com",
       "becu-verify.com",
       "betgit-2026verify.com",
       "binance-verifying.com",
@@ -3635,7 +3634,8 @@
       "matbetverify2026.live",
       "matqet-verifylogin.com",
       "matrica-verify.app",
-      "mediaverify-x.com"
+      "mediaverify-x.com",
+      "mica-update-verify.com"
     ],
     "vault": [
       "118924-cbvault.com",
@@ -3789,6 +3789,7 @@
       "finance-vaults.company",
       "finance-vaults.digital",
       "firewallvault.com",
+      "firstlvault.info",
       "fuelvaults.xyz",
       "garnetvaultmark.live",
       "gasless-suite-vault.sbs",
@@ -3836,8 +3837,7 @@
       "lido-vault.xyz",
       "lightningvaults.pro",
       "liquidvaults.xyz",
-      "lumivault.info",
-      "mantlevaults.pro"
+      "lumivault.info"
     ],
     "trezor": [
       "0182778-trezor.com",
@@ -3986,7 +3986,6 @@
       "mytrezor-diagnostics.com",
       "mytrezor-recovery.com",
       "mytrezor-webapp.com",
-      "mytrezordevice.com",
       "mytrezordiagnostic.com",
       "mytrezordiagnostics.com",
       "mytrezorhelpdesk.com",
@@ -4039,7 +4038,8 @@
       "suiteconnect-trezor.com",
       "suitedashboard-trezor.com",
       "suitedevice-trezor.com",
-      "suitedirectory-trezor.com"
+      "suitedirectory-trezor.com",
+      "suiteportal-trezor.com"
     ]
   }
 }
