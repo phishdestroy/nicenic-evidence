@@ -1,14 +1,14 @@
 {
   "month": "2026-09",
   "generated": "2026-09-04",
-  "total_domains": 384678,
-  "total_revenue": 2866042.14,
+  "total_domains": 384424,
+  "total_revenue": 2862996.41,
   "avg_reg_days": 523,
   "deployment_rate": 48.9,
-  "fresh_pct": 0.1,
+  "fresh_pct": 0.2,
   "unranked_pct": 98.7,
   "correlation_pct": 6.5,
-  "serial_registrants": 36,
+  "serial_registrants": 35,
   "top_tld": "com",
   "top_country": "BZ",
   "top_brand": "coinbase"
