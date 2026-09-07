@@ -11499,6 +11499,7 @@ kra10.quest
 kra10.today
 kra10.world
 kra2.bond
+kra2.lol
 kra2.monster
 kra2.quest
 kra2.today
@@ -12152,6 +12153,7 @@ krab39.net
 krab39.org
 krab39.pro
 krab3at.com
+krab3c.cc
 krab3cc.ltd
 krab3cc.net
 krab3k.cc

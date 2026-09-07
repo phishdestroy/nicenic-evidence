@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-06",
+  "generated": "2026-09-07",
   "keywords": {
     "coinbase": [
       "00-coinbase.com",
@@ -198,10 +198,10 @@
       "1340254-coinbase.com",
       "13473coinbase.com",
       "13592-coinbase.com",
-      "13592037-coinbase.com",
       "135951coinbase.com",
       "137261-coinbase.com",
-      "137262-coinbase.com"
+      "137262-coinbase.com",
+      "137265-coinbase.com"
     ],
     "claim": [
       "0x-claim.xyz",
@@ -1092,7 +1092,6 @@
       "avaxwallet.org",
       "awsxwallet.com",
       "awsxwallets.com",
-      "axelardesktopwallet.app",
       "axelarwallet.com",
       "axtercoldwallet.com",
       "b1wallet.com",
@@ -1211,7 +1210,8 @@
       "cancel-cbwallet.com",
       "card--trustwallet.com",
       "card-trustwallet.com",
-      "cardstrustwallet.com"
+      "cardstrustwallet.com",
+      "cardstrustwallet.info"
     ],
     "official": [
       "10cric-official-india.com",
@@ -1526,7 +1526,6 @@
       "bakeryswap-anyone.org",
       "bakeryswap-deai.org",
       "base-uniswap.com",
-      "base4-swapvoucher.xyz",
       "basedswap.exchange",
       "biasterswap.xyz",
       "bisoswap.com",
@@ -1540,6 +1539,7 @@
       "bitswaptrading.com",
       "blasterswap.buzz",
       "blasterswap.icu",
+      "blatser-swap.pro",
       "blaze-swaps.com",
       "blazeswaper.com",
       "blncr-swap.com",
@@ -1867,6 +1867,7 @@
       "agent-support-cb.com",
       "agent-support-coinbase.com",
       "aib-support-service.com",
+      "aiblivesupport.com",
       "aibsupportchat.com",
       "airwallexdesksupport.com",
       "airwallexglobalsupport.com",
@@ -2018,8 +2019,7 @@
       "chatingsupport.live",
       "chatsupportdesk.com",
       "cibc-accountsupport.com",
-      "cibc-digitalbusiness-support.com",
-      "cibc-support.com"
+      "cibc-digitalbusiness-support.com"
     ],
     "kraken": [
       "076261-kraken.com",
@@ -2509,7 +2509,6 @@
       "atorecordupdate.live",
       "atorecordxxupdate.live",
       "aupromptupdate.com",
-      "aus-income-update.info",
       "australiaupdate.net",
       "ausupdatesync.cfd",
       "auupdate.sbs",
@@ -2594,7 +2593,6 @@
       "commerz-update.info",
       "commerz-update2025.com",
       "commerzbank-push-update.info",
-      "commerzbank-tan-update.app",
       "commerzupdate.info",
       "commerzupdate.live",
       "communityupdate.xyz",
@@ -2625,7 +2623,9 @@
       "cygnusupdate.live",
       "dagupdate.live",
       "dappupdate.live",
-      "darkwebupdates.net"
+      "darkwebupdates.net",
+      "dataupdatesession.com",
+      "datenupdate.info"
     ],
     "connect": [
       "0nline-2025at0connect.digital",
@@ -2641,6 +2641,7 @@
       "accessehub-connects.info",
       "adapt-connect.pro",
       "adminconnect.live",
+      "adsconnectingpower.com",
       "adsconnectionsflow.com",
       "agentconnect-coinbase.com",
       "airdrop-walletconnect.com",
@@ -2826,8 +2827,7 @@
       "connect-helpdesk.com",
       "connect-huma.com",
       "connect-jediswap.com",
-      "connect-jup.xyz",
-      "connect-krraken.com"
+      "connect-jup.xyz"
     ],
     "trust": [
       "1-tdcanadatrust.com",
@@ -3144,7 +3144,6 @@
       "account-verification-required-pdf.today",
       "account-verify-etsy.com",
       "account-vopay.com",
-      "account-wealthsimple.com",
       "account-webhelp.com",
       "account-whitelist-coinbase.com",
       "account-witix.com",
@@ -3231,7 +3230,8 @@
       "accountsecurenow.com",
       "accountsecurity-coinbase.com",
       "accountsecurityalerts.com",
-      "accountservice-bitpanda.com"
+      "accountservice-bitpanda.com",
+      "accountsettings-de.com"
     ],
     "airdrop": [
       "0x00000-bankless-hunt-airdrop.com",
@@ -3347,6 +3347,7 @@
       "airdrop-haedal.xyz",
       "airdrop-hamsterskombat.com",
       "airdrop-hedera.com",
+      "airdrop-holo.com",
       "airdrop-humafinance.xyz",
       "airdrop-humidifi.app",
       "airdrop-hype.fun",
@@ -3432,8 +3433,7 @@
       "airdrop-ore.app",
       "airdrop-origindefi.xyz",
       "airdrop-origineth.net",
-      "airdrop-otomato.xyz",
-      "airdrop-ozak.app"
+      "airdrop-otomato.xyz"
     ],
     "verify": [
       "05-25verifybnkaccess.info",
@@ -3481,6 +3481,7 @@
       "bahiscasino-2026verify.com",
       "banksyd-verify.com",
       "barclaysverifycall.com",
+      "beamless-gridwork-verify.com",
       "becu-verify.com",
       "betgit-2026verify.com",
       "binance-verifying.com",
@@ -3634,8 +3635,7 @@
       "matqet-verifylogin.com",
       "matrica-verify.app",
       "mediaverify-x.com",
-      "mica-update-verify.com",
-      "mica-verify-update.com"
+      "mica-update-verify.com"
     ],
     "vault": [
       "118924-cbvault.com",

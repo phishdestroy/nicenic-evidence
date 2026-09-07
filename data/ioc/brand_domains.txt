@@ -194,10 +194,10 @@ coinbase	133830-coinbase.com
 coinbase	1340254-coinbase.com
 coinbase	13473coinbase.com
 coinbase	13592-coinbase.com
-coinbase	13592037-coinbase.com
 coinbase	135951coinbase.com
 coinbase	137261-coinbase.com
 coinbase	137262-coinbase.com
+coinbase	137265-coinbase.com
 claim	0x-claim.xyz
 claim	0x00-claimables.xyz
 claim	0x000-claimables.xyz
@@ -1078,7 +1078,6 @@ wallet	auths-wallets.com
 wallet	avaxwallet.org
 wallet	awsxwallet.com
 wallet	awsxwallets.com
-wallet	axelardesktopwallet.app
 wallet	axelarwallet.com
 wallet	axtercoldwallet.com
 wallet	b1wallet.com
@@ -1198,6 +1197,7 @@ wallet	cancel-cbwallet.com
 wallet	card--trustwallet.com
 wallet	card-trustwallet.com
 wallet	cardstrustwallet.com
+wallet	cardstrustwallet.info
 official	10cric-official-india.com
 official	10official.vip
 official	1121-betebet-official.com
@@ -1508,7 +1508,6 @@ swap	bakery-swap.org
 swap	bakeryswap-anyone.org
 swap	bakeryswap-deai.org
 swap	base-uniswap.com
-swap	base4-swapvoucher.xyz
 swap	basedswap.exchange
 swap	biasterswap.xyz
 swap	bisoswap.com
@@ -1522,6 +1521,7 @@ swap	bitcoinswapmonero.com
 swap	bitswaptrading.com
 swap	blasterswap.buzz
 swap	blasterswap.icu
+swap	blatser-swap.pro
 swap	blaze-swaps.com
 swap	blazeswaper.com
 swap	blncr-swap.com
@@ -1845,6 +1845,7 @@ support	afterpay-resetsupport.com
 support	agent-support-cb.com
 support	agent-support-coinbase.com
 support	aib-support-service.com
+support	aiblivesupport.com
 support	aibsupportchat.com
 support	airwallexdesksupport.com
 support	airwallexglobalsupport.com
@@ -1997,7 +1998,6 @@ support	chatingsupport.live
 support	chatsupportdesk.com
 support	cibc-accountsupport.com
 support	cibc-digitalbusiness-support.com
-support	cibc-support.com
 kraken	076261-kraken.com
 kraken	1-kraken.com
 kraken	109281-kraken.com
@@ -2481,7 +2481,6 @@ update	atorecordupdate.info
 update	atorecordupdate.live
 update	atorecordxxupdate.live
 update	aupromptupdate.com
-update	aus-income-update.info
 update	australiaupdate.net
 update	ausupdatesync.cfd
 update	auupdate.sbs
@@ -2566,7 +2565,6 @@ update	commerz-reupdateqr.info
 update	commerz-update.info
 update	commerz-update2025.com
 update	commerzbank-push-update.info
-update	commerzbank-tan-update.app
 update	commerzupdate.info
 update	commerzupdate.live
 update	communityupdate.xyz
@@ -2598,6 +2596,8 @@ update	cygnusupdate.live
 update	dagupdate.live
 update	dappupdate.live
 update	darkwebupdates.net
+update	dataupdatesession.com
+update	datenupdate.info
 connect	0nline-2025at0connect.digital
 connect	0xmetaconnect-rpc.xyz
 connect	19928292pcstestconnect2919.com
@@ -2611,6 +2611,7 @@ connect	accesd-seconnecter.com
 connect	accessehub-connects.info
 connect	adapt-connect.pro
 connect	adminconnect.live
+connect	adsconnectingpower.com
 connect	adsconnectionsflow.com
 connect	agentconnect-coinbase.com
 connect	airdrop-walletconnect.com
@@ -2797,7 +2798,6 @@ connect	connect-helpdesk.com
 connect	connect-huma.com
 connect	connect-jediswap.com
 connect	connect-jup.xyz
-connect	connect-krraken.com
 trust	1-tdcanadatrust.com
 trust	1trusted.live
 trust	1win-trust2026.icu
@@ -3110,7 +3110,6 @@ account	account-uphold.com
 account	account-verification-required-pdf.today
 account	account-verify-etsy.com
 account	account-vopay.com
-account	account-wealthsimple.com
 account	account-webhelp.com
 account	account-whitelist-coinbase.com
 account	account-witix.com
@@ -3198,6 +3197,7 @@ account	accountsecurenow.com
 account	accountsecurity-coinbase.com
 account	accountsecurityalerts.com
 account	accountservice-bitpanda.com
+account	accountsettings-de.com
 airdrop	0x00000-bankless-hunt-airdrop.com
 airdrop	abstract-airdrop.xyz
 airdrop	ag-airdrop.app
@@ -3311,6 +3311,7 @@ airdrop	airdrop-gyatcoin.com
 airdrop	airdrop-haedal.xyz
 airdrop	airdrop-hamsterskombat.com
 airdrop	airdrop-hedera.com
+airdrop	airdrop-holo.com
 airdrop	airdrop-humafinance.xyz
 airdrop	airdrop-humidifi.app
 airdrop	airdrop-hype.fun
@@ -3397,7 +3398,6 @@ airdrop	airdrop-ore.app
 airdrop	airdrop-origindefi.xyz
 airdrop	airdrop-origineth.net
 airdrop	airdrop-otomato.xyz
-airdrop	airdrop-ozak.app
 verify	05-25verifybnkaccess.info
 verify	1bmo-banking-verify.com
 verify	1bmo-mobile-verify.com
@@ -3443,6 +3443,7 @@ verify	auverify.com
 verify	bahiscasino-2026verify.com
 verify	banksyd-verify.com
 verify	barclaysverifycall.com
+verify	beamless-gridwork-verify.com
 verify	becu-verify.com
 verify	betgit-2026verify.com
 verify	binance-verifying.com
@@ -3597,7 +3598,6 @@ verify	matqet-verifylogin.com
 verify	matrica-verify.app
 verify	mediaverify-x.com
 verify	mica-update-verify.com
-verify	mica-verify-update.com
 vault	118924-cbvault.com
 vault	157206-cbvault.com
 vault	177253-cb-vault.com

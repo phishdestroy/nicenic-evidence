@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-06",
+  "generated": "2026-09-07",
   "count": 50,
   "registrants": [
     {
@@ -753,22 +753,6 @@
       "domains": []
     },
     {
-      "email": "press@chain.link",
-      "count": 10,
-      "domains": [
-        "apyclink.com",
-        "apylink.com",
-        "apylink.net",
-        "bounty-llnk.com",
-        "link-rewards.com",
-        "linkapy.com",
-        "linkevent.net",
-        "linkgrant.com",
-        "token-link.net",
-        "token-link.org"
-      ]
-    },
-    {
       "email": "info@ilbet.com",
       "count": 9,
       "domains": [
@@ -811,6 +795,21 @@
         "zedxion-exchange.com",
         "zedxion-giris.com",
         "zedxion-login.com"
+      ]
+    },
+    {
+      "email": "press@chain.link",
+      "count": 9,
+      "domains": [
+        "apyclink.com",
+        "apylink.com",
+        "apylink.net",
+        "bounty-llnk.com",
+        "link-rewards.com",
+        "linkevent.net",
+        "linkgrant.com",
+        "token-link.net",
+        "token-link.org"
       ]
     },
     {
