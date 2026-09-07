@@ -584,6 +584,7 @@ kra10.quest
 kra10.today
 kra10.world
 kra2.bond
+kra2.lol
 kra2.monster
 kra2.quest
 kra2.today
