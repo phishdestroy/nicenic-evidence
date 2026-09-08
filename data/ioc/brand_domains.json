@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-07",
+  "generated": "2026-09-08",
   "keywords": {
     "coinbase": [
       "00-coinbase.com",
@@ -372,7 +372,6 @@
       "bitcoinhyper-claim.info",
       "bitcoinhyper-claim.live",
       "bitcoinhyper-claims.com",
-      "bitcoinhyperclaim.info",
       "blackbullsolclaim.pro",
       "blackholeclaim.xyz",
       "blastl2claim.com",
@@ -403,7 +402,8 @@
       "bmoclaimsonline.com",
       "bmoclaimsupport.com",
       "bnb-claiming.com",
-      "boaclaimsonline.com"
+      "boaclaimsonline.com",
+      "bobclaim.boats"
     ],
     "login": [
       "0auth-login.digital",
@@ -1470,6 +1470,7 @@
       "apeswap-bridge.com",
       "apeswap.buzz",
       "app-blazeswap.com",
+      "app-clioswap.pro",
       "app-connect-uniswap.org",
       "app-cow-swap-v1.com",
       "app-cow-swap-v2.com",
@@ -1614,8 +1615,7 @@
       "claim-quickswap.com",
       "claim-quickswap.exchange",
       "claim-quickswap.live",
-      "claim-swapx.com",
-      "claim-uniswap.app"
+      "claim-swapx.com"
     ],
     "ledger": [
       "01-ledger.com",
@@ -1795,6 +1795,7 @@
       "account-ledger.com",
       "account-safety-ledger.com",
       "account-support-ledger.com",
+      "activate-myledger.com",
       "activates-ledger.com",
       "activations-ledger.com",
       "actualizacion-ledger-es.com",
@@ -1816,8 +1817,7 @@
       "app-ledger-static-v2.com",
       "app-ledger.org",
       "app-ledgerwallet.com",
-      "app-legal-ledger.icu",
-      "app-openledger.xyz"
+      "app-legal-ledger.icu"
     ],
     "support": [
       "029250-support.com",
@@ -1985,6 +1985,7 @@
       "boachatsupport.com",
       "boasupport.live",
       "boh-support.com",
+      "boilivesupport.com",
       "booking-support.cards",
       "booking-support.live",
       "booking-support.today",
@@ -2018,8 +2019,7 @@
       "chasesupportdesk.com",
       "chatingsupport.live",
       "chatsupportdesk.com",
-      "cibc-accountsupport.com",
-      "cibc-digitalbusiness-support.com"
+      "cibc-accountsupport.com"
     ],
     "kraken": [
       "076261-kraken.com",
@@ -2625,7 +2625,7 @@
       "dappupdate.live",
       "darkwebupdates.net",
       "dataupdatesession.com",
-      "datenupdate.info"
+      "datenupdate-elster.com"
     ],
     "connect": [
       "0nline-2025at0connect.digital",
@@ -2795,7 +2795,6 @@
       "connect-app.pub",
       "connect-asterdex.com",
       "connect-auth.net",
-      "connect-avalon.com",
       "connect-bestbuy.com",
       "connect-bitstamq.com",
       "connect-brevis.network",
@@ -2827,7 +2826,8 @@
       "connect-helpdesk.com",
       "connect-huma.com",
       "connect-jediswap.com",
-      "connect-jup.xyz"
+      "connect-jup.xyz",
+      "connect-krraken.com"
     ],
     "trust": [
       "1-tdcanadatrust.com",
@@ -2870,7 +2870,6 @@
       "app-trust-v3.com",
       "app-trustalabs.com",
       "app-trustepad.com",
-      "app-trustepad.net",
       "app-trustepads.xyz",
       "app-trustpad.biz",
       "app-trustpad.net",
@@ -2879,7 +2878,6 @@
       "app-trustpade.net",
       "app-trustpade.org",
       "app-trustpade.xyz",
-      "app-trustpads.biz",
       "app-trustpads.com",
       "app-trustpads.net",
       "app-trustpads.org",
@@ -3029,7 +3027,9 @@
       "eu-velocitytrust.com",
       "event-trustwallet.com",
       "exclusive-trustwallet.com",
-      "exploit-trust.com"
+      "exploit-trust.com",
+      "extension-trustwallet.com",
+      "familytrust-de.com"
     ],
     "account": [
       "1win-2026bestaccount.com",
@@ -3089,6 +3089,7 @@
       "account-ms.com",
       "account-mycanal.com",
       "account-myrogers.com",
+      "account-mywealthsimple.com",
       "account-ndax.com",
       "account-nexo.com",
       "account-paxful.com",
@@ -3230,8 +3231,7 @@
       "accountsecurenow.com",
       "accountsecurity-coinbase.com",
       "accountsecurityalerts.com",
-      "accountservice-bitpanda.com",
-      "accountsettings-de.com"
+      "accountservice-bitpanda.com"
     ],
     "airdrop": [
       "0x00000-bankless-hunt-airdrop.com",
@@ -3416,7 +3416,6 @@
       "airdrop-myrothedog.com",
       "airdrop-near.com",
       "airdrop-nearmobile.xyz",
-      "airdrop-neiroeth.com",
       "airdrop-neptune.cash",
       "airdrop-neur.com",
       "airdrop-niggaliquid.fun",
@@ -3433,7 +3432,8 @@
       "airdrop-ore.app",
       "airdrop-origindefi.xyz",
       "airdrop-origineth.net",
-      "airdrop-otomato.xyz"
+      "airdrop-otomato.xyz",
+      "airdrop-ozak.app"
     ],
     "verify": [
       "05-25verifybnkaccess.info",
@@ -3466,6 +3466,7 @@
       "apiverifyauth-652.com",
       "apiverifyauth.com",
       "apiwithdrawverify.com",
+      "apo-verify.info",
       "app-discverify.pro",
       "app-oktaverify.com",
       "app-verify.org",
@@ -3563,6 +3564,7 @@
       "faceitmverify.com",
       "five-verify.com",
       "flarefndn-verify.live",
+      "flow-scalar-bridge-verify.com",
       "frostverify.com",
       "frverify.com",
       "g-verify.net",
@@ -3633,9 +3635,7 @@
       "matbet-myverify.com",
       "matbetverify2026.live",
       "matqet-verifylogin.com",
-      "matrica-verify.app",
-      "mediaverify-x.com",
-      "mica-update-verify.com"
+      "matrica-verify.app"
     ],
     "vault": [
       "118924-cbvault.com",
@@ -3713,6 +3713,7 @@
       "byzanvaults.com",
       "byzanvaults.pro",
       "byzanvaults.xyz",
+      "cafevault.info",
       "capovaultaris.com",
       "cards3vaultspecial.com",
       "case-vaults-coinbase.com",
@@ -3720,6 +3721,7 @@
       "casinogamevault.com",
       "casinoplayvault.com",
       "casinovaulted.com",
+      "cb-vault.com",
       "cbtestvault.com",
       "cdn-vault.com",
       "chain-vault.net",
@@ -3806,6 +3808,7 @@
       "hovaro-vaultix.com",
       "hovaro-vaultix.net",
       "hulk-vault.cc",
+      "hulkvault.biz",
       "hulkvault.vip",
       "hwsvault.com",
       "hwvault.net",
@@ -3834,10 +3837,7 @@
       "letsvault-coinbase.com",
       "lido-vault.app",
       "lido-vault.network",
-      "lido-vault.xyz",
-      "lightningvaults.pro",
-      "liquidvaults.xyz",
-      "lumivault.info"
+      "lido-vault.xyz"
     ],
     "trezor": [
       "0182778-trezor.com",
@@ -3964,6 +3964,7 @@
       "livesuite-trezor.com",
       "livesupport-trezor.com",
       "loginlive-trezor.com",
+      "ltrezor.com",
       "lu-trezor.com",
       "main-trezorsuite.com",
       "manage-trezor.com",
@@ -4038,8 +4039,7 @@
       "suiteconnect-trezor.com",
       "suitedashboard-trezor.com",
       "suitedevice-trezor.com",
-      "suitedirectory-trezor.com",
-      "suiteportal-trezor.com"
+      "suitedirectory-trezor.com"
     ]
   }
 }
