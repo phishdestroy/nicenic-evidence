@@ -38,12 +38,12 @@
 
 <!-- LIVE_STATS:START -->
 
-> 🔴 **LIVE INVESTIGATION FEED** &middot; Auto-updated &middot; Last fetch `2026-09-08`
+> 🔴 **LIVE INVESTIGATION FEED** &middot; Auto-updated &middot; Last fetch `2026-09-09`
 
 <table><tr>
-<td align="center"><b>📦 Domains tracked</b><br/><sub><code>384,077</code></sub></td>
-<td align="center"><b>💰 Est. revenue</b><br/><sub><code>$2,856,963</code></sub></td>
-<td align="center"><b>📡 Deployed</b><br/><sub><code>48.8%</code></sub></td>
+<td align="center"><b>📦 Domains tracked</b><br/><sub><code>384,191</code></sub></td>
+<td align="center"><b>💰 Est. revenue</b><br/><sub><code>$2,857,001</code></sub></td>
+<td align="center"><b>📡 Deployed</b><br/><sub><code>48.9%</code></sub></td>
 <td align="center"><b>✅ IOC classified</b><br/><sub><code>82,576</code> (35,902 HIGH)</sub></td>
 <td align="center"><b>⚡ Fresh (≤7d)</b><br/><sub><code>0.2%</code></sub></td>
 <td align="center"><b>🕵️ Serial regs</b><br/><sub><code>34</code></sub></td>
@@ -53,28 +53,28 @@
 
 | TLD | Count | Avg Reg Period | Est. Revenue |
 |:--|--:|--:|--:|
-| `.com` | 199,020 | 567d | $1,789,190 |
-| `.icu` | 31,935 | 385d | $31,616 |
-| `.vip` | 29,420 | 371d | $146,806 |
-| `.net` | 16,589 | 681d | $165,724 |
-| `.xyz` | 16,347 | 471d | $24,357 |
-| `.info` | 12,399 | 508d | $49,472 |
-| `.live` | 12,342 | 412d | $123,297 |
-| `.cfd` | 10,005 | 450d | $49,925 |
-| `.sbs` | 8,722 | 417d | $43,523 |
-| `.org` | 7,960 | 865d | $79,520 |
+| `.com` | 198,961 | 567d | $1,788,659 |
+| `.icu` | 32,086 | 385d | $31,765 |
+| `.vip` | 29,442 | 371d | $146,916 |
+| `.net` | 16,587 | 681d | $165,704 |
+| `.xyz` | 16,316 | 471d | $24,311 |
+| `.info` | 12,359 | 508d | $49,312 |
+| `.live` | 12,322 | 412d | $123,097 |
+| `.cfd` | 10,008 | 450d | $49,940 |
+| `.sbs` | 8,744 | 416d | $43,633 |
+| `.org` | 7,950 | 866d | $79,420 |
 
 ### 🌍 Top Hosting Countries
 
 ```
-US  ██████████████████     10,213 (33.3%)
+US  ██████████████████     10,189 (33.3%)
 NL  ████░░░░░░░░░░░░░░      2,670 (8.7%)
-CA  ████░░░░░░░░░░░░░░      2,535 (8.3%)
-RU  ████░░░░░░░░░░░░░░      2,365 (7.7%)
-DE  ███░░░░░░░░░░░░░░░      1,874 (6.1%)
-BG  ██░░░░░░░░░░░░░░░░      1,414 (4.6%)
-GB  ██░░░░░░░░░░░░░░░░      1,215 (4.0%)
-SE  █░░░░░░░░░░░░░░░░░        887 (2.9%)
+CA  ████░░░░░░░░░░░░░░      2,529 (8.3%)
+RU  ████░░░░░░░░░░░░░░      2,360 (7.7%)
+DE  ███░░░░░░░░░░░░░░░      1,880 (6.1%)
+BG  ██░░░░░░░░░░░░░░░░      1,416 (4.6%)
+GB  ██░░░░░░░░░░░░░░░░      1,211 (4.0%)
+SE  █░░░░░░░░░░░░░░░░░        888 (2.9%)
 ```
 
 ### 📈 Registration Burst Days
@@ -84,12 +84,12 @@ SE  █░░░░░░░░░░░░░░░░░        887 (2.9%)
 | `2026-06-16` | 1,383 | **13.7×** 🚨 |
 | `2026-06-08` | 1,251 | **12.4×** 🚨 |
 | `2026-03-06` | 1,245 | **12.3×** 🚨 |
-| `2025-12-04` | 1,226 | **12.2×** 🚨 |
+| `2025-12-04` | 1,226 | **12.1×** 🚨 |
 | `2026-03-05` | 1,208 | **12.0×** 🚨 |
 
 ### 🎯 Top Targeted Brands & Keywords
 
-`coinbase (3,685)` &middot; `claim (3,396)` &middot; `login (2,267)` &middot; `secure (1,670)` &middot; `token (1,601)` &middot; `wallet (1,545)` &middot; `official (1,475)` &middot; `swap (1,355)` &middot; `ledger (1,337)` &middot; `support (1,235)` &middot; `kraken (1,168)` &middot; `crypto (1,166)` &middot; `update (1,149)` &middot; `connect (1,098)` &middot; `trust (1,021)`
+`coinbase (3,681)` &middot; `claim (3,392)` &middot; `login (2,266)` &middot; `secure (1,666)` &middot; `token (1,599)` &middot; `wallet (1,542)` &middot; `official (1,475)` &middot; `swap (1,354)` &middot; `ledger (1,334)` &middot; `support (1,235)` &middot; `crypto (1,165)` &middot; `kraken (1,164)` &middot; `update (1,145)` &middot; `connect (1,095)` &middot; `trust (1,018)`
 
 ### 🕵️ Top Serial Registrants — 50 emails with ≥5 domains
 
@@ -98,7 +98,7 @@ SE  █░░░░░░░░░░░░░░░░░        887 (2.9%)
 | 1 | `inf***@credicentrocoop.com` | **98** |
 | 2 | `inf***@vuz.info` | **58** |
 | 3 | `m***@unternehmen.de` | **57** |
-| 4 | `inf***@stroykatalog.ru` | **30** |
+| 4 | `inf***@stroykatalog.ru` | **31** |
 | 5 | `sup***@easybit.com` | **25** |
 | 6 | `sub***@shib.io` | **21** |
 | 7 | `u00***@shib.io` | **21** |
