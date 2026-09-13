@@ -41,7 +41,7 @@
 > 🔴 **LIVE INVESTIGATION FEED** &middot; Auto-updated &middot; Last fetch `2026-09-09`
 
 <table><tr>
-<td align="center"><b>📦 Domains tracked</b><br/><sub><code>384,191</code></sub></td>
+<td align="center"><b>📦 Domains tracked</b><br/><sub><code>403,909</code></sub></td>
 <td align="center"><b>💰 Est. revenue</b><br/><sub><code>$2,857,001</code></sub></td>
 <td align="center"><b>📡 Deployed</b><br/><sub><code>48.9%</code></sub></td>
 <td align="center"><b>✅ IOC classified</b><br/><sub><code>82,576</code> (35,902 HIGH)</sub></td>
@@ -174,7 +174,7 @@ This investigation enumerates every domain in NICENIC's zone, classifies content
 **Pipeline:**
 
 ```
-[NICENIC Zone File — 343,107 domains]
+[NICENIC Zone File — 403,909 domains]
          │
          ▼
 ┌─────────────────┐   aiohttp, 600 concurrent, Googlebot UA
@@ -217,7 +217,7 @@ This investigation enumerates every domain in NICENIC's zone, classifies content
 | **Jurisdiction** | China |
 | **WHOIS server** | `whois.nicenic.net` |
 | **Abuse contact** | abuse@nicenic.net |
-| **Zone size** | 343,107 domains (scan date: June 2026) |
+| **Zone size** | 403,909 domains (scan date: June 2026) |
 | **Supported TLDs** | Generic TLDs (gTLD) — `.com`, `.net`, `.org`, `.xyz`, `.top`, `.shop`, `.app`, `.academy`, and 100+ more |
 | **ICANN accreditation** | Active |
 
@@ -285,13 +285,13 @@ This investigation covers the **complete zone** of all domains registered under 
 
 | Metric | Value |
 |---|---|
-| Total domains in zone | 343,107 |
+| Total domains in zone | 403,909 |
 | Alive (HTTP 200/3xx) | **37,844** (11%) |
 | Dead / Parked / Error | 305,263 (89%) |
 | CRITICAL severity | 10,377 |
 | HIGH severity | 7,928 |
 | MEDIUM severity | 622 |
-| Malicious (CRITICAL+HIGH+MEDIUM) | **18,927** (50.0% of alive) |
+| Malicious (CRITICAL+HIGH+MEDIUM) | **82,575** (50.0% of alive) |
 | Behind Cloudflare | 63,190 (83% of alive) |
 | Screenshots captured | 37,844 alive domains — not published in repo (size) |
 | Operator clusters identified | **2,939** |
@@ -425,14 +425,14 @@ nicenic-evidence/
 │   ├── build_datajson.py       # Regenerate data.json from enriched.csv
 │   └── assets/                 # Hero image, OG card, favicons
 ├── data/
-│   ├── enriched.csv            # Canonical enriched dataset (86,114 rows)
+│   ├── enriched.csv            # Canonical enriched dataset (136,720 rows)
 │   ├── high_severity.csv       # CRITICAL+HIGH subset (20,480 rows)
 │   ├── dead_domains.csv        # Dead / parked enumeration
 │   └── clusters.json           # Operator cluster map (2,939 clusters)
 ├── ioc/
-│   ├── domains_high.txt        # CRITICAL+HIGH blocklist (18,305 domains)
-│   ├── domains_all_malicious.txt # CRITICAL+HIGH+MEDIUM (18,927 domains)
-│   └── indicators.csv          # SIEM-ready IOC feed (18,927 indicators)
+│   ├── domains_high.txt        # CRITICAL+HIGH blocklist (35,901 domains)
+│   ├── domains_all_malicious.txt # CRITICAL+HIGH+MEDIUM (82,575 domains)
+│   └── indicators.csv          # SIEM-ready IOC feed (82,582 indicators)
 ├── pkg/
 │   └── raw_data/               # Compressed raw scan output (.gz)
 ├── SHA256SUMS.txt              # Checksums of all published data files
@@ -511,7 +511,7 @@ NiceNIC subsequently claimed the account was “hacked” by a user named “Jul
 |---|---|---|---|---|---|
 | **Trustname / Fewmoretaps OÜ** | IANA #4318 | 7,641 | — | 1,114 HIGH | [phishdestroy.github.io/trustname-evidence](https://phishdestroy.github.io/trustname-evidence/) |
 | **NameSilo** | IANA #1479 | 5,269,357 | 658,733 (12.7%) | 183,419 | [phishdestroy.github.io/namesilo-evidence](https://phishdestroy.github.io/namesilo-evidence/) |
-| **NICENIC INTERNATIONAL GROUP** *(this repo)* | IANA #3765 | 343,107 | 37,844 (11%) | **18,927** (50% of alive) | [phishdestroy.github.io/nicenic-evidence](https://phishdestroy.github.io/nicenic-evidence/) |
+| **NICENIC INTERNATIONAL GROUP** *(this repo)* | IANA #3765 | 403,909 | 37,844 (11%) | **82,575** (50% of alive) | [phishdestroy.github.io/nicenic-evidence](https://phishdestroy.github.io/nicenic-evidence/) |
 
 ---
 
