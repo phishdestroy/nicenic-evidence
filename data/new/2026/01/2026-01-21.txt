@@ -729,6 +729,7 @@ scicapital.sbs
 scnets.sbs
 scotia-securedigitaltoken.com
 scotiabank-securedaccess.com
+scotiasecurelink.com
 sdn-cloudflare-js-botstrup.cfd
 sdn-cloudflare-js-css.cfd
 sdn-cloudflare-js.cfd
