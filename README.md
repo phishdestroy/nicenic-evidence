@@ -449,9 +449,9 @@ This investigation is part of a series documenting ICANN-accredited registrars t
 
 | # | Registrar | IANA | Zone | Confirmed Malicious | Russian Connection | Investigation |
 |--|--|--|--|--|--|--|
-| 1 | **NICENIC INTERNATIONAL GROUP** *(this)* | #3765 | 349,376 | **18,927 (50% of alive)** | 🇷🇺 #2 hosting country (8.5%) | [nicenic-evidence](https://github.com/phishdestroy/nicenic-evidence) · [Live Report](https://phishdestroy.github.io/nicenic-evidence/) |
-| 2 | **Trustname.com / Fewmoretaps ÖÜ** | #4318 | 9,343 | **1,114 HIGH (86% alive)** | 🇷🇺 Russian-operated, Estonian shell | [trustname-evidence](https://github.com/phishdestroy/trustname-evidence) · [Live Report](https://phishdestroy.github.io/trustname-evidence/) |
-| 3 | **NameSilo, LLC** | #1479 | 5,251,494 | **183,419** | 🇷🇺 Russian team members, suppression campaign | [namesilo-evidence](https://github.com/phishdestroy/namesilo-evidence) · [Live Report](https://phishdestroy.github.io/namesilo-evidence/) |
+| 1 | **NICENIC INTERNATIONAL GROUP** *(this)* | #3765 | 403,909 | **82,575 (44.0% of alive)** | 🇷🇺 #2 hosting country (8.5%) | [nicenic-evidence](https://github.com/phishdestroy/nicenic-evidence) · [Live Report](https://phishdestroy.github.io/nicenic-evidence/) |
+| 2 | **Trustname.com / Fewmoretaps ÖÜ** | #4318 | 18,719 | **3,292 HIGH (35.4% of alive)** | 🇷🇺 Russian-operated, Estonian shell | [trustname-evidence](https://github.com/phishdestroy/trustname-evidence) · [Live Report](https://phishdestroy.github.io/trustname-evidence/) |
+| 3 | **NameSilo, LLC** | #1479 | 5,653,085 | **122,152 HIGH (3.63%)** | 🇷🇺 Russian team members, suppression campaign | [namesilo-evidence](https://github.com/phishdestroy/namesilo-evidence) · [Live Report](https://phishdestroy.github.io/namesilo-evidence/) |
 
 ---
 
@@ -509,9 +509,9 @@ NiceNIC subsequently claimed the account was “hacked” by a user named “Jul
 
 | Investigation | Registrar | Zone Size | Alive | Malicious | Report |
 |---|---|---|---|---|---|
-| **Trustname / Fewmoretaps OÜ** | IANA #4318 | 7,641 | — | 1,114 HIGH | [phishdestroy.github.io/trustname-evidence](https://phishdestroy.github.io/trustname-evidence/) |
-| **NameSilo** | IANA #1479 | 5,269,357 | 658,733 (12.7%) | 183,419 | [phishdestroy.github.io/namesilo-evidence](https://phishdestroy.github.io/namesilo-evidence/) |
-| **NICENIC INTERNATIONAL GROUP** *(this repo)* | IANA #3765 | 403,909 | 37,844 (11%) | **82,575** (50% of alive) | [phishdestroy.github.io/nicenic-evidence](https://phishdestroy.github.io/nicenic-evidence/) |
+| **Trustname / Fewmoretaps OÜ** | IANA #4318 | 18,719 | 12,088 (64.6%) | 3,292 HIGH | [phishdestroy.github.io/trustname-evidence](https://phishdestroy.github.io/trustname-evidence/) |
+| **NameSilo** | IANA #1479 | 5,653,085 | 3,082,640 (54.5%) | 122,152 HIGH | [phishdestroy.github.io/namesilo-evidence](https://phishdestroy.github.io/namesilo-evidence/) |
+| **NICENIC INTERNATIONAL GROUP** *(this repo)* | IANA #3765 | 403,909 | 187,697 (46.5%) | **82,575** (44.0% of alive) | [phishdestroy.github.io/nicenic-evidence](https://phishdestroy.github.io/nicenic-evidence/) |
 
 ---
 
