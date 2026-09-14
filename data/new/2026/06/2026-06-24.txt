@@ -493,9 +493,11 @@ koruma-adresleri.icu
 kra-dark.cc
 kra-shop.cc
 kra-ssylka.cc
+kra-zerkala.cc
 krak-dark.cc
 krak-marketplace.cc
 krak-shop.cc
+krak-site.cc
 krak-zerkala.cc
 krakengadget.net
 krakenmaster.net
