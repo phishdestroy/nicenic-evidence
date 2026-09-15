@@ -592,11 +592,13 @@ mega-app.cc
 mega-dark-marketplace.cc
 mega-dark-onion.cc
 mega-dark-zerkalo.cc
+mega-darknet-telegram.cc
 mega-dostup.cc
 mega-enter.cc
 mega-hemen-giris.icu
 mega-joker.icu
 mega-market.cc
+mega-mirror.cc
 mega-moriarty.cc
 mega-site.cc
 mega-tg.cc
@@ -677,6 +679,7 @@ moneytrain2.icu
 moriarty-mega.cc
 moriarty-telegram.cc
 moriarty-video.cc
+moriarty-youtube.cc
 mrvegastars.com
 my-center-card.com
 myauslodge.sbs
@@ -890,6 +893,7 @@ testcheckxyz999.xyz
 theblackbullonsol.com
 theblackjessecoin.com
 thedoghouseslot.icu
+theelitelife.net
 theinterfold.info
 thejessecoin.com
 theshillverse.info
