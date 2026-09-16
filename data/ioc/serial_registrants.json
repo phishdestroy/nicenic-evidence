@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-15",
+  "generated": "2026-09-16",
   "count": 50,
   "registrants": [
     {
@@ -175,7 +175,7 @@
     },
     {
       "email": "info@vuz.info",
-      "count": 58,
+      "count": 57,
       "domains": [
         "vuz-0q.info",
         "vuz-1e.info",
@@ -184,7 +184,6 @@
         "vuz-7.info",
         "vuz-d.info",
         "vuz-j.info",
-        "vuz-j0.info",
         "vuz-jv.info",
         "vuz-t.info",
         "vuz-t0.info",
@@ -613,26 +612,6 @@
       ]
     },
     {
-      "email": "support@stake.com",
-      "count": 14,
-      "domains": [
-        "droptheboss.org",
-        "stake-casino-kz.com",
-        "stake-nz.com",
-        "stake013.com",
-        "stake1108.com",
-        "stake1118.com",
-        "stake1119.com",
-        "stake1120.com",
-        "stake1150.com",
-        "stake1309.com",
-        "stakebonus500code.com",
-        "stakeref.com",
-        "stakexe.com",
-        "stakexplay.com"
-      ]
-    },
-    {
       "email": "press@ethereum.org",
       "count": 14,
       "domains": [
@@ -685,6 +664,25 @@
       "email": "sikayet@holiganbet.com",
       "count": 13,
       "domains": []
+    },
+    {
+      "email": "support@stake.com",
+      "count": 13,
+      "domains": [
+        "droptheboss.org",
+        "stake-casino-kz.com",
+        "stake-nz.com",
+        "stake013.com",
+        "stake1108.com",
+        "stake1118.com",
+        "stake1119.com",
+        "stake1120.com",
+        "stake1150.com",
+        "stake1309.com",
+        "stakeref.com",
+        "stakexe.com",
+        "stakexplay.com"
+      ]
     },
     {
       "email": "ornek@email.com",
@@ -989,18 +987,18 @@
       ]
     },
     {
-      "email": "originals.diplomy@gmail.com",
+      "email": "deine@email.de",
       "count": 9,
       "domains": [
-        "original-diploma.com",
-        "original-diploms.com",
-        "original-diplomy.com",
-        "originall-diploma.com",
-        "originals-diploma.com",
-        "originals-diplomm24.com",
-        "originals-diplommy24.com",
-        "originals-diploms.com",
-        "originals-diplomy.com"
+        "eporapank.pro",
+        "euponarapk.com",
+        "eupoparapk.pro",
+        "euporaparlk.pro",
+        "mautkauf.digital",
+        "myparks.pro",
+        "strasnova.digital",
+        "vignfly.pro",
+        "vignopass.digital"
       ]
     }
   ]
