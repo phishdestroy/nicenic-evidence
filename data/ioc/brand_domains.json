@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-17",
+  "generated": "2026-09-18",
   "keywords": {
     "coinbase": [
       "00-coinbase.com",
@@ -177,7 +177,6 @@
       "129528coinbase.com",
       "129529coinbase.com",
       "129626coinbase.com",
-      "12983-coinbase.com",
       "131048coinbase.com",
       "13107-coinbase.com",
       "132067-coinbase.com",
@@ -201,7 +200,8 @@
       "137662coinbase.com",
       "13812-coinbase.com",
       "138140coinbase.com",
-      "1384012-coinbase.com"
+      "1384012-coinbase.com",
+      "138491coinbase.com"
     ],
     "claim": [
       "0x-claim.xyz",
@@ -360,7 +360,6 @@
       "bestclaim.live",
       "bestwallet-claims.com",
       "bestwallettoken-claim.info",
-      "binance-claim.com",
       "bio-claims.xyz",
       "bioclaim.org",
       "bioclaim.xyz",
@@ -403,7 +402,8 @@
       "bmoclaimsupport.com",
       "bnb-claiming.com",
       "boaclaimsonline.com",
-      "bobclaim.boats"
+      "bobclaim.boats",
+      "bobclaim.cfd"
     ],
     "login": [
       "0auth-login.digital",
@@ -1111,7 +1111,6 @@
       "beginwalletdesktop.site",
       "bel-dex-io-wallet.live",
       "best-hardware-wallets.info",
-      "best-wallet.vip",
       "bestowallet.com",
       "bestswalletokens.com",
       "besttokenwallet.live",
@@ -1132,7 +1131,6 @@
       "bestwalletokens.live",
       "bestwalletportfolio.com",
       "bestwallets-token.com",
-      "bestwallets.vip",
       "bestwalletsecure.com",
       "bestwalletstokens.com",
       "bestwallettoken-claim.info",
@@ -1211,7 +1209,9 @@
       "cakewalletdesktop.live",
       "cakewalletdesktopapp.com",
       "cakewalletdesktops.live",
-      "cakewalletlabs.com"
+      "cakewalletlabs.com",
+      "cakewalletnews.press",
+      "cakewalletsdesktop.live"
     ],
     "official": [
       "10cric-official-india.com",
@@ -1315,6 +1315,7 @@
       "avvabet-official.icu",
       "avvabetofficialsite.icu",
       "awsaiofficial.com",
+      "bahiscasino-official2025.com",
       "bahisfairofficial2026.vip",
       "bahsegel-officialgirisadresi.com",
       "bahsine-official.com",
@@ -1412,8 +1413,7 @@
       "bets10-official.vip",
       "bets10-officialtr.com",
       "betsat-official.icu",
-      "betsatofficial.vip",
-      "betsilin-liveofficial.icu"
+      "betsatofficial.vip"
     ],
     "swap": [
       "0xswaps.xyz",
@@ -2180,7 +2180,6 @@
       "88623-crypto.com",
       "894210-crypto.com",
       "900312-crypto.com",
-      "902880-crypto.com",
       "909872-crypto.com",
       "91412-crypto.com",
       "91421-crypto.com",
@@ -2221,7 +2220,8 @@
       "aichatouaticrypto.sbs",
       "aicryptotrader.icu",
       "aid-crypto.com",
-      "aigerimcrypto.sbs"
+      "aigerimcrypto.sbs",
+      "ainelcrypto-it.live"
     ],
     "kraken": [
       "076261-kraken.com",
@@ -2346,6 +2346,7 @@
       "982957kraken.com",
       "983257-kraken.com",
       "989377kraken.com",
+      "992717-kraken.com",
       "access-kraken-market.com",
       "accountshelpkraken.com",
       "activity-kraken.com",
@@ -2422,8 +2423,7 @@
       "kraken--28at.com",
       "kraken--darknet.cc",
       "kraken--marketplace.cc",
-      "kraken--ssylka.cc",
-      "kraken--ssylka.sbs"
+      "kraken--ssylka.cc"
     ],
     "update": [
       "0nlineupdate.info",
@@ -2434,6 +2434,7 @@
       "2025adobeoffice-update.sbs",
       "2025refund-update.icu",
       "2025refund-update.info",
+      "2025statusupdate.info",
       "2026-etfupdate00.icu",
       "2026assessment-updates.cfd",
       "25refund-update.info",
@@ -2470,6 +2471,7 @@
       "allocation-updates.live",
       "allupdatenow.com",
       "allupdatenow.net",
+      "americanexpress-safetyupdate.com",
       "americanexpress-sicherheitsupdate.com",
       "amiupdate.live",
       "anc8update.live",
@@ -2623,9 +2625,7 @@
       "crataxaccountupdate.com",
       "credentials-terms-update.com",
       "criticalupdate.xyz",
-      "cryptodetailsupdaten.com",
-      "csc-updates.live",
-      "csr-update.info"
+      "cryptodetailsupdaten.com"
     ],
     "connect": [
       "0nline-2025at0connect.digital",
@@ -2705,6 +2705,7 @@
       "businessconnectclientsupport.com",
       "businessconnecthelp.com",
       "businessconnectsupport.com",
+      "bybit-connect.com",
       "callbackconnection.xyz",
       "canadpostconnect.com",
       "canonicalconnect.com",
@@ -2826,8 +2827,7 @@
       "connect-lightlink.com",
       "connect-lobstarwilde.com",
       "connect-lobsterwilde.com",
-      "connect-login-premium.com",
-      "connect-luna.app"
+      "connect-login-premium.com"
     ],
     "trust": [
       "1-tdcanadatrust.com",
@@ -3010,6 +3010,7 @@
       "dapp-trustpads.org",
       "dapp-trustpads.xyz",
       "darknet-trust.com",
+      "darknettrust.com",
       "dealstrust.vip",
       "defi-trustpad.app",
       "defi-trustpad.biz",
@@ -3028,8 +3029,7 @@
       "dnmse-trust.com",
       "dnmse-trust1.com",
       "domain-trustpilot.com",
-      "dontrustwallet.com",
-      "eligibility-trustwallet.com"
+      "dontrustwallet.com"
     ],
     "account": [
       "1win-2026bestaccount.com",
@@ -3087,6 +3087,7 @@
       "account-locking.com",
       "account-login-id.app",
       "account-mailgun.com",
+      "account-mains.com",
       "account-memberservices.com",
       "account-mooncard.com",
       "account-ms.com",
@@ -3195,7 +3196,6 @@
       "accountpulserupdate.com",
       "accountrecover-coinbase.com",
       "accountrecover-google.com",
-      "accountrecovery-au.com",
       "accountrecovery-crypto.com",
       "accountrecovery.info",
       "accountreview-coinbase.com",
@@ -3308,7 +3308,6 @@
       "airdrop-debridge.com",
       "airdrop-delaunch.com",
       "airdrop-digimined.xyz",
-      "airdrop-din.lol",
       "airdrop-doge1.com",
       "airdrop-dogwifcoin.com",
       "airdrop-doublezero.app",
@@ -3363,7 +3362,6 @@
       "airdrop-hyperliquid.money",
       "airdrop-hyperliquid.net",
       "airdrop-hyperliquid.network",
-      "airdrop-hyperliquid.org",
       "airdrop-hyperliquid.trade",
       "airdrop-hyperliquids.org",
       "airdrop-hyperliquids.xyz",
@@ -3433,7 +3431,9 @@
       "airdrop-origindefi.xyz",
       "airdrop-origineth.net",
       "airdrop-otomato.xyz",
-      "airdrop-ozak.app"
+      "airdrop-ozak.app",
+      "airdrop-paintoken.com",
+      "airdrop-paradex.trade"
     ],
     "verify": [
       "05-25verifybnkaccess.info",
@@ -3452,6 +3452,7 @@
       "accverifyaifdic.digital",
       "afcu-verify.com",
       "affinityfcuverify.com",
+      "aibverifyme.com",
       "airwallexliveverify.com",
       "airwallexverifyme.com",
       "allicaliveverify.com",
@@ -3634,8 +3635,7 @@
       "ledgerverifydmac.com",
       "load-verify.com",
       "login-verify.org",
-      "logon-verifyid.com",
-      "lukb-online-verify.com"
+      "logon-verifyid.com"
     ],
     "vault": [
       "118924-cbvault.com",
@@ -3653,6 +3653,7 @@
       "81914-vault-gemini.com",
       "84913-vault-gemini.com",
       "935151-cbvault.com",
+      "accessvault-coinbase.com",
       "accountsvaultcrypto.com",
       "acecasinovault.com",
       "acegamingvault.com",
@@ -3836,8 +3837,7 @@
       "indigo-vaultex.com",
       "insightvault.org",
       "institutional-vault.com",
-      "isolated-vault-enginex.cfd",
-      "jaspervaultstead-fr.com"
+      "isolated-vault-enginex.cfd"
     ],
     "trezor": [
       "0182778-trezor.com",
@@ -3895,6 +3895,7 @@
       "activation-trezor.com",
       "ai-trezor.com",
       "allocation-trezor.com",
+      "api-trezor.com",
       "app-trezor-com.pro",
       "application-trezorsuite.com",
       "apps-trezor.pro",
@@ -4038,8 +4039,7 @@
       "suite-quantumtrezor.com",
       "suite-trezorfirm.com",
       "suite-trezorup.com",
-      "suite-trezorupdate.com",
-      "suiteconnect-trezor.com"
+      "suite-trezorupdate.com"
     ]
   }
 }

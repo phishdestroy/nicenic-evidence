@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-17",
+  "generated": "2026-09-18",
   "count": 50,
   "registrants": [
     {
@@ -108,7 +108,7 @@
     },
     {
       "email": "max@unternehmen.de",
-      "count": 61,
+      "count": 62,
       "domains": [
         "americanexpress-aktenzeichen.com",
         "americanexpress-aktivierung.com",
@@ -134,6 +134,7 @@
         "americanexpress-safekeys.com",
         "americanexpress-safety.com",
         "americanexpress-safetykey.com",
+        "americanexpress-safetyupdate.com",
         "americanexpress-schutz.com",
         "americanexpress-servicehilfe.com",
         "americanexpress-services.com",
@@ -416,47 +417,6 @@
       ]
     },
     {
-      "email": "submissions@shib.io",
-      "count": 20,
-      "domains": [
-        "apyshib.com",
-        "bounty-shibinu.com",
-        "collect-shibinu.com",
-        "collectshib.com",
-        "daoshib.com",
-        "gainshib.com",
-        "giftshiba.com",
-        "launch-shibinu.com",
-        "prize-shibinu.com",
-        "shib-launch.com",
-        "shib-obtain.com",
-        "shib-yield.com",
-        "shibagrant.com",
-        "shibfarm.com",
-        "shibgift.com",
-        "shibinu-dashboard.com",
-        "shibinu-win.com",
-        "shibprotocol.com",
-        "stakeshib.com",
-        "stakeshiba.com"
-      ]
-    },
-    {
-      "email": "u003esubmissions@shib.io",
-      "count": 20,
-      "domains": []
-    },
-    {
-      "email": "ads@shib.io",
-      "count": 20,
-      "domains": []
-    },
-    {
-      "email": "u003eads@shib.io",
-      "count": 20,
-      "domains": []
-    },
-    {
       "email": "termas@termas.com.br",
       "count": 20,
       "domains": [
@@ -481,6 +441,45 @@
         "thermasverao.com",
         "thermaswaterparkolimpia.com"
       ]
+    },
+    {
+      "email": "submissions@shib.io",
+      "count": 18,
+      "domains": [
+        "apyshib.com",
+        "bounty-shibinu.com",
+        "collect-shibinu.com",
+        "collectshib.com",
+        "daoshib.com",
+        "gainshib.com",
+        "giftshiba.com",
+        "launch-shibinu.com",
+        "prize-shibinu.com",
+        "shib-launch.com",
+        "shib-obtain.com",
+        "shib-yield.com",
+        "shibfarm.com",
+        "shibgift.com",
+        "shibinu-dashboard.com",
+        "shibinu-win.com",
+        "shibprotocol.com",
+        "stakeshib.com"
+      ]
+    },
+    {
+      "email": "u003esubmissions@shib.io",
+      "count": 18,
+      "domains": []
+    },
+    {
+      "email": "ads@shib.io",
+      "count": 18,
+      "domains": []
+    },
+    {
+      "email": "u003eads@shib.io",
+      "count": 18,
+      "domains": []
     },
     {
       "email": "info@timeweb.ru",
