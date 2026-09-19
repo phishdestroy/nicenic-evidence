@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-18",
+  "generated": "2026-09-19",
   "count": 50,
   "registrants": [
     {
@@ -176,7 +176,7 @@
     },
     {
       "email": "info@vuz.info",
-      "count": 57,
+      "count": 56,
       "domains": [
         "vuz-0q.info",
         "vuz-1e.info",
@@ -188,7 +188,6 @@
         "vuz-jv.info",
         "vuz-t.info",
         "vuz-t0.info",
-        "vuz-v.info",
         "vuz-vf.info",
         "vuz.info",
         "vuz0a.info",
@@ -417,6 +416,47 @@
       ]
     },
     {
+      "email": "submissions@shib.io",
+      "count": 20,
+      "domains": [
+        "apyshib.com",
+        "bounty-shibinu.com",
+        "collect-shibinu.com",
+        "collectshib.com",
+        "daoshib.com",
+        "gainshib.com",
+        "giftshiba.com",
+        "launch-shibinu.com",
+        "prize-shibinu.com",
+        "shib-launch.com",
+        "shib-obtain.com",
+        "shib-yield.com",
+        "shibagrant.com",
+        "shibfarm.com",
+        "shibgift.com",
+        "shibinu-dashboard.com",
+        "shibinu-win.com",
+        "shibprotocol.com",
+        "stakeshib.com",
+        "stakeshiba.com"
+      ]
+    },
+    {
+      "email": "u003esubmissions@shib.io",
+      "count": 20,
+      "domains": []
+    },
+    {
+      "email": "ads@shib.io",
+      "count": 20,
+      "domains": []
+    },
+    {
+      "email": "u003eads@shib.io",
+      "count": 20,
+      "domains": []
+    },
+    {
       "email": "termas@termas.com.br",
       "count": 20,
       "domains": [
@@ -441,45 +481,6 @@
         "thermasverao.com",
         "thermaswaterparkolimpia.com"
       ]
-    },
-    {
-      "email": "submissions@shib.io",
-      "count": 18,
-      "domains": [
-        "apyshib.com",
-        "bounty-shibinu.com",
-        "collect-shibinu.com",
-        "collectshib.com",
-        "daoshib.com",
-        "gainshib.com",
-        "giftshiba.com",
-        "launch-shibinu.com",
-        "prize-shibinu.com",
-        "shib-launch.com",
-        "shib-obtain.com",
-        "shib-yield.com",
-        "shibfarm.com",
-        "shibgift.com",
-        "shibinu-dashboard.com",
-        "shibinu-win.com",
-        "shibprotocol.com",
-        "stakeshib.com"
-      ]
-    },
-    {
-      "email": "u003esubmissions@shib.io",
-      "count": 18,
-      "domains": []
-    },
-    {
-      "email": "ads@shib.io",
-      "count": 18,
-      "domains": []
-    },
-    {
-      "email": "u003eads@shib.io",
-      "count": 18,
-      "domains": []
     },
     {
       "email": "info@timeweb.ru",
@@ -549,6 +550,27 @@
       ]
     },
     {
+      "email": "donate@opencart.com",
+      "count": 16,
+      "domains": [
+        "101spill.com",
+        "cheap-steroids.net",
+        "edpill.net",
+        "motoryxa.com",
+        "newmanchic.com",
+        "onlineroidshop.com",
+        "partnivo.com",
+        "pharmaquickbuy.com",
+        "pokisupply.com",
+        "safesteroids.org",
+        "steroids-au.com",
+        "urbanmanchic.com",
+        "urbanvico.com",
+        "urheilu-karki.com",
+        "zatempl.com"
+      ]
+    },
+    {
       "email": "admin@webmaster.com",
       "count": 16,
       "domains": [
@@ -568,26 +590,6 @@
         "trezor-diagnostic-app.com",
         "ver-empowermyretirements.com",
         "verify-mymandg.com"
-      ]
-    },
-    {
-      "email": "donate@opencart.com",
-      "count": 15,
-      "domains": [
-        "101spill.com",
-        "cheap-steroids.net",
-        "edpill.net",
-        "motoryxa.com",
-        "newmanchic.com",
-        "onlineroidshop.com",
-        "partnivo.com",
-        "pharmaquickbuy.com",
-        "pokisupply.com",
-        "safesteroids.org",
-        "steroids-au.com",
-        "urbanvico.com",
-        "urheilu-karki.com",
-        "zatempl.com"
       ]
     },
     {
@@ -647,26 +649,6 @@
       "domains": []
     },
     {
-      "email": "press@ethereum.org",
-      "count": 14,
-      "domains": [
-        "award-boosteth.com",
-        "bonus-boosteth.com",
-        "boosteth-app.com",
-        "boosteth-prize.com",
-        "bounty-boosteth.com",
-        "earn-boosteth.com",
-        "gain-boosteth.com",
-        "gift-boosteth.com",
-        "obtain-boosteth.com",
-        "protocol-boosteth.com",
-        "reward-boosteth.com",
-        "stake-boosteth.com",
-        "treasury-boosteth.com",
-        "yield-boosteth.com"
-      ]
-    },
-    {
       "email": "support@stake.com",
       "count": 13,
       "domains": [
@@ -719,6 +701,25 @@
         "wordpressws.com",
         "wsswp.com",
         "wsswp.net"
+      ]
+    },
+    {
+      "email": "press@ethereum.org",
+      "count": 13,
+      "domains": [
+        "award-boosteth.com",
+        "bonus-boosteth.com",
+        "boosteth-app.com",
+        "boosteth-prize.com",
+        "bounty-boosteth.com",
+        "earn-boosteth.com",
+        "gift-boosteth.com",
+        "obtain-boosteth.com",
+        "protocol-boosteth.com",
+        "reward-boosteth.com",
+        "stake-boosteth.com",
+        "treasury-boosteth.com",
+        "yield-boosteth.com"
       ]
     },
     {
@@ -842,6 +843,22 @@
       ]
     },
     {
+      "email": "contact@iotrust.kr",
+      "count": 10,
+      "domains": [
+        "dcentappdesktop.com",
+        "dcentdesktopwallets.com",
+        "dcentdeskwallet.com",
+        "dcentpcapp.com",
+        "dcentpcwallet.com",
+        "dcentwaiiet-update.xyz",
+        "dcentwalletdesk.app",
+        "dcentwalletpc.app",
+        "dcentwallets.app",
+        "dcentwalletsdesktop.com"
+      ]
+    },
+    {
       "email": "support@stake.us",
       "count": 10,
       "domains": []
@@ -868,18 +885,32 @@
       "domains": []
     },
     {
-      "email": "contact@iotrust.kr",
+      "email": "support@birdspin.com",
       "count": 9,
       "domains": [
-        "dcentappdesktop.com",
-        "dcentdesktopwallets.com",
-        "dcentdeskwallet.com",
-        "dcentpcapp.com",
-        "dcentpcwallet.com",
-        "dcentwalletdesk.app",
-        "dcentwalletpc.app",
-        "dcentwallets.app",
-        "dcentwalletsdesktop.com"
+        "birdspin-casino.com",
+        "birdspin-greece.com",
+        "birdspin-norway.com",
+        "birdspin-portugal.com",
+        "birdspinhungary.com",
+        "birdspinitaly.com",
+        "birdspinslovenia.com",
+        "birdspinsweden.com",
+        "danryderpoet.com"
+      ]
+    },
+    {
+      "email": "highspincasino@support.com",
+      "count": 9,
+      "domains": [
+        "amnestypgh.org",
+        "helloharuo.com",
+        "highspin-hungary.com",
+        "highspin-norway.com",
+        "highspinportugal.com",
+        "highspinslovenia.com",
+        "highspinsweden.com",
+        "highspitaly.com"
       ]
     },
     {
@@ -970,36 +1001,6 @@
         "linkgrant.com",
         "token-link.net",
         "token-link.org"
-      ]
-    },
-    {
-      "email": "destek@betvole.com",
-      "count": 9,
-      "domains": [
-        "1556betvole.com",
-        "1972betvole.com",
-        "979betvole.com",
-        "981betvole.com",
-        "994betvole.com",
-        "995betvole.com",
-        "997betvole.com",
-        "998betvole.com",
-        "999betvole.com"
-      ]
-    },
-    {
-      "email": "deine@email.de",
-      "count": 9,
-      "domains": [
-        "eporapank.pro",
-        "euponarapk.com",
-        "eupoparapk.pro",
-        "euporaparlk.pro",
-        "mautkauf.digital",
-        "myparks.pro",
-        "strasnova.digital",
-        "vignfly.pro",
-        "vignopass.digital"
       ]
     }
   ]
