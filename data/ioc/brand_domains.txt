@@ -790,7 +790,6 @@ secure	cb-secure-recover.com
 secure	cb-secure-security.com
 secure	cb-secure-server.com
 secure	cb-secure.com
-secure	cb-secure.net
 secure	cb-secureserver.com
 secure	cbsecurelink.com
 secure	cdn-secure.com
@@ -798,6 +797,7 @@ secure	cenpos-login-secure.com
 secure	centra-link-secure.net
 secure	centrelink-secured.net
 secure	chase-paymentech-secure.com
+secure	chase-secured-help.com
 wallet	114229-wallet.com
 wallet	1amwallet.com
 wallet	1amwallet.xyz
@@ -849,6 +849,7 @@ wallet	app-bestwallet.com
 wallet	app-bestwallet.finance
 wallet	app-dcentwallet.com
 wallet	app-ledgerwallet.com
+wallet	app-myetherwallet.com
 wallet	app-rnetarnask-wallet.pro
 wallet	app-sparrowwallet.com
 wallet	app-wallet-connect.network
@@ -859,6 +860,7 @@ wallet	apple-pay-wallet.com
 wallet	apps-xamanwallet.icu
 wallet	aquabitcoindesktopwallet.live
 wallet	aquadesktopwallet.net
+wallet	aquawallet.guru
 wallet	arculus-wallet.com
 wallet	arculuswalletdesktop.com
 wallet	astracorewallet.xyz
@@ -870,10 +872,10 @@ wallet	atomiciwallet.com
 wallet	atomiciwallet.xyz
 wallet	atomicwallet.cfd
 wallet	atomicwallet.sbs
+wallet	atomicwalletapp.net
 wallet	atomicwalletdesktop.store
 wallet	atomicwalletscan.sbs
 wallet	atomicwalletweb.com
-wallet	atomlc-wallet.com
 wallet	auditready-wallet.cfd
 wallet	audittrustwallet.info
 wallet	auth-smartwallet.com
@@ -996,8 +998,6 @@ wallet	cakeswallet.com
 wallet	cakeswalletdesktop.live
 wallet	cakewallet.vip
 wallet	cakewalletdesktop.app
-wallet	cakewalletdesktop.com
-wallet	cakewalletdesktop.live
 token	1fueliotoken.life
 token	1fueltoken.cfd
 token	4bsctoken.com
@@ -1267,6 +1267,7 @@ official	arctictitansofficial.com
 official	ares-official.ink
 official	aresbet-official.vip
 official	aresbetglobalofficial.vip
+official	aresbetofficial.icu
 official	aresbetofficial.vip
 official	artemisbet-official.live
 official	artinexa-official.com
@@ -1299,8 +1300,10 @@ official	aviator-officiall.net
 official	avvabet-official.icu
 official	avvabetofficialsite.icu
 official	awsaiofficial.com
+official	bahiscasino-official.icu
 official	bahiscasino-official2025.com
 official	bahisfairofficial2026.vip
+official	bahislionofficial.icu
 official	bahsegel-officialgirisadresi.com
 official	bahsine-official.com
 official	bakebagsofficial.com
@@ -1332,18 +1335,22 @@ official	betasusofficialgiris.icu
 official	betball90-official.com
 official	betcio-officialtr.com
 official	betcioofficial-tr.com
+official	betcupofficial.icu
 official	betebet-official.com
 official	betebet-official2026.com
 official	betebet-officiall.com
 official	betebet-officiall.vip
+official	betgarofficial.icu
 official	betgit-official.com
 official	betgitt-officialtr2026.icu
 official	betine-official.com
 official	betingoofficial.vip
+official	betixirofficial.icu
 official	betkanyon-liveofficial.icu
 official	betkolikglobalofficial.vip
 official	betkolikglobalofficial1.vip
 official	betkolikofficial.vip
+official	betlikeofficial.icu
 official	betlikeofficial.vip
 official	betnano-liveofficial.icu
 official	betnano-official-giris.com
@@ -1391,13 +1398,6 @@ official	betpas-officialgirisadresi.icu
 official	betpasofficial.vip
 official	betperofficial.vip
 official	betplay-official.icu
-official	betplayofficial.vip
-official	betpuanglobalofficial.vip
-official	bets10-giris-official.com
-official	bets10-official-giris.com
-official	bets10-official.vip
-official	bets10-officialtr.com
-official	betsat-official.icu
 swap	0xswaps.xyz
 swap	1-swap.com
 swap	11amaswap.icu
@@ -2040,6 +2040,7 @@ crypto	19461-crypto.com
 crypto	195772crypto.com
 crypto	197203crypto.com
 crypto	19852-crypto.com
+crypto	198640-crypto.com
 crypto	19876-crypto.com
 crypto	19929120crypto.com
 crypto	2025crypto.site
@@ -2197,7 +2198,6 @@ crypto	afs-crypto.com
 crypto	ai-cryptotradingbot.com
 crypto	aichatouaticrypto.sbs
 crypto	aicryptotrader.icu
-crypto	aid-crypto.com
 kraken	076261-kraken.com
 kraken	1-kraken.com
 kraken	109281-kraken.com
@@ -2647,6 +2647,7 @@ connect	australiat-lncome-grantconnect.digital
 connect	australservice-auconnect.net
 connect	authorize-connect.app
 connect	authscotiaconnect.com
+connect	azoorconnectings.icu
 connect	bahiscom-connect.icu
 connect	bahiscomworld-connect.icu
 connect	baseconnectionsdashboard.com
@@ -2729,7 +2730,6 @@ connect	collabixconnect.media
 connect	collabixconnect.services
 connect	collabixconnection.live
 connect	collabland-newconnect.xyz
-connect	collabs-connectings.info
 connect	collabstartconnect.com
 connect	collabstr-connect.com
 connect	collabteamconnect.com
@@ -2825,6 +2825,7 @@ trust	aml-bot-trust.com
 trust	aml-trust-info.com
 trust	aml-trusts.com
 trust	amlcheckstrust.com
+trust	amltrust.info
 trust	amltrust.live
 trust	amltrustanalyse.icu
 trust	amltrustanalyse.sbs
@@ -2997,7 +2998,6 @@ trust	dlztrustnik.info
 trust	dnmse-trust.com
 trust	dnmse-trust1.com
 trust	domain-trustpilot.com
-trust	dontrustwallet.com
 account	1win-2026bestaccount.com
 account	1win-account2026.com
 account	1win-accountbeast2026.com
@@ -3118,7 +3118,6 @@ account	account-verification-required-pdf.today
 account	account-verify-etsy.com
 account	account-vopay.com
 account	account-wealthsimple.com
-account	account-webhelp.com
 account	account-whitelist-coinbase.com
 account	account-witix.com
 account	account-worldwide-electronicsnewlineomsigninidentifiercontinue.com
@@ -3198,6 +3197,7 @@ account	accounts-sendgrid.com
 account	accounts-serviceau.com
 account	accounts-support-google.com
 account	accounts-team.live
+account	accounts-verentro.com
 airdrop	0x00000-bankless-hunt-airdrop.com
 airdrop	911airdrop.com
 airdrop	abstract-airdrop.xyz
@@ -3436,6 +3436,7 @@ verify	app-oktaverify.com
 verify	app-verify.org
 verify	apple-verify-icloud.com
 verify	astersverify.pro
+verify	at-verify.com
 verify	atoverify.com
 verify	au-verify.com
 verify	auth-verify-7231.com
@@ -3597,7 +3598,6 @@ verify	ledger-verify.net
 verify	ledger-verify.org
 verify	ledgerlive-verify.com
 verify	ledgerverify.app
-verify	ledgerverifydmac.com
 vault	118924-cbvault.com
 vault	157206-cbvault.com
 vault	177253-cb-vault.com
@@ -3661,6 +3661,7 @@ vault	biddsvault.com
 vault	binancesecurevault.com
 vault	blessvault.com
 vault	blockspherevault.com
+vault	blueplatevault.com
 vault	bluevaultddexeris.live
 vault	bluevaultdexeris-ai.com
 vault	bonusspinvault.com
@@ -3797,7 +3798,6 @@ vault	hypurvaults.xyz
 vault	indigo-vaultex.com
 vault	insightvault.org
 vault	institutional-vault.com
-vault	isolated-vault-enginex.cfd
 trezor	0182778-trezor.com
 trezor	1217941-trezor.com
 trezor	1239291-trezor.com
@@ -3987,6 +3987,7 @@ trezor	search-trezor.com
 trezor	securease-trezor.com
 trezor	securitycheck-trezor.com
 trezor	server1-trezor.com
+trezor	service-trezor.com
 trezor	servicecheck-trezor.com
 trezor	shield-trezor.app
 trezor	shieldquantum-trezor.com
@@ -3997,4 +3998,3 @@ trezor	steps-trezor.com
 trezor	suite-quantumtrezor.com
 trezor	suite-trezorfirm.com
 trezor	suite-trezorup.com
-trezor	suite-trezorupdate.com
