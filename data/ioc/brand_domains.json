@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-20",
+  "generated": "2026-09-21",
   "keywords": {
     "coinbase": [
       "00-coinbase.com",
@@ -800,14 +800,14 @@
       "cb-secure-security.com",
       "cb-secure-server.com",
       "cb-secure.com",
-      "cb-secure.net",
       "cb-secureserver.com",
       "cbsecurelink.com",
       "cdn-secure.com",
       "cenpos-login-secure.com",
       "centra-link-secure.net",
       "centrelink-secured.net",
-      "chase-paymentech-secure.com"
+      "chase-paymentech-secure.com",
+      "chase-secured-help.com"
     ],
     "wallet": [
       "114229-wallet.com",
@@ -861,6 +861,7 @@
       "app-bestwallet.finance",
       "app-dcentwallet.com",
       "app-ledgerwallet.com",
+      "app-myetherwallet.com",
       "app-rnetarnask-wallet.pro",
       "app-sparrowwallet.com",
       "app-wallet-connect.network",
@@ -871,6 +872,7 @@
       "apps-xamanwallet.icu",
       "aquabitcoindesktopwallet.live",
       "aquadesktopwallet.net",
+      "aquawallet.guru",
       "arculus-wallet.com",
       "arculuswalletdesktop.com",
       "astracorewallet.xyz",
@@ -882,10 +884,10 @@
       "atomiciwallet.xyz",
       "atomicwallet.cfd",
       "atomicwallet.sbs",
+      "atomicwalletapp.net",
       "atomicwalletdesktop.store",
       "atomicwalletscan.sbs",
       "atomicwalletweb.com",
-      "atomlc-wallet.com",
       "auditready-wallet.cfd",
       "audittrustwallet.info",
       "auth-smartwallet.com",
@@ -1007,9 +1009,7 @@
       "cakeswallet.com",
       "cakeswalletdesktop.live",
       "cakewallet.vip",
-      "cakewalletdesktop.app",
-      "cakewalletdesktop.com",
-      "cakewalletdesktop.live"
+      "cakewalletdesktop.app"
     ],
     "token": [
       "1fueliotoken.life",
@@ -1283,6 +1283,7 @@
       "ares-official.ink",
       "aresbet-official.vip",
       "aresbetglobalofficial.vip",
+      "aresbetofficial.icu",
       "aresbetofficial.vip",
       "artemisbet-official.live",
       "artinexa-official.com",
@@ -1315,8 +1316,10 @@
       "avvabet-official.icu",
       "avvabetofficialsite.icu",
       "awsaiofficial.com",
+      "bahiscasino-official.icu",
       "bahiscasino-official2025.com",
       "bahisfairofficial2026.vip",
+      "bahislionofficial.icu",
       "bahsegel-officialgirisadresi.com",
       "bahsine-official.com",
       "bakebagsofficial.com",
@@ -1348,18 +1351,22 @@
       "betball90-official.com",
       "betcio-officialtr.com",
       "betcioofficial-tr.com",
+      "betcupofficial.icu",
       "betebet-official.com",
       "betebet-official2026.com",
       "betebet-officiall.com",
       "betebet-officiall.vip",
+      "betgarofficial.icu",
       "betgit-official.com",
       "betgitt-officialtr2026.icu",
       "betine-official.com",
       "betingoofficial.vip",
+      "betixirofficial.icu",
       "betkanyon-liveofficial.icu",
       "betkolikglobalofficial.vip",
       "betkolikglobalofficial1.vip",
       "betkolikofficial.vip",
+      "betlikeofficial.icu",
       "betlikeofficial.vip",
       "betnano-liveofficial.icu",
       "betnano-official-giris.com",
@@ -1406,14 +1413,7 @@
       "betpas-officialgirisadresi.icu",
       "betpasofficial.vip",
       "betperofficial.vip",
-      "betplay-official.icu",
-      "betplayofficial.vip",
-      "betpuanglobalofficial.vip",
-      "bets10-giris-official.com",
-      "bets10-official-giris.com",
-      "bets10-official.vip",
-      "bets10-officialtr.com",
-      "betsat-official.icu"
+      "betplay-official.icu"
     ],
     "swap": [
       "0xswaps.xyz",
@@ -2064,6 +2064,7 @@
       "195772crypto.com",
       "197203crypto.com",
       "19852-crypto.com",
+      "198640-crypto.com",
       "19876-crypto.com",
       "19929120crypto.com",
       "2025crypto.site",
@@ -2220,8 +2221,7 @@
       "afs-crypto.com",
       "ai-cryptotradingbot.com",
       "aichatouaticrypto.sbs",
-      "aicryptotrader.icu",
-      "aid-crypto.com"
+      "aicryptotrader.icu"
     ],
     "kraken": [
       "076261-kraken.com",
@@ -2677,6 +2677,7 @@
       "australservice-auconnect.net",
       "authorize-connect.app",
       "authscotiaconnect.com",
+      "azoorconnectings.icu",
       "bahiscom-connect.icu",
       "bahiscomworld-connect.icu",
       "baseconnectionsdashboard.com",
@@ -2759,7 +2760,6 @@
       "collabixconnect.services",
       "collabixconnection.live",
       "collabland-newconnect.xyz",
-      "collabs-connectings.info",
       "collabstartconnect.com",
       "collabstr-connect.com",
       "collabteamconnect.com",
@@ -2857,6 +2857,7 @@
       "aml-trust-info.com",
       "aml-trusts.com",
       "amlcheckstrust.com",
+      "amltrust.info",
       "amltrust.live",
       "amltrustanalyse.icu",
       "amltrustanalyse.sbs",
@@ -3028,8 +3029,7 @@
       "dlztrustnik.info",
       "dnmse-trust.com",
       "dnmse-trust1.com",
-      "domain-trustpilot.com",
-      "dontrustwallet.com"
+      "domain-trustpilot.com"
     ],
     "account": [
       "1win-2026bestaccount.com",
@@ -3152,7 +3152,6 @@
       "account-verify-etsy.com",
       "account-vopay.com",
       "account-wealthsimple.com",
-      "account-webhelp.com",
       "account-whitelist-coinbase.com",
       "account-witix.com",
       "account-worldwide-electronicsnewlineomsigninidentifiercontinue.com",
@@ -3231,7 +3230,8 @@
       "accounts-sendgrid.com",
       "accounts-serviceau.com",
       "accounts-support-google.com",
-      "accounts-team.live"
+      "accounts-team.live",
+      "accounts-verentro.com"
     ],
     "airdrop": [
       "0x00000-bankless-hunt-airdrop.com",
@@ -3474,6 +3474,7 @@
       "app-verify.org",
       "apple-verify-icloud.com",
       "astersverify.pro",
+      "at-verify.com",
       "atoverify.com",
       "au-verify.com",
       "auth-verify-7231.com",
@@ -3634,8 +3635,7 @@
       "ledger-verify.net",
       "ledger-verify.org",
       "ledgerlive-verify.com",
-      "ledgerverify.app",
-      "ledgerverifydmac.com"
+      "ledgerverify.app"
     ],
     "vault": [
       "118924-cbvault.com",
@@ -3701,6 +3701,7 @@
       "binancesecurevault.com",
       "blessvault.com",
       "blockspherevault.com",
+      "blueplatevault.com",
       "bluevaultddexeris.live",
       "bluevaultdexeris-ai.com",
       "bonusspinvault.com",
@@ -3836,8 +3837,7 @@
       "hypurvaults.xyz",
       "indigo-vaultex.com",
       "insightvault.org",
-      "institutional-vault.com",
-      "isolated-vault-enginex.cfd"
+      "institutional-vault.com"
     ],
     "trezor": [
       "0182778-trezor.com",
@@ -4029,6 +4029,7 @@
       "securease-trezor.com",
       "securitycheck-trezor.com",
       "server1-trezor.com",
+      "service-trezor.com",
       "servicecheck-trezor.com",
       "shield-trezor.app",
       "shieldquantum-trezor.com",
@@ -4038,8 +4039,7 @@
       "steps-trezor.com",
       "suite-quantumtrezor.com",
       "suite-trezorfirm.com",
-      "suite-trezorup.com",
-      "suite-trezorupdate.com"
+      "suite-trezorup.com"
     ]
   }
 }

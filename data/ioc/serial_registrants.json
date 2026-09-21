@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-20",
+  "generated": "2026-09-21",
   "count": 50,
   "registrants": [
     {
@@ -108,7 +108,7 @@
     },
     {
       "email": "max@unternehmen.de",
-      "count": 62,
+      "count": 69,
       "domains": [
         "americanexpress-aktenzeichen.com",
         "americanexpress-aktivierung.com",
@@ -130,12 +130,15 @@
         "americanexpress-legitimation.com",
         "americanexpress-partners.com",
         "americanexpress-recovery.com",
+        "americanexpress-reference.com",
         "americanexpress-referenz.com",
         "americanexpress-safekeys.com",
+        "americanexpress-safepal.com",
         "americanexpress-safety.com",
         "americanexpress-safetykey.com",
         "americanexpress-safetyupdate.com",
         "americanexpress-schutz.com",
+        "americanexpress-serviceauftrag.com",
         "americanexpress-servicehilfe.com",
         "americanexpress-services.com",
         "americanexpress-shield.com",
@@ -147,6 +150,7 @@
         "americanexpress-versicherung.com",
         "americanexpress-versicherungen.com",
         "americanexpress-versicherungshilfe.com",
+        "americanexpress-versicherungsservice.com",
         "americanexpress-vorgang.com",
         "americanexpress-vorgangsnummer.com",
         "amex-access.com",
@@ -156,7 +160,9 @@
         "amex-desk.com",
         "amex-hilfe.com",
         "amex-key.com",
+        "amex-kunde.com",
         "amex-kundenhilfe.com",
+        "amex-legitimation.com",
         "amex-partner.com",
         "amex-partners.com",
         "amex-safekey.com",
@@ -164,6 +170,7 @@
         "amex-safetykey.com",
         "amex-save.com",
         "amex-schutz.com",
+        "amex-serviceauftrag.com",
         "amex-shield.com",
         "amex-sicherheit.app",
         "amex-start.com",
@@ -386,9 +393,8 @@
     },
     {
       "email": "support@easybit.com",
-      "count": 25,
+      "count": 24,
       "domains": [
-        "dasybit.com",
         "eaaybit.com",
         "eadybit.com",
         "eaeybit.com",
@@ -416,47 +422,6 @@
       ]
     },
     {
-      "email": "submissions@shib.io",
-      "count": 20,
-      "domains": [
-        "apyshib.com",
-        "bounty-shibinu.com",
-        "collect-shibinu.com",
-        "collectshib.com",
-        "daoshib.com",
-        "gainshib.com",
-        "giftshiba.com",
-        "launch-shibinu.com",
-        "prize-shibinu.com",
-        "shib-launch.com",
-        "shib-obtain.com",
-        "shib-yield.com",
-        "shibagrant.com",
-        "shibfarm.com",
-        "shibgift.com",
-        "shibinu-dashboard.com",
-        "shibinu-win.com",
-        "shibprotocol.com",
-        "stakeshib.com",
-        "stakeshiba.com"
-      ]
-    },
-    {
-      "email": "u003esubmissions@shib.io",
-      "count": 20,
-      "domains": []
-    },
-    {
-      "email": "ads@shib.io",
-      "count": 20,
-      "domains": []
-    },
-    {
-      "email": "u003eads@shib.io",
-      "count": 20,
-      "domains": []
-    },
-    {
       "email": "termas@termas.com.br",
       "count": 20,
       "domains": [
@@ -481,6 +446,46 @@
         "thermasverao.com",
         "thermaswaterparkolimpia.com"
       ]
+    },
+    {
+      "email": "submissions@shib.io",
+      "count": 19,
+      "domains": [
+        "apyshib.com",
+        "bounty-shibinu.com",
+        "collect-shibinu.com",
+        "collectshib.com",
+        "daoshib.com",
+        "gainshib.com",
+        "giftshiba.com",
+        "launch-shibinu.com",
+        "prize-shibinu.com",
+        "shib-launch.com",
+        "shib-obtain.com",
+        "shib-yield.com",
+        "shibagrant.com",
+        "shibfarm.com",
+        "shibgift.com",
+        "shibinu-dashboard.com",
+        "shibprotocol.com",
+        "stakeshib.com",
+        "stakeshiba.com"
+      ]
+    },
+    {
+      "email": "u003esubmissions@shib.io",
+      "count": 19,
+      "domains": []
+    },
+    {
+      "email": "ads@shib.io",
+      "count": 19,
+      "domains": []
+    },
+    {
+      "email": "u003eads@shib.io",
+      "count": 19,
+      "domains": []
     },
     {
       "email": "info@timeweb.ru",
@@ -572,6 +577,42 @@
       ]
     },
     {
+      "email": "support@holiganbet.com",
+      "count": 15,
+      "domains": [
+        "7696holiganbet.com",
+        "9250holiganbet.com",
+        "cwstest1.com",
+        "haliganbet7677.com",
+        "holiganbet10214.com",
+        "holiganbet10498.com",
+        "holiganbet10786.com",
+        "holiganbet10867.com",
+        "holiganbet76172.com",
+        "holiganbet76695.com",
+        "holiganbet76966.com",
+        "holiganbet76986.com",
+        "holigonbet7686.com",
+        "holiiganbet1190.com",
+        "holliganbet1181.com"
+      ]
+    },
+    {
+      "email": "partners@holiganbet.com",
+      "count": 15,
+      "domains": []
+    },
+    {
+      "email": "press@holiganbet.com",
+      "count": 15,
+      "domains": []
+    },
+    {
+      "email": "sikayet@holiganbet.com",
+      "count": 15,
+      "domains": []
+    },
+    {
       "email": "donate@opencart.com",
       "count": 15,
       "domains": [
@@ -611,41 +652,6 @@
         "tr0ppicalcaffee.delivery",
         "tropicalcaf3e.com"
       ]
-    },
-    {
-      "email": "support@holiganbet.com",
-      "count": 14,
-      "domains": [
-        "7696holiganbet.com",
-        "9250holiganbet.com",
-        "cwstest1.com",
-        "haliganbet7677.com",
-        "holiganbet10214.com",
-        "holiganbet10786.com",
-        "holiganbet10867.com",
-        "holiganbet76172.com",
-        "holiganbet76695.com",
-        "holiganbet76966.com",
-        "holiganbet76986.com",
-        "holigonbet7686.com",
-        "holiiganbet1190.com",
-        "holliganbet1181.com"
-      ]
-    },
-    {
-      "email": "partners@holiganbet.com",
-      "count": 14,
-      "domains": []
-    },
-    {
-      "email": "press@holiganbet.com",
-      "count": 14,
-      "domains": []
-    },
-    {
-      "email": "sikayet@holiganbet.com",
-      "count": 14,
-      "domains": []
     },
     {
       "email": "ornek@email.com",
@@ -776,6 +782,24 @@
       ]
     },
     {
+      "email": "support@instaswap.com",
+      "count": 12,
+      "domains": [
+        "insatswap.com",
+        "instaaswap.com",
+        "instaawap.com",
+        "instaswao.com",
+        "instaswpa.com",
+        "instaswwap.com",
+        "instazwap.com",
+        "instsawap.com",
+        "isntaswap.com",
+        "istaswap.com",
+        "nistaswap.com",
+        "nstaswap.com"
+      ]
+    },
+    {
       "email": "ihre.email@beispiel.de",
       "count": 11,
       "domains": [
@@ -838,23 +862,6 @@
         "sekagirisi-tr.com",
         "xn--extrbet994-v4a.com",
         "xn--extrbet995-v4a.com"
-      ]
-    },
-    {
-      "email": "support@instaswap.com",
-      "count": 11,
-      "domains": [
-        "insatswap.com",
-        "instaaswap.com",
-        "instaawap.com",
-        "instaswao.com",
-        "instaswpa.com",
-        "instaswwap.com",
-        "instazwap.com",
-        "instsawap.com",
-        "isntaswap.com",
-        "istaswap.com",
-        "nistaswap.com"
       ]
     },
     {
