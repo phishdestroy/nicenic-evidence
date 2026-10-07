@@ -12,12 +12,12 @@ Ready-to-use blocklists derived from the NICENIC investigation.
 
 **Subscribe in Pi-hole:**
 ```
-https://raw.githubusercontent.com/phishdestroy/nicenic-evidence/master/ioc/domains_high.txt
+https://raw.githubusercontent.com/phishdestroy/nicenic-evidence/main/ioc/domains_high.txt
 ```
 
 **Subscribe in AdGuard Home:**
 ```
-https://raw.githubusercontent.com/phishdestroy/nicenic-evidence/master/ioc/domains_high.txt
+https://raw.githubusercontent.com/phishdestroy/nicenic-evidence/main/ioc/domains_high.txt
 ```
 
 Updated when new HIGH/CRITICAL domains are identified.
