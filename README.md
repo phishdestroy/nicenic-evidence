@@ -283,16 +283,20 @@ This investigation covers the **complete zone** of all domains registered under 
 
 ## Headline Findings
 
+*June 2026 scan. The HTTP pass covered the 343,107 domains in the zone at scan time; severity scoring covers live HTTP content (37,844 alive); the 82,575 malicious total adds threat-feed-confirmed domains and is measured against the 187,697 domains counted alive in the zone-level liveness pass (196,494 dead / timeout).*
+
 | Metric | Value |
 |---|---|
 | Total domains in zone | 403,909 |
-| Alive (HTTP 200/3xx) | **37,844** (11%) |
-| Dead / Parked / Error | 305,263 (89%) |
-| CRITICAL severity | 10,377 |
-| HIGH severity | 7,928 |
-| MEDIUM severity | 622 |
-| Malicious (CRITICAL+HIGH+MEDIUM) | **82,575** (50.0% of alive) |
-| Behind Cloudflare | 63,190 (83% of alive) |
+| HTTP-scanned (zone at scan time) | 343,107 |
+| Alive (HTTP 200/3xx) | **37,844** (11% of HTTP-scanned) |
+| Dead / Parked / Error | 305,263 (89% of HTTP-scanned) |
+| CRITICAL severity (live content) | 10,377 |
+| HIGH severity (live content) | 7,928 |
+| MEDIUM severity (live content) | 622 |
+| Scored malicious (CRITICAL+HIGH+MEDIUM) | 18,927 (50.0% of HTTP-alive) |
+| Malicious incl. threat-feed confirmed | **82,575** (44.0% of 187,697 alive) |
+| Behind Cloudflare | 63,190 (83% of 76,117 fingerprinted hosts) |
 | Screenshots captured | 37,844 alive domains — not published in repo (size) |
 | Operator clusters identified | **2,939** |
 
@@ -318,8 +322,8 @@ Full cluster data: [`data/clusters.json`](data/clusters.json) — includes favic
 
 | File | Rows | Description |
 |---|---|---|
-| `data/enriched.csv` | 86,114 | Full enriched dataset — all classified domains with category, severity, IPs, country, AI descriptions |
-| `data/high_severity.csv` | 20,480 | CRITICAL+HIGH filtered subset |
+| `data/enriched.csv` | 126,723 | Full enriched dataset — all classified domains with category, severity, IPs, country, AI descriptions |
+| `data/high_severity.csv` | 18,305 | CRITICAL+HIGH filtered subset (June 2026 live-content scoring) |
 | `data/dead_domains.csv` | — | Dead / parked / error domain enumeration |
 | `data/clusters.json` | 2,939 | Operator cluster map — favicon hash + server fingerprint groupings |
 | `ioc/domains_high.txt` | 35,902 | Production blocklist — CRITICAL+HIGH domains |
@@ -420,18 +424,18 @@ nicenic-evidence/
 │   └── invoke_all.py           # Lambda orchestrator
 ├── docs/
 │   ├── index.html              # Investigation landing page (GitHub Pages)
-│   ├── domains.html            # Searchable domain table (76,117 domains)
+│   ├── domains.html            # Searchable domain table (126,723 domains)
 │   ├── data.json               # Slim per-domain dataset
 │   ├── build_datajson.py       # Regenerate data.json from enriched.csv
 │   └── assets/                 # Hero image, OG card, favicons
 ├── data/
-│   ├── enriched.csv            # Canonical enriched dataset (136,720 rows)
-│   ├── high_severity.csv       # CRITICAL+HIGH subset (20,480 rows)
+│   ├── enriched.csv            # Canonical enriched dataset (126,723 rows)
+│   ├── high_severity.csv       # CRITICAL+HIGH subset (18,305 rows)
 │   ├── dead_domains.csv        # Dead / parked enumeration
 │   └── clusters.json           # Operator cluster map (2,939 clusters)
 ├── ioc/
-│   ├── domains_high.txt        # CRITICAL+HIGH blocklist (35,901 domains)
-│   ├── domains_all_malicious.txt # CRITICAL+HIGH+MEDIUM (82,575 domains)
+│   ├── domains_high.txt        # CRITICAL+HIGH blocklist (35,902 domains)
+│   ├── domains_all_malicious.txt # CRITICAL+HIGH+MEDIUM (82,576 domains)
 │   └── indicators.csv          # SIEM-ready IOC feed (82,582 indicators)
 ├── pkg/
 │   └── raw_data/               # Compressed raw scan output (.gz)
@@ -449,7 +453,7 @@ This investigation is part of a series documenting ICANN-accredited registrars t
 
 | # | Registrar | IANA | Zone | Confirmed Malicious | Russian Connection | Investigation |
 |--|--|--|--|--|--|--|
-| 1 | **NICENIC INTERNATIONAL GROUP** *(this)* | #3765 | 403,909 | **82,575 (44.0% of alive)** | 🇷🇺 #2 hosting country (8.5%) | [nicenic-evidence](https://github.com/phishdestroy/nicenic-evidence) · [Live Report](https://phishdestroy.github.io/nicenic-evidence/) |
+| 1 | **NICENIC INTERNATIONAL GROUP** *(this)* | #3765 | 403,909 | **82,575 (44.0% of alive)** | 🇷🇺 #2 hosting country (8.5%, June 2026 scan) | [nicenic-evidence](https://github.com/phishdestroy/nicenic-evidence) · [Live Report](https://phishdestroy.github.io/nicenic-evidence/) |
 | 2 | **Trustname.com / Fewmoretaps ÖÜ** | #4318 | 18,719 | **3,292 HIGH (35.4% of alive)** | 🇷🇺 Russian-operated, Estonian shell | [trustname-evidence](https://github.com/phishdestroy/trustname-evidence) · [Live Report](https://phishdestroy.github.io/trustname-evidence/) |
 | 3 | **NameSilo, LLC** | #1479 | 5,653,085 | **122,152 HIGH (3.63%)** | 🇷🇺 Russian team members, suppression campaign | [namesilo-evidence](https://github.com/phishdestroy/namesilo-evidence) · [Live Report](https://phishdestroy.github.io/namesilo-evidence/) |
 
@@ -470,7 +474,7 @@ Helen Ho's VK account is subscribed to the community **«Типичный мош
 The CEO of an ICANN-accredited registrar, subscribed to a scammer community on a Russian social network, with followers who are active fraud operators using her registrar's services — is not an ambiguous data point. It is a documented conflict of interest at the executive level.
 
 **Additional key facts:**
-- Russia is the **#2 hosting country** in NICENIC's zone: 3,113 deployed domains (8.5%)
+- Russia was the **#2 hosting country** in NICENIC's zone in the June 2026 scan: 3,113 deployed domains (8.5%); see Top Hosting Countries above for the current daily figure
 - NiceNIC is the preferred registrar of **Russian-speaking fraud affiliate networks** — documented in leaked Telegram screenshots where network instructors explicitly recommend NiceNIC to affiliates
 - The **"Soulless"** scam network registered 1,200+ identical phishing sites via NiceNIC
 - NICENIC accepts **Bitcoin, Tether, Ethereum, Litecoin** — specifically to sever financial audit trails and enable anonymous registration

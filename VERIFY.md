@@ -57,7 +57,7 @@ python docs/build_datajson.py
 | `ioc/domains_high.txt` | 18,305 domains |
 | `ioc/domains_all_malicious.txt` | 18,927 domains |
 | `ioc/indicators.csv` | 18,927 indicators |
-| `data/enriched.csv` | 86,114 rows (+ header) |
+| `data/enriched.csv` | 126,723 rows (+ header) |
 
 ```bash
 # Quick row-count verification
