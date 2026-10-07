@@ -496,6 +496,7 @@ kra-dark.cc
 kra-market.cc
 kra-marketplace.cc
 kra-shop.cc
+kra-site.cc
 kra-ssylka.cc
 kra-zerkala.cc
 kra-zerkalo.cc
@@ -503,6 +504,7 @@ krak-dark.cc
 krak-marketplace.cc
 krak-shop.cc
 krak-site.cc
+krak-ssylka.cc
 krak-zerkala.cc
 krakengadget.net
 krakenmaster.net

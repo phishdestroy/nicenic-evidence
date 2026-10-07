@@ -1,20 +1,18 @@
 {
-  "generated": "2026-09-21",
+  "generated": "2026-10-07",
   "count": 50,
   "registrants": [
     {
       "email": "info@credicentrocoop.com",
-      "count": 98,
+      "count": 89,
       "domains": [
         "acceso-particularesweb.com",
-        "accesoclientes-webapp.com",
         "accesos-soportesweb.com",
         "accesosweb-clientes.com",
         "accesoweb-empresa.com",
         "accesoweb-login.com",
         "accesowebapp-clientes.com",
         "app-acceso-clienteweb.com",
-        "app-acceso-serviciosweb.com",
         "app-accesoclientesweb.com",
         "app-accesoweb-clientes.com",
         "app-appclientes-web.com",
@@ -32,7 +30,6 @@
         "app-soporte-onlineweb.com",
         "app-soporteweb-cliente.com",
         "appclientes-web.com",
-        "carrefour-clientesdigital.com",
         "carrefour-webapp.com",
         "clientesappweb-acceso.com",
         "clienteweb-accesoinfo.com",
@@ -42,17 +39,14 @@
         "empresa-gestionesweb.com",
         "empresa-infoacceso.com",
         "empresa-soportecliente.com",
-        "empresa-soporteinfo.com",
         "empresa-soporteinicio.com",
         "es-acceso-particularweb.com",
-        "es-acceso-soporteweb.com",
         "es-accesoclientes-app.com",
         "es-accesoweb-clientes.com",
         "es-accesoweb-servicios.com",
         "es-accesowebapp-clientes.com",
         "es-cliente-acceso-web.com",
         "es-cliente-portalweb.com",
-        "es-cliente-servicioweb.com",
         "es-clientes-servicioweb.com",
         "es-control-usuariosweb.com",
         "es-empresa-serviciosweb.com",
@@ -84,9 +78,7 @@
         "ingdirect-serviciosonline.com",
         "ingdirect-soporteparticulares.com",
         "ingresos-soporte.com",
-        "inicio-particularesweb.com",
         "login-soporteweb.com",
-        "myinvestor-alerta.com",
         "particular-gestionesapp.com",
         "particulares-serviciosweb.com",
         "portal-soportecliente.com",
@@ -99,7 +91,6 @@
         "soporte-particularlogin.com",
         "soporteportal-accesos.com",
         "soportesweb-login.com",
-        "soporteweb-login.com",
         "web-carrefour.com",
         "web-clientesportal.com",
         "webapp-accesoclientes.com",
@@ -108,7 +99,7 @@
     },
     {
       "email": "max@unternehmen.de",
-      "count": 69,
+      "count": 70,
       "domains": [
         "americanexpress-aktenzeichen.com",
         "americanexpress-aktivierung.com",
@@ -128,6 +119,7 @@
         "americanexpress-kundeninfo.com",
         "americanexpress-kundenservice.com",
         "americanexpress-legitimation.com",
+        "americanexpress-legitimationsservice.com",
         "americanexpress-partners.com",
         "americanexpress-recovery.com",
         "americanexpress-reference.com",
@@ -145,6 +137,7 @@
         "americanexpress-sicherheit.com",
         "americanexpress-sicherheitsupdate.com",
         "americanexpress-sicherheitsverfahren.com",
+        "americanexpress-supportservice.com",
         "americanexpress-verification.com",
         "americanexpress-verifizierung.com",
         "americanexpress-versicherung.com",
@@ -172,7 +165,6 @@
         "amex-schutz.com",
         "amex-serviceauftrag.com",
         "amex-shield.com",
-        "amex-sicherheit.app",
         "amex-start.com",
         "amex-status.com",
         "amex-system.com",
@@ -183,7 +175,7 @@
     },
     {
       "email": "info@vuz.info",
-      "count": 55,
+      "count": 42,
       "domains": [
         "vuz-0q.info",
         "vuz-1e.info",
@@ -194,117 +186,49 @@
         "vuz-j.info",
         "vuz-jv.info",
         "vuz-t.info",
-        "vuz-t0.info",
         "vuz-vf.info",
         "vuz.info",
         "vuz0a.info",
         "vuz0d.info",
-        "vuz1v.info",
         "vuz2m.info",
         "vuz4m.info",
         "vuz6n.info",
         "vuz7o.info",
-        "vuzb.info",
         "vuzcc.info",
         "vuzi.info",
         "vuzinfo0o.cfd",
-        "vuzinfo4x.cfd",
         "vuzinfo4y.cfd",
         "vuzinfo7q.cfd",
         "vuzinfoaa.cfd",
         "vuzinfof6.cfd",
         "vuzinfofj.cfd",
         "vuzinfok.cfd",
-        "vuzinfokx.cfd",
         "vuzinfom.cfd",
-        "vuzinfoo.cfd",
         "vuzinfoq3.cfd",
         "vuzinfoq9.cfd",
-        "vuzinfot.cfd",
         "vuzinfotd.cfd",
         "vuzinfou.cfd",
         "vuzinfou0.cfd",
-        "vuzinfouu.cfd",
-        "vuzinfovx.cfd",
-        "vuzinfox9.cfd",
         "vuzinfoxc.cfd",
         "vuzinfoyc.cfd",
-        "vuzinfoyi.cfd",
         "vuzinfoz7.cfd",
-        "vuzjh.info",
         "vuzkh.info",
         "vuzox.info",
         "vuzpw.info",
         "vuzrj.info",
         "vuzvs.info",
-        "vuzyi.info",
         "vuzyy.info",
         "vuzzi.info"
       ]
     },
     {
-      "email": "info@stroykatalog.ru",
-      "count": 48,
-      "domains": [
-        "kraken7jmgt7yhhe2c4iyilthnhcugfylcztsdhh7otrr6jgd.com",
-        "krakensleep.com",
-        "mega2o2nde2gzktxse2fesqpyfeoma72qmvk3fcip2l3uv3tbn5mad.com",
-        "mega2olipdgn3zpmm6fjcl2jfeweyy7gjuzrs3mja7nkdu7lfyd.com",
-        "sdlon1.cc",
-        "sdlon10.cc",
-        "sdlon11.cc",
-        "sdlon12.cc",
-        "sdlon13.cc",
-        "sdlon14.cc",
-        "sdlon15.cc",
-        "sdlon16.cc",
-        "sdlon17.cc",
-        "sdlon18.cc",
-        "sdlon19.cc",
-        "sdlon2.cc",
-        "sdlon3.cc",
-        "sdlon4.cc",
-        "sdlon5.cc",
-        "sdlon6.cc",
-        "sdlon7.cc",
-        "sdlon8.cc",
-        "sdlon9.cc",
-        "skyiwredshjnhjgeleladu7m7mgpuxgsnfxzhhr7l5bniutayd.com",
-        "slokn1.cc",
-        "slokn10.cc",
-        "slokn11.cc",
-        "slokn12.cc",
-        "slokn13.cc",
-        "slokn14.cc",
-        "slokn15.cc",
-        "slokn16.cc",
-        "slokn17.cc",
-        "slokn18.cc",
-        "slokn19.cc",
-        "slokn2.cc",
-        "slokn3.cc",
-        "slokn4.cc",
-        "slokn5.cc",
-        "slokn6.cc",
-        "slokn7.cc",
-        "slokn8.cc",
-        "slokn9.cc",
-        "slonj3.cc",
-        "slonj6.cc",
-        "xn--krb12-sqa.cc",
-        "xn--krb13-sqa.cc",
-        "xn--krb14-sqa.cc"
-      ]
-    },
-    {
       "email": "support@jojobet.com",
-      "count": 29,
+      "count": 32,
       "domains": [
         "385betpuan.com",
         "8295jojobet.com",
         "8385jojobet.com",
         "8472ojobet.com",
-        "betofice971.com",
         "cedricxjojo.icu",
         "joiobet10001.com",
         "joiobet1785.com",
@@ -312,8 +236,12 @@
         "jojobet100005.com",
         "jojobet100030.com",
         "jojobet11381.com",
+        "jojobet12055.com",
+        "jojobet12759.com",
         "jojobet12869.com",
+        "jojobet12987.com",
         "jojobet5801.com",
+        "jojobet81912.com",
         "jojobet8226.net",
         "jojobet82338.com",
         "jojobet82365.com",
@@ -333,18 +261,54 @@
     },
     {
       "email": "partners@jojobet.com",
-      "count": 29,
+      "count": 32,
       "domains": []
     },
     {
       "email": "press@jojobet.com",
-      "count": 29,
+      "count": 32,
       "domains": []
     },
     {
       "email": "sikayet@jojobet.com",
-      "count": 29,
+      "count": 32,
       "domains": []
+    },
+    {
+      "email": "info@stroykatalog.ru",
+      "count": 30,
+      "domains": [
+        "kraken7jmgt7yhhe2c4iyilthnhcugfylcztsdhh7otrr6jgd.com",
+        "krakensleep.com",
+        "mega2o2nde2gzktxse2fesqpyfeoma72qmvk3fcip2l3uv3tbn5mad.com",
+        "mega2olipdgn3zpmm6fjcl2jfeweyy7gjuzrs3mja7nkdu7lfyd.com",
+        "sdlon10.cc",
+        "sdlon11.cc",
+        "sdlon12.cc",
+        "sdlon13.cc",
+        "sdlon14.cc",
+        "sdlon15.cc",
+        "sdlon16.cc",
+        "sdlon17.cc",
+        "sdlon18.cc",
+        "sdlon19.cc",
+        "sdlon3.cc",
+        "sdlon5.cc",
+        "skyiwredshjnhjgeleladu7m7mgpuxgsnfxzhhr7l5bniutayd.com",
+        "slokn10.cc",
+        "slokn11.cc",
+        "slokn12.cc",
+        "slokn13.cc",
+        "slokn14.cc",
+        "slokn15.cc",
+        "slokn16.cc",
+        "slokn17.cc",
+        "slokn18.cc",
+        "slokn19.cc",
+        "slokn3.cc",
+        "slonj3.cc",
+        "slonj6.cc"
+      ]
     },
     {
       "email": "destek@slotvadi.com",
@@ -392,104 +356,88 @@
       "domains": []
     },
     {
-      "email": "support@easybit.com",
-      "count": 24,
+      "email": "support@instaswap.com",
+      "count": 23,
       "domains": [
-        "eaaybit.com",
-        "eadybit.com",
-        "eaeybit.com",
-        "easgbit.com",
-        "eashbit.com",
-        "easjbit.com",
-        "easubit.com",
-        "easybif.com",
-        "easybih.com",
-        "easybir.com",
-        "easybiy.com",
-        "easybjt.com",
-        "easybkt.com",
-        "easybut.com",
-        "easynit.com",
-        "eawybit.com",
-        "eaxybit.com",
-        "eqsybit.com",
-        "ewsybit.com",
-        "ezsybit.com",
-        "fasybit.com",
-        "rasybit.com",
-        "sasybit.com",
-        "wasybit.com"
+        "iinstaswap.com",
+        "innstaswap.com",
+        "insaswap.com",
+        "insatswap.com",
+        "insstaswap.com",
+        "instaaswap.com",
+        "instaawap.com",
+        "instaseap.com",
+        "instasswap.com",
+        "instaswa.com",
+        "instaswaap.com",
+        "instaswao.com",
+        "instaswpa.com",
+        "instaswwap.com",
+        "instazwap.com",
+        "instsawap.com",
+        "insttaswap.com",
+        "intaswap.com",
+        "intsaswap.com",
+        "isntaswap.com",
+        "istaswap.com",
+        "nistaswap.com",
+        "nstaswap.com"
       ]
     },
     {
-      "email": "termas@termas.com.br",
+      "email": "donate@opencart.com",
       "count": 20,
       "domains": [
-        "termasticket.com",
-        "thermas-ingresso.com",
-        "thermas-ingressos.com",
-        "thermas-laranjais.com",
-        "thermas-olimpia.com",
-        "thermasbrasillaranjais.com",
-        "thermasdoslaranjaisbrasil.com",
-        "thermasdoslaranjaispark.com",
-        "thermasdoslaranjaisticket.com",
-        "thermaslaranjaishome.com",
-        "thermaslaranjaispark.com",
-        "thermaslaranjaissp.com",
-        "thermaslaranjaisticket.com",
-        "thermaslaranjaisverao.com",
-        "thermasolimpiasp.com",
-        "thermaspass.com",
-        "thermassiteoficial.com",
-        "thermasticketlaranjais.com",
-        "thermasverao.com",
-        "thermaswaterparkolimpia.com"
+        "artidomi.com",
+        "best-pharmacy-mart.com",
+        "cheap-steroids.net",
+        "chicmanwear.com",
+        "edpill.net",
+        "farmacia-onlines.com",
+        "leadonlinetraining.com",
+        "motoryxa.com",
+        "newmanchic.com",
+        "onlineroidshop.com",
+        "partnivo.com",
+        "pharmaquickbuy.com",
+        "pokisupply.com",
+        "safesteroids.org",
+        "steroids-au.com",
+        "urbanmanchic.com",
+        "urbanvico.com",
+        "urheilu-karki.com",
+        "zatempl.com"
       ]
     },
     {
-      "email": "submissions@shib.io",
-      "count": 19,
+      "email": "support@anonymixer.com",
+      "count": 20,
       "domains": [
-        "apyshib.com",
-        "bounty-shibinu.com",
-        "collect-shibinu.com",
-        "collectshib.com",
-        "daoshib.com",
-        "gainshib.com",
-        "giftshiba.com",
-        "launch-shibinu.com",
-        "prize-shibinu.com",
-        "shib-launch.com",
-        "shib-obtain.com",
-        "shib-yield.com",
-        "shibagrant.com",
-        "shibfarm.com",
-        "shibgift.com",
-        "shibinu-dashboard.com",
-        "shibprotocol.com",
-        "stakeshib.com",
-        "stakeshiba.com"
+        "aanonymixer.com",
+        "amonymixer.com",
+        "aninymixer.com",
+        "annonymixer.com",
+        "annymixer.com",
+        "anomymixer.com",
+        "anonnymixer.com",
+        "anonymicer.com",
+        "anonymier.com",
+        "anonymiexr.com",
+        "anonymixe.com",
+        "anonymixeer.com",
+        "anonymixr.com",
+        "anonymixser.com",
+        "anonymixxer.com",
+        "anonymoxer.com",
+        "anonymuxer.com",
+        "anonymxier.com",
+        "anonymyxer.com",
+        "anoonymixer.com"
       ]
-    },
-    {
-      "email": "u003esubmissions@shib.io",
-      "count": 19,
-      "domains": []
-    },
-    {
-      "email": "ads@shib.io",
-      "count": 19,
-      "domains": []
-    },
-    {
-      "email": "u003eads@shib.io",
-      "count": 19,
-      "domains": []
     },
     {
       "email": "info@timeweb.ru",
-      "count": 18,
+      "count": 17,
       "domains": [
         "allpsdtemplates.cc",
         "auth-vexarena.com",
@@ -507,51 +455,7 @@
         "stm-auth.com",
         "team-ggluckycrew.com",
         "team-silenttitans.com",
-        "tw-steam-auth.com",
         "vrach42.info"
-      ]
-    },
-    {
-      "email": "ihre@email.de",
-      "count": 17,
-      "domains": [
-        "asf-digitalvigette.com",
-        "asf-vingete.com",
-        "asf-vingetes.com",
-        "asfi-auto.com",
-        "asfig-online.com",
-        "asfig-strabe.com",
-        "asfig-strasse.com",
-        "asfin-roads.com",
-        "asfline.com",
-        "asfvigette.com",
-        "autobahn-vignete.com",
-        "autobahnvignete.com",
-        "mautkasse.digital",
-        "safetycheck-kraken.com",
-        "securitycheck-kraken.com"
-      ]
-    },
-    {
-      "email": "seu@email.com",
-      "count": 16,
-      "domains": [
-        "autoatendimentoonline.com",
-        "brasadelivery.cfd",
-        "btmob24.com",
-        "crmpay.net",
-        "guiacarroseservicos.com",
-        "guiadoveiculonacional.com",
-        "guiaservicosautomotivos.com",
-        "hamburguerhojeoficial.cfd",
-        "labellapizzaria.cfd",
-        "pizzahojeoficial.cfd",
-        "pizzaoficial.cfd",
-        "pizzariadelivery.cfd",
-        "pizzarialabellaoficial.cfd",
-        "portalautomotividigital.com",
-        "portalcarroonline.com",
-        "servicoautoinicio.com"
       ]
     },
     {
@@ -565,11 +469,11 @@
         "help-ledgersupport.com",
         "ing-customerservice.com",
         "ledger-diagnosis-id.com",
-        "mitelceli.com",
         "myaccount-protective.com",
         "mypayrollnoticesacademy.com",
         "nw-reregistration.com",
         "rbc-online-verify.com",
+        "reschedulepackage.com",
         "rpc-2.com",
         "trezor-diagnostic-app.com",
         "ver-empowermyretirements.com",
@@ -577,59 +481,60 @@
       ]
     },
     {
-      "email": "support@holiganbet.com",
+      "email": "submissions@shib.io",
       "count": 15,
       "domains": [
-        "7696holiganbet.com",
-        "9250holiganbet.com",
-        "cwstest1.com",
-        "haliganbet7677.com",
-        "holiganbet10214.com",
-        "holiganbet10498.com",
-        "holiganbet10786.com",
-        "holiganbet10867.com",
-        "holiganbet76172.com",
-        "holiganbet76695.com",
-        "holiganbet76966.com",
-        "holiganbet76986.com",
-        "holigonbet7686.com",
-        "holiiganbet1190.com",
-        "holliganbet1181.com"
+        "collect-shibinu.com",
+        "collectshib.com",
+        "daoshib.com",
+        "gainshib.com",
+        "giftshiba.com",
+        "launch-shibinu.com",
+        "prize-shibinu.com",
+        "shib-launch.com",
+        "shib-obtain.com",
+        "shib-yield.com",
+        "shibagrant.com",
+        "shibfarm.com",
+        "shibgift.com",
+        "stakeshib.com",
+        "stakeshiba.com"
       ]
     },
     {
-      "email": "partners@holiganbet.com",
+      "email": "u003esubmissions@shib.io",
       "count": 15,
       "domains": []
     },
     {
-      "email": "press@holiganbet.com",
+      "email": "ads@shib.io",
       "count": 15,
       "domains": []
     },
     {
-      "email": "sikayet@holiganbet.com",
+      "email": "u003eads@shib.io",
       "count": 15,
       "domains": []
     },
     {
-      "email": "donate@opencart.com",
+      "email": "deine@email.de",
       "count": 15,
       "domains": [
-        "101spill.com",
-        "cheap-steroids.net",
-        "edpill.net",
-        "motoryxa.com",
-        "newmanchic.com",
-        "onlineroidshop.com",
-        "partnivo.com",
-        "pharmaquickbuy.com",
-        "pokisupply.com",
-        "safesteroids.org",
-        "steroids-au.com",
-        "urbanmanchic.com",
-        "urbanvico.com",
-        "urheilu-karki.com"
+        "eporapank.pro",
+        "euponarapk.com",
+        "eupoparapk.pro",
+        "euporaparkl.pro",
+        "euporaparlk.pro",
+        "eupporaprank.pro",
+        "mautkauf.digital",
+        "myatstrabe.pro",
+        "myatvigo.digital",
+        "mydestrabe.pro",
+        "mydevigos.digital",
+        "myparks.pro",
+        "strasnova.digital",
+        "vignfly.pro",
+        "vignopass.digital"
       ]
     },
     {
@@ -654,6 +559,80 @@
       ]
     },
     {
+      "email": "support@holiganbet.com",
+      "count": 14,
+      "domains": [
+        "7696holiganbet.com",
+        "9250holiganbet.com",
+        "haliganbet7677.com",
+        "holiganbet10214.com",
+        "holiganbet10469.com",
+        "holiganbet10498.com",
+        "holiganbet10786.com",
+        "holiganbet10867.com",
+        "holiganbet76172.com",
+        "holiganbet76695.com",
+        "holiganbet76966.com",
+        "holiganbet76986.com",
+        "holigonbet7686.com",
+        "holiiganbet1190.com"
+      ]
+    },
+    {
+      "email": "partners@holiganbet.com",
+      "count": 14,
+      "domains": []
+    },
+    {
+      "email": "press@holiganbet.com",
+      "count": 14,
+      "domains": []
+    },
+    {
+      "email": "sikayet@holiganbet.com",
+      "count": 14,
+      "domains": []
+    },
+    {
+      "email": "seu@email.com",
+      "count": 14,
+      "domains": [
+        "autoatendimentoonline.com",
+        "brasadelivery.cfd",
+        "btmob24.com",
+        "crmpay.net",
+        "guiacarroseservicos.com",
+        "guiadoveiculonacional.com",
+        "guiaservicosautomotivos.com",
+        "guiaservicosveiculares.com",
+        "hamburguerhojeoficial.cfd",
+        "pizzahojeoficial.cfd",
+        "pizzaoficial.cfd",
+        "pizzariadelivery.cfd",
+        "portalcarroonline.com",
+        "portaldoautomovelonline.com"
+      ]
+    },
+    {
+      "email": "info@salonlio.com",
+      "count": 13,
+      "domains": [
+        "betofficeengiris.com",
+        "betofficeresmigirisim.com",
+        "betofficeyenierisim.com",
+        "betofficeyeniresmi.com",
+        "hiltonbetengiris.com",
+        "hiltonbetl507.com",
+        "hiltonbetresmiadres.com",
+        "hiltonbetyenierisim.com",
+        "kulisbetyenierisim.com",
+        "royalbeten1giris.com",
+        "royalbetingirisi.com",
+        "royalbetremiyeni.com",
+        "royalbetresmiadres.com"
+      ]
+    },
+    {
       "email": "ornek@email.com",
       "count": 13,
       "domains": [
@@ -668,44 +647,6 @@
         "nakitbahis-adresi1.com",
         "screambosstest.com",
         "yuksekeczabilgi.vip"
-      ]
-    },
-    {
-      "email": "privacypolicyupdates@automattic.com",
-      "count": 13,
-      "domains": [
-        "accounts-wordpress.com",
-        "candidatexml.com",
-        "ctr-namespace.com",
-        "numpy-esbuild.com",
-        "perplexmaglev.com",
-        "rtree-neovim.com",
-        "socket-wordpress.com",
-        "socket-wordpress.net",
-        "socket-wp.com",
-        "uptime-notify.com",
-        "wordpressws.com",
-        "wsswp.com",
-        "wsswp.net"
-      ]
-    },
-    {
-      "email": "press@ethereum.org",
-      "count": 13,
-      "domains": [
-        "award-boosteth.com",
-        "bonus-boosteth.com",
-        "boosteth-app.com",
-        "boosteth-prize.com",
-        "bounty-boosteth.com",
-        "earn-boosteth.com",
-        "gift-boosteth.com",
-        "obtain-boosteth.com",
-        "protocol-boosteth.com",
-        "reward-boosteth.com",
-        "stake-boosteth.com",
-        "treasury-boosteth.com",
-        "yield-boosteth.com"
       ]
     },
     {
@@ -728,21 +669,22 @@
       ]
     },
     {
-      "email": "support@stake.com",
-      "count": 12,
+      "email": "privacypolicyupdates@automattic.com",
+      "count": 13,
       "domains": [
-        "droptheboss.org",
-        "stake-casino-kz.com",
-        "stake-nz.com",
-        "stake013.com",
-        "stake1108.com",
-        "stake1118.com",
-        "stake1119.com",
-        "stake1120.com",
-        "stake1150.com",
-        "stakeref.com",
-        "stakexe.com",
-        "stakexplay.com"
+        "accounts-wordpress.com",
+        "candidatexml.com",
+        "ctr-namespace.com",
+        "numpy-esbuild.com",
+        "perplexmaglev.com",
+        "rtree-neovim.com",
+        "socket-wordpress.com",
+        "socket-wordpress.net",
+        "socket-wp.com",
+        "uptime-notify.com",
+        "wordpressws.com",
+        "wsswp.com",
+        "wsswp.net"
       ]
     },
     {
@@ -764,53 +706,20 @@
       ]
     },
     {
-      "email": "support@dervalio.com",
-      "count": 12,
-      "domains": [
-        "91voda.com",
-        "actionshowfav.com",
-        "bitrck.com",
-        "dlgongfu.com",
-        "eventliveshow.com",
-        "goldfortunehd.com",
-        "livecinezone.com",
-        "onlineplayfav.com",
-        "playgoldland.com",
-        "randandcrowd.com",
-        "streamonlinebest.com",
-        "zjsfax.com"
-      ]
-    },
-    {
-      "email": "support@instaswap.com",
-      "count": 12,
-      "domains": [
-        "insatswap.com",
-        "instaaswap.com",
-        "instaawap.com",
-        "instaswao.com",
-        "instaswpa.com",
-        "instaswwap.com",
-        "instazwap.com",
-        "instsawap.com",
-        "isntaswap.com",
-        "istaswap.com",
-        "nistaswap.com",
-        "nstaswap.com"
-      ]
-    },
-    {
-      "email": "ihre.email@beispiel.de",
+      "email": "contact@iotrust.kr",
       "count": 11,
       "domains": [
-        "acfineg.com",
-        "aroundroads.com",
-        "asfi-vingette.com",
-        "asfin-strasse.com",
-        "mautroad.com",
-        "osstreshroadmap.com",
-        "roadmautguide.com",
-        "vignettemautinfo.com"
+        "dcentappdesktop.com",
+        "dcentdesktopwallets.com",
+        "dcentdeskwallet.com",
+        "dcentpcapp.com",
+        "dcentpcwallet.com",
+        "dcentwaiiet-manual.xyz",
+        "dcentwaiiet-update.xyz",
+        "dcentwaiiet-updated.xyz",
+        "dcentwalletdesk.app",
+        "dcentwalletpc.app",
+        "dcentwalletsdesktop.com"
       ]
     },
     {
@@ -831,10 +740,42 @@
       ]
     },
     {
-      "email": "customerservice@thread.bank",
+      "email": "termas@termas.com.br",
       "count": 11,
       "domains": [
-        "fflioatcarb.com",
+        "thermas-laranjais.com",
+        "thermas-olimpia.com",
+        "thermasbrasillaranjais.com",
+        "thermasdoslaranjaisbrasil.com",
+        "thermasdoslaranjaispark.com",
+        "thermaslaranjaishome.com",
+        "thermaslaranjaispark.com",
+        "thermaslaranjaissp.com",
+        "thermaslaranjaisticket.com",
+        "thermaslaranjaisverao.com",
+        "thermaspass.com"
+      ]
+    },
+    {
+      "email": "email@email.com",
+      "count": 10,
+      "domains": [
+        "adeptdentalshafter.com",
+        "au-steroidsshop.com",
+        "can-am-brpusa.com",
+        "eng-exoduswallet.com",
+        "exodus-eng.com",
+        "joefreshgoodss.com",
+        "krooztvhd.net",
+        "mushyvapes.com",
+        "narik.pro",
+        "primeweeddelivery.com"
+      ]
+    },
+    {
+      "email": "customerservice@thread.bank",
+      "count": 10,
+      "domains": [
         "filfolatcaard.com",
         "filioatcrarb.com",
         "fillatcarb.com",
@@ -848,58 +789,36 @@
       ]
     },
     {
-      "email": "support@soberapartmentsofamerica.org",
-      "count": 11,
+      "email": "deine@adresse.de",
+      "count": 10,
       "domains": [
-        "467marrsbahis.com",
-        "extrabet0996.com",
-        "extrabetoffcial-tr.com",
-        "extrabetyenigiris-tr.com",
-        "marsbahis-girisim-tr.com",
-        "marsbahis500.com",
-        "mertking1629.com",
-        "mertking1630.com",
-        "sekagirisi-tr.com",
-        "xn--extrbet994-v4a.com",
-        "xn--extrbet995-v4a.com"
+        "apo-support.com",
+        "apo-verify.info",
+        "login-1822direct.com",
+        "secure-consors.app",
+        "service-n26.com",
+        "sicherheit-n26.com",
+        "support-consors.com",
+        "verify-n26.com",
+        "versicherung-etoro.com",
+        "vorgang-etoro.com"
       ]
     },
     {
-      "email": "contact@iotrust.kr",
+      "email": "support@dervalio.com",
       "count": 10,
       "domains": [
-        "dcentappdesktop.com",
-        "dcentdesktopwallets.com",
-        "dcentdeskwallet.com",
-        "dcentpcapp.com",
-        "dcentpcwallet.com",
-        "dcentwaiiet-update.xyz",
-        "dcentwalletdesk.app",
-        "dcentwalletpc.app",
-        "dcentwallets.app",
-        "dcentwalletsdesktop.com"
+        "91voda.com",
+        "dlgongfu.com",
+        "eventliveshow.com",
+        "goldfortunehd.com",
+        "livecinezone.com",
+        "onlineplayfav.com",
+        "playgoldland.com",
+        "randandcrowd.com",
+        "streamonlinebest.com",
+        "zjsfax.com"
       ]
-    },
-    {
-      "email": "amanda@mattwilsonco.com",
-      "count": 10,
-      "domains": [
-        "darknet-tor.cc",
-        "kracken.cc",
-        "mega-darknet-onion.cc",
-        "mega-mega.cc",
-        "megaonion.cc",
-        "megator.cc",
-        "omgomg.cc",
-        "omgomgomg1.cc",
-        "onion-darknet.cc",
-        "tor-onion.cc"
-      ]
-    },
-    {
-      "email": "info@mattwilsonco.com",
-      "count": 10,
-      "domains": []
     },
     {
       "email": "support@birdspin.com",
@@ -931,6 +850,21 @@
       ]
     },
     {
+      "email": "support@stake.com",
+      "count": 9,
+      "domains": [
+        "droptheboss.org",
+        "stake-casino-kz.com",
+        "stake-nz.com",
+        "stake013.com",
+        "stake1108.com",
+        "stake1118.com",
+        "stake1120.com",
+        "stakexe.com",
+        "stakexplay.com"
+      ]
+    },
+    {
       "email": "info@ilbet.com",
       "count": 9,
       "domains": [
@@ -946,68 +880,102 @@
       ]
     },
     {
-      "email": "support@stake.us",
-      "count": 9,
-      "domains": []
-    },
-    {
-      "email": "ex@abc.xyz",
+      "email": "support@soberapartmentsofamerica.org",
       "count": 9,
       "domains": [
-        "calingeorgescu.info",
-        "cc2btc.biz",
-        "fallsviewcasino-ca.com",
-        "goksad.org",
-        "online-casino-zonder-limiet.net",
-        "online-casinos-ohnes-verifizierung.com",
-        "rainbet-casino-au.com",
-        "rainbet-casino-canada.com",
-        "truefortuneuk.com"
+        "467marrsbahis.com",
+        "extrabet0996.com",
+        "extrabetyenigiris-tr.com",
+        "marsbahis500.com",
+        "mertking1629.com",
+        "mertking1630.com",
+        "sekagirisi-tr.com",
+        "xn--extrbet994-v4a.com",
+        "xn--extrbet995-v4a.com"
       ]
     },
     {
-      "email": "support@adguard.com",
+      "email": "press@chain.link",
       "count": 9,
       "domains": [
-        "adguardclear.com",
-        "adguardfocus.com",
-        "adguardfree.com",
-        "adguardlab.com",
-        "adguardpro.net",
-        "adguardscan.com",
-        "adguardtech.com",
-        "adguardtools.com",
-        "guardadapp.xyz"
+        "apyclink.com",
+        "apylink.com",
+        "apylink.net",
+        "bounty-llnk.com",
+        "link-rewards.com",
+        "linkevent.net",
+        "linkgrant.com",
+        "token-link.net",
+        "token-link.org"
       ]
     },
     {
-      "email": "deine@adresse.de",
+      "email": "originals.diplomy@gmail.com",
       "count": 9,
       "domains": [
-        "apo-support.com",
-        "apo-verify.info",
-        "login-1822direct.com",
-        "secure-consors.app",
-        "service-n26.com",
-        "support-consors.com",
-        "verify-n26.com",
-        "versicherung-etoro.com",
-        "vorgang-etoro.com"
+        "original-diploma.com",
+        "original-diploms.com",
+        "original-diplomy.com",
+        "originall-diploma.com",
+        "originals-diploma.com",
+        "originals-diplomm24.com",
+        "originals-diplommy24.com",
+        "originals-diploms.com",
+        "originals-diplomy.com"
       ]
     },
     {
-      "email": "support@pokerdom.vip",
-      "count": 9,
+      "email": "support@perabet.com",
+      "count": 8,
       "domains": [
-        "koinbaylogin.com",
-        "sarmayex-login.com",
-        "voox-exchange.com",
-        "voox-login.com",
-        "wallex-login.com",
-        "wallex-web.com",
-        "zedxion-exchange.com",
-        "zedxion-giris.com",
-        "zedxion-login.com"
+        "perabet01292.com",
+        "perabet1293.cam",
+        "perabet1296.cam",
+        "perabet1302.cam",
+        "perabet1869.com",
+        "perabetl289.com",
+        "perabett1312.com",
+        "perrabet1309.com"
+      ]
+    },
+    {
+      "email": "xraypub@tutamail.com",
+      "count": 8,
+      "domains": [
+        "avbechix.icu",
+        "crdok.icu",
+        "hfmsnmqg.icu",
+        "lfmrma.icu",
+        "njtqdax.xyz",
+        "tzvgvtq.icu",
+        "wbufrcy.xyz",
+        "yjarl.icu"
+      ]
+    },
+    {
+      "email": "destek@mrking.net",
+      "count": 7,
+      "domains": [
+        "jageraab.sbs",
+        "jageraac.sbs",
+        "jageraad.cfd",
+        "jageraae.cfd",
+        "kingroyal-450mg.icu",
+        "madridbet-500mg.icu",
+        "mrking-350mg.icu"
+      ]
+    },
+    {
+      "email": "destek@vaycasino.com",
+      "count": 7,
+      "domains": [
+        "holiganbetcasino.icu",
+        "vaycasiino1091.com",
+        "vaycasino-2402.com",
+        "vaycasinobonus.icu",
+        "vaycaslno1074.com",
+        "wwwvaycasino.icu",
+        "wwwvaycasino2026.icu"
       ]
     }
   ]
