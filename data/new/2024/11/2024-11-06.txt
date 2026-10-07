@@ -119,6 +119,7 @@ kra-30.cc
 kra-31.cc
 kra-32.cc
 kra-33.cc
+kra-34.cc
 kra-35.cc
 kra30-at.cc
 kra31-at.cc
