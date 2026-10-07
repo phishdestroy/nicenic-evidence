@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://raw.githubusercontent.com/phishdestroy/nicenic-evidence/master/docs/assets/banner.gif" width="100%"/>
+<img src="https://raw.githubusercontent.com/phishdestroy/nicenic-evidence/main/docs/assets/banner.gif" width="100%"/>
 </div>
 
 <div align="center">

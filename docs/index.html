@@ -908,8 +908,8 @@ var CAT_BADGE={PHISHING_FINANCE:"eb-r",PHISHING_BRAND:"eb-r",CARDING:"eb-r",CRYP
   "keywords": ["phishing","carding","malware","IOC","domain abuse","registrar","NICENIC","IANA 3765","threat intelligence","blocklist"],
   "distribution": [
     {"@type":"DataDownload","encodingFormat":"text/csv","contentUrl":"https://raw.githubusercontent.com/phishdestroy/nicenic-evidence/main/data/enriched.csv","name":"enriched.csv — full classified dataset (136,720 rows)"},
-    {"@type":"DataDownload","encodingFormat":"text/plain","contentUrl":"https://raw.githubusercontent.com/phishdestroy/nicenic-evidence/master/ioc/domains_high.txt","name":"domains_high.txt — CRITICAL+HIGH blocklist (35,901 domains)"},
-    {"@type":"DataDownload","encodingFormat":"text/csv","contentUrl":"https://raw.githubusercontent.com/phishdestroy/nicenic-evidence/master/ioc/indicators.csv","name":"indicators.csv — SIEM IOC feed (82,575 indicators)"}
+    {"@type":"DataDownload","encodingFormat":"text/plain","contentUrl":"https://raw.githubusercontent.com/phishdestroy/nicenic-evidence/main/ioc/domains_high.txt","name":"domains_high.txt — CRITICAL+HIGH blocklist (35,901 domains)"},
+    {"@type":"DataDownload","encodingFormat":"text/csv","contentUrl":"https://raw.githubusercontent.com/phishdestroy/nicenic-evidence/main/ioc/indicators.csv","name":"indicators.csv — SIEM IOC feed (82,575 indicators)"}
   ],
   "measurementTechnique": "Automated HTTP fingerprinting, headless browser render, AI classification (Groq Llama 3.1), GeoIP enrichment, favicon MurmurHash3 clustering",
   "variableMeasured": [
@@ -941,7 +941,7 @@ var CAT_BADGE={PHISHING_FINANCE:"eb-r",PHISHING_BRAND:"eb-r",CARDING:"eb-r",CRYP
 <script src="chart.min.js"></script>
 <script>
 var _ci=null,_cd=null,_v='daily',_range='all';
-var _RAW='https://raw.githubusercontent.com/phishdestroy/nicenic-evidence/master/data/index.json';
+var _RAW='https://raw.githubusercontent.com/phishdestroy/nicenic-evidence/main/data/index.json';
 fetch('chart-data.json').then(function(r){return r.json();}).then(function(d){_cd=d;window._chartData=d;_rc('daily');}).catch(function(e){var cw=document.getElementById('chart-wrap');if(cw){cw.innerHTML='<div style="padding:32px;color:var(--tx3,#888);text-align:center;font-family:monospace">Chart error: '+(e&&(e.message||String(e))||'unknown')+' — <a href="#" onclick="location.reload();return false">retry</a></div>';cw.style.display='';}});
 function showView(v){_v=v;['daily','monthly'].forEach(function(x){var b=document.getElementById('btn-'+x),a=x===v;b.style.background=a?'rgba(110,168,215,.1)':'transparent';b.style.color=a?'var(--cy)':'var(--tx3)';b.style.borderColor=a?'rgba(110,168,215,.4)':'var(--bdr)';});if(_cd)_rc(v);}
 function showRange(r){_range=r;['1y','3y','5y','all'].forEach(function(x){var b=document.getElementById('btn-'+x);if(!b)return;var a=x===r.toLowerCase();b.style.background=a?'rgba(110,168,215,.1)':'transparent';b.style.color=a?'var(--cy)':'var(--tx3)';b.style.borderColor=a?'rgba(110,168,215,.4)':'var(--bdr)';b.style.fontWeight=a?'600':'400';});if(_cd)_rc(_v);}
@@ -955,7 +955,7 @@ var ctx=document.getElementById('reg-chart').getContext('2d');
 _ci=new Chart(ctx,{type:'bar',data:{labels:labels,datasets:[{data:counts,backgroundColor:cols,borderRadius:2,borderSkipped:false}]},
 options:{responsive:true,maintainAspectRatio:false,plugins:{legend:{display:false},tooltip:{callbacks:{title:function(i){return i[0].label;},label:function(i){return i.raw.toLocaleString()+' domains';}},backgroundColor:'rgba(7,11,18,.95)',titleColor:'#f0f6fc',bodyColor:'#8b949e',borderColor:'rgba(255,255,255,.08)',borderWidth:1}},
 scales:{x:{ticks:{display:labels.length<60,color:'#484f58',font:{size:9}},grid:{color:'rgba(255,255,255,.04)'},border:{color:'rgba(255,255,255,.08)'}},y:{ticks:{color:'#484f58',font:{size:9}},grid:{color:'rgba(255,255,255,.04)'},border:{color:'rgba(255,255,255,.08)'}}},
-onClick:function(e,els){if(!els.length||!paths)return;var d=paths[els[0].index];if(d)window.open('https://raw.githubusercontent.com/phishdestroy/nicenic-evidence/master/'+d.path,'_blank');},
+onClick:function(e,els){if(!els.length||!paths)return;var d=paths[els[0].index];if(d)window.open('https://raw.githubusercontent.com/phishdestroy/nicenic-evidence/main/'+d.path,'_blank');},
 onHover:function(e,els){document.getElementById('chart-wrap').style.cursor=els.length&&paths?'pointer':'default';if(els.length&&paths&&paths[els[0].index]){var d=paths[els[0].index];document.getElementById('chart-tip').textContent=d.date+' — '+d.count.toLocaleString()+' new domains  ↓ click to download';}else{document.getElementById('chart-tip').textContent='';}}
 }});}
 </script>
