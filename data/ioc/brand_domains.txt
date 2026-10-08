@@ -32,6 +32,7 @@ coinbase	089166-coinbase.com
 coinbase	089166coinbase.com
 coinbase	091731-coinbase.com
 coinbase	092301-coinbase.com
+coinbase	092375coinbase.com
 coinbase	092813coinbase.com
 coinbase	092854-coinbase.com
 coinbase	094302coinbase.com
@@ -188,6 +189,7 @@ coinbase	137267-coinbase.com
 coinbase	137450-coinbase.com
 coinbase	137662coinbase.com
 coinbase	13812-coinbase.com
+coinbase	138140coinbase.com
 coinbase	1384012-coinbase.com
 coinbase	138491coinbase.com
 coinbase	138492coinbase.com
@@ -196,8 +198,6 @@ coinbase	13891-coinbase.com
 coinbase	138922coinbase.com
 coinbase	1389285coinbase.com
 coinbase	138942coinbase.com
-coinbase	139283-coinbase.com
-coinbase	139482coinbase.com
 claim	0x-claim.xyz
 claim	0x00-claimables.xyz
 claim	0x000-claimables.xyz
@@ -475,7 +475,6 @@ login	alobet-turkeylogin.com
 login	alobetgoldlogin.vip
 login	alobetlivelogin.vip
 login	alpacamarkets-login.com
-login	alphax-exchange-login.com
 login	amazonamzlogin.com
 login	ameripriselogin.credit
 login	apaylologin.org
@@ -582,6 +581,7 @@ login	bahsegellogindestek.com
 login	banca-login.com
 login	bankinter-empresaslogin.com
 login	batonex-login-exchange.com
+login	baxbetlogin.com
 login	bbva-acceso-login.com
 login	bc-games-login.com
 login	bcgame-india-login.com
@@ -628,7 +628,6 @@ secure	9secure-royalbank.com
 secure	a25-secure.com
 secure	abacus-market-secure.net
 secure	abemesecure.com
-secure	abodepdfsecure.com
 secure	acbassistsecure.com
 secure	acc-secureconnection.com
 secure	accesdsecure-web.com
@@ -760,6 +759,7 @@ secure	bmosecurelogin-pxca3mv9l.com
 secure	bmoverifsecure.com
 secure	bnc-accessecure.com
 secure	bnc-securenow.com
+secure	bncsecureportal.com
 secure	bnssecure.info
 secure	boasecure-line.com
 secure	boasecurehelp.com
@@ -863,6 +863,7 @@ wallet	aquadesktopwallet.net
 wallet	aquawallet.guru
 wallet	arculus-wallet.com
 wallet	arculuswalletdesktop.com
+wallet	armourwallet.app
 wallet	astracorewallet.xyz
 wallet	atomic-wallet.app
 wallet	atomic-wallet.xyz
@@ -997,7 +998,6 @@ wallet	cake-wallet.vip
 wallet	cake-wallet.world
 wallet	cakedesktopwallet.com
 wallet	cakeswallet.com
-wallet	cakeswalletdesktop.live
 token	1fueliotoken.life
 token	1fueltoken.cfd
 token	4bsctoken.com
@@ -1132,7 +1132,6 @@ token	bbva-token-app-net.cash
 token	bbva-token-movil-net.cash
 token	bckerstoken.com
 token	bckrstoken.com
-token	bckrtokens.net
 token	bckrtokens.xyz
 token	bdagtokenclaim.live
 token	beamtoken.org
@@ -1198,6 +1197,7 @@ token	blockdagtoken.live
 token	blockdagtoken.network
 token	blooket-tokens.live
 token	bmoresettoken22.com
+token	bnb-testtoken.com
 official	10cric-official-india.com
 official	10official.vip
 official	1121-betebet-official.com
@@ -1422,6 +1422,7 @@ swap	ag-swap.icu
 swap	ag-swap.ink
 swap	ag-swap.net
 swap	ag-swap.pro
+swap	ag-swap.trade
 swap	ag-token-swap-jupiter-exchange.xyz
 swap	airdrop-quickswap.com
 swap	airdrop-quickswap.exchange
@@ -1455,7 +1456,6 @@ swap	apeswap.buzz
 swap	app-blazeswap.com
 swap	app-clioswap.pro
 swap	app-connect-uniswap.org
-swap	app-cow-swap-v1.com
 swap	app-cow-swap-v2.com
 swap	app-crv-curve-swap-curveswap.net
 swap	app-crv-curve-swap.org
@@ -1464,7 +1464,6 @@ swap	app-hyprcrswap.com
 swap	app-hyprrswap.com
 swap	app-hyprrswap.net
 swap	app-interface-pancakeswap.finance
-swap	app-jupiter-swap.net
 swap	app-lcecneamswap.xyz
 swap	app-pancakeswap.finance
 swap	app-quickswap.exchange
@@ -1541,6 +1540,7 @@ swap	bnz-swap.com
 swap	boltswapfi.net
 swap	boltswaps.com
 swap	boltswaps.net
+swap	boostswap.app
 swap	boxswap.net
 swap	bridgerswap.com
 swap	btc-swap-no-kyc.exchange
@@ -1551,6 +1551,7 @@ swap	bulwarswap.com
 swap	bulwarswap.digital
 swap	c-swap.pro
 swap	c0wswap-v3.com
+swap	c0wswap.com
 swap	c0wswap.xyz
 swap	caacaoswap.app
 swap	caacoswap.app
@@ -1597,7 +1598,6 @@ swap	cetusswap.com
 swap	chainswapreward.tech
 swap	changelly-swap.com
 swap	checker-syncswap.com
-swap	chimpyswap.com
 ledger	01-ledger.com
 ledger	0182778-ledger.com
 ledger	02-ledger.com
@@ -1624,7 +1624,6 @@ ledger	127253-ledger.com
 ledger	1294912-ledger.com
 ledger	13-ledger.com
 ledger	14-ledger.com
-ledger	142512-ledger.com
 ledger	144223ledger.com
 ledger	147841-ledger.com
 ledger	149283-ledger.com
@@ -1646,7 +1645,6 @@ ledger	19051-ledger.com
 ledger	190612ledger.com
 ledger	1929311-ledger.com
 ledger	1929313-ledger.com
-ledger	1938102-ledger.com
 ledger	193938-ledger.com
 ledger	1949129-ledger.com
 ledger	195826ledger.com
@@ -1673,6 +1671,7 @@ ledger	345698-ledger.com
 ledger	3592393-ledger.com
 ledger	371757-ledger.com
 ledger	378446-ledger.com
+ledger	37852ledger.com
 ledger	3819345-ledger.com
 ledger	382381-ledger.com
 ledger	382959-ledger.com
@@ -1798,6 +1797,7 @@ ledger	app-install-ledger.com
 ledger	app-installer-ledger.com
 ledger	app-ledger-co.com
 ledger	app-ledger-com.live
+ledger	app-ledger-live.com
 support	029250-support.com
 support	0myidsupportdesk.live
 support	0nlinesupport.info
@@ -1956,7 +1956,6 @@ support	bmoclienteleinformationsupport.info
 support	bmoclientsupport.com
 support	bmohelpsupport.com
 support	bmologin-support.com
-support	bmosupportchat.com
 support	bmosupporthelp.com
 support	bmosupportonline.com
 support	bnc-support.com
@@ -1998,6 +1997,7 @@ support	casesupport-apple.com
 support	cashproboachatsupport.com
 support	cashprochatsupport.com
 support	cashproclaimsupport.com
+support	cashproclientsupport.com
 crypto	002271-crypto.com
 crypto	023471crypto.com
 crypto	033431-crypto.com
@@ -2022,7 +2022,6 @@ crypto	117390-crypto.com
 crypto	118923crypto.com
 crypto	118924-crypto.com
 crypto	128433-crypto.com
-crypto	131849-crypto.com
 crypto	133781crypto.com
 crypto	1382912-crypto.com
 crypto	140874-crypto.com
@@ -2198,6 +2197,7 @@ crypto	accountreview-crypto.com
 crypto	accountsvaultcrypto.com
 crypto	acess-crypto.com
 crypto	acount-cryptos.com
+crypto	activities-crypto.com
 kraken	076261-kraken.com
 kraken	1-kraken.com
 kraken	109281-kraken.com
@@ -2271,6 +2271,7 @@ kraken	464820kraken.com
 kraken	475123-krakenportal.com
 kraken	4827193-kraken.com
 kraken	493522-kraken.com
+kraken	512928kraken.com
 kraken	563216-kraken.com
 kraken	583184-kraken.com
 kraken	58574kraken.com
@@ -2353,6 +2354,7 @@ kraken	continue-kraken.com
 kraken	cover-kraken.com
 kraken	crypto-kraken.com
 kraken	customersupport-kraken.com
+kraken	cxkraken.com
 kraken	darkmarket-kraken.com
 kraken	darknet--kraken.cc
 kraken	darknet-kraken.cc
@@ -2396,8 +2398,6 @@ kraken	kraken--13at.com
 kraken	kraken--13at.net
 kraken	kraken--17at.net
 kraken	kraken--17att.net
-kraken	kraken--18at.net
-kraken	kraken--19at.net
 update	0nlineupdate.info
 update	1337update.com
 update	1822direkt-update.com
@@ -2548,6 +2548,7 @@ update	centrelink-update.net
 update	ch-dsny-update.com
 update	ch-ntx-update.com
 update	chain-update.com
+update	change-new-update.com
 update	check-inf-here-update.com
 update	chkngupdate.com
 update	chrom-update-app.store
@@ -2597,7 +2598,6 @@ update	cr-update.info
 update	cra-online-update.com
 update	cra-serviceupdate.com
 update	cra-statusupdate.com
-update	craannualupdatereminder.com
 connect	0nline-2025at0connect.digital
 connect	0xmetaconnect-rpc.xyz
 connect	19928292pcstestconnect2919.com
@@ -2626,6 +2626,7 @@ connect	amlconnect.app
 connect	apelloconnect.app
 connect	api-walletconnect.com
 connect	app-ag-connect.com
+connect	app-connect-bnc.com
 connect	app-connect-uniswap.org
 connect	app-connect.cfd
 connect	app-fi-connect.com
@@ -2710,7 +2711,6 @@ connect	cdn-connectionwebpage.com
 connect	cdn-js-connection.cfd
 connect	chaseconnectsupport.com
 connect	cibcconnect1.com
-connect	cisco-anyconnect-download.com
 connect	citasmdconnect.com
 connect	citiconnects.icu
 connect	claimables-connect.com
@@ -2720,7 +2720,9 @@ connect	clickconnect-visitnow.digital
 connect	clickconnectproject.com
 connect	clients-connects.com
 connect	clientsconnectsinfo.com
+connect	cloud-connect.sbs
 connect	cloud-screenconnect.com
+connect	cloudconnect.sbs
 connect	clouds-connect.com
 connect	coboconnectextension.xyz
 connect	coinbase-disconnect-wallet.com
@@ -2791,13 +2793,11 @@ connect	connect-gradient.network
 connect	connect-grass.xyz
 connect	connect-helpdesk.com
 connect	connect-huma.com
+connect	connect-hyperlink.cfd
+connect	connect-hyperlink.lat
 connect	connect-jediswap.com
 connect	connect-jup.xyz
 connect	connect-krraken.com
-connect	connect-lastpass.com
-connect	connect-layer3.com
-connect	connect-lighter.xyz
-connect	connect-lobstarwilde.com
 trust	1-tdcanadatrust.com
 trust	1trusted.live
 trust	1win-trust2026.icu
@@ -2916,6 +2916,8 @@ trust	card--trustwallet.com
 trust	card-trust.biz
 trust	card-trust.info
 trust	card-trustwallet.com
+trust	card-vcc-trust.icu
+trust	card-vcc-trust.sbs
 trust	cardstrustwallet.com
 trust	cardstrustwallet.info
 trust	cardstrustwalletvcc.icu
@@ -2996,8 +2998,6 @@ trust	defi-trustpads.net
 trust	defi-trustpads.xyz
 trust	desktop-itrustcapital.com
 trust	digitaltrustnetworks.xyz
-trust	directtrust.live
-trust	disable-northerntrust.com
 account	1win-2026bestaccount.com
 account	1win-account2026.com
 account	1win-accountbeast2026.com
@@ -3473,6 +3473,7 @@ airdrop	airdrop-delaunch.com
 airdrop	airdrop-digimined.xyz
 airdrop	airdrop-doge1.com
 airdrop	airdrop-dogwifcoin.com
+airdrop	airdrop-doublezero.app
 airdrop	airdrop-drapertv.com
 airdrop	airdrop-eapes.com
 airdrop	airdrop-eigencloud.com
@@ -3570,6 +3571,7 @@ airdrop	airdrop-mmtfinance.app
 airdrop	airdrop-mobyagent.com
 airdrop	airdrop-moodengsol.com
 airdrop	airdrop-moonbirds.com
+airdrop	airdrop-morpho.app
 airdrop	airdrop-myrothedog.com
 airdrop	airdrop-near.com
 airdrop	airdrop-nearmobile.xyz
@@ -3578,7 +3580,6 @@ airdrop	airdrop-neur.com
 airdrop	airdrop-niggaliquid.fun
 airdrop	airdrop-nubcat.xyz
 airdrop	airdrop-nyx.com
-airdrop	airdrop-op.com
 airdrop	airdrop-optimismtokens-gateway01a.com
 airdrop	airdrop-orbiter.com
 airdrop	airdrop-orbiter.net
@@ -3597,7 +3598,6 @@ airdrop	airdrop-payai.network
 airdrop	airdrop-pendle.app
 airdrop	airdrop-pendle.com
 airdrop	airdrop-pendle.trade
-airdrop	airdrop-pendle.xyz
 vault	118924-cbvault.com
 vault	157206-cbvault.com
 vault	177253-cb-vault.com
@@ -3620,7 +3620,6 @@ vault	acegamingvault.com
 vault	acevaultgames.com
 vault	acevaultplay.com
 vault	activate-coinbasevault.com
-vault	activatemycoinbasevault.com
 vault	adaptive-vault.cfd
 vault	adavaultpool.com
 vault	adavaultpool.info
@@ -3634,6 +3633,7 @@ vault	anodosvault.com
 vault	anodosvault.info
 vault	ansem-vault.com
 vault	apac01-dropbox-safelinks-protection-privatevault.pro
+vault	apexvault.icu
 vault	assets-vault.com
 vault	asterdex-vault.com
 vault	astrovault.ltd
@@ -3751,7 +3751,6 @@ vault	dubvault.xyz
 vault	edelvaults.xyz
 vault	elsvault.com
 vault	emblem-vaultupdate.live
-vault	enablecoinbasevault.com
 vault	encrypted-vaults.com
 vault	enroll-coinbasevault.com
 vault	enterprisevault-grid.sbs
@@ -3798,16 +3797,15 @@ vault	hulkvault.vip
 vault	hulkvault.xyz
 vault	hwsvault.com
 vault	hwvault.net
+vault	hype-vaults.xyz
 trezor	0182778-trezor.com
 trezor	1217941-trezor.com
 trezor	1239291-trezor.com
 trezor	1263721-trezor.com
 trezor	1394891-trezor.com
-trezor	142512-trezor.com
 trezor	142819-trezor.com
 trezor	144818trezor.com
 trezor	158726trezor.com
-trezor	162532-trezor.com
 trezor	1721891-trezor.com
 trezor	173912-trezor.com
 trezor	174920trezor.com
@@ -3881,6 +3879,7 @@ trezor	claim-trezor.com
 trezor	coincovertrezor.com
 trezor	communicate-trezor.com
 trezor	conferencetrezorsuite.com
+trezor	configuration-trezor.app
 trezor	confirm-trezor.com
 trezor	connect-trezorsuite.com
 trezor	connection-trezor.com
@@ -3893,8 +3892,10 @@ trezor	dashboard-secure-trezor.com
 trezor	dashboard-trezor.com
 trezor	dashboard-trezorsuite.com
 trezor	data-trezor.com
+trezor	david-trezor.com
 trezor	de-trezor.com
 trezor	deny-trezor.com
+trezor	device-trezor.app
 trezor	device-trezorsuite.com
 trezor	devices-trezor.com
 trezor	diagnostic-trezor.com
@@ -3997,4 +3998,3 @@ trezor	service-trezor.com
 trezor	servicecheck-trezor.com
 trezor	settings-trezor.app
 trezor	shield-trezor.app
-trezor	shieldquantum-trezor.com

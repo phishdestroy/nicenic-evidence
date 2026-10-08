@@ -1,15 +1,15 @@
 {
   "month": "2026-10",
-  "generated": "2026-10-07",
-  "total_domains": 424907,
-  "total_revenue": 3112235.88,
+  "generated": "2026-10-08",
+  "total_domains": 426800,
+  "total_revenue": 3125205.57,
   "avg_reg_days": 513,
-  "deployment_rate": 48.8,
-  "fresh_pct": 1.2,
+  "deployment_rate": 42.5,
+  "fresh_pct": 1.5,
   "unranked_pct": 99.2,
-  "correlation_pct": 6.1,
-  "serial_registrants": 39,
+  "correlation_pct": 6.2,
+  "serial_registrants": 30,
   "top_tld": "com",
-  "top_country": "DE",
+  "top_country": "US",
   "top_brand": "coinbase"
 }
