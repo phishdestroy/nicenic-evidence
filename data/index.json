@@ -24051,7 +24051,7 @@
   ],
   "total_new_all_time": 453209,
   "total_domains": 426800,
-  "new_since_last_fetch": 3016,
+  "new_since_last_fetch": 0,
   "total_revenue_estimate": 3125205.57,
   "avg_registration_days": 513,
   "ip_countries": {
@@ -24305,12 +24305,12 @@
   },
   "catch_age_buckets": {
     "same_day": 0,
-    "within_week": 6582,
-    "within_month": 28130,
-    "older": 392088
+    "within_week": 5453,
+    "within_month": 27883,
+    "older": 393464
   },
-  "avg_catch_age_days": 315,
-  "fresh_pct": 1.5,
+  "avg_catch_age_days": 316,
+  "fresh_pct": 1.3,
   "burst_days": [
     {
       "date": "2026-09-16",
@@ -24422,8 +24422,8 @@
   },
   "unranked_pct": 99.2,
   "ranked_count": 3438,
-  "correlation_count": 26553,
+  "correlation_count": 26561,
   "correlation_pct": 6.2,
-  "last_updated": "2026-10-08",
+  "last_updated": "2026-10-09",
   "latest_reg": "2026-10-07"
 }
