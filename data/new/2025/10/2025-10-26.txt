@@ -35,6 +35,7 @@ allocate-meteora.app
 app-accesosclientes.com
 app-clientes-reportes.com
 app-thread.com
+app-vulcan.xyz
 app-xswap.xyz
 apps-claim-monad.xyz
 apr-mainnet.xyz
@@ -50,6 +51,7 @@ authauservicesreview.net
 avertissement-prime.com
 avoxi.cyou
 bankyanet.com
+baselive.xyz
 bbblink.net
 bdagnetsmainnet.live
 bet-gercekadres2025.com
