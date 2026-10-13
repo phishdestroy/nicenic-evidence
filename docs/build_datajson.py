@@ -172,9 +172,12 @@ def main():
     rows = load_enriched(enriched_path)
     print(f"    {len(rows)} rows")
 
-    slim   = [slim_row(r, args.ss_base) for r in rows]
     stats  = build_stats(rows)
     clusters = build_clusters(rows)
+    # Only include MEDIUM+ in the domains payload to keep data.json under 100 MB.
+    # Stats are computed from ALL rows so counts remain accurate.
+    notable = [r for r in rows if r.get("severity", 0) >= 2]
+    slim   = [slim_row(r, args.ss_base) for r in notable]
 
     out = {
         "generated": datetime.now(timezone.utc).strftime("%Y-%m-%d %H:%M UTC"),
@@ -188,7 +191,7 @@ def main():
     with open(out_path, "w", encoding="utf-8") as f:
         json.dump(out, f, ensure_ascii=False, separators=(",",":"))
     size = out_path.stat().st_size
-    print(f"[+] data.json -> {out_path}  ({size//1024} KB,  {len(slim)} domains)")
+    print(f"[+] data.json -> {out_path}  ({size//1024} KB,  {len(slim)}/{len(rows)} domains ≥MEDIUM)")
 
     # compress raw data for download
     raw_dir = HERE / "pkg" / "raw_data"
