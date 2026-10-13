@@ -13,7 +13,6 @@
 [![Pages](https://img.shields.io/badge/%E2%96%B6_LIVE_REPORT-phishdestroy.github.io%2Fnicenic--evidence-3fb950?style=for-the-badge&labelColor=0c1018)](https://phishdestroy.github.io/nicenic-evidence/)
 
 <br/>
-
 # NICENIC Zone Scan — Complete Registrar Investigation
 
 **Phase I · NICENIC INTERNATIONAL GROUP CO., LIMITED · IANA #3765**
@@ -22,6 +21,7 @@
 
 </div>
 
+---
 ---
 
 ## ⚖️ ICANN Compliance Complaints
