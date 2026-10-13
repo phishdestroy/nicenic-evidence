@@ -710,6 +710,7 @@ romabet-hizligiris.bond
 romabet-plus.icu
 romega.cfd
 ryven.cloud
+safepal.finance
 safepal.global
 safepal.zone
 safety-bitcoinira.com
