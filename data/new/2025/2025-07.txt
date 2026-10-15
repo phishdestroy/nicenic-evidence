@@ -1557,6 +1557,7 @@ blacksprut.camp
 blacksprut.cards
 blacksprut.cash
 blacksprut.community
+blacksprut.company
 blacksprut.discount
 blacksprut.legal
 blacksprut.rehab
@@ -9587,6 +9588,7 @@ wanmei-rules.com
 wantssanitary.com
 wardenprotocolrewards.sbs
 wardensawp.com
+wardenswap.net
 wardenwsap.com
 warmconfrbanilad.com
 waspgram.com
