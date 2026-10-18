@@ -38,43 +38,43 @@
 
 <!-- LIVE_STATS:START -->
 
-> 🔴 **LIVE INVESTIGATION FEED** &middot; Auto-updated &middot; Last fetch `2026-10-17`
+> 🔴 **LIVE INVESTIGATION FEED** &middot; Auto-updated &middot; Last fetch `2026-10-18`
 
 <table><tr>
-<td align="center"><b>📦 Domains tracked</b><br/><sub><code>440,659</code></sub></td>
-<td align="center"><b>💰 Est. annual value</b><br/><sub><code>$3,232,092</code></sub></td>
+<td align="center"><b>📦 Domains tracked</b><br/><sub><code>440,711</code></sub></td>
+<td align="center"><b>💰 Est. annual value</b><br/><sub><code>$3,232,175</code></sub></td>
 <td align="center"><b>📡 Deployed</b><br/><sub><code>31.5%</code></sub></td>
 <td align="center"><b>✅ IOC classified</b><br/><sub><code>71,028</code> (65,600 HIGH)</sub></td>
 <td align="center"><b>⚡ Registered ≤7d</b><br/><sub><code>1.3%</code></sub></td>
-<td align="center"><b>🕵️ Serial regs</b><br/><sub><code>26</code></sub></td>
+<td align="center"><b>🕵️ Serial regs</b><br/><sub><code>27</code></sub></td>
 </tr></table>
 
 ### 🏷️ Top TLD Zones
 
 | TLD | Count | Avg reg→expiry | Est. annual value |
 |:--|--:|--:|--:|
-| `.com` | 219,487 | 558d | $1,973,188 |
-| `.icu` | 41,297 | 380d | $40,884 |
-| `.vip` | 30,916 | 372d | $154,271 |
-| `.xyz` | 19,430 | 469d | $28,951 |
-| `.net` | 18,204 | 667d | $181,858 |
-| `.info` | 14,201 | 503d | $56,662 |
-| `.live` | 13,874 | 419d | $138,601 |
-| `.sbs` | 11,355 | 404d | $56,661 |
-| `.cfd` | 11,135 | 445d | $55,564 |
-| `.pro` | 8,336 | 400d | $66,605 |
+| `.com` | 219,613 | 557d | $1,974,321 |
+| `.icu` | 41,299 | 380d | $40,886 |
+| `.vip` | 30,906 | 372d | $154,221 |
+| `.xyz` | 19,433 | 469d | $28,955 |
+| `.net` | 18,137 | 668d | $181,189 |
+| `.info` | 14,254 | 502d | $56,873 |
+| `.live` | 13,877 | 419d | $138,631 |
+| `.sbs` | 11,363 | 404d | $56,701 |
+| `.cfd` | 11,082 | 444d | $55,299 |
+| `.pro` | 8,357 | 400d | $66,772 |
 
 ### 🌍 Top Hosting Countries
 
 ```
-US  ██████████████████      5,762 (29.5%)
-NL  █████████░░░░░░░░░      3,030 (15.5%)
-DE  ██████░░░░░░░░░░░░      2,187 (11.2%)
-RU  ███░░░░░░░░░░░░░░░      1,088 (5.6%)
-TR  ███░░░░░░░░░░░░░░░      1,079 (5.5%)
-SE  ███░░░░░░░░░░░░░░░        976 (5.0%)
-GB  █░░░░░░░░░░░░░░░░░        444 (2.3%)
-FR  █░░░░░░░░░░░░░░░░░        361 (1.9%)
+US  ██████████████████      5,761 (29.6%)
+NL  █████████░░░░░░░░░      3,038 (15.6%)
+DE  ██████░░░░░░░░░░░░      2,138 (11.0%)
+TR  ███░░░░░░░░░░░░░░░      1,184 (6.1%)
+RU  ███░░░░░░░░░░░░░░░      1,083 (5.6%)
+SE  ███░░░░░░░░░░░░░░░        975 (5.0%)
+GB  █░░░░░░░░░░░░░░░░░        433 (2.2%)
+FR  █░░░░░░░░░░░░░░░░░        355 (1.8%)
 ```
 
 ### 📈 Registration Burst Days
@@ -83,21 +83,21 @@ FR  █░░░░░░░░░░░░░░░░░        361 (1.9%)
 |:--|--:|--:|
 | `2026-10-07` | 1,838 | **16.3×** 🚨 |
 | `2026-09-16` | 1,805 | **16.0×** 🚨 |
-| `2026-10-12` | 1,734 | **15.3×** 🚨 |
+| `2026-10-12` | 1,735 | **15.3×** 🚨 |
 | `2026-10-08` | 1,583 | **14.0×** 🚨 |
 | `2026-09-17` | 1,564 | **13.8×** 🚨 |
 
 ### 🎯 Top Targeted Brands & Keywords
 
-`coinbase (3,690)` &middot; `claim (3,443)` &middot; `login (2,403)` &middot; `secure (1,777)` &middot; `wallet (1,773)` &middot; `official (1,742)` &middot; `token (1,678)` &middot; `swap (1,511)` &middot; `ledger (1,482)` &middot; `support (1,410)` &middot; `crypto (1,341)` &middot; `kraken (1,257)` &middot; `connect (1,224)` &middot; `update (1,218)` &middot; `trust (1,187)`
+`coinbase (3,668)` &middot; `claim (3,425)` &middot; `login (2,397)` &middot; `wallet (1,775)` &middot; `secure (1,768)` &middot; `official (1,738)` &middot; `token (1,663)` &middot; `swap (1,508)` &middot; `ledger (1,480)` &middot; `support (1,415)` &middot; `crypto (1,346)` &middot; `kraken (1,260)` &middot; `connect (1,221)` &middot; `update (1,213)` &middot; `trust (1,189)`
 
 ### 🕵️ Top Serial Registrants — 50 emails with ≥5 domains
 
 | # | Registrant Email (redacted) | Domains |
 |--:|:--|--:|
-| 1 | `des***@salvobet.com` | **55** |
-| 2 | `don***@opencart.com` | **46** |
-| 3 | `sup***@anonymixer.com` | **32** |
+| 1 | `des***@salvobet.com` | **56** |
+| 2 | `don***@opencart.com` | **47** |
+| 3 | `sup***@anonymixer.com` | **35** |
 | 4 | `des***@slotvadi.com` | **28** |
 | 5 | `aff***@slotvadi.com` | **28** |
 | 6 | `inf***@slotvadi.com` | **28** |
