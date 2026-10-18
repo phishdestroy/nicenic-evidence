@@ -152,6 +152,7 @@ es-alertausuarios.com
 es-gestiondirecta.com
 es-servicios-ingreso.com
 es-soporte-seguridad.com
+es-soportes-servicio.com
 es-soportesusuario.com
 es-soportesusuarios.com
 es-verificaciondatos.com
@@ -439,6 +440,7 @@ vote-blockstreet.app
 vote-falconfinance.app
 vote-manyu.xyz
 vote-nftstrategies.com
+vote-open.com
 vote-telcoins.com
 vote-tharwas.com
 vote-zoras.com

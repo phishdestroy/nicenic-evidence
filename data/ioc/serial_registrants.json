@@ -1,10 +1,10 @@
 {
-  "generated": "2026-10-17",
+  "generated": "2026-10-18",
   "count": 50,
   "registrants": [
     {
       "email": "destek@salvobet.com",
-      "count": 55,
+      "count": 56,
       "domains": [
         "casibom-ajanda.com",
         "casibom-analiz.com",
@@ -15,6 +15,7 @@
         "casibom-bilgileri.com",
         "casibom-bilginotu.com",
         "casibom-bulteni.com",
+        "casibom-bultenim.com",
         "casibom-cevaplar.com",
         "casibom-detay.com",
         "casibom-detaylar.com",
@@ -65,9 +66,10 @@
     },
     {
       "email": "donate@opencart.com",
-      "count": 46,
+      "count": 47,
       "domains": [
         "advanced-pharmacy24.com",
+        "afunmarket.com",
         "artidomi.com",
         "best-pharmacy-mart.com",
         "bionichepharm.com",
@@ -117,13 +119,14 @@
     },
     {
       "email": "support@anonymixer.com",
-      "count": 32,
+      "count": 35,
       "domains": [
         "amonymixer.com",
         "aninymixer.com",
         "annonymixer.com",
         "annoymixer.com",
         "annymixer.com",
+        "anonimixer.com",
         "anonmyixer.com",
         "anonnymixer.com",
         "anonyimxer.com",
@@ -144,13 +147,15 @@
         "anonymxer.com",
         "anonymxier.com",
         "anonymyxer.com",
+        "anonyxer.com",
         "anonyymixer.com",
         "anoonymixer.com",
         "anoymixer.com",
         "anoynmixer.com",
         "aonnymixer.com",
         "aonymixer.com",
-        "naonymixer.com"
+        "naonymixer.com",
+        "nonymixer.com"
       ]
     },
     {
@@ -652,6 +657,22 @@
       ]
     },
     {
+      "email": "privacypolicyupdates@automattic.com",
+      "count": 10,
+      "domains": [
+        "accounts-wordpress.com",
+        "entitypem.com",
+        "inboxmemento.com",
+        "iniextern.net",
+        "rtree-neovim.com",
+        "screenshot.show",
+        "socket-wordpress.com",
+        "socket-wordpress.net",
+        "socket-wp.com",
+        "wsswp.net"
+      ]
+    },
+    {
       "email": "support@zomro.com",
       "count": 10,
       "domains": [
@@ -683,6 +704,21 @@
       ]
     },
     {
+      "email": "ornek@eposta.com",
+      "count": 9,
+      "domains": [
+        "casinosrius.com",
+        "casinosrius186.com",
+        "casinosrius187.com",
+        "casinosrius188.com",
+        "casinosrius189.com",
+        "casinosrius190.com",
+        "casinosrius191.com",
+        "klasbackoffice.sbs",
+        "klasroyal1012.com"
+      ]
+    },
+    {
       "email": "easitripbooking@gmail.com",
       "count": 9,
       "domains": [
@@ -695,21 +731,6 @@
         "pisabet431.com",
         "sahibet552.com",
         "sahibet565.com"
-      ]
-    },
-    {
-      "email": "privacypolicyupdates@automattic.com",
-      "count": 9,
-      "domains": [
-        "accounts-wordpress.com",
-        "entitypem.com",
-        "inboxmemento.com",
-        "iniextern.net",
-        "rtree-neovim.com",
-        "screenshot.show",
-        "socket-wordpress.net",
-        "socket-wp.com",
-        "wsswp.net"
       ]
     },
     {
@@ -743,20 +764,6 @@
       ]
     },
     {
-      "email": "support@dragonia.com",
-      "count": 8,
-      "domains": [
-        "bixfest.com",
-        "dragonia-eur.com",
-        "dragonia-kazino.com",
-        "gasclassiccars.com",
-        "lynktest.com",
-        "proton1985.com",
-        "vapelikit.com",
-        "virtus3-projekti.com"
-      ]
-    },
-    {
       "email": "support@dudespin.com",
       "count": 8,
       "domains": [
@@ -771,17 +778,17 @@
       ]
     },
     {
-      "email": "ornek@eposta.com",
+      "email": "support@1win.social",
       "count": 8,
       "domains": [
-        "casinosrius.com",
-        "casinosrius186.com",
-        "casinosrius187.com",
-        "casinosrius188.com",
-        "casinosrius189.com",
-        "casinosrius190.com",
-        "casinosrius191.com",
-        "klasroyal1012.com"
+        "1win-casino-md.com",
+        "1winex.com",
+        "1wins-md.com",
+        "alfa-win.net",
+        "aviator-canada.net",
+        "dr-ghanavati.com",
+        "ghana-invest.org",
+        "mines-canada.com"
       ]
     },
     {
@@ -812,6 +819,19 @@
       ]
     },
     {
+      "email": "support@dragonia.com",
+      "count": 7,
+      "domains": [
+        "bixfest.com",
+        "dragonia-eur.com",
+        "dragonia-kazino.com",
+        "gasclassiccars.com",
+        "lynktest.com",
+        "vapelikit.com",
+        "virtus3-projekti.com"
+      ]
+    },
+    {
       "email": "support@amonbet.com",
       "count": 7,
       "domains": [
@@ -822,71 +842,6 @@
         "amonbets-france.com",
         "amonbett-nl1.com",
         "caosgall.com"
-      ]
-    },
-    {
-      "email": "support@1win.social",
-      "count": 7,
-      "domains": [
-        "1win-casino-md.com",
-        "1winex.com",
-        "1wins-md.com",
-        "alfa-win.net",
-        "aviator-canada.net",
-        "ghana-invest.org",
-        "mines-canada.com"
-      ]
-    },
-    {
-      "email": "support@holiganbet.com",
-      "count": 7,
-      "domains": [
-        "eforbet116.com",
-        "holiganbet07642.com",
-        "holiganbet10469.com",
-        "holiganbet10786.com",
-        "holiganbet76966.com",
-        "holiganbet7708.com",
-        "holliganbet1830.com"
-      ]
-    },
-    {
-      "email": "partners@holiganbet.com",
-      "count": 7,
-      "domains": [
-        "eforbet116.com",
-        "holiganbet07642.com",
-        "holiganbet10469.com",
-        "holiganbet10786.com",
-        "holiganbet76966.com",
-        "holiganbet7708.com",
-        "holliganbet1830.com"
-      ]
-    },
-    {
-      "email": "press@holiganbet.com",
-      "count": 7,
-      "domains": [
-        "eforbet116.com",
-        "holiganbet07642.com",
-        "holiganbet10469.com",
-        "holiganbet10786.com",
-        "holiganbet76966.com",
-        "holiganbet7708.com",
-        "holliganbet1830.com"
-      ]
-    },
-    {
-      "email": "sikayet@holiganbet.com",
-      "count": 7,
-      "domains": [
-        "eforbet116.com",
-        "holiganbet07642.com",
-        "holiganbet10469.com",
-        "holiganbet10786.com",
-        "holiganbet76966.com",
-        "holiganbet7708.com",
-        "holliganbet1830.com"
       ]
     },
     {
@@ -926,6 +881,18 @@
       ]
     },
     {
+      "email": "mk@energycapital.io",
+      "count": 6,
+      "domains": [
+        "cbedds.com",
+        "cloudbedds.com",
+        "cloudsbeds.com",
+        "id0345023.info",
+        "id63046345.info",
+        "t-me.social"
+      ]
+    },
+    {
       "email": "ornek@email.com",
       "count": 6,
       "domains": [
@@ -935,6 +902,54 @@
         "tipobet-girisler.vip",
         "tipobet-giriss.online",
         "uareklam.com"
+      ]
+    },
+    {
+      "email": "support@holiganbet.com",
+      "count": 6,
+      "domains": [
+        "eforbet116.com",
+        "holiganbet07642.com",
+        "holiganbet10469.com",
+        "holiganbet10786.com",
+        "holiganbet76966.com",
+        "holiganbet7708.com"
+      ]
+    },
+    {
+      "email": "partners@holiganbet.com",
+      "count": 6,
+      "domains": [
+        "eforbet116.com",
+        "holiganbet07642.com",
+        "holiganbet10469.com",
+        "holiganbet10786.com",
+        "holiganbet76966.com",
+        "holiganbet7708.com"
+      ]
+    },
+    {
+      "email": "press@holiganbet.com",
+      "count": 6,
+      "domains": [
+        "eforbet116.com",
+        "holiganbet07642.com",
+        "holiganbet10469.com",
+        "holiganbet10786.com",
+        "holiganbet76966.com",
+        "holiganbet7708.com"
+      ]
+    },
+    {
+      "email": "sikayet@holiganbet.com",
+      "count": 6,
+      "domains": [
+        "eforbet116.com",
+        "holiganbet07642.com",
+        "holiganbet10469.com",
+        "holiganbet10786.com",
+        "holiganbet76966.com",
+        "holiganbet7708.com"
       ]
     },
     {
@@ -968,17 +983,6 @@
         "twincasino-eur.com",
         "twincasino-fra.com",
         "twincasino140.com"
-      ]
-    },
-    {
-      "email": "support@wildchance.com",
-      "count": 5,
-      "domains": [
-        "wildchance-casino.net",
-        "wildchance.casino",
-        "wildchance.org",
-        "wildchancecasino.net",
-        "wildchancecasino.org"
       ]
     }
   ]
