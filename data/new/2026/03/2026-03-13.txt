@@ -241,6 +241,7 @@ claim-pudgy.app
 claim-pudgypenguin.app
 claim-spx6900.app
 claim-sui.app
+claims-hyperliquid.com
 clarafundencia.digital
 clarfondavia.pro
 clefmae.info
@@ -408,6 +409,7 @@ hub-flyngtuilp.com
 hub-intuitionsystems.xyz
 hub-virtuals.xyz
 hyperliquid-claim.net
+hyperliquid-claim.xyz
 hypurrfi.icu
 ibizabetl150.com
 identitybwestcomau.sbs
