@@ -568,6 +568,7 @@ mailer-cloud-reply-accounts.com
 mailer-noreply-accounts.com
 mailgroup.icu
 mailserver1.net
+mailserver2.net
 mailserver3.net
 mailserver34.net
 majetkovin-ai-app.live
@@ -842,6 +843,7 @@ spirebondtron.live
 stable-rpc.xyz
 stage2firelight.com
 stakes-chile.com
+starship.ink
 stealthdns.icu
 storetelemetryapi.xyz
 streamixs.xyz

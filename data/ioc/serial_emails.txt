@@ -1,6 +1,6 @@
-destek@salvobet.com	60
-donate@opencart.com	49
-support@anonymixer.com	37
+destek@salvobet.com	61
+donate@opencart.com	47
+support@anonymixer.com	38
 destek@slotvadi.com	28
 affiliate@slotvadi.com	28
 info@slotvadi.com	28
@@ -10,12 +10,12 @@ deine@email.de	22
 support@instaswap.com	22
 support@winshark.com	22
 ornek@mail.com	20
+support@zomro.com	15
 info@kulisbet.com	15
 tu@correo.com	14
 support@changelly.com	14
 support@lizaro.com	13
 privacypolicyupdates@automattic.com	13
-support@zomro.com	13
 support@slotsvader.com	12
 kyc@slotsvader.com	12
 highspincasino@support.com	11
@@ -30,16 +30,17 @@ satoshi@concrete.xyz	10
 support@highspin.com	9
 support@dudespin.com	9
 ornek@eposta.com	9
-easitripbooking@gmail.com	9
 info@avscarrent.net	9
 originals.diplomy@gmail.com	9
 support@winboost.com	8
+easitripbooking@gmail.com	8
 support@hostseo.com	7
 info@betonred.one	7
 support@amonbet.com	7
 ihre.email@beispiel.de	6
 ana.p@gmail.com	6
 contact@stake-casinos.in	6
+mk@energycapital.io	6
 info@ankaratemizliksirketleri.org	6
 zhangqifeng@dpmt.top	6
 ornek@email.com	6
@@ -47,4 +48,3 @@ support@holiganbet.com	6
 partners@holiganbet.com	6
 press@holiganbet.com	6
 sikayet@holiganbet.com	6
-support@dragonia.com	5
