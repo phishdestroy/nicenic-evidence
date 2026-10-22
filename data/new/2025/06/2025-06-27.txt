@@ -235,6 +235,7 @@ kra33----at.sbs
 kra34aat.cc
 kra34f.cc
 kra34t.cc
+krakenmagazin.cc
 krakenmarketplaces.cc
 krakenplatform.cc
 krakenwork.cc
