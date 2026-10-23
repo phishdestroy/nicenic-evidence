@@ -104,6 +104,7 @@ kra14at.cc
 kra15-at.cc
 kra16-at.cc
 kra16at.cc
+kra18-at.cc
 kra18at.cc
 kra19-at.cc
 kra19at.cc
