@@ -1005,6 +1005,7 @@ slon23c.cc
 slon24c.cc
 slon25c.cc
 slonl16.cc
+slonl17.cc
 slonl18.cc
 slonl19.cc
 slonl20.cc
