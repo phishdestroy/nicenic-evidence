@@ -157,6 +157,7 @@ btc-axiomaxv384.live
 btc-brondexv242.live
 btc-klenix272.live
 btc-knotusv154.live
+btc-mix.com
 btc-protocol-z960.live
 btcmelora254.live
 btcprotocol-kr.com
