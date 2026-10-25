@@ -969,6 +969,7 @@ slon7-market.cc
 slon7.cfd
 slon7.lat
 slon7.xyz
+slon7market.cc
 slon8-at.cc
 slon8-cc.cc
 slon8-market.cc
