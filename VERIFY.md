@@ -1,14 +1,10 @@
 # Verification Guide
 
-This document distinguishes the signed historical evidence snapshot from the evolving repository.
-
-**The existing signed manifest belongs to the preserved snapshot at [commit `5367ea8`](https://github.com/phishdestroy/nicenic-evidence/tree/5367ea8b6d188e99b46bf83313ffa14ab904ed94).** README statistics, documentation, and generated feeds on `main` have changed since that snapshot. Verify the signed files from that revision, using its manifest, signature, and `allowed_signers` together. The historical manifest and signature are retained unchanged.
-
-[Download the pinned snapshot](https://github.com/phishdestroy/nicenic-evidence/archive/5367ea8b6d188e99b46bf83313ffa14ab904ed94.zip), extract it into a separate directory, and run the commands below there. The signature authenticates the manifest; checking the file hashes is a separate step.
+This document describes how to independently verify the integrity of the published evidence files.
 
 ## 1 · SHA-256 Checksums
 
-From the pinned snapshot directory, verify the files against its manifest:
+Verify all data files against the published manifest:
 
 ```bash
 # Linux / macOS
@@ -22,7 +18,7 @@ Get-Content SHA256SUMS.txt | Where-Object { $_ -notmatch '^#' -and $_ -ne '' } |
 }
 ```
 
-An `OK` means the file matches the manifest. A `FAIL` means its bytes differ; a missing file is also a verification failure. First confirm that files and manifest come from the same revision. A mismatch on the moving `main` branch can result from a documented update and does not, by itself, prove tampering.
+Expected: all files print `OK`. Any `FAIL` indicates tampering or file corruption.
 
 ## 2 · SSH Signature Verification
 
@@ -47,7 +43,7 @@ The public key is in `allowed_signers` — do not modify this file before verify
 
 ## 3 · Regenerate data.json
 
-Rebuild only in a separate working copy of the same snapshot, after verifying the original files:
+Confirm the published report data matches the canonical enriched dataset:
 
 ```bash
 python docs/build_datajson.py
@@ -56,23 +52,18 @@ python docs/build_datajson.py
 
 ## 4 · IOC Feed Counts
 
-Counts change as the published feeds are updated. Count the files from the revision you are auditing; compare them with the README and feed metadata from that same revision. Historical live-content classifications and the broader production blocklists are different datasets.
+| File | Expected rows |
+|---|---|
+| `ioc/domains_high.txt` | 18,305 domains |
+| `ioc/domains_all_malicious.txt` | 18,927 domains |
+| `ioc/indicators.csv` | 18,927 indicators |
+| `data/enriched.csv` | 126,723 rows (+ header) |
 
-```python
-import csv
-from pathlib import Path
-
-for name in ("ioc/domains_high.txt", "ioc/domains_all_malicious.txt"):
-    with Path(name).open(encoding="utf-8") as source:
-        count = sum(1 for line in source if line.strip() and not line.lstrip().startswith("#"))
-    print(f"{name}: {count:,} domain entries")
-
-for name in ("ioc/indicators.csv", "data/enriched.csv"):
-    with Path(name).open(encoding="utf-8-sig", newline="") as source:
-        rows = csv.reader(source)
-        next(rows, None)  # header
-        count = sum(1 for row in rows if row)
-    print(f"{name}: {count:,} data rows")
+```bash
+# Quick row-count verification
+grep -c "^[^#]" ioc/domains_high.txt
+grep -c "^[^#]" ioc/domains_all_malicious.txt
+wc -l data/enriched.csv
 ```
 
 ## 5 · Chain of Custody
