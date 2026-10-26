@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-25",
+  "generated": "2026-10-26",
   "count": 50,
   "registrants": [
     {
@@ -52,8 +52,9 @@
     },
     {
       "email": "support@anonymixer.com",
-      "count": 39,
+      "count": 40,
       "domains": [
+        "aanonymixer.com",
         "amonymixer.com",
         "aninymixer.com",
         "annonymixer.com",
@@ -93,43 +94,6 @@
         "aonymixer.com",
         "naonymixer.com",
         "nonymixer.com"
-      ]
-    },
-    {
-      "email": "destek@salvobet.com",
-      "count": 31,
-      "domains": [
-        "casibom-ajanda.com",
-        "casibom-analiz.com",
-        "casibom-arsivim.com",
-        "casibom-bilgi.com",
-        "casibom-bulteni.com",
-        "casibom-bultenim.com",
-        "casibom-cevaplar.com",
-        "casibom-detay.com",
-        "casibom-gozlem.com",
-        "casibom-guncesi.com",
-        "casibom-gunluk.com",
-        "casibom-inceleme.com",
-        "casibom-kaynak.com",
-        "casibom-kullanimi.com",
-        "casibom-mercek.com",
-        "casibom-notlari.com",
-        "casibom-notlarim.com",
-        "casibom-okurlari.com",
-        "casibom-ozeti.com",
-        "casibom-ozetler.com",
-        "casibom-portal.com",
-        "casibom-pusula.com",
-        "casibom-radari.com",
-        "casibom-rehberim.com",
-        "casibom-takibi.com",
-        "meritking-bilgi.com",
-        "meritking-gundemi.com",
-        "meritking-inceleme.com",
-        "meritking-kilavuzu.com",
-        "meritking-notlari.com",
-        "meritking-rotasi.com"
       ]
     },
     {
@@ -352,12 +316,11 @@
     },
     {
       "email": "ornek@mail.com",
-      "count": 18,
+      "count": 17,
       "domains": [
         "bettilt2026.app",
         "grandpashark.com",
         "hiltonbet-guncel.com",
-        "mariobetbahis.info",
         "marsbahis1035.com",
         "marsbahis1050.com",
         "marsbahis1051.com",
@@ -372,6 +335,28 @@
         "milasgrafik.com",
         "trcrypto.net",
         "vevohizmet.com"
+      ]
+    },
+    {
+      "email": "destek@salvobet.com",
+      "count": 16,
+      "domains": [
+        "casibom-ajanda.com",
+        "casibom-analiz.com",
+        "casibom-arsivim.com",
+        "casibom-bilgi.com",
+        "casibom-bulteni.com",
+        "casibom-gunluk.com",
+        "casibom-notlari.com",
+        "casibom-notlarim.com",
+        "casibom-portal.com",
+        "casibom-radari.com",
+        "meritking-bilgi.com",
+        "meritking-gundemi.com",
+        "meritking-inceleme.com",
+        "meritking-kilavuzu.com",
+        "meritking-notlari.com",
+        "meritking-rotasi.com"
       ]
     },
     {
@@ -723,6 +708,21 @@
       ]
     },
     {
+      "email": "support@wildchance.com",
+      "count": 9,
+      "domains": [
+        "atenism.org",
+        "ecoperoxide.com",
+        "ijptnet.com",
+        "jlcjnet.com",
+        "wildchance-casino.net",
+        "wildchance.casino",
+        "wildchance.org",
+        "wildchancecasino.net",
+        "wildchancecasino.org"
+      ]
+    },
+    {
       "email": "info@avscarrent.net",
       "count": 9,
       "domains": [
@@ -750,20 +750,6 @@
         "originals-diplommy24.com",
         "originals-diploms.com",
         "originals-diplomy.com"
-      ]
-    },
-    {
-      "email": "support@wildchance.com",
-      "count": 8,
-      "domains": [
-        "atenism.org",
-        "ecoperoxide.com",
-        "jlcjnet.com",
-        "wildchance-casino.net",
-        "wildchance.casino",
-        "wildchance.org",
-        "wildchancecasino.net",
-        "wildchancecasino.org"
       ]
     },
     {
@@ -936,6 +922,18 @@
       ]
     },
     {
+      "email": "ihre@email.de",
+      "count": 6,
+      "domains": [
+        "callium.net",
+        "lead-crm.net",
+        "lukicontainers.com",
+        "mautkasse.digital",
+        "mautnow.pro",
+        "tagesnachricht24.com"
+      ]
+    },
+    {
       "email": "zhangqifeng@dpmt.top",
       "count": 6,
       "domains": [
@@ -957,18 +955,6 @@
         "aviator-canada.net",
         "mines-canada.com",
         "plinko-canada.net"
-      ]
-    },
-    {
-      "email": "ornek@email.com",
-      "count": 6,
-      "domains": [
-        "beygirbetortaklik.net",
-        "mailcookies.com",
-        "tipobet-girisin.vip",
-        "tipobet-girisler.vip",
-        "tipobet-giriss.online",
-        "uareklam.com"
       ]
     }
   ]
