@@ -13,6 +13,7 @@
 [![Pages](https://img.shields.io/badge/%E2%96%B6_LIVE_REPORT-phishdestroy.github.io%2Fnicenic--evidence-3fb950?style=for-the-badge&labelColor=0c1018)](https://phishdestroy.github.io/nicenic-evidence/)
 
 <br/>
+
 # NICENIC Zone Scan — Complete Registrar Investigation
 
 **Phase I · NICENIC INTERNATIONAL GROUP CO., LIMITED · IANA #3765**
@@ -22,7 +23,9 @@
 </div>
 
 ---
----
+
+<details>
+<summary><strong>⚖️ ICANN Compliance Complaints</strong></summary>
 
 ## ⚖️ ICANN Compliance Complaints
 
@@ -34,20 +37,29 @@
 
 📁 Full evidence: [`complaints/`](complaints/)
 
-
+</details>
 
 <!-- LIVE_STATS:START -->
 
 > 🔴 **LIVE INVESTIGATION FEED** &middot; Auto-updated &middot; Last fetch `2026-10-26`
 
-<table><tr>
-<td align="center"><b>📦 Domains tracked</b><br/><sub><code>434,830</code></sub></td>
-<td align="center"><b>💰 Est. annual value</b><br/><sub><code>$3,177,595</code></sub></td>
-<td align="center"><b>📡 Deployed</b><br/><sub><code>32.9%</code></sub></td>
-<td align="center"><b>✅ IOC classified</b><br/><sub><code>71,028</code> (65,600 HIGH)</sub></td>
-<td align="center"><b>⚡ Registered ≤7d</b><br/><sub><code>1.0%</code></sub></td>
-<td align="center"><b>🕵️ Serial regs</b><br/><sub><code>27</code></sub></td>
-</tr></table>
+<table align="center">
+<tr>
+<td align="center"><b>📦 Domains tracked</b><br/><strong>434,830</strong></td>
+<td align="center"><b>💰 Est. annual value</b><br/><strong>$3,177,595</strong></td>
+</tr>
+<tr>
+<td align="center"><b>📡 Deployed</b><br/><strong>32.9%</strong></td>
+<td align="center"><b>✅ IOC classified</b><br/><strong>71,028</strong> (65,600 HIGH)</td>
+</tr>
+<tr>
+<td align="center"><b>⚡ Registered ≤7d</b><br/><strong>1.0%</strong></td>
+<td align="center"><b>🕵️ Serial regs</b><br/><strong>27</strong></td>
+</tr>
+</table>
+
+<details>
+<summary><strong>Live analytics · TLDs, hosting, registrations and downloads</strong></summary>
 
 ### 🏷️ Top TLD Zones
 
@@ -121,6 +133,8 @@ HK  ██░░░░░░░░░░░░░░░░        792 (3.6%)
 
 > 📊 Live web dashboard: see Pages link at top · Updated daily 02:00 UTC
 
+</details>
+
 <!-- LIVE_STATS:END -->
 
 ---
@@ -129,39 +143,30 @@ HK  ██░░░░░░░░░░░░░░░░        792 (3.6%)
 
 ## 📑 Table of Contents
 
-<table>
-<tr>
-<td valign="top">
 
 **Investigation**
-- [Background](#background)
-- [Subject](#subject)
-- [Scope](#scope)
-- [Methodology](#methodology)
-
-</td>
-<td valign="top">
+- [Background](#user-content-background)
+- [Subject](#user-content-subject)
+- [Scope](#user-content-scope)
+- [Methodology](#user-content-methodology)
 
 **Evidence**
-- [Headline Findings](#headline-findings)
-- [Operator Clusters](#operator-clusters)
-- [Evidence Archive](#evidence-archive)
-- [IOC Feed](#ioc-feed)
-
-</td>
-<td valign="top">
+- [Headline Findings](#user-content-headline-findings)
+- [Operator Clusters](#user-content-operator-clusters)
+- [Evidence Archive](#user-content-evidence-archive)
+- [IOC Feed](#user-content-ioc-feed)
 
 **Legal / Reuse**
-- [Legal Notice](#️-legal-notice--responsible-disclosure)
-- [Enforcement Posture](#enforcement-posture)
-- [Repository Structure](#repository-structure)
-- [Related Investigations](#related-investigations)
+- [Legal Notice](#user-content-️-legal-notice--responsible-disclosure)
+- [Enforcement Posture](#user-content-enforcement-posture)
+- [Repository Structure](#user-content-repository-structure)
+- [Related Investigations](#user-content-related-investigations)
 
-</td>
-</tr>
-</table>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+<details>
+<summary><strong>Background</strong></summary>
 
 ## Background
 
@@ -208,6 +213,11 @@ This investigation enumerates every domain in NICENIC's zone, classifies content
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
+</details>
+
+<details>
+<summary><strong>Subject</strong></summary>
+
 ## Subject
 
 | Field | Value |
@@ -223,6 +233,11 @@ This investigation enumerates every domain in NICENIC's zone, classifies content
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
+</details>
+
+<details>
+<summary><strong>Scope</strong></summary>
+
 ## Scope
 
 This investigation covers the **complete zone** of all domains registered under NICENIC (IANA #3765) as enumerated from public zone data in June 2026. Every domain — alive or dead — is included.
@@ -230,6 +245,11 @@ This investigation covers the **complete zone** of all domains registered under 
 > **Note:** Screenshots and deep-render data were collected only for HIGH and MEDIUM severity domains (estimated 10–25% of zone) to constrain storage and runtime. Dead domains are enumerated and classified but not rendered.
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+</details>
+
+<details>
+<summary><strong>Methodology</strong></summary>
 
 ## Methodology
 
@@ -281,6 +301,11 @@ This investigation covers the **complete zone** of all domains registered under 
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
+</details>
+
+<details>
+<summary><strong>Headline Findings</strong></summary>
+
 ## Headline Findings
 
 *June 2026 scan. The HTTP pass covered the 343,107 domains in the zone at scan time; severity scoring covers live HTTP content (37,844 alive); the 82,575 malicious total adds threat-feed-confirmed domains and is measured against the 187,697 domains counted alive in the zone-level liveness pass (196,494 dead / timeout).*
@@ -302,6 +327,11 @@ This investigation covers the **complete zone** of all domains registered under 
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
+</details>
+
+<details>
+<summary><strong>Operator Clusters</strong></summary>
+
 ## Operator Clusters
 
 **2,939 operator clusters** identified via favicon MurmurHash3 + server fingerprint combination. Clusters of 3+ domains sharing identical infrastructure are surfaced as likely operator groups.
@@ -317,6 +347,11 @@ Notable clusters:
 Full cluster data: [`data/clusters.json`](data/clusters.json) — includes favicon hash, server fingerprint, domain list, and category distribution per cluster.
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+</details>
+
+<details>
+<summary><strong>Evidence Archive</strong></summary>
 
 ## Evidence Archive
 
@@ -337,6 +372,11 @@ Full cluster data: [`data/clusters.json`](data/clusters.json) — includes favic
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
+</details>
+
+<details>
+<summary><strong>IOC Feed</strong></summary>
+
 ## IOC Feed
 
 ```bash
@@ -351,6 +391,11 @@ https://raw.githubusercontent.com/phishdestroy/nicenic-evidence/main/ioc/indicat
 ```
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+</details>
+
+<details>
+<summary><strong>Enforcement Posture</strong></summary>
 
 ## Enforcement Posture
 
@@ -372,6 +417,11 @@ ICANN's Registrar Accreditation Agreement §3.18 requires registrars to maintain
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+</details>
+
+<details>
+<summary><strong>⚖️ Legal Notice &amp; Responsible Disclosure</strong></summary>
 
 ## ⚖️ Legal Notice & Responsible Disclosure
 
@@ -401,6 +451,11 @@ This research documents objectively verifiable facts: domain registration patter
 NICENIC INTERNATIONAL GROUP CO., LIMITED is an ICANN-accredited registrar operating under contractual obligations to the global internet community. Registrars that facilitate industrial-scale phishing infrastructure have no legitimate reputational interest in suppressing evidence of that facilitation. Publication of factual evidence of contractual non-compliance is not defamation — it is the function ICANN's transparency requirements were built to serve.
 
 If NICENIC disputes any finding: submit documented evidence via [phishdestroy.io](https://phishdestroy.io). Findings supported by evidence will be corrected in a timestamped update.
+
+</details>
+
+<details>
+<summary><strong>Repository Structure</strong></summary>
 
 ## Repository Structure
 
@@ -446,6 +501,10 @@ nicenic-evidence/
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
+</details>
+
+<details>
+<summary><strong>🕸️ Network of Complicit Registrars</strong></summary>
 
 ## 🕸️ Network of Complicit Registrars
 
@@ -457,7 +516,12 @@ This investigation is part of a series documenting ICANN-accredited registrars t
 | 2 | **Trustname.com / Fewmoretaps ÖÜ** | #4318 | 18,719 | **3,292 HIGH (35.4% of alive)** | 🇷🇺 Russian-operated, Estonian shell | [trustname-evidence](https://github.com/phishdestroy/trustname-evidence) · [Live Report](https://phishdestroy.github.io/trustname-evidence/) |
 | 3 | **NameSilo, LLC** | #1479 | 5,653,085 | **122,152 HIGH (3.63%)** | 🇷🇺 Russian team members, suppression campaign | [namesilo-evidence](https://github.com/phishdestroy/namesilo-evidence) · [Live Report](https://phishdestroy.github.io/namesilo-evidence/) |
 
+</details>
+
 ---
+
+<details>
+<summary><strong>🇷🇺 Russian Connection &amp; Complicity Record</strong></summary>
 
 ## 🇷🇺 Russian Connection & Complicity Record
 
@@ -508,6 +572,10 @@ NiceNIC subsequently claimed the account was “hacked” by a user named “Jul
 
 > *“NICENIC’s abuse response SLA is effectively infinite. This investigation makes it finite.”*
 
+</details>
+
+<details>
+<summary><strong>Related Investigations</strong></summary>
 
 ## Related Investigations
 
@@ -534,3 +602,6 @@ Automated detection, classification, and public disclosure of domain abuse infra
 </div>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+</details>
+
