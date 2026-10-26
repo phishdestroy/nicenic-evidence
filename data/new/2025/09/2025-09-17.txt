@@ -276,6 +276,7 @@ klra40.cc
 klra41.cc
 klra42.cc
 klra48.cc
+klra50.cc
 klra51.cc
 klra52.cc
 klra53.cc

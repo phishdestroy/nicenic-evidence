@@ -1,6 +1,5 @@
 donate@opencart.com	42
-support@anonymixer.com	39
-destek@salvobet.com	31
+support@anonymixer.com	40
 destek@slotvadi.com	28
 affiliate@slotvadi.com	28
 info@slotvadi.com	28
@@ -8,7 +7,8 @@ info@wbahis.com	24
 complaint@wbahis.com	24
 deine@email.de	22
 support@winshark.com	22
-ornek@mail.com	18
+ornek@mail.com	17
+destek@salvobet.com	16
 info@kulisbet.com	15
 tu@correo.com	14
 support@changelly.com	14
@@ -29,9 +29,9 @@ support@highspin.com	9
 support@casino-ra.com	9
 amami.online@gmail.com	9
 support@dudespin.com	9
+support@wildchance.com	9
 info@avscarrent.net	9
 originals.diplomy@gmail.com	9
-support@wildchance.com	8
 ornek@eposta.com	8
 support@winboost.com	8
 easitripbooking@gmail.com	8
@@ -45,6 +45,6 @@ ihre.email@beispiel.de	6
 ana.p@gmail.com	6
 support@dragonia.com	6
 contact@stake-casinos.in	6
+ihre@email.de	6
 zhangqifeng@dpmt.top	6
 business@1win.social	6
-ornek@email.com	6
