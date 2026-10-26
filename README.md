@@ -28,11 +28,19 @@
 
 > Formal abuse complaints submitted to ICANN Contractual Compliance (RAA §3.18 · DNS Abuse Advisory 2024).
 
-| Date | Target | IANA ID | Reported Domains | Active Today | Days Ignored |
+| Date | Target | IANA ID | Reported Domains | DNS-active at filing | Days Ignored at filing |
 |---|---|---|---|---|---|
 | [2026-08-05](complaints/2026-08-05-nicenic-icann/) | NiceNIC International Group Co., Limited | 3765 | 13,104 | 4,430 | 158 median / 215 max |
 
 📁 Full evidence: [`complaints/`](complaints/)
+
+*The complaint table records the 5 August 2026 filing snapshot; its activity and delay figures are not live counters.*
+
+### ⚖️ Accountability Has a Precedent
+
+ICANN [terminated Trustname / Fewmoretaps OÜ’s accreditation](https://www.icann.org/uploads/compliance_notice/attachment/1367/hedlund-to-nestsiarovich-27aug26.pdf) effective **11 September 2026** for repeated failures to investigate abuse reports and mitigate DNS abuse. PhishDestroy welcomes that decision and credits the ICANN team for following through.
+
+**Our NiceNIC complaint deserves the same rigorous scrutiny and urgency.** The evidence is public. Where repeated breaches are established, we expect the same willingness to impose consequences. [Read the Trustname enforcement record](https://github.com/phishdestroy/trustname-evidence#-enforcement-outcome--credit-to-icann).
 
 
 
@@ -367,7 +375,7 @@ NICENIC operates under Chinese jurisdiction. Effective enforcement requires mult
 | **Downstream hosters** | Cloudflare, Fastly, AWS — abuse reports to hosting providers (not just registrar) |
 | **Brand owners** | Microsoft, PayPal, Amazon, Metamask — direct UDRP and legal action |
 
-ICANN's Registrar Accreditation Agreement §3.18 requires registrars to maintain and respond to abuse contacts within 24 hours. Documented non-response is grounds for accreditation suspension.
+Under the [RAA amendments effective 5 April 2024](https://www.icann.org/en/system/files/files/registrar-accreditation-agreement-global-amendment-05apr24-en.pdf), **§3.18.1** requires confirmation of receipt and reasonable, prompt investigation and appropriate responses to abuse reports. **§3.18.2** requires prompt, appropriate mitigation when the registrar has actionable evidence of DNS abuse. The specific **24-hour review requirement in §3.18.3** applies to well-founded illegal-activity reports from the designated authorities submitted to the dedicated contact. It is not a universal deadline for resolving every public abuse report. Documented breaches may lead to ICANN contractual enforcement.
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
@@ -449,12 +457,12 @@ nicenic-evidence/
 
 ## 🕸️ Network of Complicit Registrars
 
-This investigation is part of a series documenting ICANN-accredited registrars that systematically obstruct anti-phishing enforcement or directly profit from fraud infrastructure. All three registrars share a documented pattern: **direct requests backed by evidence are ignored, delayed, or met with active suppression.**
+This investigation is part of a series examining abuse handling at current and former ICANN-accredited registrars. The figures below are historical investigation snapshots; Trustname’s accreditation was subsequently terminated effective **11 September 2026**.
 
 | # | Registrar | IANA | Zone | Confirmed Malicious | Russian Connection | Investigation |
 |--|--|--|--|--|--|--|
 | 1 | **NICENIC INTERNATIONAL GROUP** *(this)* | #3765 | 403,909 | **82,575 (44.0% of alive)** | 🇷🇺 #2 hosting country (8.5%, June 2026 scan) | [nicenic-evidence](https://github.com/phishdestroy/nicenic-evidence) · [Live Report](https://phishdestroy.github.io/nicenic-evidence/) |
-| 2 | **Trustname.com / Fewmoretaps ÖÜ** | #4318 | 18,719 | **3,292 HIGH (35.4% of alive)** | 🇷🇺 Russian-operated, Estonian shell | [trustname-evidence](https://github.com/phishdestroy/trustname-evidence) · [Live Report](https://phishdestroy.github.io/trustname-evidence/) |
+| 2 | **Trustname.com / Fewmoretaps OÜ** (accreditation terminated) | #4318 | 18,719 | **4,275 HIGH + MEDIUM (35.4% of 12,088 active; June 2026)** | 🇷🇺 Russian-operated, Estonian shell | [trustname-evidence](https://github.com/phishdestroy/trustname-evidence) · [Live Report](https://phishdestroy.github.io/trustname-evidence/) |
 | 3 | **NameSilo, LLC** | #1479 | 5,653,085 | **122,152 HIGH (3.63%)** | 🇷🇺 Russian team members, suppression campaign | [namesilo-evidence](https://github.com/phishdestroy/namesilo-evidence) · [Live Report](https://phishdestroy.github.io/namesilo-evidence/) |
 
 ---
@@ -488,7 +496,7 @@ NiceNIC subsequently claimed the account was “hacked” by a user named “Jul
 
 ### Documented Obstruction
 
-- **RAA §3.18 requires 24-hour acknowledgement** of abuse reports. NICENIC’s effective response is measured in weeks or is absent entirely.
+- **RAA §3.18.1 requires receipt confirmation and prompt investigation and appropriate responses**; §3.18.2 requires prompt mitigation on actionable DNS abuse evidence. The complaints in this repository document alleged failures against those duties. [Current contractual text](https://www.icann.org/en/system/files/files/registrar-accreditation-agreement-global-amendment-05apr24-en.pdf).
 - NICENIC’s abuse system **forwards complaints directly to the registrants** (the criminals) rather than investigating independently — and accepts registrant denials at face value to close tickets.
 - Auto-responder templates claim “insufficient evidence” even when full forensic packages are submitted: screenshots, AI classification, WHOIS, live HTTP proof, financial transaction hashes.
 - **Trust Wallet heist (December 2025):** $8.5M stolen — infrastructure hosted on NiceNIC. Domains remained live post-report.
@@ -513,7 +521,7 @@ NiceNIC subsequently claimed the account was “hacked” by a user named “Jul
 
 | Investigation | Registrar | Zone Size | Alive | Malicious | Report |
 |---|---|---|---|---|---|
-| **Trustname / Fewmoretaps OÜ** | IANA #4318 | 18,719 | 12,088 (64.6%) | 3,292 HIGH | [phishdestroy.github.io/trustname-evidence](https://phishdestroy.github.io/trustname-evidence/) |
+| **Trustname / Fewmoretaps OÜ** (accreditation terminated) | IANA #4318 | 18,719 | 12,088 (64.6%) | 4,275 HIGH + MEDIUM | [phishdestroy.github.io/trustname-evidence](https://phishdestroy.github.io/trustname-evidence/) |
 | **NameSilo** | IANA #1479 | 5,653,085 | 3,082,640 (54.5%) | 122,152 HIGH | [phishdestroy.github.io/namesilo-evidence](https://phishdestroy.github.io/namesilo-evidence/) |
 | **NICENIC INTERNATIONAL GROUP** *(this repo)* | IANA #3765 | 403,909 | 187,697 (46.5%) | **82,575** (44.0% of alive) | [phishdestroy.github.io/nicenic-evidence](https://phishdestroy.github.io/nicenic-evidence/) |
 
