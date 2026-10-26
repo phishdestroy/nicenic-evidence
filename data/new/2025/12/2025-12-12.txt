@@ -530,6 +530,7 @@ krab--5.cc
 krab--6.cc
 krab--7.cc
 krab--8.cc
+krab--9.cc
 krab-1-cc.com
 krab-1-cc.net
 krab-10-at.cc
@@ -756,6 +757,7 @@ krab21at.com
 krab21at.net
 krab21cc.com
 krab21cc.net
+krab22-at.cc
 krab22-at.com
 krab22-at.net
 krab22-cc.com

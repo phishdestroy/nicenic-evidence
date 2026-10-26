@@ -918,6 +918,7 @@ trip66c.cc
 trip67c.cc
 trip7l.cc
 tripc63.cc
+tripc64.cc
 tripc65.cc
 tripc66.cc
 tripscan102.cc
