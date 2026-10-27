@@ -52,7 +52,7 @@
     },
     {
       "email": "support@anonymixer.com",
-      "count": 40,
+      "count": 39,
       "domains": [
         "aanonymixer.com",
         "amonymixer.com",
@@ -81,7 +81,6 @@
         "anonymixxer.com",
         "anonymmixer.com",
         "anonymoxer.com",
-        "anonymuxer.com",
         "anonymxer.com",
         "anonymxier.com",
         "anonymyxer.com",
@@ -259,34 +258,6 @@
       ]
     },
     {
-      "email": "deine@email.de",
-      "count": 22,
-      "domains": [
-        "at-autos.digital",
-        "at-strabe.digital",
-        "autobanhe.digital",
-        "autos-at.digital",
-        "autosstrasse-at.digital",
-        "autostrase.pro",
-        "checktec-digital.live",
-        "eulopaprak.pro",
-        "euponarapk.com",
-        "eupoparapk.pro",
-        "euporaparlk.pro",
-        "mautestrasses.digital",
-        "mautkauf.digital",
-        "meisterwerkstatt.pro",
-        "myatstrabe.pro",
-        "mydestrabe.pro",
-        "myparks.pro",
-        "parkineu.pro",
-        "secure-login-id.com",
-        "strasnova.digital",
-        "vignfly.pro",
-        "vignopass.digital"
-      ]
-    },
-    {
       "email": "support@winshark.com",
       "count": 22,
       "domains": [
@@ -315,6 +286,33 @@
       ]
     },
     {
+      "email": "deine@email.de",
+      "count": 21,
+      "domains": [
+        "at-autos.digital",
+        "at-strabe.digital",
+        "autobanhe.digital",
+        "autos-at.digital",
+        "autosstrasse-at.digital",
+        "autostrase.pro",
+        "checktec-digital.live",
+        "eulopaprak.pro",
+        "euponarapk.com",
+        "eupoparapk.pro",
+        "euporaparlk.pro",
+        "mautestrasses.digital",
+        "mautkauf.digital",
+        "meisterwerkstatt.pro",
+        "myatstrabe.pro",
+        "mydestrabe.pro",
+        "myparks.pro",
+        "parkineu.pro",
+        "strasnova.digital",
+        "vignfly.pro",
+        "vignopass.digital"
+      ]
+    },
+    {
       "email": "ornek@mail.com",
       "count": 15,
       "domains": [
@@ -333,6 +331,48 @@
         "milasgrafik.com",
         "trcrypto.net",
         "vevohizmet.com"
+      ]
+    },
+    {
+      "email": "contact@rocketx.exchange",
+      "count": 15,
+      "domains": [
+        "docketx.exchange",
+        "ocketx.exchange",
+        "rcketx.exchange",
+        "roccketx.exchange",
+        "rocektx.exchange",
+        "rocjetx.exchange",
+        "rockefx.exchange",
+        "rockext.exchange",
+        "rockrtx.exchange",
+        "rockwtx.exchange",
+        "rocletx.exchange",
+        "rocoetx.exchange",
+        "rokcetx.exchange",
+        "rovketx.exchange",
+        "tocketx.exchange"
+      ]
+    },
+    {
+      "email": "privacypolicyupdates@automattic.com",
+      "count": 15,
+      "domains": [
+        "accounts-wordpress.com",
+        "candidatexml.com",
+        "entitypem.com",
+        "inboxmemento.com",
+        "iniextern.net",
+        "perplexmaglev.com",
+        "rtree-neovim.com",
+        "screenshot.show",
+        "simplify-inspector.com",
+        "socket-wordpress.com",
+        "socket-wordpress.net",
+        "socket-wp.com",
+        "trivial-riscv.com",
+        "wordpressws.com",
+        "wsswp.net"
       ]
     },
     {
@@ -435,25 +475,6 @@
       ]
     },
     {
-      "email": "privacypolicyupdates@automattic.com",
-      "count": 13,
-      "domains": [
-        "accounts-wordpress.com",
-        "entitypem.com",
-        "inboxmemento.com",
-        "iniextern.net",
-        "rtree-neovim.com",
-        "screenshot.show",
-        "simplify-inspector.com",
-        "socket-wordpress.com",
-        "socket-wordpress.net",
-        "socket-wp.com",
-        "trivial-riscv.com",
-        "wordpressws.com",
-        "wsswp.net"
-      ]
-    },
-    {
       "email": "support@1win.social",
       "count": 12,
       "domains": [
@@ -469,24 +490,6 @@
         "mines-canada.com",
         "plinko-canada.net",
         "swissgoldghana.com"
-      ]
-    },
-    {
-      "email": "contact@rocketx.exchange",
-      "count": 12,
-      "domains": [
-        "docketx.exchange",
-        "rcketx.exchange",
-        "roccketx.exchange",
-        "rocektx.exchange",
-        "rocjetx.exchange",
-        "rockefx.exchange",
-        "rockext.exchange",
-        "rockrtx.exchange",
-        "rockwtx.exchange",
-        "rocletx.exchange",
-        "rokcetx.exchange",
-        "tocketx.exchange"
       ]
     },
     {
@@ -560,6 +563,23 @@
       ]
     },
     {
+      "email": "support@betsnipe.com",
+      "count": 11,
+      "domains": [
+        "betsnipe.cloud",
+        "betsnipe.com",
+        "betsnipe.online",
+        "betsnipe.vip",
+        "betsnipe1.com",
+        "betsnipe10.com",
+        "betsnipe11.com",
+        "betsnipe22.com",
+        "betsnipe987.com",
+        "betsnipeluck.com",
+        "betsnipepartners.com"
+      ]
+    },
+    {
       "email": "support@birdspin.com",
       "count": 10,
       "domains": [
@@ -605,22 +625,6 @@
         "school-propiska.com",
         "sobstvenniki-propiska.com",
         "vremennaia-registratsia.com"
-      ]
-    },
-    {
-      "email": "support@betsnipe.com",
-      "count": 10,
-      "domains": [
-        "betsnipe.cloud",
-        "betsnipe.online",
-        "betsnipe.vip",
-        "betsnipe1.com",
-        "betsnipe10.com",
-        "betsnipe11.com",
-        "betsnipe22.com",
-        "betsnipe987.com",
-        "betsnipeluck.com",
-        "betsnipepartners.com"
       ]
     },
     {
@@ -681,21 +685,6 @@
         "fastfixuae.com",
         "muzigyasa.com",
         "zonaspeed.com"
-      ]
-    },
-    {
-      "email": "destek@salvobet.com",
-      "count": 9,
-      "domains": [
-        "casibom-arsivim.com",
-        "casibom-bilgi.com",
-        "casibom-bulteni.com",
-        "meritking-bilgi.com",
-        "meritking-gundemi.com",
-        "meritking-inceleme.com",
-        "meritking-kilavuzu.com",
-        "meritking-notlari.com",
-        "meritking-rotasi.com"
       ]
     },
     {
@@ -814,32 +803,6 @@
       ]
     },
     {
-      "email": "support@romanticai.com",
-      "count": 7,
-      "domains": [
-        "allindiaai.live",
-        "allindiadating.site",
-        "lovematchil.icu",
-        "tmeet.site",
-        "trendmatch.icu",
-        "trendmeetind.icu",
-        "trendmeetup.site"
-      ]
-    },
-    {
-      "email": "contact@romanticai.com",
-      "count": 7,
-      "domains": [
-        "allindiaai.live",
-        "allindiadating.site",
-        "lovematchil.icu",
-        "tmeet.site",
-        "trendmatch.icu",
-        "trendmeetind.icu",
-        "trendmeetup.site"
-      ]
-    },
-    {
       "email": "support@hostseo.com",
       "count": 7,
       "domains": [
@@ -891,15 +854,27 @@
       ]
     },
     {
-      "email": "ana.p@gmail.com",
+      "email": "support@romanticai.com",
       "count": 6,
       "domains": [
-        "cosmicsolana.com",
-        "dextercash.com",
-        "mexcmeme.com",
-        "superteamnp.com",
-        "trendexgg.com",
-        "trxares.com"
+        "allindiaai.live",
+        "allindiadating.site",
+        "lovematchil.icu",
+        "tmeet.site",
+        "trendmeetind.icu",
+        "trendmeetup.site"
+      ]
+    },
+    {
+      "email": "contact@romanticai.com",
+      "count": 6,
+      "domains": [
+        "allindiaai.live",
+        "allindiadating.site",
+        "lovematchil.icu",
+        "tmeet.site",
+        "trendmeetind.icu",
+        "trendmeetup.site"
       ]
     },
     {
@@ -948,6 +923,30 @@
         "holiganbet10469.com",
         "holiganbet10786.com",
         "holiganbet76966.com"
+      ]
+    },
+    {
+      "email": "sikayet@holiganbet.com",
+      "count": 6,
+      "domains": [
+        "7727holiganbet.com",
+        "eforbet116.com",
+        "holiganbet07642.com",
+        "holiganbet10469.com",
+        "holiganbet10786.com",
+        "holiganbet76966.com"
+      ]
+    },
+    {
+      "email": "ihre@email.de",
+      "count": 6,
+      "domains": [
+        "callium.net",
+        "lead-crm.net",
+        "lukicontainers.com",
+        "mautkasse.digital",
+        "mautnow.pro",
+        "tagesnachricht24.com"
       ]
     }
   ]

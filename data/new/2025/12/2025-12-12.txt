@@ -500,6 +500,7 @@ kra-b22.cc
 kra-b23.cc
 kra-b24.cc
 kra-b251.cc
+kra-b3.cc
 kra-b4.cc
 kra-b5.cc
 kra-b6.cc
@@ -792,6 +793,7 @@ krab25-at.com
 krab25-at.net
 krab25-cc.com
 krab25-cc.net
+krab25at.cc
 krab25at.com
 krab25at.net
 krab25cc.com
