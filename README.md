@@ -6,11 +6,15 @@
 
 <br>
 
-[![Registrar](https://img.shields.io/badge/IANA-%233765-6ea8d7?style=for-the-badge&labelColor=0c1018&logo=internetcomputer&logoColor=white)](https://www.iana.org/assignments/registrar-ids/registrar-ids.xhtml)
-[![TLP](https://img.shields.io/badge/TLP-CLEAR-3fb950?style=for-the-badge&labelColor=0c1018)](https://www.cisa.gov/tlp)
+<p align="center">
+<a href="https://www.iana.org/assignments/registrar-ids/registrar-ids.xhtml"><img src="https://img.shields.io/badge/IANA-%233765-6ea8d7?style=for-the-badge&amp;labelColor=0c1018&amp;logo=internetcomputer&amp;logoColor=white" alt="Registrar" /></a>
+<a href="https://www.cisa.gov/tlp"><img src="https://img.shields.io/badge/TLP-CLEAR-3fb950?style=for-the-badge&amp;labelColor=0c1018" alt="TLP" /></a>
+</p>
 
-[![License](https://img.shields.io/badge/license-MIT-c0a060?style=for-the-badge&labelColor=0c1018)](LICENSE)
-[![Pages](https://img.shields.io/badge/%E2%96%B6_LIVE_REPORT-phishdestroy.github.io%2Fnicenic--evidence-3fb950?style=for-the-badge&labelColor=0c1018)](https://phishdestroy.github.io/nicenic-evidence/)
+<p align="center">
+<a href="LICENSE"><img src="https://img.shields.io/badge/license-MIT-c0a060?style=for-the-badge&amp;labelColor=0c1018" alt="License" /></a>
+<a href="https://phishdestroy.github.io/nicenic-evidence/"><img src="https://img.shields.io/badge/%E2%96%B6_LIVE_REPORT-phishdestroy.github.io%2Fnicenic--evidence-3fb950?style=for-the-badge&amp;labelColor=0c1018" alt="Pages" /></a>
+</p>
 
 <br/>
 
@@ -22,10 +26,9 @@
 
 </div>
 
----
-
+<p align="center"><img src="assets/readme-polish/divider.svg" width="100%" alt="" /></p>
 <details>
-<summary><strong>⚖️ ICANN Compliance Complaints</strong></summary>
+<summary><img src="assets/readme-polish/section-01.svg" width="26" height="24" alt="" />&nbsp; <strong>⚖️ ICANN Compliance Complaints</strong></summary>
 
 ## ⚖️ ICANN Compliance Complaints
 
@@ -133,12 +136,19 @@ HK  ██░░░░░░░░░░░░░░░░        800 (3.7%)
 
 <!-- LIVE_STATS:END -->
 
----
-
+<p align="center"><img src="assets/readme-polish/divider.svg" width="100%" alt="" /></p>
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-## 📑 Table of Contents
+<p align="center"><sub><b>NICENIC / INVESTIGATION INDEX</b></sub></p>
 
+<p align="center">
+<a href="#user-content-background"><img src="assets/readme-polish/investigation.svg" width="248" height="56" alt="READ INVESTIGATION: Background &amp; evidence" /></a>
+<a href="#user-content-headline-findings"><img src="assets/readme-polish/findings.svg" width="248" height="56" alt="KEY FINDINGS: Results &amp; source material" /></a>
+<a href="https://phishdestroy.github.io/nicenic-evidence/#analytics"><img src="assets/readme-polish/analytics.svg" width="248" height="56" alt="LIVE ANALYTICS: Explore the dataset" /></a>
+</p>
+
+<details>
+<summary><strong>Full table of contents</strong> · 12 sections</summary>
 
 **Investigation**
 - [Background](#user-content-background)
@@ -158,11 +168,12 @@ HK  ██░░░░░░░░░░░░░░░░        800 (3.7%)
 - [Repository Structure](#user-content-repository-structure)
 - [Related Investigations](#user-content-related-investigations)
 
+</details>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+<p align="center"><img src="assets/readme-polish/divider.svg" width="100%" alt="" /></p>
 
 <details>
-<summary><strong>Background</strong></summary>
+<summary><img src="assets/readme-polish/section-02.svg" width="26" height="24" alt="" />&nbsp; <strong>Background</strong></summary>
 
 ## Background
 
@@ -212,7 +223,7 @@ This investigation enumerates every domain in NICENIC's zone, classifies content
 </details>
 
 <details>
-<summary><strong>Subject</strong></summary>
+<summary><img src="assets/readme-polish/section-03.svg" width="26" height="24" alt="" />&nbsp; <strong>Subject</strong></summary>
 
 ## Subject
 
@@ -231,8 +242,10 @@ This investigation enumerates every domain in NICENIC's zone, classifies content
 
 </details>
 
+<p align="center"><img src="assets/readme-polish/divider.svg" width="100%" alt="" /></p>
+
 <details>
-<summary><strong>Scope</strong></summary>
+<summary><img src="assets/readme-polish/section-04.svg" width="26" height="24" alt="" />&nbsp; <strong>Scope</strong></summary>
 
 ## Scope
 
@@ -245,7 +258,7 @@ This investigation covers the **complete zone** of all domains registered under 
 </details>
 
 <details>
-<summary><strong>Methodology</strong></summary>
+<summary><img src="assets/readme-polish/section-05.svg" width="26" height="24" alt="" />&nbsp; <strong>Methodology</strong></summary>
 
 ## Methodology
 
@@ -300,7 +313,7 @@ This investigation covers the **complete zone** of all domains registered under 
 </details>
 
 <details>
-<summary><strong>Headline Findings</strong></summary>
+<summary><img src="assets/readme-polish/section-06.svg" width="26" height="24" alt="" />&nbsp; <strong>Headline Findings</strong></summary>
 
 ## Headline Findings
 
@@ -325,8 +338,10 @@ This investigation covers the **complete zone** of all domains registered under 
 
 </details>
 
+<p align="center"><img src="assets/readme-polish/divider.svg" width="100%" alt="" /></p>
+
 <details>
-<summary><strong>Operator Clusters</strong></summary>
+<summary><img src="assets/readme-polish/section-07.svg" width="26" height="24" alt="" />&nbsp; <strong>Operator Clusters</strong></summary>
 
 ## Operator Clusters
 
@@ -347,7 +362,7 @@ Full cluster data: [`data/clusters.json`](data/clusters.json) — includes favic
 </details>
 
 <details>
-<summary><strong>Evidence Archive</strong></summary>
+<summary><img src="assets/readme-polish/section-08.svg" width="26" height="24" alt="" />&nbsp; <strong>Evidence Archive</strong></summary>
 
 ## Evidence Archive
 
@@ -371,7 +386,7 @@ Full cluster data: [`data/clusters.json`](data/clusters.json) — includes favic
 </details>
 
 <details>
-<summary><strong>IOC Feed</strong></summary>
+<summary><img src="assets/readme-polish/section-09.svg" width="26" height="24" alt="" />&nbsp; <strong>IOC Feed</strong></summary>
 
 ## IOC Feed
 
@@ -390,8 +405,10 @@ https://raw.githubusercontent.com/phishdestroy/nicenic-evidence/main/ioc/indicat
 
 </details>
 
+<p align="center"><img src="assets/readme-polish/divider.svg" width="100%" alt="" /></p>
+
 <details>
-<summary><strong>Enforcement Posture</strong></summary>
+<summary><img src="assets/readme-polish/section-10.svg" width="26" height="24" alt="" />&nbsp; <strong>Enforcement Posture</strong></summary>
 
 ## Enforcement Posture
 
@@ -417,7 +434,7 @@ ICANN's Registrar Accreditation Agreement §3.18 requires registrars to maintain
 </details>
 
 <details>
-<summary><strong>⚖️ Legal Notice &amp; Responsible Disclosure</strong></summary>
+<summary><img src="assets/readme-polish/section-11.svg" width="26" height="24" alt="" />&nbsp; <strong>⚖️ Legal Notice &amp; Responsible Disclosure</strong></summary>
 
 ## ⚖️ Legal Notice & Responsible Disclosure
 
@@ -451,7 +468,7 @@ If NICENIC disputes any finding: submit documented evidence via [phishdestroy.io
 </details>
 
 <details>
-<summary><strong>Repository Structure</strong></summary>
+<summary><img src="assets/readme-polish/section-12.svg" width="26" height="24" alt="" />&nbsp; <strong>Repository Structure</strong></summary>
 
 ## Repository Structure
 
@@ -499,8 +516,10 @@ nicenic-evidence/
 
 </details>
 
+<p align="center"><img src="assets/readme-polish/divider.svg" width="100%" alt="" /></p>
+
 <details>
-<summary><strong>🕸️ Network of Complicit Registrars</strong></summary>
+<summary><img src="assets/readme-polish/section-13.svg" width="26" height="24" alt="" />&nbsp; <strong>🕸️ Network of Complicit Registrars</strong></summary>
 
 ## 🕸️ Network of Complicit Registrars
 
@@ -514,10 +533,9 @@ This investigation is part of a series documenting ICANN-accredited registrars t
 
 </details>
 
----
 
 <details>
-<summary><strong>🇷🇺 Russian Connection &amp; Complicity Record</strong></summary>
+<summary><img src="assets/readme-polish/section-14.svg" width="26" height="24" alt="" />&nbsp; <strong>🇷🇺 Russian Connection &amp; Complicity Record</strong></summary>
 
 ## 🇷🇺 Russian Connection & Complicity Record
 
@@ -571,7 +589,7 @@ NiceNIC subsequently claimed the account was “hacked” by a user named “Jul
 </details>
 
 <details>
-<summary><strong>Related Investigations</strong></summary>
+<summary><img src="assets/readme-polish/section-15.svg" width="26" height="24" alt="" />&nbsp; <strong>Related Investigations</strong></summary>
 
 ## Related Investigations
 
