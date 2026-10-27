@@ -33699,7 +33699,7 @@
   ],
   "total_new_all_time": 491775,
   "total_domains": 429762,
-  "new_since_last_fetch": 1422,
+  "new_since_last_fetch": 0,
   "total_revenue_estimate": 3133196.89,
   "avg_registration_days": 542,
   "ip_countries": {
@@ -34070,7 +34070,7 @@
   },
   "unranked_pct": 99.6,
   "ranked_count": 1551,
-  "correlation_count": 27603,
+  "correlation_count": 27642,
   "correlation_pct": 6.4,
   "last_updated": "2026-10-27",
   "latest_reg": "2026-10-26"
