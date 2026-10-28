@@ -34,11 +34,13 @@
 
 > Formal abuse complaints submitted to ICANN Contractual Compliance (RAA §3.18 · DNS Abuse Advisory 2024).
 
-| Date | Target | IANA ID | Reported Domains | Active Today | Days Ignored |
+| Date | Target | IANA ID | Reported Domains | DNS-active in complaint snapshot | Days Ignored |
 |---|---|---|---|---|---|
 | [2026-08-05](complaints/2026-08-05-nicenic-icann/) | NiceNIC International Group Co., Limited | 3765 | 13,104 | 4,430 | 158 median / 215 max |
 
 📁 Full evidence: [`complaints/`](complaints/)
+
+<sub>Complaint figures above are preserved from the published evidence package; they are not live status counters. Current domain monitoring is shown separately below.</sub>
 
 </details>
 
@@ -425,7 +427,7 @@ NICENIC operates under Chinese jurisdiction. Effective enforcement requires mult
 | **Downstream hosters** | Cloudflare, Fastly, AWS — abuse reports to hosting providers (not just registrar) |
 | **Brand owners** | Microsoft, PayPal, Amazon, Metamask — direct UDRP and legal action |
 
-ICANN's Registrar Accreditation Agreement §3.18 requires registrars to maintain and respond to abuse contacts within 24 hours. Documented non-response is grounds for accreditation suspension.
+ICANN's [RAA §3.18.1](https://www.icann.org/resources/pages/approved-with-specs-2013-09-17-en#3.18.1) requires reasonable and prompt steps to investigate and respond appropriately to abuse reports. The **24-hour review requirement** in [§3.18.2](https://www.icann.org/resources/pages/approved-with-specs-2013-09-17-en#3.18.2) applies to well-founded reports of illegal activity from the specified authorities, submitted through the registrar's dedicated contact.
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
@@ -566,7 +568,7 @@ NiceNIC subsequently claimed the account was “hacked” by a user named “Jul
 
 ### Documented Obstruction
 
-- **RAA §3.18 requires 24-hour acknowledgement** of abuse reports. NICENIC’s effective response is measured in weeks or is absent entirely.
+- **RAA §3.18.1 requires reasonable and prompt investigation and response** to abuse reports; §3.18.2 reserves its 24-hour review requirement for qualifying reports from specified authorities. NICENIC’s effective response is measured in weeks or is absent entirely.
 - NICENIC’s abuse system **forwards complaints directly to the registrants** (the criminals) rather than investigating independently — and accepts registrant denials at face value to close tickets.
 - Auto-responder templates claim “insufficient evidence” even when full forensic packages are submitted: screenshots, AI classification, WHOIS, live HTTP proof, financial transaction hashes.
 - **Trust Wallet heist (December 2025):** $8.5M stolen — infrastructure hosted on NiceNIC. Domains remained live post-report.
