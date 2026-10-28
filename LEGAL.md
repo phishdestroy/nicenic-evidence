@@ -66,9 +66,7 @@ This repository contains no:
 - Data obtained by unauthorized access to computer systems
 - Information protected by privilege or confidentiality obligations
 
-All screenshots depict pages accessible at the time of capture. Domain names
-and IP addresses are network identifiers, not personal data under GDPR
-Recital 30 in the context of abuse investigation (legitimate interest basis).
+All screenshots depict pages accessible at the time of capture. Network identifiers may constitute personal data when they relate to an identifiable person. Abuse-investigation processing must be assessed under the applicable rules; legitimate interests do not by themselves make the GDPR inapplicable. See [GDPR Recital 30](https://eur-lex.europa.eu/eli/reg/2016/679/oj).
 
 ---
 
@@ -77,9 +75,9 @@ Recital 30 in the context of abuse investigation (legitimate interest basis).
 If any finding in this repository is factually incorrect, the correction
 process is:
 
-1. Submit documented counter-evidence to [phishdestroy.io](https://phishdestroy.io)
-2. Include: domain name, claimed classification, and supporting evidence
-3. Findings supported by evidence will be corrected in a timestamped commit
+1. For a domain-listing appeal, send the domain and a short explanation through [our appeals form](https://phishdestroy.io/appeals/). No evidence or proof of ownership is required.
+2. For a correction to an investigation finding, identify the statement you dispute. Source material is welcome.
+3. We verify the record and publish factual corrections in a timestamped commit.
 
 Requests to suppress accurate findings will not be honored.
 

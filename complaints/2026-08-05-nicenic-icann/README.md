@@ -20,13 +20,15 @@
 
 ---
 
+<sub>Figures below belong to the published complaint evidence package. They describe the captured records, not the current live status of every domain.</sub>
+
 ## 📋 What This Is
 
 Formal bulk abuse complaint submitted to **ICANN Contractual Compliance** (`compliance@icann.org`) against **NiceNIC International Group Co., Limited (IANA ID 3765)** for systematic failure to comply with RAA §3.18 and the 2024 DNS Abuse Framework Amendments.
 
 <table><tr>
 <td align="center"><b>📨 Domains Reported</b><br/><sub><code>13,104</code></sub></td>
-<td align="center"><b>🔴 DNS-Active Today</b><br/><sub><code>4,430</code></sub></td>
+<td align="center"><b>🔴 DNS-Active at Capture</b><br/><sub><code>4,430</code></sub></td>
 <td align="center"><b>✅ HTTP 200 Live</b><br/><sub><code>1,655</code></sub></td>
 <td align="center"><b>⏱ Median Ignored</b><br/><sub><code>158 days</code></sub></td>
 <td align="center"><b>📵 Registrar Responses</b><br/><sub><code>0</code></sub></td>
@@ -40,9 +42,9 @@ Formal bulk abuse complaint submitted to **ICANN Contractual Compliance** (`comp
 |---|---|
 | [`NiceNIC_ICANN_Report_2026-08-05.pdf`](NiceNIC_ICANN_Report_2026-08-05.pdf) | **Full report** — complaint letter, statistics, timeline, Netcraft analysis, complete domain list |
 | [`case_blockchaindappnode.pdf`](case_blockchaindappnode.pdf) | **Case study** — live wallet-connect phishing page, 172 days unremediated |
-| [`nicenic_http200_alive.csv`](nicenic_http200_alive.csv) | **1,655 domains** confirmed HTTP 200 today — serving content right now |
+| [`nicenic_http200_alive.csv`](nicenic_http200_alive.csv) | **1,655 domains** confirmed HTTP 200 at evidence capture |
 | [`nicenic_evidence.csv`](nicenic_evidence.csv) | **4,430 DNS-active** — full per-domain evidence: VT, Spamhaus, urlscan, screenshots |
-| [`nicenic_2026_all_reports.csv`](nicenic_2026_all_reports.csv) | **All 13,096** reported to NiceNIC in 2026 with current status |
+| [`nicenic_2026_all_reports.csv`](nicenic_2026_all_reports.csv) | **All 13,096** reported to NiceNIC in 2026 with status at evidence capture |
 | [`nicenic_2026_all_domains.txt`](nicenic_2026_all_domains.txt) | Plain domain list — domain + status + VT + report date |
 | [`SHA256SUMS.txt`](SHA256SUMS.txt) | SHA256 integrity checksums |
 
