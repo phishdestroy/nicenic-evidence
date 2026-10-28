@@ -135,6 +135,7 @@ coinbarim.icu
 com-access-start.app
 com-esbetqiris.icu
 com-eu.xyz
+com-sf.xyz
 com-wallet-live.pro
 compoundfinances.com
 compoundfinances.net
