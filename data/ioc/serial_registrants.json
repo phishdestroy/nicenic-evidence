@@ -97,7 +97,7 @@
     },
     {
       "email": "contact@rocketx.exchange",
-      "count": 35,
+      "count": 37,
       "domains": [
         "docketx.exchange",
         "eocketx.exchange",
@@ -114,6 +114,8 @@
         "rockdtx.exchange",
         "rockefx.exchange",
         "rockegx.exchange",
+        "rockehx.exchange",
+        "rocketc.exchange",
         "rocketz.exchange",
         "rockex.exchange",
         "rockext.exchange",
@@ -634,6 +636,23 @@
       ]
     },
     {
+      "email": "satoshi@concrete.xyz",
+      "count": 11,
+      "domains": [
+        "app-concretefoundation.icu",
+        "concrete-app.cfd",
+        "concrete-app.icu",
+        "concrete-foundation.icu",
+        "concrete-foundation.sbs",
+        "concretefoundation.sbs",
+        "concretefoundations.sbs",
+        "governance-concrete.icu",
+        "rewards-concrete.icu",
+        "rewards-concretefoundation.icu",
+        "vote-concrete.icu"
+      ]
+    },
+    {
       "email": "support@birdspin.com",
       "count": 10,
       "domains": [
@@ -647,6 +666,38 @@
         "birdspinslovenia.com",
         "birdspinsweden.com",
         "danryderpoet.com"
+      ]
+    },
+    {
+      "email": "support@highspin.com",
+      "count": 10,
+      "domains": [
+        "globeanswer.com",
+        "highspin-france.com",
+        "highspin-greece.com",
+        "highspin-netherlands.com",
+        "highspin-nl.net",
+        "highspincasino-fr.com",
+        "jacksonsprayfoaminsulation.com",
+        "retroemotion.com",
+        "uk-highspin1.com",
+        "veggieviews.com"
+      ]
+    },
+    {
+      "email": "support@casino-ra.com",
+      "count": 10,
+      "domains": [
+        "casino-ra.com",
+        "casino-ra101.com",
+        "casino-ra102.com",
+        "casino-ra103.com",
+        "casino-ra104.com",
+        "casino-ra105.com",
+        "casino-ra107.com",
+        "casino-ra108.com",
+        "casino-ra109.com",
+        "casino-ra110.com"
       ]
     },
     {
@@ -666,22 +717,6 @@
       ]
     },
     {
-      "email": "satoshi@concrete.xyz",
-      "count": 10,
-      "domains": [
-        "app-concretefoundation.icu",
-        "concrete-app.cfd",
-        "concrete-app.icu",
-        "concrete-foundation.icu",
-        "concrete-foundation.sbs",
-        "concretefoundation.sbs",
-        "concretefoundations.sbs",
-        "governance-concrete.icu",
-        "rewards-concrete.icu",
-        "rewards-concretefoundation.icu"
-      ]
-    },
-    {
       "email": "support@jojobet.com",
       "count": 10,
       "domains": [
@@ -695,36 +730,6 @@
         "jojobet82379.com",
         "jojobet82713.com",
         "jojobetgirisvip.com"
-      ]
-    },
-    {
-      "email": "support@highspin.com",
-      "count": 9,
-      "domains": [
-        "globeanswer.com",
-        "highspin-france.com",
-        "highspin-greece.com",
-        "highspin-netherlands.com",
-        "highspin-nl.net",
-        "highspincasino-fr.com",
-        "retroemotion.com",
-        "uk-highspin1.com",
-        "veggieviews.com"
-      ]
-    },
-    {
-      "email": "support@casino-ra.com",
-      "count": 9,
-      "domains": [
-        "casino-ra.com",
-        "casino-ra101.com",
-        "casino-ra102.com",
-        "casino-ra103.com",
-        "casino-ra104.com",
-        "casino-ra105.com",
-        "casino-ra107.com",
-        "casino-ra108.com",
-        "casino-ra109.com"
       ]
     },
     {
@@ -875,6 +880,19 @@
       ]
     },
     {
+      "email": "editorial@yacsports.org",
+      "count": 7,
+      "domains": [
+        "koooralive-tv.online",
+        "koooralivetvs.com",
+        "shoot-yalla.sbs",
+        "yalla-shhoot.online",
+        "yalla-shoot-tv.sbs",
+        "yallashooot-lives.com",
+        "yallashoootslive.com"
+      ]
+    },
+    {
       "email": "info@betonred.one",
       "count": 7,
       "domains": [
@@ -953,30 +971,6 @@
       ]
     },
     {
-      "email": "support@romanticai.com",
-      "count": 6,
-      "domains": [
-        "allindiaai.live",
-        "allindiadating.site",
-        "lovematchil.icu",
-        "tmeet.site",
-        "trendmeetind.icu",
-        "trendmeetup.site"
-      ]
-    },
-    {
-      "email": "contact@romanticai.com",
-      "count": 6,
-      "domains": [
-        "allindiaai.live",
-        "allindiadating.site",
-        "lovematchil.icu",
-        "tmeet.site",
-        "trendmeetind.icu",
-        "trendmeetup.site"
-      ]
-    },
-    {
       "email": "support@hostseo.com",
       "count": 6,
       "domains": [
@@ -986,6 +980,18 @@
         "globalactivepro.com",
         "heritageonecorp.com",
         "sterlingpathcore.com"
+      ]
+    },
+    {
+      "email": "contact@stake-casinos.in",
+      "count": 6,
+      "domains": [
+        "stake-casino-india-official.com",
+        "stake-casino-india.org",
+        "stake-casino-official-india.com",
+        "stake-india-official.com",
+        "stake-india-official.org",
+        "stake-official-india.org"
       ]
     }
   ]
