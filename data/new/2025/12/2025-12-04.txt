@@ -616,6 +616,7 @@ kra2.sbs
 kra2.today
 kra2.world
 kra3.bond
+kra3.fun
 kra3.lol
 kra3.quest
 kra3.sbs

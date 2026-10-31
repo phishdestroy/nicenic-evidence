@@ -384,6 +384,7 @@ mega-2-0.cc
 mega-marketplace.cc
 mega-moriarti.cc
 mega-sayt.cc
+mega-ssylka.cc
 mega-zerkalo.cc
 megaa-sb.cc
 megaasb.cc

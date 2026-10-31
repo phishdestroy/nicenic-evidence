@@ -49,14 +49,14 @@
 > 🔴 **LIVE INVESTIGATION FEED** &middot; Auto-updated &middot; Last fetch `2026-10-31`
 
 <table align="center"><tr>
-<td align="center"><b>📦 Domains tracked</b><br/><strong>424,662</strong></td>
-<td align="center"><b>💰 Est. annual value</b><br/><strong>$3,087,171</strong></td>
+<td align="center"><b>📦 Domains tracked</b><br/><strong>424,022</strong></td>
+<td align="center"><b>💰 Est. annual value</b><br/><strong>$3,080,270</strong></td>
 </tr><tr>
-<td align="center"><b>📡 Deployed</b><br/><strong>33.9%</strong></td>
+<td align="center"><b>📡 Deployed</b><br/><strong>34.1%</strong></td>
 <td align="center"><b>✅ IOC classified</b><br/><strong>71,028</strong> (65,600 HIGH)</td>
 </tr><tr>
-<td align="center"><b>⚡ Registered ≤7d</b><br/><strong>0.8%</strong></td>
-<td align="center"><b>🕵️ Serial regs</b><br/><strong>31</strong></td>
+<td align="center"><b>⚡ Registered ≤7d</b><br/><strong>1.1%</strong></td>
+<td align="center"><b>🕵️ Serial regs</b><br/><strong>34</strong></td>
 </tr></table>
 
 <details>
@@ -66,28 +66,28 @@
 
 | TLD | Count | Avg reg→expiry | Est. annual value |
 |:--|--:|--:|--:|
-| `.com` | 206,985 | 616d | $1,860,795 |
-| `.icu` | 41,413 | 377d | $40,999 |
-| `.vip` | 30,742 | 375d | $153,403 |
-| `.xyz` | 17,859 | 434d | $26,610 |
-| `.net` | 16,457 | 730d | $164,405 |
-| `.info` | 14,491 | 492d | $57,819 |
-| `.live` | 13,900 | 419d | $138,861 |
-| `.sbs` | 11,669 | 403d | $58,228 |
-| `.cfd` | 10,500 | 442d | $52,395 |
-| `.pro` | 8,896 | 401d | $71,079 |
+| `.com` | 206,166 | 614d | $1,853,432 |
+| `.icu` | 41,466 | 377d | $41,051 |
+| `.vip` | 30,718 | 375d | $153,283 |
+| `.xyz` | 17,771 | 431d | $26,479 |
+| `.net` | 16,361 | 727d | $163,446 |
+| `.info` | 14,559 | 491d | $58,090 |
+| `.live` | 13,925 | 419d | $139,111 |
+| `.sbs` | 11,703 | 402d | $58,398 |
+| `.cfd` | 10,512 | 442d | $52,455 |
+| `.pro` | 8,956 | 401d | $71,558 |
 
 ### 🌍 Top Hosting Countries
 
 ```
-US  ██████████████████      6,180 (28.4%)
-NL  ████████░░░░░░░░░░      3,010 (13.8%)
-DE  ██████░░░░░░░░░░░░      2,329 (10.7%)
-TR  ███░░░░░░░░░░░░░░░      1,185 (5.4%)
-CN  ███░░░░░░░░░░░░░░░      1,068 (4.9%)
-SE  ██░░░░░░░░░░░░░░░░      1,010 (4.6%)
-RU  ██░░░░░░░░░░░░░░░░        924 (4.2%)
-HK  ██░░░░░░░░░░░░░░░░        785 (3.6%)
+US  ██████████████████      6,159 (28.1%)
+NL  █████████░░░░░░░░░      3,086 (14.1%)
+DE  ██████░░░░░░░░░░░░      2,366 (10.8%)
+TR  ███░░░░░░░░░░░░░░░      1,126 (5.1%)
+CN  ███░░░░░░░░░░░░░░░      1,062 (4.8%)
+SE  ██░░░░░░░░░░░░░░░░      1,022 (4.7%)
+RU  ██░░░░░░░░░░░░░░░░        934 (4.3%)
+HK  ██░░░░░░░░░░░░░░░░        795 (3.6%)
 ```
 
 ### 📈 Registration Burst Days
@@ -97,18 +97,18 @@ HK  ██░░░░░░░░░░░░░░░░        785 (3.6%)
 | `2026-10-07` | 1,839 | **23.6×** 🚨 |
 | `2026-09-16` | 1,809 | **23.2×** 🚨 |
 | `2026-10-12` | 1,738 | **22.3×** 🚨 |
-| `2026-10-08` | 1,586 | **20.3×** 🚨 |
+| `2026-10-08` | 1,587 | **20.4×** 🚨 |
 | `2026-09-17` | 1,565 | **20.1×** 🚨 |
 
 ### 🎯 Top Targeted Brands & Keywords
 
-`coinbase (2,599)` &middot; `claim (2,458)` &middot; `login (2,145)` &middot; `official (1,806)` &middot; `wallet (1,681)` &middot; `secure (1,521)` &middot; `swap (1,411)` &middot; `ledger (1,358)` &middot; `token (1,340)` &middot; `support (1,255)` &middot; `crypto (1,242)` &middot; `trust (1,148)` &middot; `update (1,139)` &middot; `connect (1,138)` &middot; `kraken (1,109)`
+`coinbase (2,544)` &middot; `claim (2,398)` &middot; `login (2,140)` &middot; `official (1,843)` &middot; `wallet (1,685)` &middot; `secure (1,517)` &middot; `swap (1,403)` &middot; `ledger (1,354)` &middot; `token (1,329)` &middot; `support (1,259)` &middot; `crypto (1,229)` &middot; `trust (1,146)` &middot; `update (1,143)` &middot; `connect (1,134)` &middot; `kraken (1,090)`
 
 ### 🕵️ Top Serial Registrants — 50 emails with ≥5 domains
 
 | # | Registrant Email (redacted) | Domains |
 |--:|:--|--:|
-| 1 | `don***@opencart.com` | **42** |
+| 1 | `don***@opencart.com` | **43** |
 | 2 | `sup***@anonymixer.com` | **39** |
 | 3 | `con***@rocketx.exchange` | **37** |
 | 4 | `des***@slotvadi.com` | **28** |
