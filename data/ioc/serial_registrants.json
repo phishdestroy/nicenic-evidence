@@ -359,6 +359,28 @@
       ]
     },
     {
+      "email": "ornek@mail.com",
+      "count": 16,
+      "domains": [
+        "bettilt2026.app",
+        "grandpashark.com",
+        "hiltonbet-guncel.com",
+        "marsbahis-girer.vip",
+        "marsbahis1035.com",
+        "marsbahis1050.com",
+        "marsbahis1051.com",
+        "marsbahis1054.com",
+        "marsbahis1073.com",
+        "marsbahis1075.com",
+        "marsbahis1076.com",
+        "marsbahis1077.com",
+        "marsbahis1078.com",
+        "milasgrafik.com",
+        "trcrypto.net",
+        "vevohizmet.com"
+      ]
+    },
+    {
       "email": "privacypolicyupdates@automattic.com",
       "count": 16,
       "domains": [
@@ -378,27 +400,6 @@
         "trivial-riscv.com",
         "wordpressws.com",
         "wsswp.net"
-      ]
-    },
-    {
-      "email": "ornek@mail.com",
-      "count": 15,
-      "domains": [
-        "bettilt2026.app",
-        "grandpashark.com",
-        "hiltonbet-guncel.com",
-        "marsbahis1035.com",
-        "marsbahis1050.com",
-        "marsbahis1051.com",
-        "marsbahis1054.com",
-        "marsbahis1073.com",
-        "marsbahis1075.com",
-        "marsbahis1076.com",
-        "marsbahis1077.com",
-        "marsbahis1078.com",
-        "milasgrafik.com",
-        "trcrypto.net",
-        "vevohizmet.com"
       ]
     },
     {
@@ -443,26 +444,6 @@
       ]
     },
     {
-      "email": "seu@email.com",
-      "count": 14,
-      "domains": [
-        "crmpay.net",
-        "guiacarrofacil.com",
-        "guiacarroparticular.com",
-        "guiacentrodecarros.com",
-        "guiadoscarros.com",
-        "guiadoveiculonacional.com",
-        "guiadoveiculosbr.com",
-        "guiamanutencaoveicular.com",
-        "guiamecanicaauto.com",
-        "guiaservicosautomovel.com",
-        "guiaservicosveiculares.com",
-        "localizarpedido.com",
-        "portalcarroonline.com",
-        "portaldoautomovelonline.com"
-      ]
-    },
-    {
       "email": "support@lizaro.com",
       "count": 13,
       "domains": [
@@ -479,6 +460,25 @@
         "lizarohungary.com",
         "mrmathias.com",
         "oopslikit.com"
+      ]
+    },
+    {
+      "email": "seu@email.com",
+      "count": 13,
+      "domains": [
+        "crmpay.net",
+        "guiacarrofacil.com",
+        "guiacarroparticular.com",
+        "guiacentrodecarros.com",
+        "guiadoscarros.com",
+        "guiadoveiculonacional.com",
+        "guiadoveiculosbr.com",
+        "guiamanutencaoveicular.com",
+        "guiamecanicaauto.com",
+        "guiaservicosautomovel.com",
+        "guiaservicosveiculares.com",
+        "portalcarroonline.com",
+        "portaldoautomovelonline.com"
       ]
     },
     {
@@ -501,6 +501,43 @@
       ]
     },
     {
+      "email": "satoshi@concrete.xyz",
+      "count": 13,
+      "domains": [
+        "app-concretefoundation.icu",
+        "concrete-app.cfd",
+        "concrete-app.icu",
+        "concrete-foundation.icu",
+        "concrete-foundation.sbs",
+        "concretefoundation.sbs",
+        "concretefoundations.sbs",
+        "concretegovernance.click",
+        "dashboard-concrete.icu",
+        "governance-concrete.icu",
+        "rewards-concrete.icu",
+        "rewards-concretefoundation.icu",
+        "vote-concrete.icu"
+      ]
+    },
+    {
+      "email": "support@dragonia.com",
+      "count": 12,
+      "domains": [
+        "cattermoleglobal.com",
+        "diazepamshops.com",
+        "dragonia-eur.com",
+        "dragonia-kazino.com",
+        "gasclassiccars.com",
+        "hempmedhouston.com",
+        "iu7tsalb.com",
+        "lusimedicalco.com",
+        "prismalu.com",
+        "proton1985.com",
+        "vapelikit.com",
+        "virtus3-projekti.com"
+      ]
+    },
+    {
       "email": "support@1win.social",
       "count": 12,
       "domains": [
@@ -516,24 +553,6 @@
         "mines-canada.com",
         "plinko-canada.net",
         "swissgoldghana.com"
-      ]
-    },
-    {
-      "email": "satoshi@concrete.xyz",
-      "count": 12,
-      "domains": [
-        "app-concretefoundation.icu",
-        "concrete-app.cfd",
-        "concrete-app.icu",
-        "concrete-foundation.icu",
-        "concrete-foundation.sbs",
-        "concretefoundation.sbs",
-        "concretefoundations.sbs",
-        "dashboard-concrete.icu",
-        "governance-concrete.icu",
-        "rewards-concrete.icu",
-        "rewards-concretefoundation.icu",
-        "vote-concrete.icu"
       ]
     },
     {
@@ -621,23 +640,6 @@
         "qdmfeng.com",
         "sunlitefilm.com",
         "xzspeed.com"
-      ]
-    },
-    {
-      "email": "support@dragonia.com",
-      "count": 11,
-      "domains": [
-        "cattermoleglobal.com",
-        "diazepamshops.com",
-        "dragonia-eur.com",
-        "dragonia-kazino.com",
-        "gasclassiccars.com",
-        "hempmedhouston.com",
-        "iu7tsalb.com",
-        "lusimedicalco.com",
-        "prismalu.com",
-        "vapelikit.com",
-        "virtus3-projekti.com"
       ]
     },
     {
@@ -769,18 +771,33 @@
       ]
     },
     {
-      "email": "kupi.propisku@gmail.com",
+      "email": "support@winboost.com",
       "count": 9,
       "domains": [
-        "propiska-deti.com",
-        "propiska-domclick.com",
-        "propiska-garant.cloud",
-        "propiska-officialno.com",
-        "propiska-rebenka.com",
-        "propiska.info",
-        "school-propiska.com",
-        "sobstvenniki-propiska.com",
-        "vremennaia-registratsia.com"
+        "kerkendier.com",
+        "winboost-casino.com",
+        "winboost-france.com",
+        "winboost-france.net",
+        "winboost-netherlands.com",
+        "winboost-nl.net",
+        "winboost.org",
+        "winboostcasino-fr.com",
+        "winboostcasino-nl.com"
+      ]
+    },
+    {
+      "email": "admin@cosmovina.com",
+      "count": 9,
+      "domains": [
+        "brand-cos.com",
+        "f8bet-v1.fun",
+        "f8bet0vi.com",
+        "f8bet0vn.com",
+        "f8betd1.com",
+        "hyper-orion.com",
+        "purplerecords.net",
+        "timstorms.net",
+        "tototototo.to"
       ]
     },
     {
@@ -859,20 +876,6 @@
       ]
     },
     {
-      "email": "support@winboost.com",
-      "count": 8,
-      "domains": [
-        "winboost-casino.com",
-        "winboost-france.com",
-        "winboost-france.net",
-        "winboost-netherlands.com",
-        "winboost-nl.net",
-        "winboost.org",
-        "winboostcasino-fr.com",
-        "winboostcasino-nl.com"
-      ]
-    },
-    {
       "email": "easitripbooking@gmail.com",
       "count": 8,
       "domains": [
@@ -884,6 +887,20 @@
         "pisabet431.com",
         "sahibet552.com",
         "sahibet565.com"
+      ]
+    },
+    {
+      "email": "support@shikaka.com",
+      "count": 8,
+      "domains": [
+        "blasterexpert.com",
+        "cookhistoric.com",
+        "linux-easy.com",
+        "shikaka-australia.com",
+        "shikaka-france.com",
+        "shikaka.pro",
+        "shikaka1.net",
+        "toaddetour.com"
       ]
     },
     {
@@ -966,6 +983,19 @@
       ]
     },
     {
+      "email": "support@crhelpdesk.com",
+      "count": 7,
+      "domains": [
+        "cosmocasinos-nz.com",
+        "kingdom-casinos-nz.com",
+        "luxury-casinos-nz.com",
+        "luxurycasinos-canada.com",
+        "nostalgia-ca.com",
+        "quatrocasinos-nz.com",
+        "yukon-gold-casinos-nz.com"
+      ]
+    },
+    {
       "email": "support@amonbet.com",
       "count": 7,
       "domains": [
@@ -976,31 +1006,6 @@
         "amonbets-france.com",
         "amonbett-nl1.com",
         "caosgall.com"
-      ]
-    },
-    {
-      "email": "support@shikaka.com",
-      "count": 7,
-      "domains": [
-        "blasterexpert.com",
-        "cookhistoric.com",
-        "shikaka-australia.com",
-        "shikaka-france.com",
-        "shikaka.pro",
-        "shikaka1.net",
-        "toaddetour.com"
-      ]
-    },
-    {
-      "email": "support@hostseo.com",
-      "count": 6,
-      "domains": [
-        "blockchain-verify.com",
-        "chain-core.pro",
-        "copytradinglab.pro",
-        "globalactivepro.com",
-        "heritageonecorp.com",
-        "sterlingpathcore.com"
       ]
     }
   ]
