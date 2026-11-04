@@ -148,6 +148,7 @@ kra31att.cc
 kra31f.cc
 kra31s.cc
 kra32att.cc
+kra33.com
 kra34s.cc
 kraken-darknet-sayt.com
 kraken-darknet-ssylka.com

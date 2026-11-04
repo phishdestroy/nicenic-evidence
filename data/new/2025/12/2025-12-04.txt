@@ -623,6 +623,7 @@ kra3.sbs
 kra3.today
 kra3.world
 kra4.bond
+kra4.lol
 kra4.monster
 kra4.quest
 kra4.sbs
