@@ -109,6 +109,7 @@ blacksprut.chat
 blacksprut.cool
 blacksprut.games
 blacksprut.gold
+blacksprut.host
 blacksprut.lol
 blacksprut.page
 bloomsnipe.net
