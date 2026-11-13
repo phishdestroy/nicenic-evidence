@@ -764,6 +764,7 @@ romabet-hizligiris.bond
 romabet-plus.icu
 romega.cfd
 ryven.cloud
+safepal.click
 safepal.club
 safepal.company
 safepal.finance
