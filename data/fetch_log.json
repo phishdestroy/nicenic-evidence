@@ -1,0 +1,52 @@
+[
+  {
+    "date": "2026-11-01",
+    "count": 2656,
+    "path": "data/fetched/2026-11-01.txt"
+  },
+  {
+    "date": "2026-11-02",
+    "count": 1427,
+    "path": "data/fetched/2026-11-02.txt"
+  },
+  {
+    "date": "2026-11-03",
+    "count": 1132,
+    "path": "data/fetched/2026-11-03.txt"
+  },
+  {
+    "date": "2026-11-04",
+    "count": 1864,
+    "path": "data/fetched/2026-11-04.txt"
+  },
+  {
+    "date": "2026-11-05",
+    "count": 2325,
+    "path": "data/fetched/2026-11-05.txt"
+  },
+  {
+    "date": "2026-11-06",
+    "count": 2558,
+    "path": "data/fetched/2026-11-06.txt"
+  },
+  {
+    "date": "2026-11-07",
+    "count": 1322,
+    "path": "data/fetched/2026-11-07.txt"
+  },
+  {
+    "date": "2026-11-11",
+    "count": 5408,
+    "path": "data/fetched/2026-11-11.txt"
+  },
+  {
+    "date": "2026-11-12",
+    "count": 2076,
+    "path": "data/fetched/2026-11-12.txt"
+  },
+  {
+    "date": "2026-11-13",
+    "count": 1384,
+    "path": "data/fetched/2026-11-13.txt"
+  }
+]
