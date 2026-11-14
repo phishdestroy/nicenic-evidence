@@ -533,6 +533,7 @@ mgm1.cloud
 mgm1.info
 mgm1.live
 mgm1.online
+mgm1.store
 migrate-ethswarm.live
 mihaelatours.com
 miradacuro123.digital
