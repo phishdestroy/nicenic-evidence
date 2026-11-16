@@ -4,7 +4,7 @@
   "registrants": [
     {
       "email": "info@stroykatalog.ru",
-      "count": 47,
+      "count": 52,
       "domains": [
         "aristokraken.com",
         "druglink-darknet.com",
@@ -20,6 +20,7 @@
         "krakenpoint.com",
         "krakensell.com",
         "krakensphere.com",
+        "krekan-site.com",
         "krekansofa.com",
         "krekanweb.com",
         "krkn-kra.com",
@@ -43,10 +44,14 @@
         "sdlon3.cc",
         "sdlon7.cc",
         "slokn11.cc",
+        "slokn14.cc",
         "slokn19.cc",
         "slokn2.cc",
         "slokn4.cc",
+        "slokn8.cc",
         "slokn9.cc",
+        "slonj3.cc",
+        "slonj5.cc",
         "slonj9.cc",
         "web-darknet-market.com",
         "xn--krb11-sqa.cc",
@@ -146,46 +151,6 @@
       ]
     },
     {
-      "email": "donate@opencart.com",
-      "count": 34,
-      "domains": [
-        "afunmarket.com",
-        "artidomi.com",
-        "bionichepharm.com",
-        "bunnyjumping.com",
-        "buyluno.com",
-        "buyxira.com",
-        "cheerfuntec.com",
-        "eilell.com",
-        "falell.com",
-        "farmacia-onlines.com",
-        "getvirao.com",
-        "kintiac.com",
-        "lunexoza.com",
-        "minatoz.com",
-        "motoryxa.com",
-        "napsgear.store",
-        "norikoz.com",
-        "norivaq.com",
-        "para-farmacia-biofarma.com",
-        "partnivo.com",
-        "penthapharma.com",
-        "pharmacy77.com",
-        "pillshoprx24.com",
-        "qenavo.com",
-        "qoliraq.com",
-        "qonira.com",
-        "selorao.com",
-        "steroidi-shop.net",
-        "tiranoo.com",
-        "urbanmanchic.com",
-        "urheilu-karki.com",
-        "vorellc.com",
-        "xireto.com",
-        "zunetrax.com"
-      ]
-    },
-    {
       "email": "support@winshark.com",
       "count": 30,
       "domains": [
@@ -219,6 +184,40 @@
         "winsharkgermany.net",
         "winsharkit.net",
         "winsharkpl.net"
+      ]
+    },
+    {
+      "email": "donate@opencart.com",
+      "count": 28,
+      "domains": [
+        "afunmarket.com",
+        "artidomi.com",
+        "bionichepharm.com",
+        "bunnyjumping.com",
+        "buyxira.com",
+        "cheerfuntec.com",
+        "chicmanwear.com",
+        "eilell.com",
+        "farmacia-onlines.com",
+        "getvirao.com",
+        "lunexoza.com",
+        "minatoz.com",
+        "napsgear.store",
+        "newmanchic.com",
+        "norivaq.com",
+        "para-farmacia-biofarma.com",
+        "pharmacy77.com",
+        "pillshoprx24.com",
+        "qenavo.com",
+        "qoliraq.com",
+        "qonira.com",
+        "selorao.com",
+        "steroidi-shop.net",
+        "tiranoo.com",
+        "urbanmanchic.com",
+        "urheilu-karki.com",
+        "xireto.com",
+        "zunetrax.com"
       ]
     },
     {
@@ -412,7 +411,7 @@
     },
     {
       "email": "admin@learn.fitnesslifestylehub.in",
-      "count": 19,
+      "count": 20,
       "domains": [
         "bathnh.info",
         "brand-cos.com",
@@ -432,7 +431,85 @@
         "lakevillagearkansas.net",
         "purplerecords.net",
         "rtplivepro.com",
-        "timstorms.net"
+        "timstorms.net",
+        "tototototo.to"
+      ]
+    },
+    {
+      "email": "support@mostbet.com",
+      "count": 20,
+      "domains": [
+        "mostbet-casino-polska1.com",
+        "mostbet-glob.com",
+        "mostbet-kirish-uz.net",
+        "mostbet-online-nl.com",
+        "mostbet05924.online",
+        "mostbet18178.company",
+        "mostbet33465.online",
+        "mostbet46402.online",
+        "mostbet49581.online",
+        "mostbet50122.icu",
+        "mostbet55146.online",
+        "mostbet68566.icu",
+        "mostbet73713.online",
+        "mostbet76473.icu",
+        "mostbet78071.company",
+        "mostbetapp-hu.com",
+        "mostbetcasino-pe.com",
+        "mostbetcasino-tz.com",
+        "mostbetind.net",
+        "mostbets-it.com"
+      ]
+    },
+    {
+      "email": "support@jojobet.com",
+      "count": 20,
+      "domains": [
+        "jojobet10034.com",
+        "jojobet10069.com",
+        "jojobet10075.com",
+        "jojobet10082.com",
+        "jojobet10089.com",
+        "jojobet10097.com",
+        "jojobet10111.com",
+        "jojobet10119.com",
+        "jojobet10139.com",
+        "jojobet10157.com",
+        "jojobet11057.com",
+        "jojobet11077.com",
+        "jojobet12172.com",
+        "jojobet16606.com",
+        "jojobet17707.com",
+        "jojobet82379.com",
+        "jojobet82417.com",
+        "jojobet82472.com",
+        "jojobetgiris.ink",
+        "jojobetgirisvip.com"
+      ]
+    },
+    {
+      "email": "support@lizaro.com",
+      "count": 19,
+      "domains": [
+        "2026casino.vip",
+        "bookmakers-stranieri.com",
+        "bookmakers-stranieri.net",
+        "directartactionuk.com",
+        "giftedpurl.com",
+        "gregpgv.com",
+        "lizaro-italy.com",
+        "lizaro-kaszino.com",
+        "lizaro-poland.com",
+        "lizaro.pro",
+        "lizarocasino-uk.pro",
+        "lizarofrance.com",
+        "lizarogames-ar.com",
+        "lizarohu.com",
+        "lizarohungary.com",
+        "lizarovip-de.com",
+        "migliori-bookmakers-stranieri.com",
+        "mrmathias.com",
+        "oopslikit.com"
       ]
     },
     {
@@ -461,28 +538,28 @@
       ]
     },
     {
-      "email": "support@jojobet.com",
+      "email": "hello@lumen.studio",
       "count": 19,
       "domains": [
-        "jojobet10034.com",
-        "jojobet10069.com",
-        "jojobet10075.com",
-        "jojobet10082.com",
-        "jojobet10089.com",
-        "jojobet10097.com",
-        "jojobet10111.com",
-        "jojobet10119.com",
-        "jojobet10139.com",
-        "jojobet10157.com",
-        "jojobet11057.com",
-        "jojobet11077.com",
-        "jojobet16606.com",
-        "jojobet17707.com",
-        "jojobet82379.com",
-        "jojobet82417.com",
-        "jojobet82472.com",
-        "jojobetgiris.ink",
-        "jojobetgirisvip.com"
+        "cmpound.xyz",
+        "cmppound.xyz",
+        "comoound.xyz",
+        "compiund.xyz",
+        "compoind.xyz",
+        "componud.xyz",
+        "compoubd.xyz",
+        "compoudn.xyz",
+        "compoundd.xyz",
+        "compoundxyz.com",
+        "compounf.xyz",
+        "compouund.xyz",
+        "compoynd.xyz",
+        "comppund.xyz",
+        "coompound.xyz",
+        "copound.xyz",
+        "cpmpound.xyz",
+        "ompound.xyz",
+        "xompound.xyz"
       ]
     },
     {
@@ -510,32 +587,8 @@
       ]
     },
     {
-      "email": "support@mostbet.com",
-      "count": 18,
-      "domains": [
-        "mostbet-casino-polska1.com",
-        "mostbet-glob.com",
-        "mostbet-kirish-uz.net",
-        "mostbet-online-nl.com",
-        "mostbet05924.online",
-        "mostbet46402.online",
-        "mostbet49581.online",
-        "mostbet50122.icu",
-        "mostbet55146.online",
-        "mostbet68566.icu",
-        "mostbet73713.online",
-        "mostbet76473.icu",
-        "mostbet78071.company",
-        "mostbetapp-hu.com",
-        "mostbetcasino-pe.com",
-        "mostbetcasino-tz.com",
-        "mostbetind.net",
-        "mostbets-it.com"
-      ]
-    },
-    {
       "email": "partners@jojobet.com",
-      "count": 17,
+      "count": 18,
       "domains": [
         "jojobet10034.com",
         "jojobet10069.com",
@@ -549,6 +602,7 @@
         "jojobet10157.com",
         "jojobet11057.com",
         "jojobet11077.com",
+        "jojobet12172.com",
         "jojobet16606.com",
         "jojobet17707.com",
         "jojobet82379.com",
@@ -558,7 +612,7 @@
     },
     {
       "email": "press@jojobet.com",
-      "count": 17,
+      "count": 18,
       "domains": [
         "jojobet10034.com",
         "jojobet10069.com",
@@ -572,6 +626,7 @@
         "jojobet10157.com",
         "jojobet11057.com",
         "jojobet11077.com",
+        "jojobet12172.com",
         "jojobet16606.com",
         "jojobet17707.com",
         "jojobet82379.com",
@@ -581,7 +636,7 @@
     },
     {
       "email": "sikayet@jojobet.com",
-      "count": 17,
+      "count": 18,
       "domains": [
         "jojobet10034.com",
         "jojobet10069.com",
@@ -595,6 +650,7 @@
         "jojobet10157.com",
         "jojobet11057.com",
         "jojobet11077.com",
+        "jojobet12172.com",
         "jojobet16606.com",
         "jojobet17707.com",
         "jojobet82379.com",
@@ -603,47 +659,72 @@
       ]
     },
     {
-      "email": "support@lizaro.com",
-      "count": 16,
+      "email": "support@1win.social",
+      "count": 18,
       "domains": [
-        "2026casino.vip",
-        "bookmakers-stranieri.net",
-        "directartactionuk.com",
-        "giftedpurl.com",
-        "gregpgv.com",
-        "lizaro-italy.com",
-        "lizaro-kaszino.com",
-        "lizaro-poland.com",
-        "lizaro.pro",
-        "lizarocasino-uk.pro",
-        "lizarofrance.com",
-        "lizarohu.com",
-        "lizarohungary.com",
-        "lizarovip-de.com",
-        "mrmathias.com",
-        "oopslikit.com"
+        "1win-bet-brasil.win",
+        "1win-casino-md.com",
+        "1win-india-official.org",
+        "1win15750.icu",
+        "1win20055.icu",
+        "1win31096.icu",
+        "1win68833.icu",
+        "1win78434.icu",
+        "1win96736.icu",
+        "1winex.com",
+        "1wins-md.com",
+        "1winsmalaysia.com",
+        "brazil-1win.com",
+        "dr-ghanavati.com",
+        "ghana-invest.org",
+        "ghana-store.com",
+        "latvianconsulateinghana.com",
+        "swissgoldghana.com"
       ]
     },
     {
-      "email": "ornek@mail.com",
+      "email": "id@mostbet.com",
+      "count": 17,
+      "domains": [
+        "mostbet-de.app",
+        "mostbet-glob.com",
+        "mostbet-inr.net",
+        "mostbet05924.online",
+        "mostbet18178.company",
+        "mostbet33465.online",
+        "mostbet46402.online",
+        "mostbet49581.online",
+        "mostbet50122.icu",
+        "mostbet55146.online",
+        "mostbet68566.icu",
+        "mostbet73713.online",
+        "mostbet76473.icu",
+        "mostbet78071.company",
+        "mostbetcasino-tz.com",
+        "mostbetkirish.net",
+        "mostbetonlinebet.com"
+      ]
+    },
+    {
+      "email": "support@crhelpdesk.com",
       "count": 16,
       "domains": [
-        "bettilt2026.app",
-        "grandpashark.com",
-        "hiltonbet-guncel.com",
-        "marsbahis-girer.vip",
-        "marsbahis1035.com",
-        "marsbahis1050.com",
-        "marsbahis1051.com",
-        "marsbahis1054.com",
-        "marsbahis1075.com",
-        "marsbahis1076.com",
-        "marsbahis1077.com",
-        "marsbahis1078.com",
-        "marsbahis1082.com",
-        "milasgrafik.com",
-        "trcrypto.net",
-        "vevohizmet.com"
+        "actitonwin-fr.com",
+        "blackjackballroomcasino-quebec.com",
+        "capitaine-cook-casino-canada.com",
+        "captainspin-ca.com",
+        "classicvip-ca.com",
+        "colosseumvip-ca.com",
+        "cosmocasinos-nz.com",
+        "goldentigertop-ca.com",
+        "grandmondialcasinobet-ca.com",
+        "kingdom-casinos-nz.com",
+        "luxury-casinos-nz.com",
+        "luxurycasinos-canada.com",
+        "nostalgia-ca.com",
+        "quatrocasinos-nz.com",
+        "yukon-gold-casinos-nz.com",
+        "yukongoldcasinos-canada.com"
       ]
     },
     {
@@ -668,43 +749,23 @@
       ]
     },
     {
-      "email": "hello@sugarlab.ai",
+      "email": "vip@highspin.com",
       "count": 14,
       "domains": [
-        "aigirlfriend1.site",
-        "allindiaai.live",
-        "allindiadating.site",
-        "hotchat.today",
-        "ilsugerlab.cyou",
-        "lovematchil.icu",
-        "lovematchil1.sbs",
-        "sugarlab-1.site",
-        "sugerlab.cyou",
-        "tmeet.site",
-        "trendmatch.icu",
-        "trendmeetind.icu",
-        "trendmeetup.site",
-        "xdollworld.cyou"
-      ]
-    },
-    {
-      "email": "support@crhelpdesk.com",
-      "count": 14,
-      "domains": [
-        "blackjackballroomcasino-quebec.com",
-        "capitaine-cook-casino-canada.com",
-        "captainspin-ca.com",
-        "classicvip-ca.com",
-        "colosseumvip-ca.com",
-        "cosmocasinos-nz.com",
-        "goldentigertop-ca.com",
-        "kingdom-casinos-nz.com",
-        "luxury-casinos-nz.com",
-        "luxurycasinos-canada.com",
-        "nostalgia-ca.com",
-        "quatrocasinos-nz.com",
-        "yukon-gold-casinos-nz.com",
-        "yukongoldcasinos-canada.com"
+        "canoubijoux.com",
+        "casino-highspin.com",
+        "fietsbronwater.com",
+        "high-spin-uk.com",
+        "high-spin.games",
+        "high-spins.pro",
+        "highspin-france.com",
+        "highspin-netherlands.com",
+        "highspin-nl.net",
+        "highspin-uk.com",
+        "highspin1.net",
+        "highspins-uk.com",
+        "la-maison-bulle.com",
+        "stichtingbeulah.com"
       ]
     },
     {
@@ -728,26 +789,6 @@
       ]
     },
     {
-      "email": "seu@email.com",
-      "count": 14,
-      "domains": [
-        "cassinobox.xyz",
-        "crmpay.net",
-        "guiacarrofacil.com",
-        "guiacarroparticular.com",
-        "guiacentrodecarros.com",
-        "guiadoscarros.com",
-        "guiadoveiculonacional.com",
-        "guiadoveiculosbr.com",
-        "guiamanutencaoveicular.com",
-        "guiamecanicaauto.com",
-        "guiaservicosautomovel.com",
-        "guiaservicosveiculares.com",
-        "portalcarroonline.com",
-        "portaldoautomovelonline.com"
-      ]
-    },
-    {
       "email": "support@changelly.com",
       "count": 14,
       "domains": [
@@ -765,26 +806,6 @@
         "chzngelly.com",
         "cuangelly.com",
         "czangelly.com"
-      ]
-    },
-    {
-      "email": "support@1win.social",
-      "count": 14,
-      "domains": [
-        "1win-bet-brasil.win",
-        "1win-casino-md.com",
-        "1win20055.icu",
-        "1win31096.icu",
-        "1win68833.icu",
-        "1win78434.icu",
-        "1winex.com",
-        "1wins-md.com",
-        "brazil-1win.com",
-        "dr-ghanavati.com",
-        "ghana-invest.org",
-        "ghana-store.com",
-        "latvianconsulateinghana.com",
-        "swissgoldghana.com"
       ]
     },
     {
@@ -848,41 +869,97 @@
       ]
     },
     {
-      "email": "vip@highspin.com",
+      "email": "hello@sugarlab.ai",
       "count": 13,
       "domains": [
-        "canoubijoux.com",
-        "casino-highspin.com",
-        "fietsbronwater.com",
-        "high-spin-uk.com",
-        "high-spin.games",
-        "high-spins.pro",
-        "highspin-france.com",
-        "highspin-netherlands.com",
-        "highspin-nl.net",
-        "highspin-uk.com",
-        "highspins-uk.com",
-        "la-maison-bulle.com",
-        "stichtingbeulah.com"
+        "allindiaai.live",
+        "allindiadating.site",
+        "hotchat.today",
+        "ilsugerlab.cyou",
+        "lovematchil.icu",
+        "lovematchil1.sbs",
+        "sugarlab-1.site",
+        "sugerlab.cyou",
+        "tmeet.site",
+        "trendmatch.icu",
+        "trendmeetind.icu",
+        "trendmeetup.site",
+        "xdollworld.cyou"
       ]
     },
     {
-      "email": "id@mostbet.com",
+      "email": "support@dudespin.com",
       "count": 13,
       "domains": [
-        "mostbet-de.app",
-        "mostbet-glob.com",
-        "mostbet-inr.net",
-        "mostbet05924.online",
-        "mostbet46402.online",
-        "mostbet49581.online",
-        "mostbet50122.icu",
-        "mostbet55146.online",
-        "mostbet68566.icu",
-        "mostbet73713.online",
-        "mostbet76473.icu",
-        "mostbet78071.company",
-        "mostbetkirish.net"
+        "abysse-tech.com",
+        "baystatelocal.com",
+        "dudespin-hungary.com",
+        "dudespin-italy.net",
+        "dudespin-portugal.com",
+        "dudespinwin-de.com",
+        "dudespinwin-it.com",
+        "dudewin-ca.com",
+        "dudewin-pl.com",
+        "encontrosdaeira.com",
+        "fastfixuae.com",
+        "muzigyasa.com",
+        "zonaspeed.com"
+      ]
+    },
+    {
+      "email": "seu@email.com",
+      "count": 13,
+      "domains": [
+        "cassinobox.xyz",
+        "crmpay.net",
+        "guiacarrofacil.com",
+        "guiacarroparticular.com",
+        "guiadoscarros.com",
+        "guiadoveiculonacional.com",
+        "guiadoveiculosbr.com",
+        "guiamanutencaoveicular.com",
+        "guiamecanicaauto.com",
+        "guiaservicosautomovel.com",
+        "guiaservicosveiculares.com",
+        "portalcarroonline.com",
+        "portaldoautomovelonline.com"
+      ]
+    },
+    {
+      "email": "admin@shapebtc.com",
+      "count": 13,
+      "domains": [
+        "hapebtc.com",
+        "hsapebtc.com",
+        "shaebtc.com",
+        "shaepbtc.com",
+        "shapbetc.com",
+        "shapebttc.com",
+        "shapeebtc.com",
+        "shapetc.com",
+        "shappebtc.com",
+        "shhapebtc.com",
+        "shpaebtc.com",
+        "shpebtc.com",
+        "sshapebtc.com"
+      ]
+    },
+    {
+      "email": "ornek@mail.com",
+      "count": 12,
+      "domains": [
+        "grandpashark.com",
+        "hiltonbet-guncel.com",
+        "marsbahis1035.com",
+        "marsbahis1051.com",
+        "marsbahis1054.com",
+        "marsbahis1075.com",
+        "marsbahis1076.com",
+        "marsbahis1078.com",
+        "marsbahis1082.com",
+        "milasgrafik.com",
+        "trcrypto.net",
+        "vevohizmet.com"
       ]
     },
     {
@@ -904,21 +981,39 @@
       ]
     },
     {
-      "email": "deine@email.de",
+      "email": "help@voxcasino.com",
       "count": 12,
       "domains": [
-        "at-autos.digital",
-        "autobanhe.digital",
-        "autos-at.digital",
-        "autosstrasse-at.digital",
-        "autostrase.pro",
-        "checktec-digital.live",
-        "eulopaprak.pro",
-        "eupoparapk.pro",
-        "euporaparlk.pro",
-        "meisterwerkstatt.pro",
-        "mydestrabe.pro",
-        "strasnova.digital"
+        "duospin.online",
+        "spinbaracasino.games",
+        "vox-casino-polska2.com",
+        "vox-kasyno.net",
+        "voxcasino-polska.net",
+        "voxcasino28.com",
+        "voxcasino35.com",
+        "voxcasinopt.com",
+        "voxfox-ca.com",
+        "voxmax-pt.com",
+        "voxwin-es.com",
+        "winwinslots.net"
+      ]
+    },
+    {
+      "email": "hello@quill.studio",
+      "count": 12,
+      "domains": [
+        "dyncswap.xyz",
+        "snycswap.xyz",
+        "syncawap.xyz",
+        "syncsap.xyz",
+        "syncsawp.xyz",
+        "syncsqap.xyz",
+        "syncswa.xyz",
+        "syncswpa.xyz",
+        "syncswwap.xyz",
+        "syncwsap.xyz",
+        "synscwap.xyz",
+        "synvswap.xyz"
       ]
     },
     {
@@ -940,21 +1035,21 @@
       ]
     },
     {
-      "email": "hello@lumen.studio",
+      "email": "support@coincraddle.com",
       "count": 12,
       "domains": [
-        "cmpound.xyz",
-        "comoound.xyz",
-        "compiund.xyz",
-        "compoind.xyz",
-        "componud.xyz",
-        "compoubd.xyz",
-        "compounf.xyz",
-        "compouund.xyz",
-        "compoynd.xyz",
-        "comppund.xyz",
-        "copound.xyz",
-        "ompound.xyz"
+        "coinccraddle.com",
+        "coincraaddle.com",
+        "coincradddle.com",
+        "coincraddl.com",
+        "coincraddlee.com",
+        "coincraddlle.com",
+        "coincradlle.com",
+        "coincrraddle.com",
+        "coinrcaddle.com",
+        "conicraddle.com",
+        "cooincraddle.com",
+        "oincraddle.com"
       ]
     },
     {
@@ -1043,35 +1138,19 @@
       ]
     },
     {
-      "email": "tu@correo.com",
+      "email": "disputes@egis-adr.com",
       "count": 10,
       "domains": [
-        "etnel.digital",
-        "morn.digital",
-        "vvom-cl.digital",
-        "vvorn.pro",
-        "vvorrm.digital",
-        "vvorrn.digital",
-        "vvorrn.pro",
-        "wolme.pro",
-        "wonn.digital",
-        "worn.digital"
-      ]
-    },
-    {
-      "email": "support@dudespin.com",
-      "count": 10,
-      "domains": [
-        "abysse-tech.com",
-        "baystatelocal.com",
-        "dudespin-hungary.com",
-        "dudespin-italy.net",
-        "dudespin-portugal.com",
-        "dudewin-ca.com",
-        "encontrosdaeira.com",
-        "fastfixuae.com",
-        "muzigyasa.com",
-        "zonaspeed.com"
+        "5gringostop-de.com",
+        "bohospin-ca.com",
+        "fairspincz.com",
+        "rubyreelsbet-ca.com",
+        "rubyreelswin-au.com",
+        "staywin-ca.com",
+        "vegastarsonline-casino.com",
+        "winnagames-au.com",
+        "winnagames-de.com",
+        "woocasinos-nz.com"
       ]
     },
     {
@@ -1091,81 +1170,33 @@
       ]
     },
     {
-      "email": "support@coincraddle.com",
-      "count": 10,
-      "domains": [
-        "coinccraddle.com",
-        "coincraaddle.com",
-        "coincraddl.com",
-        "coincraddlee.com",
-        "coincraddlle.com",
-        "coincrraddle.com",
-        "coinrcaddle.com",
-        "conicraddle.com",
-        "cooincraddle.com",
-        "oincraddle.com"
-      ]
-    },
-    {
-      "email": "privacypolicyupdates@automattic.com",
-      "count": 10,
-      "domains": [
-        "ctr-namespace.com",
-        "entitypem.com",
-        "inboxmemento.com",
-        "numpy-esbuild.com",
-        "rtree-neovim.com",
-        "screenshot.show",
-        "socket-wordpress.com",
-        "socket-wordpress.net",
-        "wordpressws.com",
-        "wsswp.net"
-      ]
-    },
-    {
-      "email": "admin@shapebtc.com",
-      "count": 10,
-      "domains": [
-        "hapebtc.com",
-        "hsapebtc.com",
-        "shaebtc.com",
-        "shaepbtc.com",
-        "shapbetc.com",
-        "shapeebtc.com",
-        "shapetc.com",
-        "shappebtc.com",
-        "shpaebtc.com",
-        "sshapebtc.com"
-      ]
-    },
-    {
-      "email": "support@nv.casino",
+      "email": "tapchigiambeocom@gmail.com",
       "count": 9,
       "domains": [
-        "nl-nvcasino.com",
-        "nv-kasyno.net",
-        "nv-sk.casino",
-        "nvbet-fr.com",
-        "nvcasinno.com",
-        "nvcasino19.com",
-        "nvcasino19.info",
-        "nvcasinowin-es.com",
-        "nvgames-ca.com"
+        "bestgenericpill.com",
+        "daddycoding.com",
+        "dizibrand.com",
+        "grandvape.vip",
+        "hrhientai.com",
+        "mechsunshine.com",
+        "superityofficial.com",
+        "top8vietnam.com",
+        "web-sun-win.com"
       ]
     },
     {
-      "email": "info@betonred.one",
+      "email": "lienhe@f8bet.com",
       "count": 9,
       "domains": [
-        "betonred-2.com",
-        "betonred-casino.club",
-        "betonred-casino.mobi",
-        "betonred13.com",
-        "betonred17.com",
-        "betonred25.com",
-        "betonred34.com",
-        "betonredcasino-eu.com",
-        "betonredcasino.world"
+        "bathnh.info",
+        "bulpress.net",
+        "community2525.net",
+        "f8bet-v2.fun",
+        "farafiltru.net",
+        "feklistov.net",
+        "lakevillagearkansas.net",
+        "rtplivepro.com",
+        "tototototo.to"
       ]
     }
   ]
