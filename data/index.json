@@ -34603,12 +34603,12 @@
   },
   "catch_age_buckets": {
     "same_day": 0,
-    "within_week": 5780,
-    "within_month": 21474,
-    "older": 366742
+    "within_week": 5127,
+    "within_month": 21419,
+    "older": 367450
   },
-  "avg_catch_age_days": 296,
-  "fresh_pct": 1.5,
+  "avg_catch_age_days": 297,
+  "fresh_pct": 1.3,
   "burst_days": [
     {
       "date": "2026-11-04",
@@ -34720,8 +34720,8 @@
   },
   "unranked_pct": 99.6,
   "ranked_count": 1506,
-  "correlation_count": 24685,
-  "correlation_pct": 6.3,
-  "last_updated": "2026-11-15",
+  "correlation_count": 24400,
+  "correlation_pct": 6.2,
+  "last_updated": "2026-11-16",
   "latest_reg": "2026-11-14"
 }
