@@ -166,7 +166,6 @@ official	avvabetofficialsite.icu
 official	awakenyofficial.com
 official	ayononton-official.cyou
 official	baglanfilmizle1-official.cyou
-official	bahiscasino-2025official.com
 official	bahiscasino-official-2025.com
 official	bahiscasino-official.icu
 official	bahisfairofficial2026.vip
@@ -198,6 +197,7 @@ official	bet-official-adres.com
 official	bet-official-adres2025.com
 official	bet-official-giris2025.com
 official	bet-official2026.com
+official	bet-officialgiris2025.com
 login	1234loginteam.com
 login	13lgamelogin.com
 login	1login.digital
@@ -274,6 +274,7 @@ login	app-control-login.com
 login	app-gestion-loginweb.com
 login	app-gestioneslogin.com
 login	app-gestionweb-login.com
+login	app-inicio-login.com
 login	app-inicio-loginweb.com
 login	app-iniciologin.com
 login	app-login-accesoweb.com
@@ -306,7 +307,6 @@ login	atlas-gaming-login.vip
 login	atlasbetlogin.vip
 login	atologin-manage.com
 login	atologin-manage.info
-login	au-login.digital
 login	auth-login-ausgov.com
 login	auth-login-austragov.com
 login	auth-login-gate4.com
@@ -412,7 +412,6 @@ claim	ag-claim.info
 claim	ag-claims.app
 claim	aibinance-claim.xyz
 claim	alldomains-claim-foundation.pro
-claim	allevmclaimsite.xyz
 claim	allevmclaimsites.xyz
 claim	allevmsdropclaim.xyz
 claim	alloraclaims.live
@@ -501,7 +500,6 @@ claim	bpclaim.net
 claim	brettclaim.live
 claim	brevis-claim.xyz
 claim	btchyper-claim.com
-claim	bullishdegen-claiming.com
 claim	bullzillaclaim.live
 claim	bullzillaclaim.xyz
 claim	cake-claiming.app
@@ -598,6 +596,8 @@ claim	claim-casinocoin.xyz
 claim	claim-catecoin.com
 claim	claim-cetus.zone
 claim	claim-cgeb-benefit.info
+claim	claim-chainopera.xyz
+claim	claim-chainoperaai.xyz
 coinbase	002271-coinbase.com
 coinbase	002271coinbase.com
 coinbase	004925coinbase.com
@@ -674,7 +674,6 @@ coinbase	1290130coinbase.com
 coinbase	129322c-coinbase.com
 coinbase	129322coinbase.com
 coinbase	129521coinbase.com
-coinbase	129524coinbase.com
 coinbase	129626coinbase.com
 coinbase	131048coinbase.com
 coinbase	133750-coinbase.com
@@ -798,6 +797,7 @@ coinbase	209110coinbase.com
 coinbase	214622coinbase.com
 coinbase	214993coinbase.com
 coinbase	218412coinbase.com
+coinbase	218904coinbase.com
 wallet	114229-wallet.com
 wallet	1amwallet.com
 wallet	1amwallet.xyz
@@ -902,7 +902,6 @@ wallet	bestwalletdesktop.store
 wallet	bestwalletoken.pro
 wallet	bestwalletokens.live
 wallet	bestwallets-token.com
-wallet	bestwallets.net
 wallet	bestwalletsecure.com
 wallet	bestwallettoken-claim.info
 wallet	bestwallettoken.claims
@@ -998,6 +997,7 @@ wallet	cakewalletsdesktop.live
 wallet	cakewalletsdesktops.live
 wallet	card--trustwallet.com
 wallet	card-trustwallet.com
+wallet	cardstrustwallet.com
 secure	0nlinesecure.info
 secure	19023-secure.com
 secure	1secure-chase.com
@@ -1126,6 +1126,7 @@ secure	checkatbsecure1.online
 secure	checkbmosecure1.online
 secure	checkcibcsecure1.online
 secure	checksecurebmo1.online
+secure	cibc-authentificationsecure.com
 secure	cibc-secureaccess.com
 secure	cibc-securedaccess.com
 secure	cibc-securedweb.com
@@ -1139,7 +1140,6 @@ secure	cibcsecuredesk.support
 secure	cibcsecuredreset.com
 secure	cibcsecuredresolutions.com
 secure	cibcsecurehelp.com
-secure	cibcsecureidportal-authcibc.com
 secure	cibcsecureme.com
 secure	cibcsecureregister.com
 secure	cibcsecuresign.com
@@ -1175,7 +1175,6 @@ secure	creditagricolesecure.com
 secure	crypsecuredex.com
 secure	crypsecurelabs.com
 secure	crypsecurenode.com
-secure	cryptsecuredex.com
 secure	cuofco-secure.com
 secure	cx14577-secure.info
 secure	cyclenetixsecure-endpoint.app
@@ -1198,6 +1197,7 @@ secure	easyweb-securetdonline.com
 secure	easywebsecureddevice.com
 secure	eba-secure.com
 secure	efactura-secure.com
+secure	ellipalsecured.com
 ledger	01-ledger.com
 ledger	0182778-ledger.com
 ledger	02-ledger.com
@@ -1589,7 +1589,6 @@ swap	crypto-swap-no-kyc.exchange
 swap	cryptoswap.cc
 swap	crystal-swap.com
 swap	cswaprevoke.live
-swap	curve-crv-swap.live
 swap	curve-crypto-swap-dao-pools.com
 swap	curve-fi-swap-dao-pools-swap.com
 swap	curve-fi-swap-dao-pools.com
@@ -1598,8 +1597,8 @@ swap	curve-swap-home.com
 swap	curveswap-dao-pools.com
 swap	cuvreswap.pro
 swap	cuvreswap.trade
+swap	cwoswap.pro
 support	029250-support.com
-support	0myidsupportdesk.live
 support	0nlinesupport.info
 support	0nlinesupportdesk.info
 support	1-royalbankcustomersupport.com
@@ -1636,6 +1635,7 @@ support	aibsupportibb.com
 support	aibsupportlive.com
 support	aide-supporthelpaccesd.info
 support	airwallexcustomerlivesupport.com
+support	airwallexcustomersupportchat.com
 support	airwallexdesksupport.com
 support	airwallexglobalsupport.com
 support	airwallexhelpsupport.com
@@ -1858,6 +1858,7 @@ crypto	288100-crypto.com
 crypto	291198-crypto.com
 crypto	292041-crypto.com
 crypto	294115-crypto.com
+crypto	294116-crypto.com
 crypto	294167-crypto.com
 crypto	294198-crypto.com
 crypto	294531-crypto.com
@@ -1997,7 +1998,6 @@ crypto	980100-crypto.com
 crypto	982379-crypto.com
 crypto	982742-crypto.com
 crypto	983644crypto.com
-crypto	983773crypto.com
 trust	1trusted.live
 trust	1win-trust2026.icu
 trust	1win-trustworthy.icu
@@ -2412,12 +2412,12 @@ token	actualizacion-token-empresarial.com
 token	actualizacion-token-identidad.com
 token	actualizacion-token-plataforma.com
 token	actualizacion-token-seguridad.com
-token	add-tokens.com
 token	aerotoken.live
 token	aevotoken.live
 token	ag-token.xyz
 token	ag-tokens.sbs
 token	agixtoken.app
+token	agretokenmail.com
 token	akitatoken.xyz
 token	aliabdaaltoken.lol
 token	allocation-laptoptoken.com
@@ -2629,7 +2629,6 @@ update	adobepage-update.rest
 update	adobepdfupdate.live
 update	adobesoftware-update2026.cfd
 update	adobeupdate.website
-update	adobeupdater.com
 update	agb-update.cfd
 update	aigents-update.live
 update	ainft-updates.live
@@ -2798,6 +2797,7 @@ update	dcentupdate.com
 update	dcentwaiiet-update.xyz
 update	dcentwaiiet-updated.xyz
 update	dcentwalletfirmwareupdate.com
+update	dcentwalletupdate.live
 kraken	076261-kraken.com
 kraken	097414kraken.com
 kraken	109281-kraken.com
@@ -3178,6 +3178,7 @@ account	accountshelpkraken.com
 account	accountsingoogle.com
 account	accountsintuit.info
 account	accountslogingoolge.com
+account	accountsmethods.online
 account	accountsoffice-logins.com
 account	accountsongoogle.com
 account	accountsonline360.live
@@ -3197,7 +3198,6 @@ account	ad-account-google.com
 account	adp-account.com
 account	ads-account-google.com
 account	ads-account-googte.com
-account	ads-accounts-google.com
 verify	500px-verify.com
 verify	access-verify.com
 verify	accessverify.pro
@@ -3365,7 +3365,6 @@ verify	matbet-myverify.com
 verify	matbetverify2026.live
 verify	matqet-verifylogin.com
 verify	matrica-verify.app
-verify	matrica-verify.com
 verify	mediaverify-x.com
 verify	memberverify.pro
 verify	meritrust-verify.com
@@ -3379,7 +3378,9 @@ verify	mrtkngverify.com
 verify	myassessmentverify.info
 verify	myauincomeverify.info
 verify	myloginverify.com
+verify	n-s-verify.com
 verify	n26-verify.online
+verify	nabcallverify.com
 verify	nabcomputerverify.com
 verify	nabconnectliveverify.com
 verify	nabconnectverify.com
@@ -3397,7 +3398,6 @@ verify	newresetsverify.com
 verify	nfcu-verify00743.support
 verify	nymcuverify.support
 verify	official-swap-verify.com
-verify	onchainverify.live
 vault	177253-cbvault.com
 vault	1password-vault.info
 vault	382741-coinbasevault.com
@@ -3456,6 +3456,7 @@ vault	blueplatevault.com
 vault	bluevaultddexeris.live
 vault	bluevaultdexeris-ai.com
 vault	bonusspinvault.com
+vault	bonusvaultpage.com
 vault	boxvault.rest
 vault	brightvaultmere.net
 vault	brightvaultmere.pro
@@ -3510,9 +3511,9 @@ vault	coupon-vault.com
 vault	couponvault.vip
 vault	crepsvault.com
 vault	crestvaultshire.net
-vault	crimevault.icu
 vault	crypto-vault.finance
 vault	crypto-vault.ltd
+vault	cryptovault.sbs
 vault	cryptovaultinvest.com
 vault	ctfvault.info
 vault	customer-vault.com
@@ -3597,7 +3598,6 @@ vault	hypevaults.xyz
 vault	hypur-vault.xyz
 vault	hypurvaults.xyz
 vault	indigo-vaultex.com
-vault	institutional-vault.com
 solana	1coinofsolana.com
 solana	1dreamsolana.com
 solana	2025-breakpoint-solana.com
@@ -3850,7 +3850,6 @@ airdrop	airdrop-floki.live
 airdrop	airdrop-flt.info
 airdrop	airdrop-fogo.com
 airdrop	airdrop-football.fun
-airdrop	airdrop-foxy.com
 airdrop	airdrop-goldcoin.fun
 airdrop	airdrop-grass.info
 airdrop	airdrop-grass.xyz
@@ -3998,3 +3997,4 @@ airdrop	airdropatlas.live
 airdrop	airdropbase.org
 airdrop	airdropbot.pro
 airdrop	airdropcrypto.fun
+airdrop	airdropfree.app
