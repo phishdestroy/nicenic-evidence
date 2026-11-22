@@ -465,7 +465,9 @@ pas-gunceline-giris.icu
 pas-simdigirs-yap.icu
 pas-tek-adresim.icu
 pasha-new.icu
+pashabet.icu
 pashabeti.icu
+pashabetresmi.icu
 pashagaming-2026adres-tek.icu
 pashagaming-2026aktif.icu
 pashagaming-adresi-resmi.icu
