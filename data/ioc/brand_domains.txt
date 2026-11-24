@@ -45,7 +45,6 @@ official	abnormal-official.cyou
 official	abudhabigp26official.com
 official	abudhabigpf1official.com
 official	abudhabigpofficial.com
-official	adresimlofficial.vip
 official	aelfricedenofficial.org
 official	af-betgaranti-2026-official.cyou
 official	af-betgaranti-bahis-official.cyou
@@ -198,6 +197,7 @@ official	bet-official-giris2025.com
 official	bet-official2026.com
 official	bet-officialgiris2025.com
 official	bet-yeniofficial2025.com
+official	bet1-official2026.com
 login	1234loginteam.com
 login	13lgamelogin.com
 login	1login.digital
@@ -491,7 +491,6 @@ claim	bluaiclaims.com
 claim	bmoclaimsonline.com
 claim	bmoclaimsupport.com
 claim	boaclaimsonline.com
-claim	bondexclaim.sbs
 claim	bonus-claim.today
 claim	bonusclaimtoday.xyz
 claim	boundlessclaim.live
@@ -529,7 +528,6 @@ claim	circleclaim.com
 claim	citiclaimsonline.com
 claim	claim-1wintoken.live
 claim	claim-acedata.com
-claim	claim-addicted.fun
 claim	claim-aethir.app
 claim	claim-aftermath.com
 claim	claim-airdops.icu
@@ -598,6 +596,8 @@ claim	claim-catecoin.com
 claim	claim-cetus.zone
 claim	claim-cgeb-benefit.info
 claim	claim-chainopera.xyz
+claim	claim-chainoperaai.xyz
+claim	claim-cherry.info
 coinbase	002271-coinbase.com
 coinbase	002271coinbase.com
 coinbase	004925coinbase.com
@@ -672,7 +672,6 @@ coinbase	128738-coinbase.com
 coinbase	1290130coinbase.com
 coinbase	129322c-coinbase.com
 coinbase	129322coinbase.com
-coinbase	129521coinbase.com
 coinbase	129626coinbase.com
 coinbase	131048coinbase.com
 coinbase	133750-coinbase.com
@@ -736,7 +735,6 @@ coinbase	174803coinbase.com
 coinbase	175623coinbase.com
 coinbase	17583coinbase.com
 coinbase	177494coinbase.com
-coinbase	177954coinbase.com
 coinbase	17829coinbase.com
 coinbase	178955coinbase.com
 coinbase	179652coinbase.com
@@ -798,6 +796,8 @@ coinbase	209110coinbase.com
 coinbase	214622coinbase.com
 coinbase	214993coinbase.com
 coinbase	218412coinbase.com
+coinbase	218904coinbase.com
+coinbase	221493coinbase.com
 wallet	114229-wallet.com
 wallet	1amwallet.com
 wallet	1amwallet.xyz
@@ -886,6 +886,7 @@ wallet	baycwallet-pay.com
 wallet	baycwallet.net
 wallet	bel-dex-io-wallet.live
 wallet	beldexwallet.live
+wallet	best-hardware-wallets.info
 wallet	best-wallettoken.com
 wallet	bestowallet.com
 wallet	bestswalletokens.com
@@ -997,7 +998,6 @@ wallet	cakewalletnews.press
 wallet	cakewalletsdesktop.live
 wallet	cakewalletsdesktops.live
 wallet	card--trustwallet.com
-wallet	card-trustwallet.com
 secure	0nlinesecure.info
 secure	19023-secure.com
 secure	1secure-chase.com
@@ -1068,6 +1068,7 @@ secure	assetsecure.net
 secure	atb-secure.com
 secure	atbfinancialsecuredlink.com
 secure	auservice-portalviasecure.com
+secure	auservice-secureportal.com
 secure	auth-secure.info
 secure	auth-securebnklogln.com
 secure	authscotiabanksecure.com
@@ -1113,6 +1114,7 @@ secure	camrdennational-secure.info
 secure	canimpbcasecurepage.info
 secure	caterallensecure.com
 secure	cb-secure-recover.com
+secure	cb-secure-security.com
 secure	cdicsecure-prevention.com
 secure	cdicsecurelogin.com
 secure	cdicsecurelogin.info
@@ -1196,8 +1198,6 @@ secure	easywebsecureddevice.com
 secure	eba-secure.com
 secure	efactura-secure.com
 secure	ellipalsecured.com
-secure	enrollsecurebmo.com
-secure	enrollsecurecibc.com
 ledger	01-ledger.com
 ledger	0182778-ledger.com
 ledger	02-ledger.com
@@ -1364,7 +1364,6 @@ ledger	ashledgerco.com
 ledger	assess-ledger.com
 ledger	assistledger.com
 ledger	athabascaledger.info
-ledger	au-ledger.net
 ledger	auth01-ledger.app
 ledger	auth01-ledger.com
 ledger	auth03-ledger.app
@@ -1398,6 +1397,7 @@ ledger	blog-viewledger.com
 ledger	borealledger.live
 ledger	breach-ledger.com
 ledger	brightledgerhub.com
+ledger	brookledgerhub.com
 swap	0x0-token-swap.com
 swap	0xswaps.xyz
 swap	11amaswap.icu
@@ -1475,7 +1475,6 @@ swap	ayncswap.xyz
 swap	b1tswaper.icu
 swap	b1tswaper.info
 swap	b1tswaper.online
-swap	babydoge-swap.pro
 swap	babydogswap.com
 swap	babyswap.ink
 swap	base-uniswap.com
@@ -1532,7 +1531,6 @@ swap	cacaswap.app
 swap	caccaoswap.app
 swap	cacoaswap.app
 swap	cacoswap.app
-swap	cake-swap-v4.com
 swap	cal-swaps.com
 swap	calv-swaps.com
 swap	calvin-swaps.com
@@ -1598,6 +1596,8 @@ swap	cwoswap.pro
 swap	dai-swap.exchange
 swap	dailyswap.org
 swap	daoswap.homes
+swap	daoswap.run
+swap	daoswap.team
 support	029250-support.com
 support	0myidsupportdesk.live
 support	0nlinesupport.info
@@ -1878,7 +1878,6 @@ crypto	344234-crypto.com
 crypto	347901crypto.com
 crypto	352719-crypto.com
 crypto	352861crypto.com
-crypto	352916-crypto.com
 crypto	367194-crypto.com
 crypto	382741-crypto.com
 crypto	382741us-crypto.com
@@ -1998,6 +1997,7 @@ crypto	971527-crypto.com
 crypto	975100-crypto.com
 crypto	980100-crypto.com
 crypto	982379-crypto.com
+crypto	982742-crypto.com
 trust	1trusted.live
 trust	1win-trust2026.icu
 trust	1win-trustworthy.icu
@@ -2275,7 +2275,6 @@ connect	businessconnectsupport.com
 connect	bybit-connect.com
 connect	bybit-connectwallet.com
 connect	callbackconnection.xyz
-connect	captital-connection.cyou
 connect	casconnecter.com
 connect	casibom-connect.icu
 connect	cbc-businessconnect.com
@@ -2355,6 +2354,7 @@ connect	connect-center.net
 connect	connect-cocoon.com
 connect	connect-coinbase.com
 connect	connect-collab.land
+connect	connect-collabland.online
 connect	connect-dappsconnect.com
 connect	connect-defillama.com
 connect	connect-device-ledger.com
@@ -2817,6 +2817,7 @@ kraken	173822kraken.com
 kraken	17kraken.cc
 kraken	18288-kraken.com
 kraken	18473kraken.com
+kraken	1872361-kraken.com
 kraken	188432-kraken.com
 kraken	189281kraken.com
 kraken	192338kraken.com
@@ -2997,7 +2998,6 @@ kraken	kraken-2krn.vip
 kraken	kraken-309502.com
 kraken	kraken-328589.com
 kraken	kraken-64069.com
-kraken	kraken-account-help.com
 account	1win-2026bestaccount.com
 account	1win-account2026.com
 account	1win-accountbeast2026.com
@@ -3260,6 +3260,7 @@ verify	citisecureverify.com
 verify	clarity-act-verify.com
 verify	clarity-regulation-verify.com
 verify	clarity-verify.com
+verify	clearverify.live
 verify	coastal24verify.com
 verify	coinbase-verify.com
 verify	coinbasewebverify.com
@@ -3397,7 +3398,6 @@ verify	newresetsverify.com
 verify	nfcu-verify00743.support
 verify	nymcuverify.support
 verify	official-swap-verify.com
-verify	onchainverify.live
 vault	1password-vault.info
 vault	382741-coinbasevault.com
 vault	81914-vault-gemini.com
@@ -3714,7 +3714,6 @@ solana	chillbrosolana.com
 solana	chillneirosolana.xyz
 solana	chudjaksolana.com
 solana	citizenssolana.xyz
-solana	claim-skrsolana.com
 solana	claimerasolana.icu
 solana	claimerasolana.xyz
 solana	claims-solanamobile.live
@@ -3798,6 +3797,7 @@ solana	leiaonsolana.com
 solana	lobstarofsolana.com
 solana	lobstarsolana.com
 solana	lobstarsolana.net
+solana	lobstarwilde-solana.com
 airdrop	911airdrop.com
 airdrop	abstract-airdrop.xyz
 airdrop	ag-airdrop.app
