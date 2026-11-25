@@ -46,7 +46,7 @@
 
 <!-- LIVE_STATS:START -->
 
-> 🔴 **LIVE INVESTIGATION FEED** &middot; Auto-updated &middot; Last fetch `2026-11-24`
+> 🔴 **LIVE INVESTIGATION FEED** &middot; Auto-updated &middot; Last fetch `2026-11-25`
 
 <table align="center"><tr>
 <td align="center"><b>📦 Domains tracked</b><br/><strong>389,356</strong></td>
@@ -55,7 +55,7 @@
 <td align="center"><b>📡 Deployed</b><br/><strong>38.9%</strong></td>
 <td align="center"><b>✅ IOC classified</b><br/><strong>71,028</strong> (65,600 HIGH)</td>
 </tr><tr>
-<td align="center"><b>⚡ Registered ≤7d</b><br/><strong>1.3%</strong></td>
+<td align="center"><b>⚡ Registered ≤7d</b><br/><strong>1.0%</strong></td>
 <td align="center"><b>🕵️ Serial regs</b><br/><strong>110</strong></td>
 </tr></table>
 
@@ -102,7 +102,7 @@ TR  █░░░░░░░░░░░░░░░░░        645 (2.7%)
 
 ### 🎯 Top Targeted Brands & Keywords
 
-`official (2,587)` &middot; `login (1,866)` &middot; `claim (1,746)` &middot; `coinbase (1,657)` &middot; `wallet (1,619)` &middot; `secure (1,261)` &middot; `ledger (1,150)` &middot; `support (1,122)` &middot; `swap (1,122)` &middot; `crypto (1,111)` &middot; `trust (1,085)` &middot; `connect (1,062)` &middot; `token (1,044)` &middot; `update (1,026)` &middot; `kraken (859)`
+`official (2,587)` &middot; `login (1,866)` &middot; `claim (1,746)` &middot; `coinbase (1,657)` &middot; `wallet (1,619)` &middot; `secure (1,261)` &middot; `ledger (1,150)` &middot; `swap (1,122)` &middot; `support (1,122)` &middot; `crypto (1,111)` &middot; `trust (1,085)` &middot; `connect (1,062)` &middot; `token (1,044)` &middot; `update (1,026)` &middot; `kraken (859)`
 
 ### 🕵️ Top Serial Registrants — 50 emails with ≥5 domains
 

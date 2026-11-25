@@ -34359,7 +34359,7 @@
   ],
   "total_new_all_time": 525892,
   "total_domains": 389356,
-  "new_since_last_fetch": 1079,
+  "new_since_last_fetch": 0,
   "fetch_log": [
     {
       "date": "2026-11-01",
@@ -34715,12 +34715,12 @@
   },
   "catch_age_buckets": {
     "same_day": 0,
-    "within_week": 4882,
-    "within_month": 22232,
-    "older": 362242
+    "within_week": 3983,
+    "within_month": 22485,
+    "older": 362888
   },
-  "avg_catch_age_days": 295,
-  "fresh_pct": 1.3,
+  "avg_catch_age_days": 296,
+  "fresh_pct": 1.0,
   "burst_days": [
     {
       "date": "2026-11-04",
@@ -34816,8 +34816,8 @@
     "wallet": 1619,
     "secure": 1261,
     "ledger": 1150,
-    "support": 1122,
     "swap": 1122,
+    "support": 1122,
     "crypto": 1111,
     "trust": 1085,
     "connect": 1062,
@@ -34834,6 +34834,6 @@
   "ranked_count": 1567,
   "correlation_count": 23634,
   "correlation_pct": 6.1,
-  "last_updated": "2026-11-24",
+  "last_updated": "2026-11-25",
   "latest_reg": "2026-11-23"
 }
