@@ -386,6 +386,7 @@ mega-moriarti.cc
 mega-sayt.cc
 mega-ssylka.cc
 mega-zerkalo.cc
+mega2-0.cc
 megaa-sb.cc
 megaasb.cc
 megafo.cc

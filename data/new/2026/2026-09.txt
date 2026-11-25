@@ -7830,6 +7830,7 @@ checker-inkonchain.live
 checker-jumper.app
 checker-jumper.finance
 checker-jumper.lat
+checker-jumper.live
 checker-jumper.pro
 checker-jumper.xyz
 checker-loopscale.com
