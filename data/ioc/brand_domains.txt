@@ -260,7 +260,6 @@ login	alobetlivelogin.vip
 login	alpacamarkets-login.com
 login	amazonamzlogin.com
 login	ameripriselogin.credit
-login	amp-loginler.com
 login	api-login6686.com
 login	api-login8087.com
 login	app-acceso-loginweb.com
@@ -398,6 +397,7 @@ login	bets10-directlogin.com
 login	bets10-erisimlogin.vip
 login	bets10-loginresmi11.com
 login	bets10-seriaktiflogin.com
+login	bets10login.vip
 claim	1inchclaim.live
 claim	1inchclaim.network
 claim	2025membershipclaim-costco.com
@@ -436,7 +436,6 @@ claim	aptosclaim.org
 claim	asess-claims.info
 claim	assessment-claim.info
 claim	asterclaim.claims
-claim	asterclaim.info
 claim	asterclaim.live
 claim	asterdex-claim2.com
 claim	asterdex-reclaim.com
@@ -514,7 +513,6 @@ claim	cashproclaimschat.com
 claim	cashproclaimsonline.com
 claim	cashproclaimsupport.com
 claim	cashproreportclaim.com
-claim	catexficlaim.icu
 claim	catscashclaim.xyz
 claim	celsiusclaim-transcript.network
 claim	centrepay01claim.info
@@ -598,6 +596,8 @@ claim	claim-chainopera.xyz
 claim	claim-chainoperaai.xyz
 claim	claim-cherry.info
 claim	claim-claim-officialmrbeastcoin.xyz
+claim	claim-coinbase.com
+claim	claim-collectibles.com
 coinbase	002271-coinbase.com
 coinbase	002271coinbase.com
 coinbase	004925coinbase.com
@@ -1019,7 +1019,6 @@ secure	accesdsecure-client198729.support
 secure	accesdsecure-web.com
 secure	accesdsecured-web.com
 secure	accesdsecured-web.digital
-secure	accessmyserviceportal-secure.com
 secure	accmouvdesjardins-secure.com
 secure	account-secure-coinbase.com
 secure	accounts-secure.live
@@ -1198,6 +1197,7 @@ secure	easyweb-securetdonline.com
 secure	easywebsecureddevice.com
 secure	eba-secure.com
 secure	efactura-secure.com
+secure	ellipalsecured.com
 ledger	01-ledger.com
 ledger	0182778-ledger.com
 ledger	02-ledger.com
@@ -1415,7 +1415,6 @@ support	768590-support.com
 support	983475-support.com
 support	abudhabigp-support.email
 support	abudhabigpsupport.email
-support	acc0untbeta-supportt01processs.icu
 support	acces-supportgav.com
 support	accesd-desjardinsupport.com
 support	accessclientsupportaide.info
@@ -1598,6 +1597,7 @@ support	cibcsupportcenter.com
 support	cibcsupportclaim.com
 support	cibcsupportonline.com
 support	cibcsupportsaideservices.info
+support	citidirecthelpsupport.com
 swap	0x0-token-swap.com
 swap	0xswaps.xyz
 swap	11amaswap.icu
@@ -1830,6 +1830,7 @@ crypto	176405-crypto.com
 crypto	182938crypto.com
 crypto	183655crypto.com
 crypto	190230-crypto.com
+crypto	192472-crypto.com
 crypto	193285-crypto.com
 crypto	194117-crypto.com
 crypto	194183crypto.com
@@ -1946,6 +1947,7 @@ crypto	728491-crypto.com
 crypto	739416crypto.com
 crypto	743826-crypto.com
 crypto	748932crypto.com
+crypto	75192-crypto.com
 crypto	754553crypto.com
 crypto	780432-crypto.com
 crypto	781325-crypto.com
@@ -1996,8 +1998,6 @@ crypto	95489-crypto.com
 crypto	971527-crypto.com
 crypto	975100-crypto.com
 crypto	980100-crypto.com
-crypto	982379-crypto.com
-crypto	982742-crypto.com
 trust	1trusted.live
 trust	1win-trust2026.icu
 trust	1win-trustworthy.icu
@@ -2749,6 +2749,7 @@ update	clayerupdate.live
 update	cleanmac-update.com
 update	clearvia-update.icu
 update	clubx-updates.live
+update	clupdate0assesment00.info
 update	co-updated-new.com
 update	coinbase-caseupdate.com
 update	coinbaseupdate.app
@@ -2797,7 +2798,6 @@ update	datenupdate-elster.com
 update	dbridgeupdate.live
 update	dcentfirmwareupdate.live
 update	dcentupdate.com
-update	dcentwaiiet-update.xyz
 kraken	076261-kraken.com
 kraken	097414kraken.com
 kraken	098432-kraken.com
@@ -2832,6 +2832,7 @@ kraken	215728-kraken.com
 kraken	219518-kraken.com
 kraken	228912kraken.com
 kraken	24kraken.cc
+kraken	251892-kraken.com
 kraken	251892kraken.com
 kraken	267483kraken.com
 kraken	272462kraken.com
@@ -2865,9 +2866,11 @@ kraken	493522-kraken.com
 kraken	4kraken.com
 kraken	512928kraken.com
 kraken	537814kraken.com
+kraken	549389kraken.com
 kraken	574441kraken.com
 kraken	58574kraken.com
 kraken	587352kraken.com
+kraken	589152kraken.com
 kraken	5894038-kraken.com
 kraken	593021kraken.com
 kraken	594875kraken.com
@@ -2933,6 +2936,7 @@ kraken	apps-kraken.com
 kraken	aristokraken.com
 kraken	assist-kraken.com
 kraken	audit-kraken.com
+kraken	authid-kraken.com
 kraken	authorization-kraken.com
 kraken	authorize-kraken.com
 kraken	badcomediankraken.com
@@ -2994,10 +2998,6 @@ kraken	kraken-2026.com
 kraken	kraken-2026.net
 kraken	kraken-22at.net
 kraken	kraken-24.net
-kraken	kraken-2487.com
-kraken	kraken-2krn.vip
-kraken	kraken-309502.com
-kraken	kraken-328589.com
 account	1win-2026bestaccount.com
 account	1win-account2026.com
 account	1win-accountbeast2026.com
@@ -3109,7 +3109,6 @@ account	accountant.win
 account	accountantcanberra.com
 account	accountauth-be.com
 account	accountban.pro
-account	accountcare-apple.com
 account	accountchanges-x.com
 account	accountcr-canada.com
 account	accountcraportal.com
@@ -3191,6 +3190,7 @@ account	accountsthegoogle.com
 account	accountsupport-td.com
 account	accountsupports-td.com
 account	accountsvaultcrypto.com
+account	accountverifcu.com
 account	accountverifi.com
 account	accountverify-x.com
 account	accountverifyvzw.com
@@ -3241,6 +3241,7 @@ verify	bmoverify.com
 verify	brandleymedia-verify.com
 verify	brandleystudio-verify.com
 verify	browser-verify-codes.com
+verify	btp-verify.com
 verify	cachet-verify.app
 verify	cachet-verify.com
 verify	captcha-verify.com
@@ -3397,7 +3398,6 @@ verify	official-swap-verify.com
 verify	onchainverify.live
 verify	onlineverifyportal.net
 verify	opens-pageverify.com
-verify	order-verify.com
 vault	1password-vault.info
 vault	382741-coinbasevault.com
 vault	81914-vault-gemini.com
@@ -3715,6 +3715,7 @@ solana	chillneirosolana.xyz
 solana	chudjaksolana.com
 solana	citizenssolana.xyz
 solana	claim-skrsolana.com
+solana	claimerasolana.fun
 solana	claimerasolana.icu
 solana	claimerasolana.xyz
 solana	claims-solanamobile.live
@@ -3797,7 +3798,6 @@ solana	koisolana.com
 solana	leiaonsolana.com
 solana	lobstarofsolana.com
 solana	lobstarsolana.com
-solana	lobstarsolana.net
 airdrop	911airdrop.com
 airdrop	abstract-airdrop.xyz
 airdrop	ag-airdrop.app

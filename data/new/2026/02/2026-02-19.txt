@@ -940,6 +940,7 @@ slon38.xyz
 slon39.xyz
 slon4-at.cc
 slon4-cc.cc
+slon4-market.cc
 slon4.cfd
 slon4.ltd
 slon4.xyz
@@ -953,6 +954,7 @@ slon46.xyz
 slon47.xyz
 slon48.xyz
 slon49.xyz
+slon4market.cc
 slon5-at.cc
 slon5-cc.cc
 slon5.cfd
