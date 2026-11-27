@@ -49,14 +49,14 @@
 > 🔴 **LIVE INVESTIGATION FEED** &middot; Auto-updated &middot; Last fetch `2026-11-27`
 
 <table align="center"><tr>
-<td align="center"><b>📦 Domains tracked</b><br/><strong>389,867</strong></td>
-<td align="center"><b>💰 Est. annual value</b><br/><strong>$2,763,619</strong></td>
+<td align="center"><b>📦 Domains tracked</b><br/><strong>390,715</strong></td>
+<td align="center"><b>💰 Est. annual value</b><br/><strong>$2,769,569</strong></td>
 </tr><tr>
 <td align="center"><b>📡 Deployed</b><br/><strong>38.9%</strong></td>
 <td align="center"><b>✅ IOC classified</b><br/><strong>71,028</strong> (65,600 HIGH)</td>
 </tr><tr>
-<td align="center"><b>⚡ Registered ≤7d</b><br/><strong>1.0%</strong></td>
-<td align="center"><b>🕵️ Serial regs</b><br/><strong>112</strong></td>
+<td align="center"><b>⚡ Registered ≤7d</b><br/><strong>1.3%</strong></td>
+<td align="center"><b>🕵️ Serial regs</b><br/><strong>107</strong></td>
 </tr></table>
 
 <details>
@@ -66,58 +66,58 @@
 
 | TLD | Count | Avg reg→expiry | Est. annual value |
 |:--|--:|--:|--:|
-| `.com` | 178,743 | 582d | $1,606,900 |
-| `.icu` | 41,932 | 371d | $41,513 |
-| `.vip` | 29,661 | 376d | $148,008 |
-| `.xyz` | 18,352 | 402d | $27,344 |
-| `.net` | 13,523 | 703d | $135,095 |
-| `.live` | 13,182 | 397d | $131,688 |
-| `.sbs` | 11,932 | 392d | $59,541 |
-| `.info` | 11,576 | 411d | $46,188 |
-| `.cfd` | 9,767 | 423d | $48,737 |
-| `.pro` | 9,356 | 390d | $74,754 |
+| `.com` | 179,233 | 582d | $1,611,305 |
+| `.icu` | 41,960 | 370d | $41,540 |
+| `.vip` | 29,622 | 376d | $147,814 |
+| `.xyz` | 18,515 | 403d | $27,587 |
+| `.net` | 13,541 | 703d | $135,275 |
+| `.live` | 13,161 | 396d | $131,478 |
+| `.sbs` | 12,036 | 388d | $60,060 |
+| `.info` | 11,559 | 409d | $46,120 |
+| `.cfd` | 9,736 | 424d | $48,583 |
+| `.pro` | 9,399 | 389d | $75,098 |
 
 ### 🌍 Top Hosting Countries
 
 ```
-US  ██████████████████      7,062 (29.6%)
-NL  █████████░░░░░░░░░      3,540 (14.8%)
-DE  ██████░░░░░░░░░░░░      2,490 (10.4%)
-CN  ██░░░░░░░░░░░░░░░░      1,032 (4.3%)
-RU  ██░░░░░░░░░░░░░░░░        958 (4.0%)
-SE  ██░░░░░░░░░░░░░░░░        904 (3.8%)
-HK  ██░░░░░░░░░░░░░░░░        800 (3.3%)
-TR  █░░░░░░░░░░░░░░░░░        650 (2.7%)
+US  ██████████████████      7,035 (29.4%)
+NL  █████████░░░░░░░░░      3,593 (15.0%)
+DE  ██████░░░░░░░░░░░░      2,479 (10.4%)
+CN  ██░░░░░░░░░░░░░░░░      1,039 (4.3%)
+RU  ██░░░░░░░░░░░░░░░░        984 (4.1%)
+SE  ██░░░░░░░░░░░░░░░░        907 (3.8%)
+HK  ██░░░░░░░░░░░░░░░░        803 (3.4%)
+TR  █░░░░░░░░░░░░░░░░░        657 (2.7%)
 ```
 
 ### 📈 Registration Burst Days
 
 | Date | Domains | × Average |
 |:--|--:|--:|
-| `2026-11-04` | 1,848 | **25.9×** 🚨 |
+| `2026-11-04` | 1,848 | **25.8×** 🚨 |
 | `2026-10-07` | 1,844 | **25.8×** 🚨 |
 | `2026-09-16` | 1,810 | **25.3×** 🚨 |
-| `2026-10-12` | 1,741 | **24.4×** 🚨 |
-| `2026-10-08` | 1,593 | **22.3×** 🚨 |
+| `2026-10-12` | 1,742 | **24.4×** 🚨 |
+| `2026-10-08` | 1,594 | **22.3×** 🚨 |
 
 ### 🎯 Top Targeted Brands & Keywords
 
-`official (2,588)` &middot; `login (1,869)` &middot; `claim (1,741)` &middot; `coinbase (1,663)` &middot; `wallet (1,625)` &middot; `secure (1,276)` &middot; `ledger (1,152)` &middot; `support (1,127)` &middot; `swap (1,124)` &middot; `crypto (1,111)` &middot; `trust (1,093)` &middot; `connect (1,070)` &middot; `token (1,038)` &middot; `update (1,033)` &middot; `kraken (858)`
+`official (2,577)` &middot; `login (1,869)` &middot; `claim (1,743)` &middot; `coinbase (1,662)` &middot; `wallet (1,625)` &middot; `secure (1,273)` &middot; `ledger (1,141)` &middot; `support (1,130)` &middot; `swap (1,122)` &middot; `crypto (1,114)` &middot; `trust (1,092)` &middot; `connect (1,071)` &middot; `update (1,037)` &middot; `token (1,036)` &middot; `kraken (857)`
 
 ### 🕵️ Top Serial Registrants — 50 emails with ≥5 domains
 
 | # | Registrant Email (redacted) | Domains |
 |--:|:--|--:|
-| 1 | `inf***@stroykatalog.ru` | **110** |
+| 1 | `inf***@stroykatalog.ru` | **111** |
 | 2 | `sup***@mostbet.com` | **52** |
 | 3 | `i***@mostbet.com` | **45** |
-| 4 | `sup***@1win.social` | **44** |
+| 4 | `sup***@1win.social` | **45** |
 | 5 | `sup***@anonymixer.com` | **39** |
-| 6 | `con***@57northhills.com` | **34** |
-| 7 | `sup***@winshark.com` | **33** |
-| 8 | `com***@gaminglicences.com` | **31** |
-| 9 | `sup***@lizaro.com` | **30** |
-| 10 | `sup***@coincraddle.com` | **30** |
+| 6 | `con***@57northhills.com` | **37** |
+| 7 | `sup***@winshark.com` | **34** |
+| 8 | `com***@gaminglicences.com` | **32** |
+| 9 | `sup***@coincraddle.com` | **30** |
+| 10 | `sup***@zomro.com` | **29** |
 
 ### 📥 Download Threat Intelligence
 
