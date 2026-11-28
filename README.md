@@ -46,7 +46,7 @@
 
 <!-- LIVE_STATS:START -->
 
-> 🔴 **LIVE INVESTIGATION FEED** &middot; Auto-updated &middot; Last fetch `2026-11-27`
+> 🔴 **LIVE INVESTIGATION FEED** &middot; Auto-updated &middot; Last fetch `2026-11-28`
 
 <table align="center"><tr>
 <td align="center"><b>📦 Domains tracked</b><br/><strong>390,715</strong></td>
@@ -55,7 +55,7 @@
 <td align="center"><b>📡 Deployed</b><br/><strong>38.9%</strong></td>
 <td align="center"><b>✅ IOC classified</b><br/><strong>71,028</strong> (65,600 HIGH)</td>
 </tr><tr>
-<td align="center"><b>⚡ Registered ≤7d</b><br/><strong>1.3%</strong></td>
+<td align="center"><b>⚡ Registered ≤7d</b><br/><strong>1.1%</strong></td>
 <td align="center"><b>🕵️ Serial regs</b><br/><strong>107</strong></td>
 </tr></table>
 
